@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/bluesky.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbid2cvbvs2z",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbid2cvbvs2z",
+      "content_text": "コメダモーニング、無料ということに毎度気づいていない気がする",
+      "date_published": "2026-01-03T02:04:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbdqt7lgjs2x",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbdqt7lgjs2x",
       "content_text": "ちかくの神社、15分ぐらいかなぁと思って並んだけどぜんぜんそんなことなかった。1時間弱並んでいるがまだ列がある",
@@ -177,12 +183,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3lb7n7cwpkk2i",
       "content_text": "スタッドレスの検討をしている",
       "date_published": "2024-11-18T09:46:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3law7nfknv22v",
-      "url": "https://bsky.app/profile/yammer.jp/post/3law7nfknv22v",
-      "content_text": "結局いっかげつくらい証明書切れたの放置してしまっているや、なおさねば",
-      "date_published": "2024-11-14T15:49:00.000Z"
     }
   ]
 }

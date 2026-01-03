@@ -5,6 +5,20 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/VvdW7f7gry6dPe34VSgxRH",
+      "url": "https://usememos.yammer.jp/m/VvdW7f7gry6dPe34VSgxRH",
+      "content_text": "<p>個人サイトは盆栽</p>",
+      "date_published": "2026-01-03T02:05:43.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbid2cvbvs2z",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbid2cvbvs2z",
+      "content_text": "コメダモーニング、無料ということに毎度気づいていない気がする",
+      "date_published": "2026-01-03T02:04:00.000Z",
+      "source": "bluesky"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/NJMgNkA7U7ckLG6c6dsDZ8",
       "url": "https://usememos.yammer.jp/m/NJMgNkA7U7ckLG6c6dsDZ8",
       "content_text": "<p>ガチアクタ、一気見した</p>",
@@ -1055,13 +1069,6 @@
       "source": "twitter"
     },
     {
-      "id": "https://usememos.yammer.jp/m/MwpV2jFtKCmMjvG9a2d5zq",
-      "url": "https://usememos.yammer.jp/m/MwpV2jFtKCmMjvG9a2d5zq",
-      "content_text": "<p>撤退しやすい場所で実験する</p>",
-      "date_published": "2025-06-15T07:40:30.000Z",
-      "source": "memos"
-    },
-    {
       "id": "1933163212918403524",
       "url": "https://x.com/yammerjp/status/1933163212918403524",
       "content_text": "あらゆるAI課金をやめて、課金枠をClaude MaxでClaude Codeに全振り",
@@ -1262,13 +1269,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3lb7n7cwpkk2i",
       "content_text": "スタッドレスの検討をしている",
       "date_published": "2024-11-18T09:46:00.000Z",
-      "source": "bluesky"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3law7nfknv22v",
-      "url": "https://bsky.app/profile/yammer.jp/post/3law7nfknv22v",
-      "content_text": "結局いっかげつくらい証明書切れたの放置してしまっているや、なおさねば",
-      "date_published": "2024-11-14T15:49:00.000Z",
       "source": "bluesky"
     }
   ]

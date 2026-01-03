@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/memos.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/VvdW7f7gry6dPe34VSgxRH",
+      "url": "https://usememos.yammer.jp/m/VvdW7f7gry6dPe34VSgxRH",
+      "content_text": "<p>個人サイトは盆栽</p>",
+      "date_published": "2026-01-03T02:05:43.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/NJMgNkA7U7ckLG6c6dsDZ8",
       "url": "https://usememos.yammer.jp/m/NJMgNkA7U7ckLG6c6dsDZ8",
       "content_text": "<p>ガチアクタ、一気見した</p>",
@@ -597,12 +603,6 @@
       "url": "https://usememos.yammer.jp/m/ALoLhsGtuw74EbPuTCvcJW",
       "content_text": "<p>ラーメンくって帰る！</p>",
       "date_published": "2025-06-23T14:30:41.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/MwpV2jFtKCmMjvG9a2d5zq",
-      "url": "https://usememos.yammer.jp/m/MwpV2jFtKCmMjvG9a2d5zq",
-      "content_text": "<p>撤退しやすい場所で実験する</p>",
-      "date_published": "2025-06-15T07:40:30.000Z"
     }
   ]
 }

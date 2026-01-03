@@ -5,6 +5,22 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>&lt;p&gt;個人サイトは盆栽&lt;/p&gt;</title>
+      <link>https://usememos.yammer.jp/m/VvdW7f7gry6dPe34VSgxRH</link>
+      <description>&lt;p&gt;個人サイトは盆栽&lt;/p&gt;</description>
+      <guid>https://usememos.yammer.jp/m/VvdW7f7gry6dPe34VSgxRH</guid>
+      <pubDate>Sat, 03 Jan 2026 02:05:43 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>コメダモーニング、無料ということに毎度気づいていない気がする</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mbid2cvbvs2z</link>
+      <description>コメダモーニング、無料ということに毎度気づいていない気がする</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbid2cvbvs2z</guid>
+      <pubDate>Sat, 03 Jan 2026 02:04:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>&lt;p&gt;ガチアクタ、一気見した&lt;/p&gt;</title>
       <link>https://usememos.yammer.jp/m/NJMgNkA7U7ckLG6c6dsDZ8</link>
       <description>&lt;p&gt;ガチアクタ、一気見した&lt;/p&gt;</description>
@@ -1239,14 +1255,6 @@ fortee.jp/phpcon-2025/pr…
       <source>twitter</source>
     </item>
     <item>
-      <title>&lt;p&gt;撤退しやすい場所で実験する&lt;/p&gt;</title>
-      <link>https://usememos.yammer.jp/m/MwpV2jFtKCmMjvG9a2d5zq</link>
-      <description>&lt;p&gt;撤退しやすい場所で実験する&lt;/p&gt;</description>
-      <guid>https://usememos.yammer.jp/m/MwpV2jFtKCmMjvG9a2d5zq</guid>
-      <pubDate>Sun, 15 Jun 2025 07:40:30 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
       <title>あらゆるAI課金をやめて、課金枠をClaude MaxでClaude Codeに全振り</title>
       <link>https://x.com/yammerjp/status/1933163212918403524</link>
       <description>あらゆるAI課金をやめて、課金枠をClaude MaxでClaude Codeに全振り</description>
@@ -1488,14 +1496,6 @@ https://gist.github.com/yammerjp/68dfa8ca6b2fc003618246554b2033d7#file-gen-sql-i
       <description>スタッドレスの検討をしている</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7n7cwpkk2i</guid>
       <pubDate>Mon, 18 Nov 2024 09:46:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>結局いっかげつくらい証明書切れたの放置してしまっているや、なおさねば</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3law7nfknv22v</link>
-      <description>結局いっかげつくらい証明書切れたの放置してしまっているや、なおさねば</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3law7nfknv22v</guid>
-      <pubDate>Thu, 14 Nov 2024 15:49:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
   </channel>
