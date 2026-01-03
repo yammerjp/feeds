@@ -1,0 +1,21 @@
+{
+  "name": "yammerjp-feed",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "fetch-twilog": "npx tsx src/cli/fetch-twilog.ts",
+    "build": "npx tsx src/cli/build-feed.ts",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "jsdom": "^26.0.0",
+    "playwright": "^1.57.0"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.7",
+    "@types/node": "^25.0.3",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "vitest": "^3.0.0"
+  }
+}

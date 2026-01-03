@@ -1,0 +1,1275 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "yammer's microblog",
+  "home_page_url": "https://yammer.jp",
+  "feed_url": "https://yammerjp.github.io/feed/microblog/all.json",
+  "items": [
+    {
+      "id": "https://usememos.yammer.jp/m/NJMgNkA7U7ckLG6c6dsDZ8",
+      "url": "https://usememos.yammer.jp/m/NJMgNkA7U7ckLG6c6dsDZ8",
+      "content_text": "<p>ガチアクタ、一気見した</p>",
+      "date_published": "2026-01-02T13:10:28.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbdqt7lgjs2x",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbdqt7lgjs2x",
+      "content_text": "ちかくの神社、15分ぐらいかなぁと思って並んだけどぜんぜんそんなことなかった。1時間弱並んでいるがまだ列がある",
+      "date_published": "2026-01-01T06:28:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/T6PDjWrKrHuspxuVBTfa9D",
+      "url": "https://usememos.yammer.jp/m/T6PDjWrKrHuspxuVBTfa9D",
+      "content_text": "<p>ふーんなるほどね</p><p><a href=\"https://git-wrapped.com/profiles/yammerjp\">https://git-wrapped.com/profiles/yammerjp</a></p>",
+      "date_published": "2026-01-01T03:10:39.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/ZpMCsZJnK6HBj8q6eWFyXr",
+      "url": "https://usememos.yammer.jp/m/ZpMCsZJnK6HBj8q6eWFyXr",
+      "content_text": "<p>なやましいときにはなやましいと言う。さらっと言う</p>",
+      "date_published": "2026-01-01T01:17:45.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/PLxmnhV3LRVG3RAJj4XR8d",
+      "url": "https://usememos.yammer.jp/m/PLxmnhV3LRVG3RAJj4XR8d",
+      "content_text": "<p>途中から見たので、アリアリ〜のネタ見れなかった</p>",
+      "date_published": "2025-12-31T17:00:45.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "2006383701727535178",
+      "url": "https://x.com/yammerjp/status/2006383701727535178",
+      "content_text": "Twitter生活15年目、きづけば人生の半分をここで過ごしている",
+      "date_published": "2026-01-01T00:15:25+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbc5kr75j22s",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbc5kr75j22s",
+      "content_text": "awkblog、なんか502が多かったりして少し不安定かも。AI前時代の手書きコードでできているので、いろいろ手を入れればやれることも増えていそうだし久々に触るか (ただし日記アプリを片付けてから",
+      "date_published": "2025-12-31T15:10:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbc54d6utc2s",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbc54d6utc2s",
+      "content_text": "2025年、Claude Codeの年\nhttps://awkblog.net/@yammerjp/posts/35",
+      "date_published": "2025-12-31T15:02:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbbhah442k23",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbbhah442k23",
+      "content_text": "起きてすぐ外に出ないと面倒で夜になってしまう、せっかく今日は昼間ランニング日和だったのに",
+      "date_published": "2025-12-31T08:31:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb6pqdkwl226",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mb6pqdkwl226",
+      "content_text": "天気が良すぎる、この天気活かしたい！回転寿司行く以外で活かしたい",
+      "date_published": "2025-12-30T06:25:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb4x7wwk7227",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mb4x7wwk7227",
+      "content_text": "日記のアプリをReact Nativeに作り始めたのだが、端末間同期とストレージがなやましい。\n\nながくデータをもち続けることを考えると、最終的にGitリポジトリに取り込みたい。ただ、conflictの解消などの複雑な概念は持ち込みたくない。単にlinerで過去のものが残っていて戻せれば十分なので、そんなにセンシティブにならなくても良いのだけど。\n\n履歴の管理といえば、Simple NoteのUIが非常によくできていてとても好き。でもCLIやAPIがなくて、結局データが閉じ込められてしまうのが結構困るので使うのをやめてしまっている。ノートアプリも日記アプリも、安住の地はどこへやら。",
+      "date_published": "2025-12-29T13:34:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb4ubj7a7227",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mb4ubj7a7227",
+      "content_text": "東横線1時間以上各停の旅。これも年末だからなんでもよいということで楽しめる",
+      "date_published": "2025-12-29T12:41:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb3vxjsek22g",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mb3vxjsek22g",
+      "content_text": "iCloudを使うアプリを作ろうとすると、公開するかに関わらずApple Developer Programが必要っぽい。ものは試しで申し込んでみた。\n\nいまは本人確認でのパスポート撮影をやって審査待ち。macOSのApple Developerアプリからやると上下左右が認識できないのか何度もやり直しになったが、iPhoneにApple Developerアプリを入れるとすんなりと先に進んだ。",
+      "date_published": "2025-12-29T03:38:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb3pggmg4s2g",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mb3pggmg4s2g",
+      "content_text": "さいきんはiOSよりもAndroidのほうが、個人開発者としてアプリ出すのむずかしいのか。なにも知らなかった。住所の公開とクローズドテストのハードルを超えるのに、バーチャルオフィスを契約して個人事業主になるのがお手軽(ほんまか？)ぽい。",
+      "date_published": "2025-12-29T01:41:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/EXsbtfqz83CroshdHN38D3",
+      "url": "https://usememos.yammer.jp/m/EXsbtfqz83CroshdHN38D3",
+      "content_text": "<p>よかった</p><p><a href=\"https://note.com/takkyy07/n/nf6976775ddf9\">https://note.com/takkyy07/n/nf6976775ddf9</a></p><br><p>自分は事業責任者じゃないけど、今のポジションになってやっていくにあたって自分が学んだ捉え方に近いものが言語化されていて「このように言い表すことができるのか」と。表現はシンプルだけれども、うまく言い表せていなかったことがいくつか書いてあって学びになった。</p>",
+      "date_published": "2025-12-22T23:20:57.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/cZqvj5x3PnphpvbE6Jaq3f",
+      "url": "https://usememos.yammer.jp/m/cZqvj5x3PnphpvbE6Jaq3f",
+      "content_text": "<p>最寄りの出口のエスカレーターに人が並んでいて、この家に引っ越してからほぼこのピークの時間に帰ったことがないということがわかった</p>",
+      "date_published": "2025-12-19T10:48:14.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/7a5vfNWeLP2ForYHWTy7qK",
+      "url": "https://usememos.yammer.jp/m/7a5vfNWeLP2ForYHWTy7qK",
+      "content_text": "<p>これはどうじゃろか</p>",
+      "date_published": "2025-12-09T15:41:54.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/bPS9TUMTa6VHS3qsG8jg8n",
+      "url": "https://usememos.yammer.jp/m/bPS9TUMTa6VHS3qsG8jg8n",
+      "content_text": "<p>どうじゃろか</p>",
+      "date_published": "2025-12-09T15:31:11.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/XB6MbV4kxXAvSU4Uad48qM",
+      "url": "https://usememos.yammer.jp/m/XB6MbV4kxXAvSU4Uad48qM",
+      "content_text": "<p>睡眠不足で体調がおわってしまったので昨夜は良く寝て回復。今週は失敗。</p>",
+      "date_published": "2025-12-05T00:50:53.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m777whb7j22g",
+      "url": "https://bsky.app/profile/yammer.jp/post/3m777whb7j22g",
+      "content_text": "ふん、Bun というのかい。贅沢な名だね。今からお前の名前はブンだ。いいかい、ブンだよ",
+      "date_published": "2025-12-05T00:24:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/3U9M6mbYJ9eVyQMbtixZ9C",
+      "url": "https://usememos.yammer.jp/m/3U9M6mbYJ9eVyQMbtixZ9C",
+      "content_text": "<p>食糧難！</p>",
+      "date_published": "2025-12-03T15:23:47.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/d7VXMmmvkvKi4NKZ2j4L7k",
+      "url": "https://usememos.yammer.jp/m/d7VXMmmvkvKi4NKZ2j4L7k",
+      "content_text": "<p>結構疲れてきた感覚がある</p>",
+      "date_published": "2025-12-03T15:00:01.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/k6vD3ZWNmSib6yThbK2aDC",
+      "url": "https://usememos.yammer.jp/m/k6vD3ZWNmSib6yThbK2aDC",
+      "content_text": "<p>microcloudに興味出てきた</p>",
+      "date_published": "2025-11-22T08:34:50.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/ZGeVxfTQ3GVWfTdaRYc85k",
+      "url": "https://usememos.yammer.jp/m/ZGeVxfTQ3GVWfTdaRYc85k",
+      "content_text": "<p>frankenPHP、cgoで、ランタイム自体はphp-src使っているのか、それでパフォーマンスの差そんなに出るんだな</p>",
+      "date_published": "2025-11-19T14:10:09.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/JQP7QrigpZfriZDRPKg3bb",
+      "url": "https://usememos.yammer.jp/m/JQP7QrigpZfriZDRPKg3bb",
+      "content_text": "<p>今どき珍しいかっ飛ばし個人タクシー、クレカ不可PayPayか現金のみ、自由でおもろかった。困る人いそう</p>",
+      "date_published": "2025-11-18T15:57:49.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/GZn5xvKQgR7cY44gqqPwcX",
+      "url": "https://usememos.yammer.jp/m/GZn5xvKQgR7cY44gqqPwcX",
+      "content_text": "<p>AIっぽい文章やAIっぽいコードがあると目を滑らせて自然とスクロールしてしまうが、その違和感をうまく言語化しないと、手で書く以外で改善できないことになってしまうな</p>",
+      "date_published": "2025-11-18T00:53:16.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/nrLHUDPBNTb56LqoAyC5Gy",
+      "url": "https://usememos.yammer.jp/m/nrLHUDPBNTb56LqoAyC5Gy",
+      "content_text": "<p>風邪をひいて一回やすみ。音楽を聴いて元気出て一歩進む</p>",
+      "date_published": "2025-11-17T13:30:31.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/UC2Aq8zAuN9tHDvf6Gi87s",
+      "url": "https://usememos.yammer.jp/m/UC2Aq8zAuN9tHDvf6Gi87s",
+      "content_text": "<p><a href=\"https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m?si=JU93da6XRWSeKFag_zmFuQ\">https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m?si=JU93da6XRWSeKFag_zmFuQ</a></p><p>をきいて、あしたからがんばろうの気持ちになった</p>",
+      "date_published": "2025-11-17T13:21:37.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/Bf6DHPwHdQjVfsgsDJYKXG",
+      "url": "https://usememos.yammer.jp/m/Bf6DHPwHdQjVfsgsDJYKXG",
+      "content_text": "<p>いつもはチキンだけどラムにしてみた。肉肉しさを感じられるけど、普段はチキンに戻ろう</p>",
+      "date_published": "2025-11-17T09:31:16.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/HAu5LriSJvJMFNMJCa828e",
+      "url": "https://usememos.yammer.jp/m/HAu5LriSJvJMFNMJCa828e",
+      "content_text": "<p>先週の頭からずっと体調が芳しくなく、緊急の対応以外は定時に帰って家でひたすら寝る生活をしていた。快方に向かったかと思えば金曜の退勤後にぶり返してしまい、土曜に病院に行って「風邪だね」ということで土日はひたすら寝て治そうとしているが、効果はあるのか果たして。超ダメというわけでもないが、来週も低速運転でやりたくないので早く治ってくれ〜。</p><br><p>山の予定もキャンセルしてしまったので、またリベンジしたい。</p>",
+      "date_published": "2025-11-16T13:31:55.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/KfiMAYgoxu3Vvg2AzWgj2f",
+      "url": "https://usememos.yammer.jp/m/KfiMAYgoxu3Vvg2AzWgj2f",
+      "content_text": "<p>EC2で生活できるようになったら、オンコールのためにハイスペックなマシンを持ち歩くというのもやめられるのでは</p>",
+      "date_published": "2025-11-01T08:14:48.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/RLFzUxDkRAB8XRtmmXiyru",
+      "url": "https://usememos.yammer.jp/m/RLFzUxDkRAB8XRtmmXiyru",
+      "content_text": "<p>開発環境、EC2がいいのではというきもちに</p>",
+      "date_published": "2025-10-31T15:27:25.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/CDXVUY6cHguBYvCo4rkjG7",
+      "url": "https://usememos.yammer.jp/m/CDXVUY6cHguBYvCo4rkjG7",
+      "content_text": "<p>ここがいきかえっている</p>",
+      "date_published": "2025-10-31T15:27:11.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m4he3gpkyc22",
+      "url": "https://bsky.app/profile/yammer.jp/post/3m4he3gpkyc22",
+      "content_text": "いえのmicroblogがおちている",
+      "date_published": "2025-10-31T01:44:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m4he3bql3s22",
+      "url": "https://bsky.app/profile/yammer.jp/post/3m4he3bql3s22",
+      "content_text": "渋谷の壱角屋、きのう店の前まで行ってなくなっていることに気づいた",
+      "date_published": "2025-10-31T01:44:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/DhRvvpEiETjkqzPwHXRNfD",
+      "url": "https://usememos.yammer.jp/m/DhRvvpEiETjkqzPwHXRNfD",
+      "content_text": "<p>これからつくるOpenAPIスキーマは全てRFC9457にしよう！</p>",
+      "date_published": "2025-10-28T15:07:31.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/6ScWjfeJsDTUDCRbX9Vq2x",
+      "url": "https://usememos.yammer.jp/m/6ScWjfeJsDTUDCRbX9Vq2x",
+      "content_text": "<p>isucon14の環境を用意するのにmeiheiさんの記事が便利だった <a href=\"https://zenn.dev/meihei/scraps/61a844ac783d19\">https://zenn.dev/meihei/scraps/61a844ac783d19</a></p>",
+      "date_published": "2025-10-28T12:28:27.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/RfcWB4VSGTAG93Mb5cg9Ho",
+      "url": "https://usememos.yammer.jp/m/RfcWB4VSGTAG93Mb5cg9Ho",
+      "content_text": "<p><a href=\"https://yoku0825.blogspot.com/2016/02/where-in-order-by-field.html\">https://yoku0825.blogspot.com/2016/02/where-in-order-by-field.html</a> 今日の学び ORDER BY FIELD(column, value1, value2, ...)</p>",
+      "date_published": "2025-10-28T12:28:09.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "1982415069976907811",
+      "url": "https://x.com/yammerjp/status/1982415069976907811",
+      "content_text": "🛬",
+      "date_published": "2025-10-26T20:52:38+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1982361908931162404",
+      "url": "https://x.com/yammerjp/status/1982361908931162404",
+      "content_text": "🛫",
+      "date_published": "2025-10-26T17:21:24+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/5xb7sMFYRxShsLWgj8GiaE",
+      "url": "https://usememos.yammer.jp/m/5xb7sMFYRxShsLWgj8GiaE",
+      "content_text": "<p>江南、この時間でも車の交通量が多いし人も繁華街の路地とかではなく大通りに結構歩いている人がいたりする</p>",
+      "date_published": "2025-10-24T16:33:28.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/Vk6S7UdehBTMZnkvLWTvdc",
+      "url": "https://usememos.yammer.jp/m/Vk6S7UdehBTMZnkvLWTvdc",
+      "content_text": "<p>手の次は足</p>",
+      "date_published": "2025-10-24T00:22:33.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/kDXkhTvCp7a3zjgmLszUQo",
+      "url": "https://usememos.yammer.jp/m/kDXkhTvCp7a3zjgmLszUQo",
+      "content_text": "<p>令和7年でも、通行人カウントは人の仕事</p>",
+      "date_published": "2025-10-21T00:23:35.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/iucwB7edZAAaBsxd787gky",
+      "url": "https://usememos.yammer.jp/m/iucwB7edZAAaBsxd787gky",
+      "content_text": "<p>そういえばここ数週間、あんまり腹痛来てない</p>",
+      "date_published": "2025-10-21T00:15:08.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/NnCffUwvXdAzPpGnqzkKck",
+      "url": "https://usememos.yammer.jp/m/NnCffUwvXdAzPpGnqzkKck",
+      "content_text": "<p>今日は急に寒くなったように感じる、上着を出したのは今シーズン初だ。</p>",
+      "date_published": "2025-10-20T23:52:17.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/VGMhRVtdEqETaCrcErZKBh",
+      "url": "https://usememos.yammer.jp/m/VGMhRVtdEqETaCrcErZKBh",
+      "content_text": "<p>梨泰院クラス見切った。スッキリする終わり方かつ、物足りなさも感じないのはいいね</p>",
+      "date_published": "2025-10-20T23:49:08.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/ZxrmZemRhNmr47LjC5X2yx",
+      "url": "https://usememos.yammer.jp/m/ZxrmZemRhNmr47LjC5X2yx",
+      "content_text": "<p>おうちk3sの代替VPSを建てたところで終わった。rootだけで始まるケース、ユーザをつくってそのユーザかsudoできてsshされる様にするまでが面倒いね</p>",
+      "date_published": "2025-10-20T23:48:15.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/aA5YttV4oyNXKmmHzqPbdU",
+      "url": "https://usememos.yammer.jp/m/aA5YttV4oyNXKmmHzqPbdU",
+      "content_text": "<p>おうちk3sへの接続性を確保した</p>",
+      "date_published": "2025-10-20T13:33:48.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/4j9ZUz7FfiXBPaxxGBsjsw",
+      "url": "https://usememos.yammer.jp/m/4j9ZUz7FfiXBPaxxGBsjsw",
+      "content_text": "<p>連続タップミス！</p>",
+      "date_published": "2025-10-20T12:57:45.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/DXaAGfiuxn77KXjNw4EniK",
+      "url": "https://usememos.yammer.jp/m/DXaAGfiuxn77KXjNw4EniK",
+      "content_text": "<p>ひろすぎる前提を置かないようにしたい。解像度の高さが自分の思う良さや憧れの対象であることもよくあるから。</p>",
+      "date_published": "2025-10-20T11:05:37.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/KSw5mmTDUhi2rtSXFSdGvS",
+      "url": "https://usememos.yammer.jp/m/KSw5mmTDUhi2rtSXFSdGvS",
+      "content_text": "<p>k3sを手頃なVPSに移すことで、家にあるマシンをあらためて自由にセットアップし直せる様にしようかと思っている。安定して動くのは大変素晴らしいけど、今の環境はsshする鍵を無くしてしまっているのよな</p>",
+      "date_published": "2025-10-20T11:02:00.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/RPZokBPefX55PTDGxhKUhb",
+      "url": "https://usememos.yammer.jp/m/RPZokBPefX55PTDGxhKUhb",
+      "content_text": "<p>燧ヶ岳に登る途中の木道で滑って転けてしまい、手をついて右手を捻挫。病院に行くか絶妙なところで、いまのところテーピングしてよいことにしている</p>",
+      "date_published": "2025-10-20T10:59:29.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/BkXszLfTuREtUuD2TU7pRp",
+      "url": "https://usememos.yammer.jp/m/BkXszLfTuREtUuD2TU7pRp",
+      "content_text": "<p>実際ホストしているの中でまともに使っているのはこのmemos (と多分これの裏にあるRDBMS) ぐらいなのだけどな</p>",
+      "date_published": "2025-10-13T11:06:22.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/AoCAMcGztUqMiouyCHTgT6",
+      "url": "https://usememos.yammer.jp/m/AoCAMcGztUqMiouyCHTgT6",
+      "content_text": "<p>自宅サーバー (おうちk3s)、自分の使うワークロードを載せて安定的に動いてしまうと、それはそれで手を入れて壊したくなくて触るのが億劫になってしまっている、2つ環境を用意してblue green的にしたいな、片方壊し放題にできるので</p>",
+      "date_published": "2025-10-13T11:05:49.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/9mLfA9LBZhwbGiKJSquRAE",
+      "url": "https://usememos.yammer.jp/m/9mLfA9LBZhwbGiKJSquRAE",
+      "content_text": "<p>都バスの前乗り前払い中降り、いまだに慣れない</p>",
+      "date_published": "2025-10-13T10:13:39.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m32h3ksw722h",
+      "url": "https://bsky.app/profile/yammer.jp/post/3m32h3ksw722h",
+      "content_text": "個人でホストしているWebアプリケーション、何か触ろうとしたときにどこにデプロイしたか大抵覚えていなくて、digして出てきたIPをwhoisして、どこのプラットフォームを探すところからいつも始まる",
+      "date_published": "2025-10-13T05:08:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/LQVjikwBMvjFKiBYJvKzun",
+      "url": "https://usememos.yammer.jp/m/LQVjikwBMvjFKiBYJvKzun",
+      "content_text": "<p>フレッシュネスバーガー、あんまり店舗を見つけられなかったりタイミングが合わず、記憶の中では初めて食べる。バーガーキングとかよりもフレッシュな感じ (肉以外の味がしっかり感じられる) がよかった</p>",
+      "date_published": "2025-10-11T06:37:55.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/KAEFmUoMr3DUsc78t44kNh",
+      "url": "https://usememos.yammer.jp/m/KAEFmUoMr3DUsc78t44kNh",
+      "content_text": "<p>無理に昇華せず、自分の思っていることを、具体でいいからそのまま残すことがいいのかもしれない</p>",
+      "date_published": "2025-10-10T14:37:20.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/oC2HSEUkfjjDZzt7EmuFzc",
+      "url": "https://usememos.yammer.jp/m/oC2HSEUkfjjDZzt7EmuFzc",
+      "content_text": "<p>その人にとっての情熱が大事で、何に情熱を抱けるかか、情熱をもってやれているか</p>",
+      "date_published": "2025-10-10T14:34:51.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/3bcuJC4cjt4GYpZZTDHiaj",
+      "url": "https://usememos.yammer.jp/m/3bcuJC4cjt4GYpZZTDHiaj",
+      "content_text": "<p><a href=\"https://rubyonrails.org/doctrine/ja\">https://rubyonrails.org/doctrine/ja</a> 素晴らしい日本語訳だった</p>",
+      "date_published": "2025-10-10T14:33:39.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/B8DCtU8vkwG7gQXV2tLGHE",
+      "url": "https://usememos.yammer.jp/m/B8DCtU8vkwG7gQXV2tLGHE",
+      "content_text": "<p>時差投稿つぶやきプラットフォームが欲しいな</p>",
+      "date_published": "2025-10-10T14:21:24.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/ag6WPT8EtT8om8Kdh9g6Qj",
+      "url": "https://usememos.yammer.jp/m/ag6WPT8EtT8om8Kdh9g6Qj",
+      "content_text": "<p>cleave 40がきになっている</p>",
+      "date_published": "2025-10-09T16:08:41.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/guTHtLKDTEoGfH6MDJtV6q",
+      "url": "https://usememos.yammer.jp/m/guTHtLKDTEoGfH6MDJtV6q",
+      "content_text": "<p>OAuthクライアントになるWebアプリケーション、LLMがPlaywrightで気軽にデバッグできるようにモックサーバにするのがめちゃくちゃハマっていると思う</p>",
+      "date_published": "2025-10-09T15:25:27.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/7XJPvnuZzyGKHLUFrzPwUT",
+      "url": "https://usememos.yammer.jp/m/7XJPvnuZzyGKHLUFrzPwUT",
+      "content_text": "<p>欲しいやつ割とこれじゃん！Webがいいけど</p><br><p><a href=\"https://gigazine.net/news/20251008-timelinize/\">https://gigazine.net/news/20251008-timelinize/</a></p>",
+      "date_published": "2025-10-09T15:18:09.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/EWC9meYgSovBmfMKfK5vuV",
+      "url": "https://usememos.yammer.jp/m/EWC9meYgSovBmfMKfK5vuV",
+      "content_text": "<p>懐かしの西武線！</p>",
+      "date_published": "2025-10-09T15:16:12.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "1976068586159722950",
+      "url": "https://x.com/yammerjp/status/1976068586159722950",
+      "content_text": "cacheのinvalidationどうしようか会議 v20251009",
+      "date_published": "2025-10-09T08:33:59+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1973245287486636090",
+      "url": "https://x.com/yammerjp/status/1973245287486636090",
+      "content_text": "コンビニのおでんが始まったので今日から冬",
+      "date_published": "2025-10-01T13:35:12+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/MecdE3t4KFnHFxshTsQAtg",
+      "url": "https://usememos.yammer.jp/m/MecdE3t4KFnHFxshTsQAtg",
+      "content_text": "<p>そういえば昨日夕方、三芳PAでも腹痛とまではいかないが復旧</p>",
+      "date_published": "2025-09-29T00:09:43.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/WsRGYvdPAc728Ms6ozedX2",
+      "url": "https://usememos.yammer.jp/m/WsRGYvdPAc728Ms6ozedX2",
+      "content_text": "<p>腹痛とまでいかないが復旧</p>",
+      "date_published": "2025-09-29T00:09:19.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/2CY2dKJFjyaujCiLvGmGBP",
+      "url": "https://usememos.yammer.jp/m/2CY2dKJFjyaujCiLvGmGBP",
+      "content_text": "<p>エッセンシャル思考を読み始めた。</p>",
+      "date_published": "2025-09-28T23:51:23.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "1971138118733746239",
+      "url": "https://x.com/yammerjp/status/1971138118733746239",
+      "content_text": "今日は今までで1番ネパリコのカレーとご飯の食べ進め方の割合がうまくいったのでテンションが上がった。いつもコメが足りなくなるのだけれども、今日は完璧👌",
+      "date_published": "2025-09-25T18:02:04+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1970837267146313773",
+      "url": "https://x.com/yammerjp/status/1970837267146313773",
+      "content_text": "自分のサイトが壊れているのを1週間以上放置してしまっている、ああMTTR",
+      "date_published": "2025-09-24T22:06:35+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/Mfc9k9axM4EvgEQpvqjCGg",
+      "url": "https://usememos.yammer.jp/m/Mfc9k9axM4EvgEQpvqjCGg",
+      "content_text": "<p>韓国に行くことになったので、梨泰院クラスみはじめた</p>",
+      "date_published": "2025-09-21T14:28:03.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/QhtvX5VAsQdrh78Dn2kBA3",
+      "url": "https://usememos.yammer.jp/m/QhtvX5VAsQdrh78Dn2kBA3",
+      "content_text": "<p>腹痛じわり復旧 (すぐすっきり回復はしなかった)</p>",
+      "date_published": "2025-09-20T13:52:55.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/4TLXnSenKf4GrfDNqdSx3N",
+      "url": "https://usememos.yammer.jp/m/4TLXnSenKf4GrfDNqdSx3N",
+      "content_text": "<p>最高の夏</p>",
+      "date_published": "2025-09-19T15:06:29.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/DCGv4hS42mzBK7NufK8Ndw",
+      "url": "https://usememos.yammer.jp/m/DCGv4hS42mzBK7NufK8Ndw",
+      "content_text": "<p>情熱プログラマーの「1番下手なやつでいよう」は、1番下手であることかどうかより、自分が1番下手だと思えるか、そしてそれを受け止められるかなのだろうと思う</p>",
+      "date_published": "2025-09-19T14:57:41.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/RJxEbEX4no6vZDbLTM3zPB",
+      "url": "https://usememos.yammer.jp/m/RJxEbEX4no6vZDbLTM3zPB",
+      "content_text": "<p>飲み過ぎ！</p>",
+      "date_published": "2025-09-19T14:42:09.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/bxjJbUkA4DFASSfiKYQiFL",
+      "url": "https://usememos.yammer.jp/m/bxjJbUkA4DFASSfiKYQiFL",
+      "content_text": "<p>腹痛復旧</p>",
+      "date_published": "2025-09-18T01:23:33.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/fL9KvLcswEZ69trTYMyrAo",
+      "url": "https://usememos.yammer.jp/m/fL9KvLcswEZ69trTYMyrAo",
+      "content_text": "<p>お腹痛くなるのが普通すぎてすぐトイレに行って解決してしまうのが当たり前になっているが、世の中こんなもんなのかどうなのか</p>",
+      "date_published": "2025-09-15T23:02:41.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "1965629816197316864",
+      "url": "https://x.com/yammerjp/status/1965629816197316864",
+      "content_text": "幸せを感じる瞬間: 腹痛がトイレを経て直った時",
+      "date_published": "2025-09-10T13:14:02+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1963935536915378630",
+      "url": "https://x.com/yammerjp/status/1963935536915378630",
+      "content_text": "地震、なんか久々なきするな",
+      "date_published": "2025-09-05T21:01:34+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1963710699689128243",
+      "url": "https://x.com/yammerjp/status/1963710699689128243",
+      "content_text": "おはよう！！！",
+      "date_published": "2025-09-05T06:08:09+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1963191548658778461",
+      "url": "https://x.com/yammerjp/status/1963191548658778461",
+      "content_text": "回遊の促進 #StrategicSearchRec",
+      "date_published": "2025-09-03T19:45:14+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1963183681713098752",
+      "url": "https://x.com/yammerjp/status/1963183681713098752",
+      "content_text": "納得感のあるベースライン #StrategicSearchRec",
+      "date_published": "2025-09-03T19:13:58+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1963180943822213443",
+      "url": "https://x.com/yammerjp/status/1963180943822213443",
+      "content_text": "こんにちは #StrategicSearchRec",
+      "date_published": "2025-09-03T19:03:05+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/VBQxxnik565e8iCbjH6xjo",
+      "url": "https://usememos.yammer.jp/m/VBQxxnik565e8iCbjH6xjo",
+      "content_text": "<p>ふつうに収束させるのが大事だが、世界ごとにその世界の普通があるので、どの世界を選ぶかが大事とも言える</p>",
+      "date_published": "2025-08-25T00:43:49.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/X942J5X7xPuaMvVLPUGTLH",
+      "url": "https://usememos.yammer.jp/m/X942J5X7xPuaMvVLPUGTLH",
+      "content_text": "<p>基本情報技術者試験を受けるというプログラマーではない友達が、オブジェクト指向プログラミングのトピックを学ぶ機会があるという話をしていて、結構大変だなというのを知った。</p><br><p>オブジェクト指向プログラミングのコアな概念が何か、これは大揉めする話題だが、大きくはカプセル化おポリモーフィズムだっただろうとしてここでは雑に話を進める。</p><br><p>データと制御構造をセットにして扱いたいことがというのがカプセル化、違うものを同じように扱えるというのがポリモーフィズム</p><br><p>みたいなことを思っていた時に <a href=\"https://open.spotify.com/episode/3V89qcWQGMFx4YQZO2jjW7?si=k56kVnEFQuGzVjVMe5zkNQ\">https://open.spotify.com/episode/3V89qcWQGMFx4YQZO2jjW7?si=k56kVnEFQuGzVjVMe5zkNQ</a> が流れて来たので聞いた。オブジェクト指向プログラミングとGUIプログラミングは切っても切り離せない話題であるというのに触れるのがわかりやすさに大事だというのがなるほどなとなった。</p><br><p>データと制御構造をセットにして扱いたいというのは、ウィンドウを例にして、各ウィンドウが状態も処理ももつ、違うものを同じように扱いたいというのは、たとえばアラートウィンドウもそうでないものも同じようにドラッグしたり閉じたりしたい、みたいな比喩で上手く伝えられないだろうかと思考してみている</p>",
+      "date_published": "2025-08-20T23:35:01.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/BjpWAiVLzZ3aLafgSqgcNv",
+      "url": "https://usememos.yammer.jp/m/BjpWAiVLzZ3aLafgSqgcNv",
+      "content_text": "<p>Misreading Podcastというのに出会い、 エピソード107 を聴きはじめたが、落ち着いた声で聴きやすくて、おもしろい</p>",
+      "date_published": "2025-08-19T23:34:12.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/DUVA2RGrwzrKwzsZ5upsbF",
+      "url": "https://usememos.yammer.jp/m/DUVA2RGrwzrKwzsZ5upsbF",
+      "content_text": "<p>作ることでのフィードバック、本当に大事。難しい問題を最初から解決するのではなく、まずは手元の問題を解決することで見えてくるものもある。他方で、作ってもしょうがないものもたくさんあって、目の前の課題が本質かどうか、結局それもやったことの積み重ねからのカンだけのような気もする</p>",
+      "date_published": "2025-08-17T10:40:35.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "1956657157182829020",
+      "url": "https://x.com/yammerjp/status/1956657157182829020",
+      "content_text": "2025年に人間に残された仕事: AIにカレントディレクトリを教える",
+      "date_published": "2025-08-16T18:59:53+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/7eHgKND2jLfcVrLzHu6uv7",
+      "url": "https://usememos.yammer.jp/m/7eHgKND2jLfcVrLzHu6uv7",
+      "content_text": "<p>休み中に寝過ぎて、朝この時間でもまだ起動しない体になってしまっておる</p>",
+      "date_published": "2025-08-16T00:32:06.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/9L4zNnFfnp2Na2L8w3kfbD",
+      "url": "https://usememos.yammer.jp/m/9L4zNnFfnp2Na2L8w3kfbD",
+      "content_text": "<p>牛尾さんのディープコードリーディング、本人もバズを意識して書かれておられるのだろうと思うけど、単にコードを読みましょう、と言う話を読みやすく書いてくれている。</p><br><p>ソフトウェアは単に動けばいいんじゃなくて、最初からそこにあったかのように構造を変更し続ける、ということをやるには、思ったよりも無関係に思える全体を知らなきゃいけない、そうやっておくと、あたかも最初からそこにあったかのような自然なコードが書けるので、読み手も何をやっているかわかる、という話なのだと思う</p>",
+      "date_published": "2025-08-16T00:31:31.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/ckvtCHpLNvU3Ezj4zFase7",
+      "url": "https://usememos.yammer.jp/m/ckvtCHpLNvU3Ezj4zFase7",
+      "content_text": "<p>作ることで得られるフィードバック、と言う話のまた一段さらなるフィードバック(というか一体化) というはなしだった</p><p><a href=\"https://open.spotify.com/episode/5p7LxrSl1GBmG1QPQ1jiHK?si=fV2MOkxFRsaRpjIzewP3Tg\">https://open.spotify.com/episode/5p7LxrSl1GBmG1QPQ1jiHK?si=fV2MOkxFRsaRpjIzewP3Tg</a></p>",
+      "date_published": "2025-08-12T15:21:37.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/Nu5eeoF9oqZ35bPyc4UjKQ",
+      "url": "https://usememos.yammer.jp/m/Nu5eeoF9oqZ35bPyc4UjKQ",
+      "content_text": "<p>jan.ai、気づいたらMCPきてそう</p>",
+      "date_published": "2025-08-11T04:28:06.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/kzXfqHj8WwrvoQaXT7ivMU",
+      "url": "https://usememos.yammer.jp/m/kzXfqHj8WwrvoQaXT7ivMU",
+      "content_text": "<p>Luupも埋まっているし時間なさすぎてタクシー乗ったらむしろ時間かかって残念。都内交通弱者..</p>",
+      "date_published": "2025-08-09T03:06:03.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "1953110751763415107",
+      "url": "https://x.com/yammerjp/status/1953110751763415107",
+      "content_text": "アクスタつくらなきゃ！！ x.com/doew_/status/1…",
+      "date_published": "2025-08-07T00:07:44+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/TvV5yniG9iKELTXqCDTFUf",
+      "url": "https://usememos.yammer.jp/m/TvV5yniG9iKELTXqCDTFUf",
+      "content_text": "<p>ラーゲリより愛を込めて、すっきり終わるのが良かったというのをネタバレになるから言わずに終わった</p>",
+      "date_published": "2025-08-05T15:30:23.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/PwymG3Qnxg9XnwGTFZCYDb",
+      "url": "https://usememos.yammer.jp/m/PwymG3Qnxg9XnwGTFZCYDb",
+      "content_text": "<p>フラフラするぐらい酔うのは久々だが、そうなることをあんまり覚えていないので、記録することは大事</p>",
+      "date_published": "2025-08-05T15:28:55.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/aj3BX9AkpapCk4UgvEb92c",
+      "url": "https://usememos.yammer.jp/m/aj3BX9AkpapCk4UgvEb92c",
+      "content_text": "<p>自分が覚えていないが他の人が覚えているということが多すぎる！</p>",
+      "date_published": "2025-08-05T14:58:53.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/68Hrt5d5KGK3zjQBsLC3m2",
+      "url": "https://usememos.yammer.jp/m/68Hrt5d5KGK3zjQBsLC3m2",
+      "content_text": "<p>8月はちゃんと生活する予定だったのに！</p>",
+      "date_published": "2025-08-04T15:08:19.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/cd8q3cdhegU3yw5q2EKZ6G",
+      "url": "https://usememos.yammer.jp/m/cd8q3cdhegU3yw5q2EKZ6G",
+      "content_text": "<p>8月になってしまった、2025年ははやい</p>",
+      "date_published": "2025-07-31T15:02:47.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/aVNv9Y32bDzbc3vSMeUs63",
+      "url": "https://usememos.yammer.jp/m/aVNv9Y32bDzbc3vSMeUs63",
+      "content_text": "<p>AIにコードを出力させるVibe Codingは子供にクレカを使わせるものだ、という比喩</p><br><p>いままでクレカを使いにくい環境でも使えるようになったともいえるだろう。</p><br><p><a href=\"https://blog.val.town/vibe-code\">https://blog.val.town/vibe-code</a></p>",
+      "date_published": "2025-07-31T15:00:21.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/3VKXaP7FP6TzyAojQMpwJC",
+      "url": "https://usememos.yammer.jp/m/3VKXaP7FP6TzyAojQMpwJC",
+      "content_text": "<p>やっぱ言語が統一されていることが大事？rubyばっか書いてたらTypescriptのシンタックスが出てこなくて、Webアプリケーション作るならフロントエンドは捨てられないからhogefuga... と思ったけど、言語が分かれている方がAIにとってコンテキストが明確に分かれていて混同されることがないからいいのかな</p>",
+      "date_published": "2025-07-31T14:39:39.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/Q8UkiCwoq448cb94FGAqbq",
+      "url": "https://usememos.yammer.jp/m/Q8UkiCwoq448cb94FGAqbq",
+      "content_text": "<p>ホワイトボードでロジックを考えて疑似コードにするぐらいまで頑張ったら、あとはClaude Codeがなんとかしてくれるだろうという安心感</p>",
+      "date_published": "2025-07-31T14:37:43.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/hjrhCrkHxjoc2XCYvFGfVv",
+      "url": "https://usememos.yammer.jp/m/hjrhCrkHxjoc2XCYvFGfVv",
+      "content_text": "<p>80,15,5</p>",
+      "date_published": "2025-07-27T08:32:19.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/EQyUdY9RoP4Xv2icYxkpA2",
+      "url": "https://usememos.yammer.jp/m/EQyUdY9RoP4Xv2icYxkpA2",
+      "content_text": "<p>Claude CodeのUsage Limit、人間的な生活をするために残してくれた最後の余白、優しさを感じる</p>",
+      "date_published": "2025-07-21T08:59:29.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "1946609916946591863",
+      "url": "https://x.com/yammerjp/status/1946609916946591863",
+      "content_text": "awkを褒めてくれてありがとう\n「awkも素晴らしいですが、このプロジェクトのコンテキストではRubyの方が適切ですね。」",
+      "date_published": "2025-07-20T01:35:45+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1946607110672007548",
+      "url": "https://x.com/yammerjp/status/1946607110672007548",
+      "content_text": "awkを書くドライバー席さえ明け渡してしまった。\n\n「私にとってはawkで書いたほうが読みやすいので、bashの中身はawkに寄せて」",
+      "date_published": "2025-07-20T01:24:36+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1945492283421565093",
+      "url": "https://x.com/yammerjp/status/1945492283421565093",
+      "content_text": "一方で、コードが大量生成される状況の中なら、長いコミットメッセージなんて書いても誰も読まんから、一言で言い表せ、というほうがいい気がする",
+      "date_published": "2025-07-16T23:34:40+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1945491908362694669",
+      "url": "https://x.com/yammerjp/status/1945491908362694669",
+      "content_text": "AIが非常に長いコミットメッセージを書く中、たまに混ざる「fix」「wip」「add [一語]」などしかかないので、人間が積んだかどうかが大変わかりやすい",
+      "date_published": "2025-07-16T23:33:11+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/RJRUMj3baqTYhmTAHW6iyJ",
+      "url": "https://usememos.yammer.jp/m/RJRUMj3baqTYhmTAHW6iyJ",
+      "content_text": "<p>　Claude CodeがRubyのREPLを使いこなす姿と、https://techracho.bpsinc.jp/hachi8833/2025_03_07/148685 をみて安心した。AIが来ても、レールにのればいいだけのものを再発明して保守するのがいいということには別にならなくい</p>",
+      "date_published": "2025-07-15T01:12:16.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/nKFwEhCtmJ3WAQjCcRJMJV",
+      "url": "https://usememos.yammer.jp/m/nKFwEhCtmJ3WAQjCcRJMJV",
+      "content_text": "<p>claude code、sedやgrepだけじゃなくて、RubyではREPLを結構使いこなして構造とかを確認していて、普通に普段Rubyのコードを書くソフトウェアエンジニアがやる感じで進めていて、これも時代が進んだ感がある。</p>",
+      "date_published": "2025-07-09T16:50:23.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/hTa8nJFkbUotEDdYaZjV5t",
+      "url": "https://usememos.yammer.jp/m/hTa8nJFkbUotEDdYaZjV5t",
+      "content_text": "<p>AI、ダサいからRailsの中でAPIクライアントをかかせたら、何もないのにすぐapp/servicesというディレクトリを切り出した。</p>",
+      "date_published": "2025-07-09T15:55:03.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/aWRJCeMKdQ3379bQEuVBFb",
+      "url": "https://usememos.yammer.jp/m/aWRJCeMKdQ3379bQEuVBFb",
+      "content_text": "<p>なんかよくわからんが目が覚めてしまったので走る</p>",
+      "date_published": "2025-07-07T21:21:48.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/gT7yA7vTXdxYgwnd84apqZ",
+      "url": "https://usememos.yammer.jp/m/gT7yA7vTXdxYgwnd84apqZ",
+      "content_text": "<p>5:30に起きてランニングすると、流石に夜は眠い。眠いのはよいこと</p>",
+      "date_published": "2025-07-07T13:28:16.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/mfKHheHLxXTPbrbmYxovT5",
+      "url": "https://usememos.yammer.jp/m/mfKHheHLxXTPbrbmYxovT5",
+      "content_text": "<p>長い1日の終わり</p>",
+      "date_published": "2025-07-07T13:27:47.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/5vBVJZNszMsVmNn3MmNcfV",
+      "url": "https://usememos.yammer.jp/m/5vBVJZNszMsVmNn3MmNcfV",
+      "content_text": "<p>Clicks、1週間持たずにやめてしまった。qwertyもソフトウェアキーボードのほうが全然早くて、Blinkの修飾キー支援があればソフトウェアキーボードなら片手で打てていたということに気づいてしまい...</p>",
+      "date_published": "2025-07-06T22:46:04.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "1941157135704027235",
+      "url": "https://x.com/yammerjp/status/1941157135704027235",
+      "content_text": "🔥🔥 🍝 🍚 🍺 🍺 🔥🔥 x.com/pepabo/status/…",
+      "date_published": "2025-07-05T00:28:20+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1940658704850055181",
+      "url": "https://x.com/yammerjp/status/1940658704850055181",
+      "content_text": "手元の環境だと複数のディレクトリ/リポジトリで docker compose して 同一のnetworkを共有して動くみたいなのがあるのだが、これも override.yamlを動的に作るか、compose.yaml自体が環境変数で変化するようにしておけばいい感じに動かせるかもな、ラッパーを作るかという気持ちになってきた",
+      "date_published": "2025-07-03T15:27:45+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1940657680953364964",
+      "url": "https://x.com/yammerjp/status/1940657680953364964",
+      "content_text": "@yamato_sorariku わいわい！",
+      "date_published": "2025-07-03T15:23:41+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1940657237510570491",
+      "url": "https://x.com/yammerjp/status/1940657237510570491",
+      "content_text": "@yamato_sorariku ですです！Claude Code + git worktreeでの利用を想定していて、git worktreeで並列に環境を立ち上げようとするとぶつかるのを避けるために使っている(作られた) ようで",
+      "date_published": "2025-07-03T15:21:55+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1940656216910582144",
+      "url": "https://x.com/yammerjp/status/1940656216910582144",
+      "content_text": "docker composeを並列起動できるよう、overrideするyamlを作って起動する gopose というのが社内で便利に使われているっぽく、面白アイデアなので真似したい\ngithub.com/harakeishi/gop…\n\nClaude Code + git worktree をうまく使えるような開発環境が求められている",
+      "date_published": "2025-07-03T15:17:52+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lszhlud76c2g",
+      "url": "https://bsky.app/profile/yammer.jp/post/3lszhlud76c2g",
+      "content_text": "Clicks、今のところはまだ慣れてないなぁ",
+      "date_published": "2025-07-03T00:23:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/WyHksaYmq8oBuLKeSwXA5b",
+      "url": "https://usememos.yammer.jp/m/WyHksaYmq8oBuLKeSwXA5b",
+      "content_text": "<p>clicksが届いたので使い始めた。まだ慣れないが...</p>",
+      "date_published": "2025-07-02T16:07:31.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lsyblbgwks25",
+      "url": "https://bsky.app/profile/yammer.jp/post/3lsyblbgwks25",
+      "content_text": "電波のないところを求め、2ヶ月で7座登っていた。次の山、どこにすっかな",
+      "date_published": "2025-07-02T13:03:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/mw9bWiNnaGKHzdQCfZ5AhV",
+      "url": "https://usememos.yammer.jp/m/mw9bWiNnaGKHzdQCfZ5AhV",
+      "content_text": "<p>なぜここなのかというのは、多くないフォロワーだけのタイムラインを見ていたあのときのように心が穏やかということな気がする、アテンションを奪うことは銭になるから...</p>",
+      "date_published": "2025-07-02T01:17:28.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/Xmn2Z5q6Z4RLLQvfWDqtAe",
+      "url": "https://usememos.yammer.jp/m/Xmn2Z5q6Z4RLLQvfWDqtAe",
+      "content_text": "<p>人間なので、音楽を聞けば元気も出る</p>",
+      "date_published": "2025-07-02T01:15:22.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/Q9MYDr5RZy3DcmAJh5NtXd",
+      "url": "https://usememos.yammer.jp/m/Q9MYDr5RZy3DcmAJh5NtXd",
+      "content_text": "<p>とりあえずtermuxやってる</p>",
+      "date_published": "2025-07-02T01:14:56.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/HatJQMJcn9TBB7HL5AMzDm",
+      "url": "https://usememos.yammer.jp/m/HatJQMJcn9TBB7HL5AMzDm",
+      "content_text": "<p>moshあれそれしたらいいのかなあ、blinkはセッション切れがち、termiusは日本語フォントがない、termixは日本語の入力が、できることがわかったがやりやすいわけでもない</p>",
+      "date_published": "2025-07-01T13:56:51.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/fXVt4DGeV6fbe6Vb9jZjHb",
+      "url": "https://usememos.yammer.jp/m/fXVt4DGeV6fbe6Vb9jZjHb",
+      "content_text": "<p>端末の認証情報ブートストラップ、単にandroidのバージョンが古いだけで、新しめなら全然いけた、passkey最高</p>",
+      "date_published": "2025-07-01T13:55:17.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/J4JDndfKJFFVUwVEDyzjCM",
+      "url": "https://usememos.yammer.jp/m/J4JDndfKJFFVUwVEDyzjCM",
+      "content_text": "<p>ランニングを再開したいができていない、まずは睡眠から</p>",
+      "date_published": "2025-07-01T01:26:26.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/m5eY8e7mXZPv6ZQtuM6w3k",
+      "url": "https://usememos.yammer.jp/m/m5eY8e7mXZPv6ZQtuM6w3k",
+      "content_text": "<p>何もしていないのに左足首がピキッと来てしまった、何事〜</p>",
+      "date_published": "2025-07-01T01:25:55.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/Yt7XFA9EnwYDviFYkBXRGL",
+      "url": "https://usememos.yammer.jp/m/Yt7XFA9EnwYDviFYkBXRGL",
+      "content_text": "<p>これでよいのか/これしかないのか/これがよいのだ の狭間でやっていく</p>",
+      "date_published": "2025-07-01T01:24:55.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/RwrcjqDECpbCUfxzaaK6LF",
+      "url": "https://usememos.yammer.jp/m/RwrcjqDECpbCUfxzaaK6LF",
+      "content_text": "<p>Appleのデバイスばかり使うようになってしまって、久々にAndroidを使おうとしたらセットアップのブートストラップで詰んでしまった</p>",
+      "date_published": "2025-07-01T01:24:20.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "1938869814321385549",
+      "url": "https://x.com/yammerjp/status/1938869814321385549",
+      "content_text": "php.net/manual/ja/func…\n\n#phpcon",
+      "date_published": "2025-06-28T16:59:20+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1938869636621389911",
+      "url": "https://x.com/yammerjp/status/1938869636621389911",
+      "content_text": "#phpcon date_sun_info なんてあるんだ！！wwww",
+      "date_published": "2025-06-28T16:58:38+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1938864922395582633",
+      "url": "https://x.com/yammerjp/status/1938864922395582633",
+      "content_text": "電話番号の仕様w #phpcon",
+      "date_published": "2025-06-28T16:39:54+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1938864385579167770",
+      "url": "https://x.com/yammerjp/status/1938864385579167770",
+      "content_text": "全く自信がないpregクイズ #phpcon",
+      "date_published": "2025-06-28T16:37:46+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1938845770377269649",
+      "url": "https://x.com/yammerjp/status/1938845770377269649",
+      "content_text": "@theyoshida3 なるほど！",
+      "date_published": "2025-06-28T15:23:48+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1938840380587549093",
+      "url": "https://x.com/yammerjp/status/1938840380587549093",
+      "content_text": "#phpcon #track3 「サーバをください！」",
+      "date_published": "2025-06-28T15:02:23+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1938832338395468082",
+      "url": "https://x.com/yammerjp/status/1938832338395468082",
+      "content_text": "#phpcon #track3 app-state-diagram.com",
+      "date_published": "2025-06-28T14:30:25+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1938829941417849109",
+      "url": "https://x.com/yammerjp/status/1938829941417849109",
+      "content_text": "DeepResearch、APIででたのか\n従量課金で使えるのはありがたいかも\nplatform.openai.com/docs/guides/de…",
+      "date_published": "2025-06-28T14:20:54+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1938825892857552976",
+      "url": "https://x.com/yammerjp/status/1938825892857552976",
+      "content_text": "#phpcon #track2 ゼロ日付、実際にはどんな意味を持ったカラムの値だったのか気になる",
+      "date_published": "2025-06-28T14:04:49+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1938825207550222352",
+      "url": "https://x.com/yammerjp/status/1938825207550222352",
+      "content_text": "#phpcon #track2 それぞれ互換性を一部維持するための設定がいろいろある..!",
+      "date_published": "2025-06-28T14:02:05+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1938822016557297775",
+      "url": "https://x.com/yammerjp/status/1938822016557297775",
+      "content_text": "ききにきた！ 📣📣\nfortee.jp/phpcon-2025/pr…\n#phpcon2025 #track2",
+      "date_published": "2025-06-28T13:49:24+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/fKcLjMaQhzAKeuQ267UzLJ",
+      "url": "https://usememos.yammer.jp/m/fKcLjMaQhzAKeuQ267UzLJ",
+      "content_text": "<p>ターミナルに帰ってきた</p><br><p>Claude CodeのおかげでVSCodeやCursorを起動する必要がなくなって、tmuxとNeoVimで生活するスタイルに帰ってきた。気づけば2年くらい離れていたかもしれない。NeoVimの設定ファイルはまともに使うには壊れているという有様で、AstroNvimを使い始めた。今のところ社内用のちょいとした設定以外はなにも変えず、そのまま使っている。</p>",
+      "date_published": "2025-06-25T14:29:02.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/Zsqg5HHbhDJcaQGrA43UnL",
+      "url": "https://usememos.yammer.jp/m/Zsqg5HHbhDJcaQGrA43UnL",
+      "content_text": "<p>ラーメン食っちまった</p>",
+      "date_published": "2025-06-25T14:26:19.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/ehXYzD9Nbjc8wB3tZ4Lhq9",
+      "url": "https://usememos.yammer.jp/m/ehXYzD9Nbjc8wB3tZ4Lhq9",
+      "content_text": "<p>コードを書いて行動で示すにも、中途半端だと良くないなという気持ちにもなる</p>",
+      "date_published": "2025-06-25T14:26:11.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/ALoLhsGtuw74EbPuTCvcJW",
+      "url": "https://usememos.yammer.jp/m/ALoLhsGtuw74EbPuTCvcJW",
+      "content_text": "<p>ラーメンくって帰る！</p>",
+      "date_published": "2025-06-23T14:30:41.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "1935557622087954666",
+      "url": "https://x.com/yammerjp/status/1935557622087954666",
+      "content_text": "ひさネパ pic.x.com/r1umZbzgfV",
+      "date_published": "2025-06-19T13:37:52+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/MwpV2jFtKCmMjvG9a2d5zq",
+      "url": "https://usememos.yammer.jp/m/MwpV2jFtKCmMjvG9a2d5zq",
+      "content_text": "<p>撤退しやすい場所で実験する</p>",
+      "date_published": "2025-06-15T07:40:30.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "1933163212918403524",
+      "url": "https://x.com/yammerjp/status/1933163212918403524",
+      "content_text": "あらゆるAI課金をやめて、課金枠をClaude MaxでClaude Codeに全振り",
+      "date_published": "2025-06-12T23:03:21+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lqemqka5bs2c",
+      "url": "https://bsky.app/profile/yammer.jp/post/3lqemqka5bs2c",
+      "content_text": "役所、行ったり来たり反復横跳び",
+      "date_published": "2025-05-30T06:39:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "1927864818100490716",
+      "url": "https://x.com/yammerjp/status/1927864818100490716",
+      "content_text": "とりあえず課金せずにやっているが、すでに半分ぐらい課金するかの気持ちになっている",
+      "date_published": "2025-05-29T08:09:25+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1927864721362821330",
+      "url": "https://x.com/yammerjp/status/1927864721362821330",
+      "content_text": "PocketからInstapaperに乗り換えたけど、保存を無意識でPocketにやってしまってダメ.. アプリを消そう",
+      "date_published": "2025-05-29T08:09:02+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1925709116506263733",
+      "url": "https://x.com/yammerjp/status/1925709116506263733",
+      "content_text": "ほとんど有料機能機能を使えていなかったが、Mozillaへの応援も兼ねて最近は有料プランでしばらくやっていた",
+      "date_published": "2025-05-23T09:23:25+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1925707709871005807",
+      "url": "https://x.com/yammerjp/status/1925707709871005807",
+      "content_text": "Pocket終了かなしい！乗り換え先を教えてください\nitmedia.co.jp/news/articles/…",
+      "date_published": "2025-05-23T09:17:50+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1923440263743123586",
+      "url": "https://x.com/yammerjp/status/1923440263743123586",
+      "content_text": "@buty4649 よっしゃ！新生plusplusで新記録に挑戦します！ @yammerjp ++",
+      "date_published": "2025-05-17T03:07:49+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1923393937730912285",
+      "url": "https://x.com/yammerjp/status/1923393937730912285",
+      "content_text": "plusplus、貯まるポイントには特に意味がないのだけど、感謝を伝える方法としてとても便利。その人との距離に関係なく自然なコミュニケーションの手段としてお互いハッピーになれるすごく良いツール。\ngithub.com/pepabo/plusplu…",
+      "date_published": "2025-05-17T00:03:44+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1923393382384042154",
+      "url": "https://x.com/yammerjp/status/1923393382384042154",
+      "content_text": "たくさんポイントが〜というのは自分がhogefugaというわけではなく単純にたくさん人に送っているのでおすそ分けをいただいているというだけ説",
+      "date_published": "2025-05-17T00:01:31+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1923392623923851517",
+      "url": "https://x.com/yammerjp/status/1923392623923851517",
+      "content_text": "実は最近までの回は在籍者のなかで1番貯めていたはず！最近スーパーリセットされたのでまた徳を積んでいきます x.com/buty4649/statu…",
+      "date_published": "2025-05-16T23:58:31+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1923212229911917012",
+      "url": "https://x.com/yammerjp/status/1923212229911917012",
+      "content_text": "@songmu こちらこそ！楽しい時間をありがとうございました！",
+      "date_published": "2025-05-16T12:01:41+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1922973595145244746",
+      "url": "https://x.com/yammerjp/status/1922973595145244746",
+      "content_text": "ありがとうございました #VPoESummit_findy",
+      "date_published": "2025-05-15T20:13:26+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1915044601242722544",
+      "url": "https://x.com/yammerjp/status/1915044601242722544",
+      "content_text": "gawkextlibが動かないということはJSONのパースが困る",
+      "date_published": "2025-04-23T23:06:27+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1915044504530546971",
+      "url": "https://x.com/yammerjp/status/1915044504530546971",
+      "content_text": "あたらしいmacOSでgawkextlibが動かなくてこまった、よくかんがえたら前のmacOSでもDockerかqemuかssh先のVMの中でしか使ってなかったかも",
+      "date_published": "2025-04-23T23:06:04+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1915044141148635159",
+      "url": "https://x.com/yammerjp/status/1915044141148635159",
+      "content_text": "よっしゃ！どこだどこだどこだ",
+      "date_published": "2025-04-23T23:04:37+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "1914985121838776383",
+      "url": "https://x.com/yammerjp/status/1914985121838776383",
+      "content_text": "要件定義の認識合わせにv0\n最初から捨てる想定というユースケースで相性がいいのかも\n #hack_at_delta",
+      "date_published": "2025-04-23T19:10:06+09:00",
+      "source": "twitter"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lmgbfoucoc25",
+      "url": "https://bsky.app/profile/yammer.jp/post/3lmgbfoucoc25",
+      "content_text": "境界は自然とできてくるものだ、という @kenchankunsan.com の言葉をきいて「境界を収穫する」という言葉を思いついた。この先はまだないので、うまくメタファーがはまるその日にまた思い出すことにしよう",
+      "date_published": "2025-04-10T00:41:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3libphc7h5k2z",
+      "url": "https://bsky.app/profile/yammer.jp/post/3libphc7h5k2z",
+      "content_text": "Linuxディストリビューションを直接入れたいが、やりだすとyak shavingが止まらなくなるのでもう少し後で",
+      "date_published": "2025-02-16T07:28:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3libpfreiis2z",
+      "url": "https://bsky.app/profile/yammer.jp/post/3libpfreiis2z",
+      "content_text": "GPD WIN Mini 2024を買ったおかげでn年ぶりにまともに自分のWindowsマシンをセットアップすることになった。浦島太郎みたいになっている",
+      "date_published": "2025-02-16T07:27:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3li6qv3rog222",
+      "url": "https://bsky.app/profile/yammer.jp/post/3li6qv3rog222",
+      "content_text": "npmやpipやgemでグローバルに使いたいツール(たとえば~/.gitconfigのなかで使うとか)が、特定のディレクトリだとそのディレクトリの.ruby-versionに影響うけて使えなくなったりするの、みんなどうしているのだ？\n\nそのコマンドだけpathの通す先を変えたらいいってことだと思うのだけど",
+      "date_published": "2025-02-15T03:16:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lfwu66frxc2r",
+      "url": "https://bsky.app/profile/yammer.jp/post/3lfwu66frxc2r",
+      "content_text": "明日の時間調べなきゃ",
+      "date_published": "2025-01-17T13:03:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lfpgfo5vus2u",
+      "url": "https://bsky.app/profile/yammer.jp/post/3lfpgfo5vus2u",
+      "content_text": "打刻にあわせてポケポケのパック開封をする生活を始めた。リズムを刻んでいけ！",
+      "date_published": "2025-01-14T14:08:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lcftiljrik2s",
+      "url": "https://bsky.app/profile/yammer.jp/post/3lcftiljrik2s",
+      "content_text": "またつまらぬawkスクリプトを書いてしまった\nhttps://gist.github.com/yammerjp/68dfa8ca6b2fc003618246554b2033d7#file-gen-sql-index-sh-L56-L72",
+      "date_published": "2024-12-03T14:20:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lcal3n64ds2t",
+      "url": "https://bsky.app/profile/yammer.jp/post/3lcal3n64ds2t",
+      "content_text": "墓場に持っていきたいもの: のどぬ〜るぬれマスク",
+      "date_published": "2024-12-01T12:06:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lcal2xobm22t",
+      "url": "https://bsky.app/profile/yammer.jp/post/3lcal2xobm22t",
+      "content_text": "のどぬ〜るぬれマスク最高すぎる",
+      "date_published": "2024-12-01T12:06:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7w3dsfm22r",
+      "url": "https://bsky.app/profile/yammer.jp/post/3lb7w3dsfm22r",
+      "content_text": "sshポートフォワードして別タブでコマンド実行するの面倒臭いのだけど、こういうのふつうみんなどうしているの？",
+      "date_published": "2024-11-18T12:25:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7rwy64k22r",
+      "url": "https://bsky.app/profile/yammer.jp/post/3lb7rwy64k22r",
+      "content_text": "VPSにある某アプリをやっと再起動した",
+      "date_published": "2024-11-18T11:11:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7n7oq6ns2i",
+      "url": "https://bsky.app/profile/yammer.jp/post/3lb7n7oq6ns2i",
+      "content_text": "そろそろ初めてのエンジンオイル交換",
+      "date_published": "2024-11-18T09:46:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7n7cwpkk2i",
+      "url": "https://bsky.app/profile/yammer.jp/post/3lb7n7cwpkk2i",
+      "content_text": "スタッドレスの検討をしている",
+      "date_published": "2024-11-18T09:46:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3law7nfknv22v",
+      "url": "https://bsky.app/profile/yammer.jp/post/3law7nfknv22v",
+      "content_text": "結局いっかげつくらい証明書切れたの放置してしまっているや、なおさねば",
+      "date_published": "2024-11-14T15:49:00.000Z",
+      "source": "bluesky"
+    }
+  ]
+}
