@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/bluesky.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbn4tdubak2r",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbn4tdubak2r",
+      "content_text": "ワークマン行脚をしたおかげでメリノウールのインナーを手に入れた",
+      "date_published": "2026-01-04T23:56:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbid2cvbvs2z",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbid2cvbvs2z",
       "content_text": "コメダモーニング、無料ということに毎度気づいていない気がする",
@@ -176,12 +182,6 @@
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7n7oq6ns2i",
       "url": "https://bsky.app/profile/yammer.jp/post/3lb7n7oq6ns2i",
       "content_text": "そろそろ初めてのエンジンオイル交換",
-      "date_published": "2024-11-18T09:46:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7n7cwpkk2i",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lb7n7cwpkk2i",
-      "content_text": "スタッドレスの検討をしている",
       "date_published": "2024-11-18T09:46:00.000Z"
     }
   ]
