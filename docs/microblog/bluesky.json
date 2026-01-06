@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/bluesky.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbpnnpambk2p",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbpnnpambk2p",
+      "content_text": "引っ越しして1年半でやっとわかったのですが、10両3号車4ドアが最高です",
+      "date_published": "2026-01-06T00:03:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbn4tdubak2r",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbn4tdubak2r",
       "content_text": "ワークマン行脚をしたおかげでメリノウールのインナーを手に入れた",
@@ -177,12 +183,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3lb7rwy64k22r",
       "content_text": "VPSにある某アプリをやっと再起動した",
       "date_published": "2024-11-18T11:11:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7n7oq6ns2i",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lb7n7oq6ns2i",
-      "content_text": "そろそろ初めてのエンジンオイル交換",
-      "date_published": "2024-11-18T09:46:00.000Z"
     }
   ]
 }

@@ -5,6 +5,22 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>引っ越しして1年半でやっとわかったのですが、10両3号車4ドアが最高です</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mbpnnpambk2p</link>
+      <description>引っ越しして1年半でやっとわかったのですが、10両3号車4ドアが最高です</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbpnnpambk2p</guid>
+      <pubDate>Tue, 06 Jan 2026 00:03:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
+      <title>&lt;p&gt;6時半に起きて体が動き始めてからランニングして、だと渋谷着くのは9時半になってしまった。家は綺麗にして出てこれたのはよかった。家を出るまでをもう少し早くしないとじゃな&lt;/p&gt;</title>
+      <link>https://usememos.yammer.jp/m/SDVPv46ENYtfpjtkVscbWY</link>
+      <description>&lt;p&gt;6時半に起きて体が動き始めてからランニングして、だと渋谷着くのは9時半になってしまった。家は綺麗にして出てこれたのはよかった。家を出るまでをもう少し早くしないとじゃな&lt;/p&gt;</description>
+      <guid>https://usememos.yammer.jp/m/SDVPv46ENYtfpjtkVscbWY</guid>
+      <pubDate>Mon, 05 Jan 2026 00:20:33 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>ワークマン行脚をしたおかげでメリノウールのインナーを手に入れた</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mbn4tdubak2r</link>
       <description>ワークマン行脚をしたおかげでメリノウールのインナーを手に入れた</description>
@@ -1247,14 +1263,6 @@ fortee.jp/phpcon-2025/pr…
       <source>memos</source>
     </item>
     <item>
-      <title>&lt;p&gt;ラーメンくって帰る！&lt;/p&gt;</title>
-      <link>https://usememos.yammer.jp/m/ALoLhsGtuw74EbPuTCvcJW</link>
-      <description>&lt;p&gt;ラーメンくって帰る！&lt;/p&gt;</description>
-      <guid>https://usememos.yammer.jp/m/ALoLhsGtuw74EbPuTCvcJW</guid>
-      <pubDate>Mon, 23 Jun 2025 14:30:41 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
       <title>ひさネパ pic.x.com/r1umZbzgfV</title>
       <link>https://x.com/yammerjp/status/1935557622087954666</link>
       <description>ひさネパ pic.x.com/r1umZbzgfV</description>
@@ -1488,14 +1496,6 @@ https://gist.github.com/yammerjp/68dfa8ca6b2fc003618246554b2033d7#file-gen-sql-i
       <description>VPSにある某アプリをやっと再起動した</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7rwy64k22r</guid>
       <pubDate>Mon, 18 Nov 2024 11:11:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>そろそろ初めてのエンジンオイル交換</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3lb7n7oq6ns2i</link>
-      <description>そろそろ初めてのエンジンオイル交換</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7n7oq6ns2i</guid>
-      <pubDate>Mon, 18 Nov 2024 09:46:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
   </channel>
