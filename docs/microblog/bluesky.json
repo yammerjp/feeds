@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/bluesky.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbr5cx4aa22u",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbr5cx4aa22u",
+      "content_text": "日記アプリ、つくりながら日々書きたいけど、expoのdevelopment buildだとサーバが動いていないとダメなのがつらいな",
+      "date_published": "2026-01-06T14:16:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbpnnpambk2p",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbpnnpambk2p",
       "content_text": "引っ越しして1年半でやっとわかったのですが、10両3号車4ドアが最高です",
@@ -177,12 +183,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3lb7w3dsfm22r",
       "content_text": "sshポートフォワードして別タブでコマンド実行するの面倒臭いのだけど、こういうのふつうみんなどうしているの？",
       "date_published": "2024-11-18T12:25:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7rwy64k22r",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lb7rwy64k22r",
-      "content_text": "VPSにある某アプリをやっと再起動した",
-      "date_published": "2024-11-18T11:11:00.000Z"
     }
   ]
 }

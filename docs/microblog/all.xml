@@ -5,6 +5,30 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>日記アプリ、つくりながら日々書きたいけど、expoのdevelopment buildだとサーバが動いていないとダメなのがつらいな</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mbr5cx4aa22u</link>
+      <description>日記アプリ、つくりながら日々書きたいけど、expoのdevelopment buildだとサーバが動いていないとダメなのがつらいな</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbr5cx4aa22u</guid>
+      <pubDate>Tue, 06 Jan 2026 14:16:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
+      <title>&lt;p&gt;今日は結構混んでいるな、ドリンクも席も&lt;/p&gt;</title>
+      <link>https://usememos.yammer.jp/m/kgmixt34JLSXSaon3673Nw</link>
+      <description>&lt;p&gt;今日は結構混んでいるな、ドリンクも席も&lt;/p&gt;</description>
+      <guid>https://usememos.yammer.jp/m/kgmixt34JLSXSaon3673Nw</guid>
+      <pubDate>Tue, 06 Jan 2026 00:15:09 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>&lt;p&gt;起きるのは昨日よりも15分遅かったが、テキパキ来ればちょい早く着けることがわかったが、ちょいではある&lt;/p&gt;</title>
+      <link>https://usememos.yammer.jp/m/PWejXKW7wjxD48eAbhtiUj</link>
+      <description>&lt;p&gt;起きるのは昨日よりも15分遅かったが、テキパキ来ればちょい早く着けることがわかったが、ちょいではある&lt;/p&gt;</description>
+      <guid>https://usememos.yammer.jp/m/PWejXKW7wjxD48eAbhtiUj</guid>
+      <pubDate>Tue, 06 Jan 2026 00:14:23 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>引っ越しして1年半でやっとわかったのですが、10両3号車4ドアが最高です</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mbpnnpambk2p</link>
       <description>引っ越しして1年半でやっとわかったのですが、10両3号車4ドアが最高です</description>
@@ -1247,22 +1271,6 @@ fortee.jp/phpcon-2025/pr…
       <source>memos</source>
     </item>
     <item>
-      <title>&lt;p&gt;ラーメン食っちまった&lt;/p&gt;</title>
-      <link>https://usememos.yammer.jp/m/Zsqg5HHbhDJcaQGrA43UnL</link>
-      <description>&lt;p&gt;ラーメン食っちまった&lt;/p&gt;</description>
-      <guid>https://usememos.yammer.jp/m/Zsqg5HHbhDJcaQGrA43UnL</guid>
-      <pubDate>Wed, 25 Jun 2025 14:26:19 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>&lt;p&gt;コードを書いて行動で示すにも、中途半端だと良くないなという気持ちにもなる&lt;/p&gt;</title>
-      <link>https://usememos.yammer.jp/m/ehXYzD9Nbjc8wB3tZ4Lhq9</link>
-      <description>&lt;p&gt;コードを書いて行動で示すにも、中途半端だと良くないなという気持ちにもなる&lt;/p&gt;</description>
-      <guid>https://usememos.yammer.jp/m/ehXYzD9Nbjc8wB3tZ4Lhq9</guid>
-      <pubDate>Wed, 25 Jun 2025 14:26:11 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
       <title>ひさネパ pic.x.com/r1umZbzgfV</title>
       <link>https://x.com/yammerjp/status/1935557622087954666</link>
       <description>ひさネパ pic.x.com/r1umZbzgfV</description>
@@ -1488,14 +1496,6 @@ https://gist.github.com/yammerjp/68dfa8ca6b2fc003618246554b2033d7#file-gen-sql-i
       <description>sshポートフォワードして別タブでコマンド実行するの面倒臭いのだけど、こういうのふつうみんなどうしているの？</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7w3dsfm22r</guid>
       <pubDate>Mon, 18 Nov 2024 12:25:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>VPSにある某アプリをやっと再起動した</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3lb7rwy64k22r</link>
-      <description>VPSにある某アプリをやっと再起動した</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7rwy64k22r</guid>
-      <pubDate>Mon, 18 Nov 2024 11:11:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
   </channel>
