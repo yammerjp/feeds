@@ -5,6 +5,7 @@ import { fetchRss, rssToJsonFeed } from "../microblog/rss.js";
 
 const BLUESKY_HANDLE = "yammer.jp";
 const MEMOS_RSS_URL = "https://usememos.yammer.jp/u/yammer/rss.xml";
+const PHOTOS_RSS_URL = "https://toycamera.yammer.jp/@yammer/feed.xml";
 const BASE_URL = "https://yammerjp.github.io/feed";
 
 interface FeedItem {
@@ -121,7 +122,23 @@ async function main() {
     allItems.push({ ...item, source: "memos" });
   }
 
-  // 4. 統合フィード（時系列ソート）
+  // 4. Photos (toycamera)
+  console.log(`Fetching Photos RSS...`);
+  const photosOutDir = "docs/photos";
+  mkdirSync(photosOutDir, { recursive: true });
+
+  const photosRssXml = await fetchRss(PHOTOS_RSS_URL);
+  writeFileSync(`${photosOutDir}/feed.xml`, photosRssXml);
+
+  const photosJsonFeed = rssToJsonFeed(photosRssXml, {
+    title: "yammer's photos",
+    homePageUrl: "https://toycamera.yammer.jp/@yammer",
+    feedUrl: `${BASE_URL}/photos/feed.json`,
+  });
+  writeFileSync(`${photosOutDir}/feed.json`, JSON.stringify(photosJsonFeed, null, 2));
+  console.log(`Saved Photos to ${photosOutDir}/feed.json and ${photosOutDir}/feed.xml`);
+
+  // 5. 統合フィード（時系列ソート）
   console.log("Building combined feed...");
   const sortedItems = allItems
     .filter((item) => item.date_published)
