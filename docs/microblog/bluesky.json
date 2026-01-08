@@ -5,6 +5,36 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/bluesky.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbunjv7z6222",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbunjv7z6222",
+      "content_text": "EAS Submission Workflow、Free Tierだと結構かかるな。ビルドはわりと早く回ってくるんだけど",
+      "date_published": "2026-01-07T23:44:00.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbunhluznk22",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbunhluznk22",
+      "content_text": "ありー4号車4ドアの時もある？",
+      "date_published": "2026-01-07T23:43:00.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbr5cx4aa22u",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbr5cx4aa22u",
+      "content_text": "日記アプリ、つくりながら日々書きたいけど、expoのdevelopment buildだとサーバが動いていないとダメなのがつらいな",
+      "date_published": "2026-01-06T14:16:00.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbpnnpambk2p",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbpnnpambk2p",
+      "content_text": "引っ越しして1年半でやっとわかったのですが、10両3号車4ドアが最高です",
+      "date_published": "2026-01-06T00:03:00.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbn4tdubak2r",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbn4tdubak2r",
+      "content_text": "ワークマン行脚をしたおかげでメリノウールのインナーを手に入れた",
+      "date_published": "2026-01-04T23:56:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbid2cvbvs2z",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbid2cvbvs2z",
       "content_text": "コメダモーニング、無料ということに毎度気づいていない気がする",
@@ -153,36 +183,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3lcal3n64ds2t",
       "content_text": "墓場に持っていきたいもの: のどぬ〜るぬれマスク",
       "date_published": "2024-12-01T12:06:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lcal2xobm22t",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lcal2xobm22t",
-      "content_text": "のどぬ〜るぬれマスク最高すぎる",
-      "date_published": "2024-12-01T12:06:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7w3dsfm22r",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lb7w3dsfm22r",
-      "content_text": "sshポートフォワードして別タブでコマンド実行するの面倒臭いのだけど、こういうのふつうみんなどうしているの？",
-      "date_published": "2024-11-18T12:25:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7rwy64k22r",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lb7rwy64k22r",
-      "content_text": "VPSにある某アプリをやっと再起動した",
-      "date_published": "2024-11-18T11:11:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7n7oq6ns2i",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lb7n7oq6ns2i",
-      "content_text": "そろそろ初めてのエンジンオイル交換",
-      "date_published": "2024-11-18T09:46:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7n7cwpkk2i",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lb7n7cwpkk2i",
-      "content_text": "スタッドレスの検討をしている",
-      "date_published": "2024-11-18T09:46:00.000Z"
     }
   ]
 }

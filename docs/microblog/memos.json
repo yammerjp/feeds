@@ -5,6 +5,30 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/memos.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/ETY8SgYSiL26C38Pph9GUN",
+      "url": "https://usememos.yammer.jp/m/ETY8SgYSiL26C38Pph9GUN",
+      "content_text": "<p>1週間を通じて少しずつ早くなっている。まだ余地がありそう</p>",
+      "date_published": "2026-01-07T23:22:33.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/kgmixt34JLSXSaon3673Nw",
+      "url": "https://usememos.yammer.jp/m/kgmixt34JLSXSaon3673Nw",
+      "content_text": "<p>今日は結構混んでいるな、ドリンクも席も</p>",
+      "date_published": "2026-01-06T00:15:09.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/PWejXKW7wjxD48eAbhtiUj",
+      "url": "https://usememos.yammer.jp/m/PWejXKW7wjxD48eAbhtiUj",
+      "content_text": "<p>起きるのは昨日よりも15分遅かったが、テキパキ来ればちょい早く着けることがわかったが、ちょいではある</p>",
+      "date_published": "2026-01-06T00:14:23.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/SDVPv46ENYtfpjtkVscbWY",
+      "url": "https://usememos.yammer.jp/m/SDVPv46ENYtfpjtkVscbWY",
+      "content_text": "<p>6時半に起きて体が動き始めてからランニングして、だと渋谷着くのは9時半になってしまった。家は綺麗にして出てこれたのはよかった。家を出るまでをもう少し早くしないとじゃな</p>",
+      "date_published": "2026-01-05T00:20:33.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/VvdW7f7gry6dPe34VSgxRH",
       "url": "https://usememos.yammer.jp/m/VvdW7f7gry6dPe34VSgxRH",
       "content_text": "<p>個人サイトは盆栽</p>",
@@ -579,30 +603,6 @@
       "url": "https://usememos.yammer.jp/m/RwrcjqDECpbCUfxzaaK6LF",
       "content_text": "<p>Appleのデバイスばかり使うようになってしまって、久々にAndroidを使おうとしたらセットアップのブートストラップで詰んでしまった</p>",
       "date_published": "2025-07-01T01:24:20.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/fKcLjMaQhzAKeuQ267UzLJ",
-      "url": "https://usememos.yammer.jp/m/fKcLjMaQhzAKeuQ267UzLJ",
-      "content_text": "<p>ターミナルに帰ってきた</p><br><p>Claude CodeのおかげでVSCodeやCursorを起動する必要がなくなって、tmuxとNeoVimで生活するスタイルに帰ってきた。気づけば2年くらい離れていたかもしれない。NeoVimの設定ファイルはまともに使うには壊れているという有様で、AstroNvimを使い始めた。今のところ社内用のちょいとした設定以外はなにも変えず、そのまま使っている。</p>",
-      "date_published": "2025-06-25T14:29:02.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/Zsqg5HHbhDJcaQGrA43UnL",
-      "url": "https://usememos.yammer.jp/m/Zsqg5HHbhDJcaQGrA43UnL",
-      "content_text": "<p>ラーメン食っちまった</p>",
-      "date_published": "2025-06-25T14:26:19.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/ehXYzD9Nbjc8wB3tZ4Lhq9",
-      "url": "https://usememos.yammer.jp/m/ehXYzD9Nbjc8wB3tZ4Lhq9",
-      "content_text": "<p>コードを書いて行動で示すにも、中途半端だと良くないなという気持ちにもなる</p>",
-      "date_published": "2025-06-25T14:26:11.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/ALoLhsGtuw74EbPuTCvcJW",
-      "url": "https://usememos.yammer.jp/m/ALoLhsGtuw74EbPuTCvcJW",
-      "content_text": "<p>ラーメンくって帰る！</p>",
-      "date_published": "2025-06-23T14:30:41.000Z"
     }
   ]
 }

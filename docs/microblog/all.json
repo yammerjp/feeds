@@ -5,6 +5,69 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbunjv7z6222",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbunjv7z6222",
+      "content_text": "EAS Submission Workflow、Free Tierだと結構かかるな。ビルドはわりと早く回ってくるんだけど",
+      "date_published": "2026-01-07T23:44:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbunhluznk22",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbunhluznk22",
+      "content_text": "ありー4号車4ドアの時もある？",
+      "date_published": "2026-01-07T23:43:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/ETY8SgYSiL26C38Pph9GUN",
+      "url": "https://usememos.yammer.jp/m/ETY8SgYSiL26C38Pph9GUN",
+      "content_text": "<p>1週間を通じて少しずつ早くなっている。まだ余地がありそう</p>",
+      "date_published": "2026-01-07T23:22:33.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbr5cx4aa22u",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbr5cx4aa22u",
+      "content_text": "日記アプリ、つくりながら日々書きたいけど、expoのdevelopment buildだとサーバが動いていないとダメなのがつらいな",
+      "date_published": "2026-01-06T14:16:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/kgmixt34JLSXSaon3673Nw",
+      "url": "https://usememos.yammer.jp/m/kgmixt34JLSXSaon3673Nw",
+      "content_text": "<p>今日は結構混んでいるな、ドリンクも席も</p>",
+      "date_published": "2026-01-06T00:15:09.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/PWejXKW7wjxD48eAbhtiUj",
+      "url": "https://usememos.yammer.jp/m/PWejXKW7wjxD48eAbhtiUj",
+      "content_text": "<p>起きるのは昨日よりも15分遅かったが、テキパキ来ればちょい早く着けることがわかったが、ちょいではある</p>",
+      "date_published": "2026-01-06T00:14:23.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbpnnpambk2p",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbpnnpambk2p",
+      "content_text": "引っ越しして1年半でやっとわかったのですが、10両3号車4ドアが最高です",
+      "date_published": "2026-01-06T00:03:00.000Z",
+      "source": "bluesky"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/SDVPv46ENYtfpjtkVscbWY",
+      "url": "https://usememos.yammer.jp/m/SDVPv46ENYtfpjtkVscbWY",
+      "content_text": "<p>6時半に起きて体が動き始めてからランニングして、だと渋谷着くのは9時半になってしまった。家は綺麗にして出てこれたのはよかった。家を出るまでをもう少し早くしないとじゃな</p>",
+      "date_published": "2026-01-05T00:20:33.000Z",
+      "source": "memos"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbn4tdubak2r",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbn4tdubak2r",
+      "content_text": "ワークマン行脚をしたおかげでメリノウールのインナーを手に入れた",
+      "date_published": "2026-01-04T23:56:00.000Z",
+      "source": "bluesky"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/VvdW7f7gry6dPe34VSgxRH",
       "url": "https://usememos.yammer.jp/m/VvdW7f7gry6dPe34VSgxRH",
       "content_text": "<p>個人サイトは盆栽</p>",
@@ -1034,34 +1097,6 @@
       "source": "twitter"
     },
     {
-      "id": "https://usememos.yammer.jp/m/fKcLjMaQhzAKeuQ267UzLJ",
-      "url": "https://usememos.yammer.jp/m/fKcLjMaQhzAKeuQ267UzLJ",
-      "content_text": "<p>ターミナルに帰ってきた</p><br><p>Claude CodeのおかげでVSCodeやCursorを起動する必要がなくなって、tmuxとNeoVimで生活するスタイルに帰ってきた。気づけば2年くらい離れていたかもしれない。NeoVimの設定ファイルはまともに使うには壊れているという有様で、AstroNvimを使い始めた。今のところ社内用のちょいとした設定以外はなにも変えず、そのまま使っている。</p>",
-      "date_published": "2025-06-25T14:29:02.000Z",
-      "source": "memos"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/Zsqg5HHbhDJcaQGrA43UnL",
-      "url": "https://usememos.yammer.jp/m/Zsqg5HHbhDJcaQGrA43UnL",
-      "content_text": "<p>ラーメン食っちまった</p>",
-      "date_published": "2025-06-25T14:26:19.000Z",
-      "source": "memos"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/ehXYzD9Nbjc8wB3tZ4Lhq9",
-      "url": "https://usememos.yammer.jp/m/ehXYzD9Nbjc8wB3tZ4Lhq9",
-      "content_text": "<p>コードを書いて行動で示すにも、中途半端だと良くないなという気持ちにもなる</p>",
-      "date_published": "2025-06-25T14:26:11.000Z",
-      "source": "memos"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/ALoLhsGtuw74EbPuTCvcJW",
-      "url": "https://usememos.yammer.jp/m/ALoLhsGtuw74EbPuTCvcJW",
-      "content_text": "<p>ラーメンくって帰る！</p>",
-      "date_published": "2025-06-23T14:30:41.000Z",
-      "source": "memos"
-    },
-    {
       "id": "1935557622087954666",
       "url": "https://x.com/yammerjp/status/1935557622087954666",
       "content_text": "ひさネパ pic.x.com/r1umZbzgfV",
@@ -1234,41 +1269,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3lcal3n64ds2t",
       "content_text": "墓場に持っていきたいもの: のどぬ〜るぬれマスク",
       "date_published": "2024-12-01T12:06:00.000Z",
-      "source": "bluesky"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lcal2xobm22t",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lcal2xobm22t",
-      "content_text": "のどぬ〜るぬれマスク最高すぎる",
-      "date_published": "2024-12-01T12:06:00.000Z",
-      "source": "bluesky"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7w3dsfm22r",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lb7w3dsfm22r",
-      "content_text": "sshポートフォワードして別タブでコマンド実行するの面倒臭いのだけど、こういうのふつうみんなどうしているの？",
-      "date_published": "2024-11-18T12:25:00.000Z",
-      "source": "bluesky"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7rwy64k22r",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lb7rwy64k22r",
-      "content_text": "VPSにある某アプリをやっと再起動した",
-      "date_published": "2024-11-18T11:11:00.000Z",
-      "source": "bluesky"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7n7oq6ns2i",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lb7n7oq6ns2i",
-      "content_text": "そろそろ初めてのエンジンオイル交換",
-      "date_published": "2024-11-18T09:46:00.000Z",
-      "source": "bluesky"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7n7cwpkk2i",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lb7n7cwpkk2i",
-      "content_text": "スタッドレスの検討をしている",
-      "date_published": "2024-11-18T09:46:00.000Z",
       "source": "bluesky"
     }
   ]
