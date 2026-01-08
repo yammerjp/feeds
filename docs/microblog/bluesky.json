@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/bluesky.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbunjv7z6222",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbunjv7z6222",
+      "content_text": "EAS Submission Workflow、Free Tierだと結構かかるな。ビルドはわりと早く回ってくるんだけど",
+      "date_published": "2026-01-07T23:44:00.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbunhluznk22",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbunhluznk22",
+      "content_text": "ありー4号車4ドアの時もある？",
+      "date_published": "2026-01-07T23:43:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbr5cx4aa22u",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbr5cx4aa22u",
       "content_text": "日記アプリ、つくりながら日々書きたいけど、expoのdevelopment buildだとサーバが動いていないとダメなのがつらいな",
@@ -171,18 +183,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3lcal3n64ds2t",
       "content_text": "墓場に持っていきたいもの: のどぬ〜るぬれマスク",
       "date_published": "2024-12-01T12:06:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lcal2xobm22t",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lcal2xobm22t",
-      "content_text": "のどぬ〜るぬれマスク最高すぎる",
-      "date_published": "2024-12-01T12:06:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7w3dsfm22r",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lb7w3dsfm22r",
-      "content_text": "sshポートフォワードして別タブでコマンド実行するの面倒臭いのだけど、こういうのふつうみんなどうしているの？",
-      "date_published": "2024-11-18T12:25:00.000Z"
     }
   ]
 }

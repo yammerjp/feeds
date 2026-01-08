@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/memos.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/ETY8SgYSiL26C38Pph9GUN",
+      "url": "https://usememos.yammer.jp/m/ETY8SgYSiL26C38Pph9GUN",
+      "content_text": "<p>1週間を通じて少しずつ早くなっている。まだ余地がありそう</p>",
+      "date_published": "2026-01-07T23:22:33.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/kgmixt34JLSXSaon3673Nw",
       "url": "https://usememos.yammer.jp/m/kgmixt34JLSXSaon3673Nw",
       "content_text": "<p>今日は結構混んでいるな、ドリンクも席も</p>",
@@ -597,12 +603,6 @@
       "url": "https://usememos.yammer.jp/m/RwrcjqDECpbCUfxzaaK6LF",
       "content_text": "<p>Appleのデバイスばかり使うようになってしまって、久々にAndroidを使おうとしたらセットアップのブートストラップで詰んでしまった</p>",
       "date_published": "2025-07-01T01:24:20.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/fKcLjMaQhzAKeuQ267UzLJ",
-      "url": "https://usememos.yammer.jp/m/fKcLjMaQhzAKeuQ267UzLJ",
-      "content_text": "<p>ターミナルに帰ってきた</p><br><p>Claude CodeのおかげでVSCodeやCursorを起動する必要がなくなって、tmuxとNeoVimで生活するスタイルに帰ってきた。気づけば2年くらい離れていたかもしれない。NeoVimの設定ファイルはまともに使うには壊れているという有様で、AstroNvimを使い始めた。今のところ社内用のちょいとした設定以外はなにも変えず、そのまま使っている。</p>",
-      "date_published": "2025-06-25T14:29:02.000Z"
     }
   ]
 }

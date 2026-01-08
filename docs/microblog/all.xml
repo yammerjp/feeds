@@ -5,6 +5,30 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>EAS Submission Workflow、Free Tierだと結構かかるな。ビルドはわりと早く回ってくるんだけど</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mbunjv7z6222</link>
+      <description>EAS Submission Workflow、Free Tierだと結構かかるな。ビルドはわりと早く回ってくるんだけど</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbunjv7z6222</guid>
+      <pubDate>Wed, 07 Jan 2026 23:44:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
+      <title>ありー4号車4ドアの時もある？</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mbunhluznk22</link>
+      <description>ありー4号車4ドアの時もある？</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbunhluznk22</guid>
+      <pubDate>Wed, 07 Jan 2026 23:43:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
+      <title>&lt;p&gt;1週間を通じて少しずつ早くなっている。まだ余地がありそう&lt;/p&gt;</title>
+      <link>https://usememos.yammer.jp/m/ETY8SgYSiL26C38Pph9GUN</link>
+      <description>&lt;p&gt;1週間を通じて少しずつ早くなっている。まだ余地がありそう&lt;/p&gt;</description>
+      <guid>https://usememos.yammer.jp/m/ETY8SgYSiL26C38Pph9GUN</guid>
+      <pubDate>Wed, 07 Jan 2026 23:22:33 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>日記アプリ、つくりながら日々書きたいけど、expoのdevelopment buildだとサーバが動いていないとダメなのがつらいな</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mbr5cx4aa22u</link>
       <description>日記アプリ、つくりながら日々書きたいけど、expoのdevelopment buildだとサーバが動いていないとダメなのがつらいな</description>
@@ -1263,14 +1287,6 @@ fortee.jp/phpcon-2025/pr…
       <source>twitter</source>
     </item>
     <item>
-      <title>&lt;p&gt;ターミナルに帰ってきた&lt;/p&gt;&lt;br&gt;&lt;p&gt;Claude CodeのおかげでVSCodeやCursorを起動する必要がなくなって、tmuxとNeoVimで生活するスタイルに帰ってきた。気づけば2</title>
-      <link>https://usememos.yammer.jp/m/fKcLjMaQhzAKeuQ267UzLJ</link>
-      <description>&lt;p&gt;ターミナルに帰ってきた&lt;/p&gt;&lt;br&gt;&lt;p&gt;Claude CodeのおかげでVSCodeやCursorを起動する必要がなくなって、tmuxとNeoVimで生活するスタイルに帰ってきた。気づけば2年くらい離れていたかもしれない。NeoVimの設定ファイルはまともに使うには壊れているという有様で、AstroNvimを使い始めた。今のところ社内用のちょいとした設定以外はなにも変えず、そのまま使っている。&lt;/p&gt;</description>
-      <guid>https://usememos.yammer.jp/m/fKcLjMaQhzAKeuQ267UzLJ</guid>
-      <pubDate>Wed, 25 Jun 2025 14:29:02 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
       <title>ひさネパ pic.x.com/r1umZbzgfV</title>
       <link>https://x.com/yammerjp/status/1935557622087954666</link>
       <description>ひさネパ pic.x.com/r1umZbzgfV</description>
@@ -1480,22 +1496,6 @@ https://gist.github.com/yammerjp/68dfa8ca6b2fc003618246554b2033d7#file-gen-sql-i
       <description>墓場に持っていきたいもの: のどぬ〜るぬれマスク</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lcal3n64ds2t</guid>
       <pubDate>Sun, 01 Dec 2024 12:06:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>のどぬ〜るぬれマスク最高すぎる</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3lcal2xobm22t</link>
-      <description>のどぬ〜るぬれマスク最高すぎる</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lcal2xobm22t</guid>
-      <pubDate>Sun, 01 Dec 2024 12:06:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>sshポートフォワードして別タブでコマンド実行するの面倒臭いのだけど、こういうのふつうみんなどうしているの？</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3lb7w3dsfm22r</link>
-      <description>sshポートフォワードして別タブでコマンド実行するの面倒臭いのだけど、こういうのふつうみんなどうしているの？</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lb7w3dsfm22r</guid>
-      <pubDate>Mon, 18 Nov 2024 12:25:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
   </channel>

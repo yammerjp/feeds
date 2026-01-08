@@ -3,7 +3,13 @@
     <title>Memos</title>
     <link>https://usememos.yammer.jp</link>
     <description>An open source, lightweight note-taking service. Easily capture and share your great thoughts.</description>
-    <pubDate>Wed, 07 Jan 2026 00:03:15 +0000</pubDate>
+    <pubDate>Thu, 08 Jan 2026 00:03:25 +0000</pubDate>
+    <item>
+      <title></title>
+      <link>https://usememos.yammer.jp/m/ETY8SgYSiL26C38Pph9GUN</link>
+      <description>&lt;p&gt;1週間を通じて少しずつ早くなっている。まだ余地がありそう&lt;/p&gt;</description>
+      <pubDate>Wed, 07 Jan 2026 23:22:33 +0000</pubDate>
+    </item>
     <item>
       <title></title>
       <link>https://usememos.yammer.jp/m/kgmixt34JLSXSaon3673Nw</link>
@@ -601,12 +607,6 @@
       <link>https://usememos.yammer.jp/m/RwrcjqDECpbCUfxzaaK6LF</link>
       <description>&lt;p&gt;Appleのデバイスばかり使うようになってしまって、久々にAndroidを使おうとしたらセットアップのブートストラップで詰んでしまった&lt;/p&gt;</description>
       <pubDate>Tue, 01 Jul 2025 01:24:20 +0000</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://usememos.yammer.jp/m/fKcLjMaQhzAKeuQ267UzLJ</link>
-      <description>&lt;p&gt;ターミナルに帰ってきた&lt;/p&gt;&lt;br&gt;&lt;p&gt;Claude CodeのおかげでVSCodeやCursorを起動する必要がなくなって、tmuxとNeoVimで生活するスタイルに帰ってきた。気づけば2年くらい離れていたかもしれない。NeoVimの設定ファイルはまともに使うには壊れているという有様で、AstroNvimを使い始めた。今のところ社内用のちょいとした設定以外はなにも変えず、そのまま使っている。&lt;/p&gt;</description>
-      <pubDate>Wed, 25 Jun 2025 14:29:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
