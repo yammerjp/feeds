@@ -5,6 +5,38 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>今日も4-4だ</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mbx5ll3udc24</link>
+      <description>今日も4-4だ</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbx5ll3udc24</guid>
+      <pubDate>Thu, 08 Jan 2026 23:37:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
+      <title>&lt;p&gt;健康、学び&lt;/p&gt;</title>
+      <link>https://usememos.yammer.jp/m/Da3ezPdF9mGTdtSZhyFhVu</link>
+      <description>&lt;p&gt;健康、学び&lt;/p&gt;</description>
+      <guid>https://usememos.yammer.jp/m/Da3ezPdF9mGTdtSZhyFhVu</guid>
+      <pubDate>Thu, 08 Jan 2026 23:00:16 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>シリーズ最高のツヤ、耐久性、耐水性</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mbw4ygruus26</link>
+      <description>シリーズ最高のツヤ、耐久性、耐水性</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbw4ygruus26</guid>
+      <pubDate>Thu, 08 Jan 2026 13:53:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
+      <title>&lt;p&gt;この寒い冬、平日夜に地下鉄のホームでアイス買って食べてるひとをみると、きっと自分のご褒美に甘やかしているんだなと、あたたかいきもちになる。仕事をしている全ての人に乾杯！&lt;/p&gt;</title>
+      <link>https://usememos.yammer.jp/m/E93CHk9ozbaN7CJM6ujQfS</link>
+      <description>&lt;p&gt;この寒い冬、平日夜に地下鉄のホームでアイス買って食べてるひとをみると、きっと自分のご褒美に甘やかしているんだなと、あたたかいきもちになる。仕事をしている全ての人に乾杯！&lt;/p&gt;</description>
+      <guid>https://usememos.yammer.jp/m/E93CHk9ozbaN7CJM6ujQfS</guid>
+      <pubDate>Thu, 08 Jan 2026 13:37:13 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>EAS Submission Workflow、Free Tierだと結構かかるな。ビルドはわりと早く回ってくるんだけど</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mbunjv7z6222</link>
       <description>EAS Submission Workflow、Free Tierだと結構かかるな。ビルドはわりと早く回ってくるんだけど</description>
@@ -1171,22 +1203,6 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <source>memos</source>
     </item>
     <item>
-      <title>&lt;p&gt;これでよいのか/これしかないのか/これがよいのだ の狭間でやっていく&lt;/p&gt;</title>
-      <link>https://usememos.yammer.jp/m/Yt7XFA9EnwYDviFYkBXRGL</link>
-      <description>&lt;p&gt;これでよいのか/これしかないのか/これがよいのだ の狭間でやっていく&lt;/p&gt;</description>
-      <guid>https://usememos.yammer.jp/m/Yt7XFA9EnwYDviFYkBXRGL</guid>
-      <pubDate>Tue, 01 Jul 2025 01:24:55 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>&lt;p&gt;Appleのデバイスばかり使うようになってしまって、久々にAndroidを使おうとしたらセットアップのブートストラップで詰んでしまった&lt;/p&gt;</title>
-      <link>https://usememos.yammer.jp/m/RwrcjqDECpbCUfxzaaK6LF</link>
-      <description>&lt;p&gt;Appleのデバイスばかり使うようになってしまって、久々にAndroidを使おうとしたらセットアップのブートストラップで詰んでしまった&lt;/p&gt;</description>
-      <guid>https://usememos.yammer.jp/m/RwrcjqDECpbCUfxzaaK6LF</guid>
-      <pubDate>Tue, 01 Jul 2025 01:24:20 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
       <title>php.net/manual/ja/func…
 
 #phpcon</title>
@@ -1478,24 +1494,6 @@ github.com/pepabo/plusplu…</description>
       <description>打刻にあわせてポケポケのパック開封をする生活を始めた。リズムを刻んでいけ！</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lfpgfo5vus2u</guid>
       <pubDate>Tue, 14 Jan 2025 14:08:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>またつまらぬawkスクリプトを書いてしまった
-https://gist.github.com/yammerjp/68dfa8ca6b2fc003618246554b2033d7#file-gen-sq</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3lcftiljrik2s</link>
-      <description>またつまらぬawkスクリプトを書いてしまった
-https://gist.github.com/yammerjp/68dfa8ca6b2fc003618246554b2033d7#file-gen-sql-index-sh-L56-L72</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lcftiljrik2s</guid>
-      <pubDate>Tue, 03 Dec 2024 14:20:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>墓場に持っていきたいもの: のどぬ〜るぬれマスク</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3lcal3n64ds2t</link>
-      <description>墓場に持っていきたいもの: のどぬ〜るぬれマスク</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lcal3n64ds2t</guid>
-      <pubDate>Sun, 01 Dec 2024 12:06:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
   </channel>

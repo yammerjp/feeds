@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/bluesky.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbx5ll3udc24",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbx5ll3udc24",
+      "content_text": "今日も4-4だ",
+      "date_published": "2026-01-08T23:37:00.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbw4ygruus26",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbw4ygruus26",
+      "content_text": "シリーズ最高のツヤ、耐久性、耐水性",
+      "date_published": "2026-01-08T13:53:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbunjv7z6222",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbunjv7z6222",
       "content_text": "EAS Submission Workflow、Free Tierだと結構かかるな。ビルドはわりと早く回ってくるんだけど",
@@ -171,18 +183,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3lfpgfo5vus2u",
       "content_text": "打刻にあわせてポケポケのパック開封をする生活を始めた。リズムを刻んでいけ！",
       "date_published": "2025-01-14T14:08:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lcftiljrik2s",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lcftiljrik2s",
-      "content_text": "またつまらぬawkスクリプトを書いてしまった\nhttps://gist.github.com/yammerjp/68dfa8ca6b2fc003618246554b2033d7#file-gen-sql-index-sh-L56-L72",
-      "date_published": "2024-12-03T14:20:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lcal3n64ds2t",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lcal3n64ds2t",
-      "content_text": "墓場に持っていきたいもの: のどぬ〜るぬれマスク",
-      "date_published": "2024-12-01T12:06:00.000Z"
     }
   ]
 }

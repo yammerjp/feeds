@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/memos.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/Da3ezPdF9mGTdtSZhyFhVu",
+      "url": "https://usememos.yammer.jp/m/Da3ezPdF9mGTdtSZhyFhVu",
+      "content_text": "<p>健康、学び</p>",
+      "date_published": "2026-01-08T23:00:16.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/E93CHk9ozbaN7CJM6ujQfS",
+      "url": "https://usememos.yammer.jp/m/E93CHk9ozbaN7CJM6ujQfS",
+      "content_text": "<p>この寒い冬、平日夜に地下鉄のホームでアイス買って食べてるひとをみると、きっと自分のご褒美に甘やかしているんだなと、あたたかいきもちになる。仕事をしている全ての人に乾杯！</p>",
+      "date_published": "2026-01-08T13:37:13.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/ETY8SgYSiL26C38Pph9GUN",
       "url": "https://usememos.yammer.jp/m/ETY8SgYSiL26C38Pph9GUN",
       "content_text": "<p>1週間を通じて少しずつ早くなっている。まだ余地がありそう</p>",
@@ -591,18 +603,6 @@
       "url": "https://usememos.yammer.jp/m/m5eY8e7mXZPv6ZQtuM6w3k",
       "content_text": "<p>何もしていないのに左足首がピキッと来てしまった、何事〜</p>",
       "date_published": "2025-07-01T01:25:55.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/Yt7XFA9EnwYDviFYkBXRGL",
-      "url": "https://usememos.yammer.jp/m/Yt7XFA9EnwYDviFYkBXRGL",
-      "content_text": "<p>これでよいのか/これしかないのか/これがよいのだ の狭間でやっていく</p>",
-      "date_published": "2025-07-01T01:24:55.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/RwrcjqDECpbCUfxzaaK6LF",
-      "url": "https://usememos.yammer.jp/m/RwrcjqDECpbCUfxzaaK6LF",
-      "content_text": "<p>Appleのデバイスばかり使うようになってしまって、久々にAndroidを使おうとしたらセットアップのブートストラップで詰んでしまった</p>",
-      "date_published": "2025-07-01T01:24:20.000Z"
     }
   ]
 }
