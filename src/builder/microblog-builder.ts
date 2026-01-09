@@ -1,10 +1,8 @@
 import { writeFileSync, mkdirSync } from "node:fs";
-import { fetchTwilog, parseTwilogDateTime } from "../sources/twilog.js";
+import { fetchTwilogFeed } from "../sources/twilog.js";
 import { fetchBlueskyFeed } from "../sources/bluesky.js";
 import { fetchMemosFeed } from "../sources/memos.js";
-import { toJsonFeed, toRss } from "../microblog/feed.js";
 import { sortFeedItems, createCombinedJsonFeed, createCombinedRss } from "../lib/feed.js";
-import { guessYear } from "../lib/date.js";
 import type { FeedItem } from "../lib/types.js";
 
 export interface MicroblogBuildOptions {
@@ -24,17 +22,17 @@ export async function buildMicroblogFeed(options: MicroblogBuildOptions): Promis
 
   // 1. Twilog (tweets)
   console.log(`Fetching tweets from Twilog for @${username}...`);
-  const tweets = await fetchTwilog(username);
-  console.log(`Fetched ${tweets.length} tweets`);
+  const tweetsItems = await fetchTwilogFeed(username);
+  console.log(`Fetched ${tweetsItems.length} tweets`);
 
-  const tweetsJsonFeed = toJsonFeed(tweets, {
+  const tweetsJsonFeed = createCombinedJsonFeed(tweetsItems, {
     title: `@${username} tweets`,
     homePageUrl: `https://twilog.togetter.com/${username}`,
     feedUrl: `${baseUrl}/microblog/tweets.json`,
   });
   writeFileSync(`${outDir}/tweets.json`, JSON.stringify(tweetsJsonFeed, null, 2));
 
-  const tweetsRss = toRss(tweets, {
+  const tweetsRss = createCombinedRss(tweetsItems, {
     title: `@${username} tweets`,
     link: `https://twilog.togetter.com/${username}`,
     description: `Tweets from @${username} via Twilog`,
@@ -42,25 +40,7 @@ export async function buildMicroblogFeed(options: MicroblogBuildOptions): Promis
   writeFileSync(`${outDir}/tweets.xml`, tweetsRss);
   console.log(`Saved tweets to ${outDir}/tweets.json and ${outDir}/tweets.xml`);
 
-  // tweetsをallItemsに追加（日時パース）
-  for (const tweet of tweets) {
-    const dateMatch = tweet.date.match(/(\d+)月(\d+)日/);
-    let datePublished: string | undefined;
-    if (dateMatch) {
-      const month = parseInt(dateMatch[1], 10);
-      const day = parseInt(dateMatch[2], 10);
-      const year = guessYear(month, day);
-      datePublished = parseTwilogDateTime(tweet.date, tweet.time, year);
-    }
-
-    allItems.push({
-      id: tweet.id || tweet.url || tweet.text.slice(0, 50),
-      url: tweet.url || `https://twilog.togetter.com/${username}`,
-      content_text: tweet.text,
-      date_published: datePublished,
-      tags: ["twitter"],
-    });
-  }
+  allItems.push(...tweetsItems);
 
   // 2. Bluesky
   console.log(`Fetching Bluesky posts for @${blueskyHandle}...`);

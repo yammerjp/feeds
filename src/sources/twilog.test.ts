@@ -1,6 +1,7 @@
 import { describe, it, expect } from "vitest";
 import { readFileSync } from "node:fs";
-import { parseTwilogHtml, parseTwilogDateTime } from "./twilog.js";
+import { parseTwilogHtml, parseTwilogDateTime, twilogToFeedItems } from "./twilog.js";
+import type { Tweet } from "./twilog.js";
 
 const html = readFileSync("src/sources/__fixtures__/twilog-yammerjp.html", "utf-8");
 
@@ -60,5 +61,57 @@ describe("parseTwilogDateTime", () => {
   it("should return undefined for invalid input", () => {
     const result = parseTwilogDateTime("", "", 2025);
     expect(result).toBeUndefined();
+  });
+});
+
+describe("twilogToFeedItems", () => {
+  it("should convert tweets to FeedItems", () => {
+    const tweets: Tweet[] = [
+      {
+        id: "123",
+        text: "Test tweet",
+        date: "1月1日",
+        time: "00:15:25",
+        url: "https://x.com/user/status/123",
+      },
+    ];
+
+    const items = twilogToFeedItems(tweets, "testuser");
+    expect(items).toHaveLength(1);
+    expect(items[0].id).toBe("123");
+    expect(items[0].content_text).toBe("Test tweet");
+    expect(items[0].url).toBe("https://x.com/user/status/123");
+    expect(items[0].tags).toEqual(["twitter"]);
+    expect(items[0].date_published).toMatch(/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\+09:00$/);
+  });
+
+  it("should use default URL when tweet URL is empty", () => {
+    const tweets: Tweet[] = [
+      {
+        id: "123",
+        text: "Test tweet",
+        date: "1月1日",
+        time: "00:15:25",
+        url: "",
+      },
+    ];
+
+    const items = twilogToFeedItems(tweets, "testuser");
+    expect(items[0].url).toBe("https://twilog.togetter.com/testuser");
+  });
+
+  it("should handle undefined date_published", () => {
+    const tweets: Tweet[] = [
+      {
+        id: "123",
+        text: "Test tweet",
+        date: "",
+        time: "",
+        url: "https://x.com/user/status/123",
+      },
+    ];
+
+    const items = twilogToFeedItems(tweets, "testuser");
+    expect(items[0].date_published).toBeUndefined();
   });
 });

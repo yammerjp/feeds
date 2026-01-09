@@ -1,5 +1,7 @@
 import { chromium } from "playwright";
 import { JSDOM } from "jsdom";
+import type { FeedItem } from "../lib/types.js";
+import { guessYear } from "../lib/date.js";
 
 export interface Tweet {
   id: string;
@@ -81,4 +83,32 @@ export async function fetchTwilogHtml(username: string): Promise<string> {
 export async function fetchTwilog(username: string): Promise<Tweet[]> {
   const html = await fetchTwilogHtml(username);
   return parseTwilogHtml(html);
+}
+
+export function twilogToFeedItems(tweets: Tweet[], username: string): FeedItem[] {
+  return tweets.map((tweet) => {
+    let datePublished: string | undefined;
+    if (tweet.date && tweet.time) {
+      const dateMatch = tweet.date.match(/(\d+)月(\d+)日/);
+      if (dateMatch) {
+        const month = parseInt(dateMatch[1], 10);
+        const day = parseInt(dateMatch[2], 10);
+        const year = guessYear(month, day);
+        datePublished = parseTwilogDateTime(tweet.date, tweet.time, year);
+      }
+    }
+
+    return {
+      id: tweet.id || tweet.url || tweet.text.slice(0, 50),
+      url: tweet.url || `https://twilog.togetter.com/${username}`,
+      content_text: tweet.text,
+      date_published: datePublished,
+      tags: ["twitter"],
+    };
+  });
+}
+
+export async function fetchTwilogFeed(username: string): Promise<FeedItem[]> {
+  const tweets = await fetchTwilog(username);
+  return twilogToFeedItems(tweets, username);
 }
