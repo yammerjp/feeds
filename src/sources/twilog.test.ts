@@ -2,7 +2,7 @@ import { describe, it, expect } from "vitest";
 import { readFileSync } from "node:fs";
 import { parseTwilogHtml, parseTwilogDateTime } from "./twilog.js";
 
-const html = readFileSync("src/microblog/__fixtures__/twilog-yammerjp.html", "utf-8");
+const html = readFileSync("src/sources/__fixtures__/twilog-yammerjp.html", "utf-8");
 
 describe("parseTwilogHtml", () => {
   it("should parse tweets from HTML", () => {

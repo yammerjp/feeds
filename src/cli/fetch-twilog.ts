@@ -1,5 +1,5 @@
 import { writeFileSync } from "node:fs";
-import { fetchTwilog } from "../microblog/twilog.js";
+import { fetchTwilog } from "../sources/twilog.js";
 
 function printUsage() {
   console.log(`Usage: fetch-twilog <username> <output-file>

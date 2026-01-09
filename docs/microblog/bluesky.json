@@ -8,181 +8,271 @@
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbx5ll3udc24",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbx5ll3udc24",
       "content_text": "今日も4-4だ",
-      "date_published": "2026-01-08T23:37:00.000Z"
+      "date_published": "2026-01-08T23:37:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbw4ygruus26",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbw4ygruus26",
       "content_text": "シリーズ最高のツヤ、耐久性、耐水性",
-      "date_published": "2026-01-08T13:53:00.000Z"
+      "date_published": "2026-01-08T13:53:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbunjv7z6222",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbunjv7z6222",
       "content_text": "EAS Submission Workflow、Free Tierだと結構かかるな。ビルドはわりと早く回ってくるんだけど",
-      "date_published": "2026-01-07T23:44:00.000Z"
+      "date_published": "2026-01-07T23:44:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbunhluznk22",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbunhluznk22",
       "content_text": "ありー4号車4ドアの時もある？",
-      "date_published": "2026-01-07T23:43:00.000Z"
+      "date_published": "2026-01-07T23:43:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbr5cx4aa22u",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbr5cx4aa22u",
       "content_text": "日記アプリ、つくりながら日々書きたいけど、expoのdevelopment buildだとサーバが動いていないとダメなのがつらいな",
-      "date_published": "2026-01-06T14:16:00.000Z"
+      "date_published": "2026-01-06T14:16:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbpnnpambk2p",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbpnnpambk2p",
       "content_text": "引っ越しして1年半でやっとわかったのですが、10両3号車4ドアが最高です",
-      "date_published": "2026-01-06T00:03:00.000Z"
+      "date_published": "2026-01-06T00:03:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbn4tdubak2r",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbn4tdubak2r",
       "content_text": "ワークマン行脚をしたおかげでメリノウールのインナーを手に入れた",
-      "date_published": "2026-01-04T23:56:00.000Z"
+      "date_published": "2026-01-04T23:56:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbid2cvbvs2z",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbid2cvbvs2z",
       "content_text": "コメダモーニング、無料ということに毎度気づいていない気がする",
-      "date_published": "2026-01-03T02:04:00.000Z"
+      "date_published": "2026-01-03T02:04:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbdqt7lgjs2x",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbdqt7lgjs2x",
       "content_text": "ちかくの神社、15分ぐらいかなぁと思って並んだけどぜんぜんそんなことなかった。1時間弱並んでいるがまだ列がある",
-      "date_published": "2026-01-01T06:28:00.000Z"
+      "date_published": "2026-01-01T06:28:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbc5kr75j22s",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbc5kr75j22s",
       "content_text": "awkblog、なんか502が多かったりして少し不安定かも。AI前時代の手書きコードでできているので、いろいろ手を入れればやれることも増えていそうだし久々に触るか (ただし日記アプリを片付けてから",
-      "date_published": "2025-12-31T15:10:00.000Z"
+      "date_published": "2025-12-31T15:10:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbc54d6utc2s",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbc54d6utc2s",
       "content_text": "2025年、Claude Codeの年\nhttps://awkblog.net/@yammerjp/posts/35",
-      "date_published": "2025-12-31T15:02:00.000Z"
+      "date_published": "2025-12-31T15:02:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbbhah442k23",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbbhah442k23",
       "content_text": "起きてすぐ外に出ないと面倒で夜になってしまう、せっかく今日は昼間ランニング日和だったのに",
-      "date_published": "2025-12-31T08:31:00.000Z"
+      "date_published": "2025-12-31T08:31:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb6pqdkwl226",
       "url": "https://bsky.app/profile/yammer.jp/post/3mb6pqdkwl226",
       "content_text": "天気が良すぎる、この天気活かしたい！回転寿司行く以外で活かしたい",
-      "date_published": "2025-12-30T06:25:00.000Z"
+      "date_published": "2025-12-30T06:25:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb4x7wwk7227",
       "url": "https://bsky.app/profile/yammer.jp/post/3mb4x7wwk7227",
       "content_text": "日記のアプリをReact Nativeに作り始めたのだが、端末間同期とストレージがなやましい。\n\nながくデータをもち続けることを考えると、最終的にGitリポジトリに取り込みたい。ただ、conflictの解消などの複雑な概念は持ち込みたくない。単にlinerで過去のものが残っていて戻せれば十分なので、そんなにセンシティブにならなくても良いのだけど。\n\n履歴の管理といえば、Simple NoteのUIが非常によくできていてとても好き。でもCLIやAPIがなくて、結局データが閉じ込められてしまうのが結構困るので使うのをやめてしまっている。ノートアプリも日記アプリも、安住の地はどこへやら。",
-      "date_published": "2025-12-29T13:34:00.000Z"
+      "date_published": "2025-12-29T13:34:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb4ubj7a7227",
       "url": "https://bsky.app/profile/yammer.jp/post/3mb4ubj7a7227",
       "content_text": "東横線1時間以上各停の旅。これも年末だからなんでもよいということで楽しめる",
-      "date_published": "2025-12-29T12:41:00.000Z"
+      "date_published": "2025-12-29T12:41:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb3vxjsek22g",
       "url": "https://bsky.app/profile/yammer.jp/post/3mb3vxjsek22g",
       "content_text": "iCloudを使うアプリを作ろうとすると、公開するかに関わらずApple Developer Programが必要っぽい。ものは試しで申し込んでみた。\n\nいまは本人確認でのパスポート撮影をやって審査待ち。macOSのApple Developerアプリからやると上下左右が認識できないのか何度もやり直しになったが、iPhoneにApple Developerアプリを入れるとすんなりと先に進んだ。",
-      "date_published": "2025-12-29T03:38:00.000Z"
+      "date_published": "2025-12-29T03:38:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb3pggmg4s2g",
       "url": "https://bsky.app/profile/yammer.jp/post/3mb3pggmg4s2g",
       "content_text": "さいきんはiOSよりもAndroidのほうが、個人開発者としてアプリ出すのむずかしいのか。なにも知らなかった。住所の公開とクローズドテストのハードルを超えるのに、バーチャルオフィスを契約して個人事業主になるのがお手軽(ほんまか？)ぽい。",
-      "date_published": "2025-12-29T01:41:00.000Z"
+      "date_published": "2025-12-29T01:41:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m777whb7j22g",
       "url": "https://bsky.app/profile/yammer.jp/post/3m777whb7j22g",
       "content_text": "ふん、Bun というのかい。贅沢な名だね。今からお前の名前はブンだ。いいかい、ブンだよ",
-      "date_published": "2025-12-05T00:24:00.000Z"
+      "date_published": "2025-12-05T00:24:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m4he3gpkyc22",
       "url": "https://bsky.app/profile/yammer.jp/post/3m4he3gpkyc22",
       "content_text": "いえのmicroblogがおちている",
-      "date_published": "2025-10-31T01:44:00.000Z"
+      "date_published": "2025-10-31T01:44:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m4he3bql3s22",
       "url": "https://bsky.app/profile/yammer.jp/post/3m4he3bql3s22",
       "content_text": "渋谷の壱角屋、きのう店の前まで行ってなくなっていることに気づいた",
-      "date_published": "2025-10-31T01:44:00.000Z"
+      "date_published": "2025-10-31T01:44:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m32h3ksw722h",
       "url": "https://bsky.app/profile/yammer.jp/post/3m32h3ksw722h",
       "content_text": "個人でホストしているWebアプリケーション、何か触ろうとしたときにどこにデプロイしたか大抵覚えていなくて、digして出てきたIPをwhoisして、どこのプラットフォームを探すところからいつも始まる",
-      "date_published": "2025-10-13T05:08:00.000Z"
+      "date_published": "2025-10-13T05:08:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lszhlud76c2g",
       "url": "https://bsky.app/profile/yammer.jp/post/3lszhlud76c2g",
       "content_text": "Clicks、今のところはまだ慣れてないなぁ",
-      "date_published": "2025-07-03T00:23:00.000Z"
+      "date_published": "2025-07-03T00:23:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lsyblbgwks25",
       "url": "https://bsky.app/profile/yammer.jp/post/3lsyblbgwks25",
       "content_text": "電波のないところを求め、2ヶ月で7座登っていた。次の山、どこにすっかな",
-      "date_published": "2025-07-02T13:03:00.000Z"
+      "date_published": "2025-07-02T13:03:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lqemqka5bs2c",
       "url": "https://bsky.app/profile/yammer.jp/post/3lqemqka5bs2c",
       "content_text": "役所、行ったり来たり反復横跳び",
-      "date_published": "2025-05-30T06:39:00.000Z"
+      "date_published": "2025-05-30T06:39:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lmgbfoucoc25",
       "url": "https://bsky.app/profile/yammer.jp/post/3lmgbfoucoc25",
       "content_text": "境界は自然とできてくるものだ、という @kenchankunsan.com の言葉をきいて「境界を収穫する」という言葉を思いついた。この先はまだないので、うまくメタファーがはまるその日にまた思い出すことにしよう",
-      "date_published": "2025-04-10T00:41:00.000Z"
+      "date_published": "2025-04-10T00:41:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3libphc7h5k2z",
       "url": "https://bsky.app/profile/yammer.jp/post/3libphc7h5k2z",
       "content_text": "Linuxディストリビューションを直接入れたいが、やりだすとyak shavingが止まらなくなるのでもう少し後で",
-      "date_published": "2025-02-16T07:28:00.000Z"
+      "date_published": "2025-02-16T07:28:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3libpfreiis2z",
       "url": "https://bsky.app/profile/yammer.jp/post/3libpfreiis2z",
       "content_text": "GPD WIN Mini 2024を買ったおかげでn年ぶりにまともに自分のWindowsマシンをセットアップすることになった。浦島太郎みたいになっている",
-      "date_published": "2025-02-16T07:27:00.000Z"
+      "date_published": "2025-02-16T07:27:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3li6qv3rog222",
       "url": "https://bsky.app/profile/yammer.jp/post/3li6qv3rog222",
       "content_text": "npmやpipやgemでグローバルに使いたいツール(たとえば~/.gitconfigのなかで使うとか)が、特定のディレクトリだとそのディレクトリの.ruby-versionに影響うけて使えなくなったりするの、みんなどうしているのだ？\n\nそのコマンドだけpathの通す先を変えたらいいってことだと思うのだけど",
-      "date_published": "2025-02-15T03:16:00.000Z"
+      "date_published": "2025-02-15T03:16:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lfwu66frxc2r",
       "url": "https://bsky.app/profile/yammer.jp/post/3lfwu66frxc2r",
       "content_text": "明日の時間調べなきゃ",
-      "date_published": "2025-01-17T13:03:00.000Z"
+      "date_published": "2025-01-17T13:03:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lfpgfo5vus2u",
       "url": "https://bsky.app/profile/yammer.jp/post/3lfpgfo5vus2u",
       "content_text": "打刻にあわせてポケポケのパック開封をする生活を始めた。リズムを刻んでいけ！",
-      "date_published": "2025-01-14T14:08:00.000Z"
+      "date_published": "2025-01-14T14:08:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
     }
   ]
 }

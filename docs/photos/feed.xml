@@ -1,73 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
   <channel>
-    <title>@yammer</title>
+    <title>yammer&apos;s photos</title>
     <link>https://toycamera.yammer.jp/@yammer</link>
-    <description>Photos by @yammer</description>
-    <atom:link href="https://toycamera.yammer.jp/@yammer/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Photos from yammer&apos;s toycamera</description>
     <item>
       <title>2025年お世話になったランチ 担々麺</title>
       <link>https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/abc0dc7e-8005-497b-86c9-1342c198cd58/PICT0014.jpg</link>
-      <guid isPermaLink="false">abc0dc7e-8005-497b-86c9-1342c198cd58</guid>
+      <description>&lt;img src=&quot;https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/abc0dc7e-8005-497b-86c9-1342c198cd58/PICT0014.jpg&quot; alt=&quot;2025年お世話になったランチ 担々麺&quot; /&gt;</description>
+      <guid>abc0dc7e-8005-497b-86c9-1342c198cd58</guid>
       <pubDate>Fri, 02 Jan 2026 08:27:48 GMT</pubDate>
-      <description><![CDATA[<img src="https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/abc0dc7e-8005-497b-86c9-1342c198cd58/PICT0014.jpg" alt="2025年お世話になったランチ 担々麺" />]]></description>
-      <enclosure url="https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/abc0dc7e-8005-497b-86c9-1342c198cd58/PICT0014.jpg" type="image/jpeg" />
+      <category>photos</category>
     </item>
     <item>
       <title>オフィスグリコの新作</title>
       <link>https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/8b7b6428-d8a2-4a75-b52c-70dcb73ff6ba/IMG_1841.jpeg</link>
-      <guid isPermaLink="false">8b7b6428-d8a2-4a75-b52c-70dcb73ff6ba</guid>
+      <description>&lt;img src=&quot;https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/8b7b6428-d8a2-4a75-b52c-70dcb73ff6ba/IMG_1841.jpeg&quot; alt=&quot;オフィスグリコの新作&quot; /&gt;</description>
+      <guid>8b7b6428-d8a2-4a75-b52c-70dcb73ff6ba</guid>
       <pubDate>Mon, 15 Dec 2025 00:15:44 GMT</pubDate>
-      <description><![CDATA[<img src="https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/8b7b6428-d8a2-4a75-b52c-70dcb73ff6ba/IMG_1841.jpeg" alt="オフィスグリコの新作" />]]></description>
-      <enclosure url="https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/8b7b6428-d8a2-4a75-b52c-70dcb73ff6ba/IMG_1841.jpeg" type="image/jpeg" />
+      <category>photos</category>
     </item>
     <item>
       <title>カフェの観葉植物ぐあいがよかったので参考にしたいと思っていたが、参考にすべきは観葉植物というよりインテリア全体？</title>
       <link>https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/a2d5adb3-ecfc-4484-9f26-31028ea25e88/IMG_1801.jpeg</link>
-      <guid isPermaLink="false">a2d5adb3-ecfc-4484-9f26-31028ea25e88</guid>
+      <description>&lt;img src=&quot;https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/a2d5adb3-ecfc-4484-9f26-31028ea25e88/IMG_1801.jpeg&quot; alt=&quot;カフェの観葉植物ぐあいがよかったので参考にしたいと思っていたが、参考にすべきは観葉植物というよりインテリア全体？&quot; /&gt;</description>
+      <guid>a2d5adb3-ecfc-4484-9f26-31028ea25e88</guid>
       <pubDate>Mon, 15 Dec 2025 00:15:08 GMT</pubDate>
-      <description><![CDATA[<img src="https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/a2d5adb3-ecfc-4484-9f26-31028ea25e88/IMG_1801.jpeg" alt="カフェの観葉植物ぐあいがよかったので参考にしたいと思っていたが、参考にすべきは観葉植物というよりインテリア全体？" />]]></description>
-      <enclosure url="https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/a2d5adb3-ecfc-4484-9f26-31028ea25e88/IMG_1801.jpeg" type="image/jpeg" />
+      <category>photos</category>
     </item>
     <item>
       <title>弓立山を降りたところの景色がのどかで広さを感じた</title>
       <link>https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/e6333030-7af7-4bed-9e95-e3429321717e/PICT0038.jpg</link>
-      <guid isPermaLink="false">e6333030-7af7-4bed-9e95-e3429321717e</guid>
+      <description>&lt;img src=&quot;https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/e6333030-7af7-4bed-9e95-e3429321717e/PICT0038.jpg&quot; alt=&quot;弓立山を降りたところの景色がのどかで広さを感じた&quot; /&gt;</description>
+      <guid>e6333030-7af7-4bed-9e95-e3429321717e</guid>
       <pubDate>Mon, 15 Dec 2025 00:13:55 GMT</pubDate>
-      <description><![CDATA[<img src="https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/e6333030-7af7-4bed-9e95-e3429321717e/PICT0038.jpg" alt="弓立山を降りたところの景色がのどかで広さを感じた" />]]></description>
-      <enclosure url="https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/e6333030-7af7-4bed-9e95-e3429321717e/PICT0038.jpg" type="image/jpeg" />
+      <category>photos</category>
     </item>
     <item>
       <title>低山ハイク、昼からスタートでもお手軽にたのしめてよい</title>
       <link>https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/e56a3b47-34b3-4f09-94ec-dfa625cbd2d5/IMG_1818.jpeg</link>
-      <guid isPermaLink="false">e56a3b47-34b3-4f09-94ec-dfa625cbd2d5</guid>
+      <description>&lt;img src=&quot;https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/e56a3b47-34b3-4f09-94ec-dfa625cbd2d5/IMG_1818.jpeg&quot; alt=&quot;低山ハイク、昼からスタートでもお手軽にたのしめてよい&quot; /&gt;</description>
+      <guid>e56a3b47-34b3-4f09-94ec-dfa625cbd2d5</guid>
       <pubDate>Mon, 15 Dec 2025 00:13:18 GMT</pubDate>
-      <description><![CDATA[<img src="https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/e56a3b47-34b3-4f09-94ec-dfa625cbd2d5/IMG_1818.jpeg" alt="低山ハイク、昼からスタートでもお手軽にたのしめてよい" />]]></description>
-      <enclosure url="https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/e56a3b47-34b3-4f09-94ec-dfa625cbd2d5/IMG_1818.jpeg" type="image/jpeg" />
+      <category>photos</category>
     </item>
     <item>
       <title>今日はいつもいく中華のお店で野菜麺。オフィスで隣の人にどうやって話しかけるかと、食事の幸せは口で感じるのか喉で感じるのかというので盛り上がった</title>
       <link>https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/11fa932a-9380-488a-a7d9-9ce7d7836349/PICT0014.jpg</link>
-      <guid isPermaLink="false">11fa932a-9380-488a-a7d9-9ce7d7836349</guid>
+      <description>&lt;img src=&quot;https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/11fa932a-9380-488a-a7d9-9ce7d7836349/PICT0014.jpg&quot; alt=&quot;今日はいつもいく中華のお店で野菜麺。オフィスで隣の人にどうやって話しかけるかと、食事の幸せは口で感じるのか喉で感じるのかというので盛り上がった&quot; /&gt;</description>
+      <guid>11fa932a-9380-488a-a7d9-9ce7d7836349</guid>
       <pubDate>Thu, 11 Dec 2025 14:44:01 GMT</pubDate>
-      <description><![CDATA[<img src="https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/11fa932a-9380-488a-a7d9-9ce7d7836349/PICT0014.jpg" alt="今日はいつもいく中華のお店で野菜麺。オフィスで隣の人にどうやって話しかけるかと、食事の幸せは口で感じるのか喉で感じるのかというので盛り上がった" />]]></description>
-      <enclosure url="https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/11fa932a-9380-488a-a7d9-9ce7d7836349/PICT0014.jpg" type="image/jpeg" />
+      <category>photos</category>
     </item>
     <item>
       <title>先週末は観葉植物を迎え入れて、彼らのためにカーテンとジョウロと霧吹きと、あらゆるものを揃えた。すくすく育つと良いね</title>
       <link>https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/81d1174c-ca28-47bf-8770-f20040a97dca/PICT0007.jpg</link>
-      <guid isPermaLink="false">81d1174c-ca28-47bf-8770-f20040a97dca</guid>
+      <description>&lt;img src=&quot;https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/81d1174c-ca28-47bf-8770-f20040a97dca/PICT0007.jpg&quot; alt=&quot;先週末は観葉植物を迎え入れて、彼らのためにカーテンとジョウロと霧吹きと、あらゆるものを揃えた。すくすく育つと良いね&quot; /&gt;</description>
+      <guid>81d1174c-ca28-47bf-8770-f20040a97dca</guid>
       <pubDate>Thu, 11 Dec 2025 14:41:23 GMT</pubDate>
-      <description><![CDATA[<img src="https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/81d1174c-ca28-47bf-8770-f20040a97dca/PICT0007.jpg" alt="先週末は観葉植物を迎え入れて、彼らのためにカーテンとジョウロと霧吹きと、あらゆるものを揃えた。すくすく育つと良いね" />]]></description>
-      <enclosure url="https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/81d1174c-ca28-47bf-8770-f20040a97dca/PICT0007.jpg" type="image/jpeg" />
+      <category>photos</category>
     </item>
     <item>
       <title>KODAK Charmeraを買った。届くまでに投稿するこの場を作って遊んでいたが間に合わず、2日おくれて実戦投入。</title>
       <link>https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/0e84eb7e-b88d-4ddb-9d17-4fa9107dea6f/PICT0006.jpg</link>
-      <guid isPermaLink="false">0e84eb7e-b88d-4ddb-9d17-4fa9107dea6f</guid>
+      <description>&lt;img src=&quot;https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/0e84eb7e-b88d-4ddb-9d17-4fa9107dea6f/PICT0006.jpg&quot; alt=&quot;KODAK Charmeraを買った。届くまでに投稿するこの場を作って遊んでいたが間に合わず、2日おくれて実戦投入。&quot; /&gt;</description>
+      <guid>0e84eb7e-b88d-4ddb-9d17-4fa9107dea6f</guid>
       <pubDate>Thu, 11 Dec 2025 14:33:19 GMT</pubDate>
-      <description><![CDATA[<img src="https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/0e84eb7e-b88d-4ddb-9d17-4fa9107dea6f/PICT0006.jpg" alt="KODAK Charmeraを買った。届くまでに投稿するこの場を作って遊んでいたが間に合わず、2日おくれて実戦投入。" />]]></description>
-      <enclosure url="https://toycamera-assets.yammer.jp/posts/15443fa0-33bf-4b77-b85d-168fb1f19387/0e84eb7e-b88d-4ddb-9d17-4fa9107dea6f/PICT0006.jpg" type="image/jpeg" />
+      <category>photos</category>
     </item>
   </channel>
 </rss>

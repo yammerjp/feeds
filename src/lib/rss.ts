@@ -1,28 +1,5 @@
 import { JSDOM } from "jsdom";
-
-interface RssItem {
-  title: string;
-  link: string;
-  description: string;
-  pubDate: string;
-  guid: string;
-}
-
-interface JsonFeedItem {
-  id: string;
-  url: string;
-  title?: string;
-  content_text: string;
-  date_published?: string;
-}
-
-interface JsonFeed {
-  version: string;
-  title: string;
-  home_page_url: string;
-  feed_url: string;
-  items: JsonFeedItem[];
-}
+import type { RssItem, JsonFeed, JsonFeedItem } from "./types.js";
 
 export function parseRss(xml: string): RssItem[] {
   const dom = new JSDOM(xml, { contentType: "text/xml" });
@@ -55,7 +32,7 @@ export function rssToJsonFeed(
     title: options.title,
     home_page_url: options.homePageUrl,
     feed_url: options.feedUrl,
-    items: items.map((item) => ({
+    items: items.map((item): JsonFeedItem => ({
       id: item.guid || item.link,
       url: item.link,
       title: item.title || undefined,

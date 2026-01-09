@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>yammer's microblog</title>
+    <title>yammer&apos;s microblog</title>
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
@@ -10,7 +10,7 @@
       <description>今日も4-4だ</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbx5ll3udc24</guid>
       <pubDate>Thu, 08 Jan 2026 23:37:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>&lt;p&gt;健康、学び&lt;/p&gt;</title>
@@ -18,7 +18,7 @@
       <description>&lt;p&gt;健康、学び&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/Da3ezPdF9mGTdtSZhyFhVu</guid>
       <pubDate>Thu, 08 Jan 2026 23:00:16 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>シリーズ最高のツヤ、耐久性、耐水性</title>
@@ -26,7 +26,7 @@
       <description>シリーズ最高のツヤ、耐久性、耐水性</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbw4ygruus26</guid>
       <pubDate>Thu, 08 Jan 2026 13:53:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>&lt;p&gt;この寒い冬、平日夜に地下鉄のホームでアイス買って食べてるひとをみると、きっと自分のご褒美に甘やかしているんだなと、あたたかいきもちになる。仕事をしている全ての人に乾杯！&lt;/p&gt;</title>
@@ -34,7 +34,7 @@
       <description>&lt;p&gt;この寒い冬、平日夜に地下鉄のホームでアイス買って食べてるひとをみると、きっと自分のご褒美に甘やかしているんだなと、あたたかいきもちになる。仕事をしている全ての人に乾杯！&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/E93CHk9ozbaN7CJM6ujQfS</guid>
       <pubDate>Thu, 08 Jan 2026 13:37:13 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>EAS Submission Workflow、Free Tierだと結構かかるな。ビルドはわりと早く回ってくるんだけど</title>
@@ -42,7 +42,7 @@
       <description>EAS Submission Workflow、Free Tierだと結構かかるな。ビルドはわりと早く回ってくるんだけど</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbunjv7z6222</guid>
       <pubDate>Wed, 07 Jan 2026 23:44:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>ありー4号車4ドアの時もある？</title>
@@ -50,7 +50,7 @@
       <description>ありー4号車4ドアの時もある？</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbunhluznk22</guid>
       <pubDate>Wed, 07 Jan 2026 23:43:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>&lt;p&gt;1週間を通じて少しずつ早くなっている。まだ余地がありそう&lt;/p&gt;</title>
@@ -58,7 +58,7 @@
       <description>&lt;p&gt;1週間を通じて少しずつ早くなっている。まだ余地がありそう&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/ETY8SgYSiL26C38Pph9GUN</guid>
       <pubDate>Wed, 07 Jan 2026 23:22:33 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>日記アプリ、つくりながら日々書きたいけど、expoのdevelopment buildだとサーバが動いていないとダメなのがつらいな</title>
@@ -66,7 +66,7 @@
       <description>日記アプリ、つくりながら日々書きたいけど、expoのdevelopment buildだとサーバが動いていないとダメなのがつらいな</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbr5cx4aa22u</guid>
       <pubDate>Tue, 06 Jan 2026 14:16:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>&lt;p&gt;今日は結構混んでいるな、ドリンクも席も&lt;/p&gt;</title>
@@ -74,7 +74,7 @@
       <description>&lt;p&gt;今日は結構混んでいるな、ドリンクも席も&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/kgmixt34JLSXSaon3673Nw</guid>
       <pubDate>Tue, 06 Jan 2026 00:15:09 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;起きるのは昨日よりも15分遅かったが、テキパキ来ればちょい早く着けることがわかったが、ちょいではある&lt;/p&gt;</title>
@@ -82,7 +82,7 @@
       <description>&lt;p&gt;起きるのは昨日よりも15分遅かったが、テキパキ来ればちょい早く着けることがわかったが、ちょいではある&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/PWejXKW7wjxD48eAbhtiUj</guid>
       <pubDate>Tue, 06 Jan 2026 00:14:23 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>引っ越しして1年半でやっとわかったのですが、10両3号車4ドアが最高です</title>
@@ -90,7 +90,7 @@
       <description>引っ越しして1年半でやっとわかったのですが、10両3号車4ドアが最高です</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbpnnpambk2p</guid>
       <pubDate>Tue, 06 Jan 2026 00:03:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>&lt;p&gt;6時半に起きて体が動き始めてからランニングして、だと渋谷着くのは9時半になってしまった。家は綺麗にして出てこれたのはよかった。家を出るまでをもう少し早くしないとじゃな&lt;/p&gt;</title>
@@ -98,7 +98,7 @@
       <description>&lt;p&gt;6時半に起きて体が動き始めてからランニングして、だと渋谷着くのは9時半になってしまった。家は綺麗にして出てこれたのはよかった。家を出るまでをもう少し早くしないとじゃな&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/SDVPv46ENYtfpjtkVscbWY</guid>
       <pubDate>Mon, 05 Jan 2026 00:20:33 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>ワークマン行脚をしたおかげでメリノウールのインナーを手に入れた</title>
@@ -106,7 +106,7 @@
       <description>ワークマン行脚をしたおかげでメリノウールのインナーを手に入れた</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbn4tdubak2r</guid>
       <pubDate>Sun, 04 Jan 2026 23:56:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>&lt;p&gt;個人サイトは盆栽&lt;/p&gt;</title>
@@ -114,7 +114,7 @@
       <description>&lt;p&gt;個人サイトは盆栽&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/VvdW7f7gry6dPe34VSgxRH</guid>
       <pubDate>Sat, 03 Jan 2026 02:05:43 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>コメダモーニング、無料ということに毎度気づいていない気がする</title>
@@ -122,7 +122,7 @@
       <description>コメダモーニング、無料ということに毎度気づいていない気がする</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbid2cvbvs2z</guid>
       <pubDate>Sat, 03 Jan 2026 02:04:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>&lt;p&gt;ガチアクタ、一気見した&lt;/p&gt;</title>
@@ -130,7 +130,7 @@
       <description>&lt;p&gt;ガチアクタ、一気見した&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/NJMgNkA7U7ckLG6c6dsDZ8</guid>
       <pubDate>Fri, 02 Jan 2026 13:10:28 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>ちかくの神社、15分ぐらいかなぁと思って並んだけどぜんぜんそんなことなかった。1時間弱並んでいるがまだ列がある</title>
@@ -138,7 +138,7 @@
       <description>ちかくの神社、15分ぐらいかなぁと思って並んだけどぜんぜんそんなことなかった。1時間弱並んでいるがまだ列がある</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbdqt7lgjs2x</guid>
       <pubDate>Thu, 01 Jan 2026 06:28:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>&lt;p&gt;ふーんなるほどね&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://git-wrapped.com/profiles/yammerjp&quot;&gt;https://git-wrapped.com/profil</title>
@@ -146,7 +146,7 @@
       <description>&lt;p&gt;ふーんなるほどね&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://git-wrapped.com/profiles/yammerjp&quot;&gt;https://git-wrapped.com/profiles/yammerjp&lt;/a&gt;&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/T6PDjWrKrHuspxuVBTfa9D</guid>
       <pubDate>Thu, 01 Jan 2026 03:10:39 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;なやましいときにはなやましいと言う。さらっと言う&lt;/p&gt;</title>
@@ -154,7 +154,7 @@
       <description>&lt;p&gt;なやましいときにはなやましいと言う。さらっと言う&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/ZpMCsZJnK6HBj8q6eWFyXr</guid>
       <pubDate>Thu, 01 Jan 2026 01:17:45 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;途中から見たので、アリアリ〜のネタ見れなかった&lt;/p&gt;</title>
@@ -162,7 +162,7 @@
       <description>&lt;p&gt;途中から見たので、アリアリ〜のネタ見れなかった&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/PLxmnhV3LRVG3RAJj4XR8d</guid>
       <pubDate>Wed, 31 Dec 2025 17:00:45 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>Twitter生活15年目、きづけば人生の半分をここで過ごしている</title>
@@ -170,7 +170,7 @@
       <description>Twitter生活15年目、きづけば人生の半分をここで過ごしている</description>
       <guid>2006383701727535178</guid>
       <pubDate>Wed, 31 Dec 2025 15:15:25 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>awkblog、なんか502が多かったりして少し不安定かも。AI前時代の手書きコードでできているので、いろいろ手を入れればやれることも増えていそうだし久々に触るか (ただし日記アプリを片付けてから</title>
@@ -178,7 +178,7 @@
       <description>awkblog、なんか502が多かったりして少し不安定かも。AI前時代の手書きコードでできているので、いろいろ手を入れればやれることも増えていそうだし久々に触るか (ただし日記アプリを片付けてから</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbc5kr75j22s</guid>
       <pubDate>Wed, 31 Dec 2025 15:10:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>2025年、Claude Codeの年
@@ -188,7 +188,7 @@ https://awkblog.net/@yammerjp/posts/35</title>
 https://awkblog.net/@yammerjp/posts/35</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbc54d6utc2s</guid>
       <pubDate>Wed, 31 Dec 2025 15:02:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>起きてすぐ外に出ないと面倒で夜になってしまう、せっかく今日は昼間ランニング日和だったのに</title>
@@ -196,7 +196,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>起きてすぐ外に出ないと面倒で夜になってしまう、せっかく今日は昼間ランニング日和だったのに</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbbhah442k23</guid>
       <pubDate>Wed, 31 Dec 2025 08:31:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>天気が良すぎる、この天気活かしたい！回転寿司行く以外で活かしたい</title>
@@ -204,7 +204,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>天気が良すぎる、この天気活かしたい！回転寿司行く以外で活かしたい</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb6pqdkwl226</guid>
       <pubDate>Tue, 30 Dec 2025 06:25:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>日記のアプリをReact Nativeに作り始めたのだが、端末間同期とストレージがなやましい。
@@ -218,7 +218,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
 履歴の管理といえば、Simple NoteのUIが非常によくできていてとても好き。でもCLIやAPIがなくて、結局データが閉じ込められてしまうのが結構困るので使うのをやめてしまっている。ノートアプリも日記アプリも、安住の地はどこへやら。</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb4x7wwk7227</guid>
       <pubDate>Mon, 29 Dec 2025 13:34:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>東横線1時間以上各停の旅。これも年末だからなんでもよいということで楽しめる</title>
@@ -226,7 +226,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>東横線1時間以上各停の旅。これも年末だからなんでもよいということで楽しめる</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb4ubj7a7227</guid>
       <pubDate>Mon, 29 Dec 2025 12:41:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>iCloudを使うアプリを作ろうとすると、公開するかに関わらずApple Developer Programが必要っぽい。ものは試しで申し込んでみた。
@@ -238,7 +238,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
 いまは本人確認でのパスポート撮影をやって審査待ち。macOSのApple Developerアプリからやると上下左右が認識できないのか何度もやり直しになったが、iPhoneにApple Developerアプリを入れるとすんなりと先に進んだ。</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb3vxjsek22g</guid>
       <pubDate>Mon, 29 Dec 2025 03:38:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>さいきんはiOSよりもAndroidのほうが、個人開発者としてアプリ出すのむずかしいのか。なにも知らなかった。住所の公開とクローズドテストのハードルを超えるのに、バーチャルオフィスを契約して個人事業主</title>
@@ -246,7 +246,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>さいきんはiOSよりもAndroidのほうが、個人開発者としてアプリ出すのむずかしいのか。なにも知らなかった。住所の公開とクローズドテストのハードルを超えるのに、バーチャルオフィスを契約して個人事業主になるのがお手軽(ほんまか？)ぽい。</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb3pggmg4s2g</guid>
       <pubDate>Mon, 29 Dec 2025 01:41:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>&lt;p&gt;よかった&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://note.com/takkyy07/n/nf6976775ddf9&quot;&gt;https://note.com/takkyy07/n/nf6976</title>
@@ -254,7 +254,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;よかった&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://note.com/takkyy07/n/nf6976775ddf9&quot;&gt;https://note.com/takkyy07/n/nf6976775ddf9&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;自分は事業責任者じゃないけど、今のポジションになってやっていくにあたって自分が学んだ捉え方に近いものが言語化されていて「このように言い表すことができるのか」と。表現はシンプルだけれども、うまく言い表せていなかったことがいくつか書いてあって学びになった。&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/EXsbtfqz83CroshdHN38D3</guid>
       <pubDate>Mon, 22 Dec 2025 23:20:57 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;最寄りの出口のエスカレーターに人が並んでいて、この家に引っ越してからほぼこのピークの時間に帰ったことがないということがわかった&lt;/p&gt;</title>
@@ -262,7 +262,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;最寄りの出口のエスカレーターに人が並んでいて、この家に引っ越してからほぼこのピークの時間に帰ったことがないということがわかった&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/cZqvj5x3PnphpvbE6Jaq3f</guid>
       <pubDate>Fri, 19 Dec 2025 10:48:14 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;これはどうじゃろか&lt;/p&gt;</title>
@@ -270,7 +270,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;これはどうじゃろか&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/7a5vfNWeLP2ForYHWTy7qK</guid>
       <pubDate>Tue, 09 Dec 2025 15:41:54 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;どうじゃろか&lt;/p&gt;</title>
@@ -278,7 +278,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;どうじゃろか&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/bPS9TUMTa6VHS3qsG8jg8n</guid>
       <pubDate>Tue, 09 Dec 2025 15:31:11 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;睡眠不足で体調がおわってしまったので昨夜は良く寝て回復。今週は失敗。&lt;/p&gt;</title>
@@ -286,7 +286,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;睡眠不足で体調がおわってしまったので昨夜は良く寝て回復。今週は失敗。&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/XB6MbV4kxXAvSU4Uad48qM</guid>
       <pubDate>Fri, 05 Dec 2025 00:50:53 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>ふん、Bun というのかい。贅沢な名だね。今からお前の名前はブンだ。いいかい、ブンだよ</title>
@@ -294,7 +294,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>ふん、Bun というのかい。贅沢な名だね。今からお前の名前はブンだ。いいかい、ブンだよ</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m777whb7j22g</guid>
       <pubDate>Fri, 05 Dec 2025 00:24:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>&lt;p&gt;食糧難！&lt;/p&gt;</title>
@@ -302,7 +302,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;食糧難！&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/3U9M6mbYJ9eVyQMbtixZ9C</guid>
       <pubDate>Wed, 03 Dec 2025 15:23:47 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;結構疲れてきた感覚がある&lt;/p&gt;</title>
@@ -310,7 +310,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;結構疲れてきた感覚がある&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/d7VXMmmvkvKi4NKZ2j4L7k</guid>
       <pubDate>Wed, 03 Dec 2025 15:00:01 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;microcloudに興味出てきた&lt;/p&gt;</title>
@@ -318,7 +318,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;microcloudに興味出てきた&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/k6vD3ZWNmSib6yThbK2aDC</guid>
       <pubDate>Sat, 22 Nov 2025 08:34:50 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;frankenPHP、cgoで、ランタイム自体はphp-src使っているのか、それでパフォーマンスの差そんなに出るんだな&lt;/p&gt;</title>
@@ -326,7 +326,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;frankenPHP、cgoで、ランタイム自体はphp-src使っているのか、それでパフォーマンスの差そんなに出るんだな&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/ZGeVxfTQ3GVWfTdaRYc85k</guid>
       <pubDate>Wed, 19 Nov 2025 14:10:09 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;今どき珍しいかっ飛ばし個人タクシー、クレカ不可PayPayか現金のみ、自由でおもろかった。困る人いそう&lt;/p&gt;</title>
@@ -334,7 +334,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;今どき珍しいかっ飛ばし個人タクシー、クレカ不可PayPayか現金のみ、自由でおもろかった。困る人いそう&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/JQP7QrigpZfriZDRPKg3bb</guid>
       <pubDate>Tue, 18 Nov 2025 15:57:49 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;AIっぽい文章やAIっぽいコードがあると目を滑らせて自然とスクロールしてしまうが、その違和感をうまく言語化しないと、手で書く以外で改善できないことになってしまうな&lt;/p&gt;</title>
@@ -342,7 +342,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;AIっぽい文章やAIっぽいコードがあると目を滑らせて自然とスクロールしてしまうが、その違和感をうまく言語化しないと、手で書く以外で改善できないことになってしまうな&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/GZn5xvKQgR7cY44gqqPwcX</guid>
       <pubDate>Tue, 18 Nov 2025 00:53:16 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;風邪をひいて一回やすみ。音楽を聴いて元気出て一歩進む&lt;/p&gt;</title>
@@ -350,7 +350,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;風邪をひいて一回やすみ。音楽を聴いて元気出て一歩進む&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/nrLHUDPBNTb56LqoAyC5Gy</guid>
       <pubDate>Mon, 17 Nov 2025 13:30:31 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m?si=JU93da6XRWSeKFag_zmFuQ&quot;&gt;https:/</title>
@@ -358,7 +358,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m?si=JU93da6XRWSeKFag_zmFuQ&quot;&gt;https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m?si=JU93da6XRWSeKFag_zmFuQ&lt;/a&gt;&lt;/p&gt;&lt;p&gt;をきいて、あしたからがんばろうの気持ちになった&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/UC2Aq8zAuN9tHDvf6Gi87s</guid>
       <pubDate>Mon, 17 Nov 2025 13:21:37 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;いつもはチキンだけどラムにしてみた。肉肉しさを感じられるけど、普段はチキンに戻ろう&lt;/p&gt;</title>
@@ -366,7 +366,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;いつもはチキンだけどラムにしてみた。肉肉しさを感じられるけど、普段はチキンに戻ろう&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/Bf6DHPwHdQjVfsgsDJYKXG</guid>
       <pubDate>Mon, 17 Nov 2025 09:31:16 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;先週の頭からずっと体調が芳しくなく、緊急の対応以外は定時に帰って家でひたすら寝る生活をしていた。快方に向かったかと思えば金曜の退勤後にぶり返してしまい、土曜に病院に行って「風邪だね」ということで</title>
@@ -374,7 +374,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;先週の頭からずっと体調が芳しくなく、緊急の対応以外は定時に帰って家でひたすら寝る生活をしていた。快方に向かったかと思えば金曜の退勤後にぶり返してしまい、土曜に病院に行って「風邪だね」ということで土日はひたすら寝て治そうとしているが、効果はあるのか果たして。超ダメというわけでもないが、来週も低速運転でやりたくないので早く治ってくれ〜。&lt;/p&gt;&lt;br&gt;&lt;p&gt;山の予定もキャンセルしてしまったので、またリベンジしたい。&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/HAu5LriSJvJMFNMJCa828e</guid>
       <pubDate>Sun, 16 Nov 2025 13:31:55 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;EC2で生活できるようになったら、オンコールのためにハイスペックなマシンを持ち歩くというのもやめられるのでは&lt;/p&gt;</title>
@@ -382,7 +382,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;EC2で生活できるようになったら、オンコールのためにハイスペックなマシンを持ち歩くというのもやめられるのでは&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/KfiMAYgoxu3Vvg2AzWgj2f</guid>
       <pubDate>Sat, 01 Nov 2025 08:14:48 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;開発環境、EC2がいいのではというきもちに&lt;/p&gt;</title>
@@ -390,7 +390,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;開発環境、EC2がいいのではというきもちに&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/RLFzUxDkRAB8XRtmmXiyru</guid>
       <pubDate>Fri, 31 Oct 2025 15:27:25 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;ここがいきかえっている&lt;/p&gt;</title>
@@ -398,7 +398,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;ここがいきかえっている&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/CDXVUY6cHguBYvCo4rkjG7</guid>
       <pubDate>Fri, 31 Oct 2025 15:27:11 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>いえのmicroblogがおちている</title>
@@ -406,7 +406,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>いえのmicroblogがおちている</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m4he3gpkyc22</guid>
       <pubDate>Fri, 31 Oct 2025 01:44:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>渋谷の壱角屋、きのう店の前まで行ってなくなっていることに気づいた</title>
@@ -414,7 +414,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>渋谷の壱角屋、きのう店の前まで行ってなくなっていることに気づいた</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m4he3bql3s22</guid>
       <pubDate>Fri, 31 Oct 2025 01:44:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>&lt;p&gt;これからつくるOpenAPIスキーマは全てRFC9457にしよう！&lt;/p&gt;</title>
@@ -422,7 +422,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;これからつくるOpenAPIスキーマは全てRFC9457にしよう！&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/DhRvvpEiETjkqzPwHXRNfD</guid>
       <pubDate>Tue, 28 Oct 2025 15:07:31 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;isucon14の環境を用意するのにmeiheiさんの記事が便利だった &lt;a href=&quot;https://zenn.dev/meihei/scraps/61a844ac783d19&quot;&gt;https</title>
@@ -430,7 +430,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;isucon14の環境を用意するのにmeiheiさんの記事が便利だった &lt;a href=&quot;https://zenn.dev/meihei/scraps/61a844ac783d19&quot;&gt;https://zenn.dev/meihei/scraps/61a844ac783d19&lt;/a&gt;&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/6ScWjfeJsDTUDCRbX9Vq2x</guid>
       <pubDate>Tue, 28 Oct 2025 12:28:27 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;&lt;a href=&quot;https://yoku0825.blogspot.com/2016/02/where-in-order-by-field.html&quot;&gt;https://yoku0825.blo</title>
@@ -438,7 +438,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;&lt;a href=&quot;https://yoku0825.blogspot.com/2016/02/where-in-order-by-field.html&quot;&gt;https://yoku0825.blogspot.com/2016/02/where-in-order-by-field.html&lt;/a&gt; 今日の学び ORDER BY FIELD(column, value1, value2, ...)&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/RfcWB4VSGTAG93Mb5cg9Ho</guid>
       <pubDate>Tue, 28 Oct 2025 12:28:09 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>🛬</title>
@@ -446,7 +446,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>🛬</description>
       <guid>1982415069976907811</guid>
       <pubDate>Sun, 26 Oct 2025 11:52:38 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>🛫</title>
@@ -454,7 +454,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>🛫</description>
       <guid>1982361908931162404</guid>
       <pubDate>Sun, 26 Oct 2025 08:21:24 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>&lt;p&gt;江南、この時間でも車の交通量が多いし人も繁華街の路地とかではなく大通りに結構歩いている人がいたりする&lt;/p&gt;</title>
@@ -462,7 +462,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;江南、この時間でも車の交通量が多いし人も繁華街の路地とかではなく大通りに結構歩いている人がいたりする&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/5xb7sMFYRxShsLWgj8GiaE</guid>
       <pubDate>Fri, 24 Oct 2025 16:33:28 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;手の次は足&lt;/p&gt;</title>
@@ -470,7 +470,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;手の次は足&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/Vk6S7UdehBTMZnkvLWTvdc</guid>
       <pubDate>Fri, 24 Oct 2025 00:22:33 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;令和7年でも、通行人カウントは人の仕事&lt;/p&gt;</title>
@@ -478,7 +478,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;令和7年でも、通行人カウントは人の仕事&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/kDXkhTvCp7a3zjgmLszUQo</guid>
       <pubDate>Tue, 21 Oct 2025 00:23:35 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;そういえばここ数週間、あんまり腹痛来てない&lt;/p&gt;</title>
@@ -486,7 +486,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;そういえばここ数週間、あんまり腹痛来てない&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/iucwB7edZAAaBsxd787gky</guid>
       <pubDate>Tue, 21 Oct 2025 00:15:08 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;今日は急に寒くなったように感じる、上着を出したのは今シーズン初だ。&lt;/p&gt;</title>
@@ -494,7 +494,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;今日は急に寒くなったように感じる、上着を出したのは今シーズン初だ。&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/NnCffUwvXdAzPpGnqzkKck</guid>
       <pubDate>Mon, 20 Oct 2025 23:52:17 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;梨泰院クラス見切った。スッキリする終わり方かつ、物足りなさも感じないのはいいね&lt;/p&gt;</title>
@@ -502,7 +502,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;梨泰院クラス見切った。スッキリする終わり方かつ、物足りなさも感じないのはいいね&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/VGMhRVtdEqETaCrcErZKBh</guid>
       <pubDate>Mon, 20 Oct 2025 23:49:08 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;おうちk3sの代替VPSを建てたところで終わった。rootだけで始まるケース、ユーザをつくってそのユーザかsudoできてsshされる様にするまでが面倒いね&lt;/p&gt;</title>
@@ -510,7 +510,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;おうちk3sの代替VPSを建てたところで終わった。rootだけで始まるケース、ユーザをつくってそのユーザかsudoできてsshされる様にするまでが面倒いね&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/ZxrmZemRhNmr47LjC5X2yx</guid>
       <pubDate>Mon, 20 Oct 2025 23:48:15 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;おうちk3sへの接続性を確保した&lt;/p&gt;</title>
@@ -518,7 +518,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;おうちk3sへの接続性を確保した&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/aA5YttV4oyNXKmmHzqPbdU</guid>
       <pubDate>Mon, 20 Oct 2025 13:33:48 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;連続タップミス！&lt;/p&gt;</title>
@@ -526,7 +526,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;連続タップミス！&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/4j9ZUz7FfiXBPaxxGBsjsw</guid>
       <pubDate>Mon, 20 Oct 2025 12:57:45 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;ひろすぎる前提を置かないようにしたい。解像度の高さが自分の思う良さや憧れの対象であることもよくあるから。&lt;/p&gt;</title>
@@ -534,7 +534,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;ひろすぎる前提を置かないようにしたい。解像度の高さが自分の思う良さや憧れの対象であることもよくあるから。&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/DXaAGfiuxn77KXjNw4EniK</guid>
       <pubDate>Mon, 20 Oct 2025 11:05:37 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;k3sを手頃なVPSに移すことで、家にあるマシンをあらためて自由にセットアップし直せる様にしようかと思っている。安定して動くのは大変素晴らしいけど、今の環境はsshする鍵を無くしてしまっているの</title>
@@ -542,7 +542,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;k3sを手頃なVPSに移すことで、家にあるマシンをあらためて自由にセットアップし直せる様にしようかと思っている。安定して動くのは大変素晴らしいけど、今の環境はsshする鍵を無くしてしまっているのよな&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/KSw5mmTDUhi2rtSXFSdGvS</guid>
       <pubDate>Mon, 20 Oct 2025 11:02:00 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;燧ヶ岳に登る途中の木道で滑って転けてしまい、手をついて右手を捻挫。病院に行くか絶妙なところで、いまのところテーピングしてよいことにしている&lt;/p&gt;</title>
@@ -550,7 +550,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;燧ヶ岳に登る途中の木道で滑って転けてしまい、手をついて右手を捻挫。病院に行くか絶妙なところで、いまのところテーピングしてよいことにしている&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/RPZokBPefX55PTDGxhKUhb</guid>
       <pubDate>Mon, 20 Oct 2025 10:59:29 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;実際ホストしているの中でまともに使っているのはこのmemos (と多分これの裏にあるRDBMS) ぐらいなのだけどな&lt;/p&gt;</title>
@@ -558,7 +558,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;実際ホストしているの中でまともに使っているのはこのmemos (と多分これの裏にあるRDBMS) ぐらいなのだけどな&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/BkXszLfTuREtUuD2TU7pRp</guid>
       <pubDate>Mon, 13 Oct 2025 11:06:22 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;自宅サーバー (おうちk3s)、自分の使うワークロードを載せて安定的に動いてしまうと、それはそれで手を入れて壊したくなくて触るのが億劫になってしまっている、2つ環境を用意してblue green</title>
@@ -566,7 +566,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;自宅サーバー (おうちk3s)、自分の使うワークロードを載せて安定的に動いてしまうと、それはそれで手を入れて壊したくなくて触るのが億劫になってしまっている、2つ環境を用意してblue green的にしたいな、片方壊し放題にできるので&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/AoCAMcGztUqMiouyCHTgT6</guid>
       <pubDate>Mon, 13 Oct 2025 11:05:49 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;都バスの前乗り前払い中降り、いまだに慣れない&lt;/p&gt;</title>
@@ -574,7 +574,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;都バスの前乗り前払い中降り、いまだに慣れない&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/9mLfA9LBZhwbGiKJSquRAE</guid>
       <pubDate>Mon, 13 Oct 2025 10:13:39 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>個人でホストしているWebアプリケーション、何か触ろうとしたときにどこにデプロイしたか大抵覚えていなくて、digして出てきたIPをwhoisして、どこのプラットフォームを探すところからいつも始まる</title>
@@ -582,7 +582,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>個人でホストしているWebアプリケーション、何か触ろうとしたときにどこにデプロイしたか大抵覚えていなくて、digして出てきたIPをwhoisして、どこのプラットフォームを探すところからいつも始まる</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m32h3ksw722h</guid>
       <pubDate>Mon, 13 Oct 2025 05:08:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>&lt;p&gt;フレッシュネスバーガー、あんまり店舗を見つけられなかったりタイミングが合わず、記憶の中では初めて食べる。バーガーキングとかよりもフレッシュな感じ (肉以外の味がしっかり感じられる) がよかった&lt;</title>
@@ -590,7 +590,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;フレッシュネスバーガー、あんまり店舗を見つけられなかったりタイミングが合わず、記憶の中では初めて食べる。バーガーキングとかよりもフレッシュな感じ (肉以外の味がしっかり感じられる) がよかった&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/LQVjikwBMvjFKiBYJvKzun</guid>
       <pubDate>Sat, 11 Oct 2025 06:37:55 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;無理に昇華せず、自分の思っていることを、具体でいいからそのまま残すことがいいのかもしれない&lt;/p&gt;</title>
@@ -598,7 +598,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;無理に昇華せず、自分の思っていることを、具体でいいからそのまま残すことがいいのかもしれない&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/KAEFmUoMr3DUsc78t44kNh</guid>
       <pubDate>Fri, 10 Oct 2025 14:37:20 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;その人にとっての情熱が大事で、何に情熱を抱けるかか、情熱をもってやれているか&lt;/p&gt;</title>
@@ -606,7 +606,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;その人にとっての情熱が大事で、何に情熱を抱けるかか、情熱をもってやれているか&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/oC2HSEUkfjjDZzt7EmuFzc</guid>
       <pubDate>Fri, 10 Oct 2025 14:34:51 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;&lt;a href=&quot;https://rubyonrails.org/doctrine/ja&quot;&gt;https://rubyonrails.org/doctrine/ja&lt;/a&gt; 素晴らしい日本語訳だっ</title>
@@ -614,7 +614,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;&lt;a href=&quot;https://rubyonrails.org/doctrine/ja&quot;&gt;https://rubyonrails.org/doctrine/ja&lt;/a&gt; 素晴らしい日本語訳だった&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/3bcuJC4cjt4GYpZZTDHiaj</guid>
       <pubDate>Fri, 10 Oct 2025 14:33:39 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;時差投稿つぶやきプラットフォームが欲しいな&lt;/p&gt;</title>
@@ -622,7 +622,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;時差投稿つぶやきプラットフォームが欲しいな&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/B8DCtU8vkwG7gQXV2tLGHE</guid>
       <pubDate>Fri, 10 Oct 2025 14:21:24 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;cleave 40がきになっている&lt;/p&gt;</title>
@@ -630,7 +630,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;cleave 40がきになっている&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/ag6WPT8EtT8om8Kdh9g6Qj</guid>
       <pubDate>Thu, 09 Oct 2025 16:08:41 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;OAuthクライアントになるWebアプリケーション、LLMがPlaywrightで気軽にデバッグできるようにモックサーバにするのがめちゃくちゃハマっていると思う&lt;/p&gt;</title>
@@ -638,7 +638,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;OAuthクライアントになるWebアプリケーション、LLMがPlaywrightで気軽にデバッグできるようにモックサーバにするのがめちゃくちゃハマっていると思う&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/guTHtLKDTEoGfH6MDJtV6q</guid>
       <pubDate>Thu, 09 Oct 2025 15:25:27 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;欲しいやつ割とこれじゃん！Webがいいけど&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;a href=&quot;https://gigazine.net/news/20251008-timelinize/&quot;&gt;https://</title>
@@ -646,7 +646,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;欲しいやつ割とこれじゃん！Webがいいけど&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;a href=&quot;https://gigazine.net/news/20251008-timelinize/&quot;&gt;https://gigazine.net/news/20251008-timelinize/&lt;/a&gt;&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/7XJPvnuZzyGKHLUFrzPwUT</guid>
       <pubDate>Thu, 09 Oct 2025 15:18:09 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;懐かしの西武線！&lt;/p&gt;</title>
@@ -654,7 +654,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;懐かしの西武線！&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/EWC9meYgSovBmfMKfK5vuV</guid>
       <pubDate>Thu, 09 Oct 2025 15:16:12 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>cacheのinvalidationどうしようか会議 v20251009</title>
@@ -662,7 +662,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>cacheのinvalidationどうしようか会議 v20251009</description>
       <guid>1976068586159722950</guid>
       <pubDate>Wed, 08 Oct 2025 23:33:59 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>コンビニのおでんが始まったので今日から冬</title>
@@ -670,7 +670,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>コンビニのおでんが始まったので今日から冬</description>
       <guid>1973245287486636090</guid>
       <pubDate>Wed, 01 Oct 2025 04:35:12 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>&lt;p&gt;そういえば昨日夕方、三芳PAでも腹痛とまではいかないが復旧&lt;/p&gt;</title>
@@ -678,7 +678,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;そういえば昨日夕方、三芳PAでも腹痛とまではいかないが復旧&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/MecdE3t4KFnHFxshTsQAtg</guid>
       <pubDate>Mon, 29 Sep 2025 00:09:43 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;腹痛とまでいかないが復旧&lt;/p&gt;</title>
@@ -686,7 +686,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;腹痛とまでいかないが復旧&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/WsRGYvdPAc728Ms6ozedX2</guid>
       <pubDate>Mon, 29 Sep 2025 00:09:19 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;エッセンシャル思考を読み始めた。&lt;/p&gt;</title>
@@ -694,7 +694,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;エッセンシャル思考を読み始めた。&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/2CY2dKJFjyaujCiLvGmGBP</guid>
       <pubDate>Sun, 28 Sep 2025 23:51:23 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>今日は今までで1番ネパリコのカレーとご飯の食べ進め方の割合がうまくいったのでテンションが上がった。いつもコメが足りなくなるのだけれども、今日は完璧👌</title>
@@ -702,7 +702,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>今日は今までで1番ネパリコのカレーとご飯の食べ進め方の割合がうまくいったのでテンションが上がった。いつもコメが足りなくなるのだけれども、今日は完璧👌</description>
       <guid>1971138118733746239</guid>
       <pubDate>Thu, 25 Sep 2025 09:02:04 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>自分のサイトが壊れているのを1週間以上放置してしまっている、ああMTTR</title>
@@ -710,7 +710,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>自分のサイトが壊れているのを1週間以上放置してしまっている、ああMTTR</description>
       <guid>1970837267146313773</guid>
       <pubDate>Wed, 24 Sep 2025 13:06:35 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>&lt;p&gt;韓国に行くことになったので、梨泰院クラスみはじめた&lt;/p&gt;</title>
@@ -718,7 +718,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;韓国に行くことになったので、梨泰院クラスみはじめた&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/Mfc9k9axM4EvgEQpvqjCGg</guid>
       <pubDate>Sun, 21 Sep 2025 14:28:03 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;腹痛じわり復旧 (すぐすっきり回復はしなかった)&lt;/p&gt;</title>
@@ -726,7 +726,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;腹痛じわり復旧 (すぐすっきり回復はしなかった)&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/QhtvX5VAsQdrh78Dn2kBA3</guid>
       <pubDate>Sat, 20 Sep 2025 13:52:55 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;最高の夏&lt;/p&gt;</title>
@@ -734,7 +734,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;最高の夏&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/4TLXnSenKf4GrfDNqdSx3N</guid>
       <pubDate>Fri, 19 Sep 2025 15:06:29 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;情熱プログラマーの「1番下手なやつでいよう」は、1番下手であることかどうかより、自分が1番下手だと思えるか、そしてそれを受け止められるかなのだろうと思う&lt;/p&gt;</title>
@@ -742,7 +742,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;情熱プログラマーの「1番下手なやつでいよう」は、1番下手であることかどうかより、自分が1番下手だと思えるか、そしてそれを受け止められるかなのだろうと思う&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/DCGv4hS42mzBK7NufK8Ndw</guid>
       <pubDate>Fri, 19 Sep 2025 14:57:41 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;飲み過ぎ！&lt;/p&gt;</title>
@@ -750,7 +750,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;飲み過ぎ！&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/RJxEbEX4no6vZDbLTM3zPB</guid>
       <pubDate>Fri, 19 Sep 2025 14:42:09 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;腹痛復旧&lt;/p&gt;</title>
@@ -758,7 +758,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;腹痛復旧&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/bxjJbUkA4DFASSfiKYQiFL</guid>
       <pubDate>Thu, 18 Sep 2025 01:23:33 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;お腹痛くなるのが普通すぎてすぐトイレに行って解決してしまうのが当たり前になっているが、世の中こんなもんなのかどうなのか&lt;/p&gt;</title>
@@ -766,7 +766,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;お腹痛くなるのが普通すぎてすぐトイレに行って解決してしまうのが当たり前になっているが、世の中こんなもんなのかどうなのか&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/fL9KvLcswEZ69trTYMyrAo</guid>
       <pubDate>Mon, 15 Sep 2025 23:02:41 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>幸せを感じる瞬間: 腹痛がトイレを経て直った時</title>
@@ -774,7 +774,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>幸せを感じる瞬間: 腹痛がトイレを経て直った時</description>
       <guid>1965629816197316864</guid>
       <pubDate>Wed, 10 Sep 2025 04:14:02 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>地震、なんか久々なきするな</title>
@@ -782,7 +782,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>地震、なんか久々なきするな</description>
       <guid>1963935536915378630</guid>
       <pubDate>Fri, 05 Sep 2025 12:01:34 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>おはよう！！！</title>
@@ -790,7 +790,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>おはよう！！！</description>
       <guid>1963710699689128243</guid>
       <pubDate>Thu, 04 Sep 2025 21:08:09 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>回遊の促進 #StrategicSearchRec</title>
@@ -798,7 +798,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>回遊の促進 #StrategicSearchRec</description>
       <guid>1963191548658778461</guid>
       <pubDate>Wed, 03 Sep 2025 10:45:14 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>納得感のあるベースライン #StrategicSearchRec</title>
@@ -806,7 +806,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>納得感のあるベースライン #StrategicSearchRec</description>
       <guid>1963183681713098752</guid>
       <pubDate>Wed, 03 Sep 2025 10:13:58 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>こんにちは #StrategicSearchRec</title>
@@ -814,7 +814,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>こんにちは #StrategicSearchRec</description>
       <guid>1963180943822213443</guid>
       <pubDate>Wed, 03 Sep 2025 10:03:05 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>&lt;p&gt;ふつうに収束させるのが大事だが、世界ごとにその世界の普通があるので、どの世界を選ぶかが大事とも言える&lt;/p&gt;</title>
@@ -822,7 +822,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;ふつうに収束させるのが大事だが、世界ごとにその世界の普通があるので、どの世界を選ぶかが大事とも言える&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/VBQxxnik565e8iCbjH6xjo</guid>
       <pubDate>Mon, 25 Aug 2025 00:43:49 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;基本情報技術者試験を受けるというプログラマーではない友達が、オブジェクト指向プログラミングのトピックを学ぶ機会があるという話をしていて、結構大変だなというのを知った。&lt;/p&gt;&lt;br&gt;&lt;p&gt;オブジ</title>
@@ -830,7 +830,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;基本情報技術者試験を受けるというプログラマーではない友達が、オブジェクト指向プログラミングのトピックを学ぶ機会があるという話をしていて、結構大変だなというのを知った。&lt;/p&gt;&lt;br&gt;&lt;p&gt;オブジェクト指向プログラミングのコアな概念が何か、これは大揉めする話題だが、大きくはカプセル化おポリモーフィズムだっただろうとしてここでは雑に話を進める。&lt;/p&gt;&lt;br&gt;&lt;p&gt;データと制御構造をセットにして扱いたいことがというのがカプセル化、違うものを同じように扱えるというのがポリモーフィズム&lt;/p&gt;&lt;br&gt;&lt;p&gt;みたいなことを思っていた時に &lt;a href=&quot;https://open.spotify.com/episode/3V89qcWQGMFx4YQZO2jjW7?si=k56kVnEFQuGzVjVMe5zkNQ&quot;&gt;https://open.spotify.com/episode/3V89qcWQGMFx4YQZO2jjW7?si=k56kVnEFQuGzVjVMe5zkNQ&lt;/a&gt; が流れて来たので聞いた。オブジェクト指向プログラミングとGUIプログラミングは切っても切り離せない話題であるというのに触れるのがわかりやすさに大事だというのがなるほどなとなった。&lt;/p&gt;&lt;br&gt;&lt;p&gt;データと制御構造をセットにして扱いたいというのは、ウィンドウを例にして、各ウィンドウが状態も処理ももつ、違うものを同じように扱いたいというのは、たとえばアラートウィンドウもそうでないものも同じようにドラッグしたり閉じたりしたい、みたいな比喩で上手く伝えられないだろうかと思考してみている&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/X942J5X7xPuaMvVLPUGTLH</guid>
       <pubDate>Wed, 20 Aug 2025 23:35:01 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;Misreading Podcastというのに出会い、 エピソード107 を聴きはじめたが、落ち着いた声で聴きやすくて、おもしろい&lt;/p&gt;</title>
@@ -838,7 +838,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;Misreading Podcastというのに出会い、 エピソード107 を聴きはじめたが、落ち着いた声で聴きやすくて、おもしろい&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/BjpWAiVLzZ3aLafgSqgcNv</guid>
       <pubDate>Tue, 19 Aug 2025 23:34:12 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;作ることでのフィードバック、本当に大事。難しい問題を最初から解決するのではなく、まずは手元の問題を解決することで見えてくるものもある。他方で、作ってもしょうがないものもたくさんあって、目の前の課</title>
@@ -846,7 +846,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;作ることでのフィードバック、本当に大事。難しい問題を最初から解決するのではなく、まずは手元の問題を解決することで見えてくるものもある。他方で、作ってもしょうがないものもたくさんあって、目の前の課題が本質かどうか、結局それもやったことの積み重ねからのカンだけのような気もする&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/DUVA2RGrwzrKwzsZ5upsbF</guid>
       <pubDate>Sun, 17 Aug 2025 10:40:35 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>2025年に人間に残された仕事: AIにカレントディレクトリを教える</title>
@@ -854,7 +854,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>2025年に人間に残された仕事: AIにカレントディレクトリを教える</description>
       <guid>1956657157182829020</guid>
       <pubDate>Sat, 16 Aug 2025 09:59:53 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>&lt;p&gt;休み中に寝過ぎて、朝この時間でもまだ起動しない体になってしまっておる&lt;/p&gt;</title>
@@ -862,7 +862,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;休み中に寝過ぎて、朝この時間でもまだ起動しない体になってしまっておる&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/7eHgKND2jLfcVrLzHu6uv7</guid>
       <pubDate>Sat, 16 Aug 2025 00:32:06 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;牛尾さんのディープコードリーディング、本人もバズを意識して書かれておられるのだろうと思うけど、単にコードを読みましょう、と言う話を読みやすく書いてくれている。&lt;/p&gt;&lt;br&gt;&lt;p&gt;ソフトウェアは</title>
@@ -870,7 +870,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;牛尾さんのディープコードリーディング、本人もバズを意識して書かれておられるのだろうと思うけど、単にコードを読みましょう、と言う話を読みやすく書いてくれている。&lt;/p&gt;&lt;br&gt;&lt;p&gt;ソフトウェアは単に動けばいいんじゃなくて、最初からそこにあったかのように構造を変更し続ける、ということをやるには、思ったよりも無関係に思える全体を知らなきゃいけない、そうやっておくと、あたかも最初からそこにあったかのような自然なコードが書けるので、読み手も何をやっているかわかる、という話なのだと思う&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/9L4zNnFfnp2Na2L8w3kfbD</guid>
       <pubDate>Sat, 16 Aug 2025 00:31:31 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;作ることで得られるフィードバック、と言う話のまた一段さらなるフィードバック(というか一体化) というはなしだった&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/</title>
@@ -878,7 +878,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;作ることで得られるフィードバック、と言う話のまた一段さらなるフィードバック(というか一体化) というはなしだった&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/episode/5p7LxrSl1GBmG1QPQ1jiHK?si=fV2MOkxFRsaRpjIzewP3Tg&quot;&gt;https://open.spotify.com/episode/5p7LxrSl1GBmG1QPQ1jiHK?si=fV2MOkxFRsaRpjIzewP3Tg&lt;/a&gt;&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/ckvtCHpLNvU3Ezj4zFase7</guid>
       <pubDate>Tue, 12 Aug 2025 15:21:37 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;jan.ai、気づいたらMCPきてそう&lt;/p&gt;</title>
@@ -886,7 +886,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;jan.ai、気づいたらMCPきてそう&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/Nu5eeoF9oqZ35bPyc4UjKQ</guid>
       <pubDate>Mon, 11 Aug 2025 04:28:06 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;Luupも埋まっているし時間なさすぎてタクシー乗ったらむしろ時間かかって残念。都内交通弱者..&lt;/p&gt;</title>
@@ -894,7 +894,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;Luupも埋まっているし時間なさすぎてタクシー乗ったらむしろ時間かかって残念。都内交通弱者..&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/kzXfqHj8WwrvoQaXT7ivMU</guid>
       <pubDate>Sat, 09 Aug 2025 03:06:03 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>アクスタつくらなきゃ！！ x.com/doew_/status/1…</title>
@@ -902,7 +902,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>アクスタつくらなきゃ！！ x.com/doew_/status/1…</description>
       <guid>1953110751763415107</guid>
       <pubDate>Wed, 06 Aug 2025 15:07:44 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>&lt;p&gt;ラーゲリより愛を込めて、すっきり終わるのが良かったというのをネタバレになるから言わずに終わった&lt;/p&gt;</title>
@@ -910,7 +910,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;ラーゲリより愛を込めて、すっきり終わるのが良かったというのをネタバレになるから言わずに終わった&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/TvV5yniG9iKELTXqCDTFUf</guid>
       <pubDate>Tue, 05 Aug 2025 15:30:23 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;フラフラするぐらい酔うのは久々だが、そうなることをあんまり覚えていないので、記録することは大事&lt;/p&gt;</title>
@@ -918,7 +918,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;フラフラするぐらい酔うのは久々だが、そうなることをあんまり覚えていないので、記録することは大事&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/PwymG3Qnxg9XnwGTFZCYDb</guid>
       <pubDate>Tue, 05 Aug 2025 15:28:55 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;自分が覚えていないが他の人が覚えているということが多すぎる！&lt;/p&gt;</title>
@@ -926,7 +926,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;自分が覚えていないが他の人が覚えているということが多すぎる！&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/aj3BX9AkpapCk4UgvEb92c</guid>
       <pubDate>Tue, 05 Aug 2025 14:58:53 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;8月はちゃんと生活する予定だったのに！&lt;/p&gt;</title>
@@ -934,7 +934,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;8月はちゃんと生活する予定だったのに！&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/68Hrt5d5KGK3zjQBsLC3m2</guid>
       <pubDate>Mon, 04 Aug 2025 15:08:19 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;8月になってしまった、2025年ははやい&lt;/p&gt;</title>
@@ -942,7 +942,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;8月になってしまった、2025年ははやい&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/cd8q3cdhegU3yw5q2EKZ6G</guid>
       <pubDate>Thu, 31 Jul 2025 15:02:47 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;AIにコードを出力させるVibe Codingは子供にクレカを使わせるものだ、という比喩&lt;/p&gt;&lt;br&gt;&lt;p&gt;いままでクレカを使いにくい環境でも使えるようになったともいえるだろう。&lt;/p&gt;&lt;br</title>
@@ -950,7 +950,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;AIにコードを出力させるVibe Codingは子供にクレカを使わせるものだ、という比喩&lt;/p&gt;&lt;br&gt;&lt;p&gt;いままでクレカを使いにくい環境でも使えるようになったともいえるだろう。&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;a href=&quot;https://blog.val.town/vibe-code&quot;&gt;https://blog.val.town/vibe-code&lt;/a&gt;&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/aVNv9Y32bDzbc3vSMeUs63</guid>
       <pubDate>Thu, 31 Jul 2025 15:00:21 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;やっぱ言語が統一されていることが大事？rubyばっか書いてたらTypescriptのシンタックスが出てこなくて、Webアプリケーション作るならフロントエンドは捨てられないからhogefuga..</title>
@@ -958,7 +958,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;やっぱ言語が統一されていることが大事？rubyばっか書いてたらTypescriptのシンタックスが出てこなくて、Webアプリケーション作るならフロントエンドは捨てられないからhogefuga... と思ったけど、言語が分かれている方がAIにとってコンテキストが明確に分かれていて混同されることがないからいいのかな&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/3VKXaP7FP6TzyAojQMpwJC</guid>
       <pubDate>Thu, 31 Jul 2025 14:39:39 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;ホワイトボードでロジックを考えて疑似コードにするぐらいまで頑張ったら、あとはClaude Codeがなんとかしてくれるだろうという安心感&lt;/p&gt;</title>
@@ -966,7 +966,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;ホワイトボードでロジックを考えて疑似コードにするぐらいまで頑張ったら、あとはClaude Codeがなんとかしてくれるだろうという安心感&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/Q8UkiCwoq448cb94FGAqbq</guid>
       <pubDate>Thu, 31 Jul 2025 14:37:43 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;80,15,5&lt;/p&gt;</title>
@@ -974,7 +974,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;80,15,5&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/hjrhCrkHxjoc2XCYvFGfVv</guid>
       <pubDate>Sun, 27 Jul 2025 08:32:19 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;Claude CodeのUsage Limit、人間的な生活をするために残してくれた最後の余白、優しさを感じる&lt;/p&gt;</title>
@@ -982,7 +982,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;Claude CodeのUsage Limit、人間的な生活をするために残してくれた最後の余白、優しさを感じる&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/EQyUdY9RoP4Xv2icYxkpA2</guid>
       <pubDate>Mon, 21 Jul 2025 08:59:29 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>awkを褒めてくれてありがとう
@@ -992,7 +992,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
 「awkも素晴らしいですが、このプロジェクトのコンテキストではRubyの方が適切ですね。」</description>
       <guid>1946609916946591863</guid>
       <pubDate>Sat, 19 Jul 2025 16:35:45 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>awkを書くドライバー席さえ明け渡してしまった。
@@ -1004,7 +1004,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
 「私にとってはawkで書いたほうが読みやすいので、bashの中身はawkに寄せて」</description>
       <guid>1946607110672007548</guid>
       <pubDate>Sat, 19 Jul 2025 16:24:36 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>一方で、コードが大量生成される状況の中なら、長いコミットメッセージなんて書いても誰も読まんから、一言で言い表せ、というほうがいい気がする</title>
@@ -1012,7 +1012,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>一方で、コードが大量生成される状況の中なら、長いコミットメッセージなんて書いても誰も読まんから、一言で言い表せ、というほうがいい気がする</description>
       <guid>1945492283421565093</guid>
       <pubDate>Wed, 16 Jul 2025 14:34:40 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>AIが非常に長いコミットメッセージを書く中、たまに混ざる「fix」「wip」「add [一語]」などしかかないので、人間が積んだかどうかが大変わかりやすい</title>
@@ -1020,7 +1020,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>AIが非常に長いコミットメッセージを書く中、たまに混ざる「fix」「wip」「add [一語]」などしかかないので、人間が積んだかどうかが大変わかりやすい</description>
       <guid>1945491908362694669</guid>
       <pubDate>Wed, 16 Jul 2025 14:33:11 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>&lt;p&gt;　Claude CodeがRubyのREPLを使いこなす姿と、https://techracho.bpsinc.jp/hachi8833/2025_03_07/148685 をみて安心した。AI</title>
@@ -1028,7 +1028,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;　Claude CodeがRubyのREPLを使いこなす姿と、https://techracho.bpsinc.jp/hachi8833/2025_03_07/148685 をみて安心した。AIが来ても、レールにのればいいだけのものを再発明して保守するのがいいということには別にならなくい&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/RJRUMj3baqTYhmTAHW6iyJ</guid>
       <pubDate>Tue, 15 Jul 2025 01:12:16 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;claude code、sedやgrepだけじゃなくて、RubyではREPLを結構使いこなして構造とかを確認していて、普通に普段Rubyのコードを書くソフトウェアエンジニアがやる感じで進めていて</title>
@@ -1036,7 +1036,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;claude code、sedやgrepだけじゃなくて、RubyではREPLを結構使いこなして構造とかを確認していて、普通に普段Rubyのコードを書くソフトウェアエンジニアがやる感じで進めていて、これも時代が進んだ感がある。&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/nKFwEhCtmJ3WAQjCcRJMJV</guid>
       <pubDate>Wed, 09 Jul 2025 16:50:23 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;AI、ダサいからRailsの中でAPIクライアントをかかせたら、何もないのにすぐapp/servicesというディレクトリを切り出した。&lt;/p&gt;</title>
@@ -1044,7 +1044,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;AI、ダサいからRailsの中でAPIクライアントをかかせたら、何もないのにすぐapp/servicesというディレクトリを切り出した。&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/hTa8nJFkbUotEDdYaZjV5t</guid>
       <pubDate>Wed, 09 Jul 2025 15:55:03 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;なんかよくわからんが目が覚めてしまったので走る&lt;/p&gt;</title>
@@ -1052,7 +1052,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;なんかよくわからんが目が覚めてしまったので走る&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/aWRJCeMKdQ3379bQEuVBFb</guid>
       <pubDate>Mon, 07 Jul 2025 21:21:48 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;5:30に起きてランニングすると、流石に夜は眠い。眠いのはよいこと&lt;/p&gt;</title>
@@ -1060,7 +1060,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;5:30に起きてランニングすると、流石に夜は眠い。眠いのはよいこと&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/gT7yA7vTXdxYgwnd84apqZ</guid>
       <pubDate>Mon, 07 Jul 2025 13:28:16 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;長い1日の終わり&lt;/p&gt;</title>
@@ -1068,7 +1068,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;長い1日の終わり&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/mfKHheHLxXTPbrbmYxovT5</guid>
       <pubDate>Mon, 07 Jul 2025 13:27:47 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;Clicks、1週間持たずにやめてしまった。qwertyもソフトウェアキーボードのほうが全然早くて、Blinkの修飾キー支援があればソフトウェアキーボードなら片手で打てていたということに気づいて</title>
@@ -1076,7 +1076,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>&lt;p&gt;Clicks、1週間持たずにやめてしまった。qwertyもソフトウェアキーボードのほうが全然早くて、Blinkの修飾キー支援があればソフトウェアキーボードなら片手で打てていたということに気づいてしまい...&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/5vBVJZNszMsVmNn3MmNcfV</guid>
       <pubDate>Sun, 06 Jul 2025 22:46:04 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>🔥🔥 🍝 🍚 🍺 🍺 🔥🔥 x.com/pepabo/status/…</title>
@@ -1084,7 +1084,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>🔥🔥 🍝 🍚 🍺 🍺 🔥🔥 x.com/pepabo/status/…</description>
       <guid>1941157135704027235</guid>
       <pubDate>Fri, 04 Jul 2025 15:28:20 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>手元の環境だと複数のディレクトリ/リポジトリで docker compose して 同一のnetworkを共有して動くみたいなのがあるのだが、これも override.yamlを動的に作るか、comp</title>
@@ -1092,7 +1092,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>手元の環境だと複数のディレクトリ/リポジトリで docker compose して 同一のnetworkを共有して動くみたいなのがあるのだが、これも override.yamlを動的に作るか、compose.yaml自体が環境変数で変化するようにしておけばいい感じに動かせるかもな、ラッパーを作るかという気持ちになってきた</description>
       <guid>1940658704850055181</guid>
       <pubDate>Thu, 03 Jul 2025 06:27:45 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>@yamato_sorariku わいわい！</title>
@@ -1100,7 +1100,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>@yamato_sorariku わいわい！</description>
       <guid>1940657680953364964</guid>
       <pubDate>Thu, 03 Jul 2025 06:23:41 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>@yamato_sorariku ですです！Claude Code + git worktreeでの利用を想定していて、git worktreeで並列に環境を立ち上げようとするとぶつかるのを避けるため</title>
@@ -1108,7 +1108,7 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>@yamato_sorariku ですです！Claude Code + git worktreeでの利用を想定していて、git worktreeで並列に環境を立ち上げようとするとぶつかるのを避けるために使っている(作られた) ようで</description>
       <guid>1940657237510570491</guid>
       <pubDate>Thu, 03 Jul 2025 06:21:55 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>docker composeを並列起動できるよう、overrideするyamlを作って起動する gopose というのが社内で便利に使われているっぽく、面白アイデアなので真似したい
@@ -1120,7 +1120,7 @@ github.com/harakeishi/gop…
 Claude Code + git worktree をうまく使えるような開発環境が求められている</description>
       <guid>1940656216910582144</guid>
       <pubDate>Thu, 03 Jul 2025 06:17:52 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>Clicks、今のところはまだ慣れてないなぁ</title>
@@ -1128,7 +1128,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>Clicks、今のところはまだ慣れてないなぁ</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lszhlud76c2g</guid>
       <pubDate>Thu, 03 Jul 2025 00:23:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>&lt;p&gt;clicksが届いたので使い始めた。まだ慣れないが...&lt;/p&gt;</title>
@@ -1136,7 +1136,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>&lt;p&gt;clicksが届いたので使い始めた。まだ慣れないが...&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/WyHksaYmq8oBuLKeSwXA5b</guid>
       <pubDate>Wed, 02 Jul 2025 16:07:31 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>電波のないところを求め、2ヶ月で7座登っていた。次の山、どこにすっかな</title>
@@ -1144,7 +1144,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>電波のないところを求め、2ヶ月で7座登っていた。次の山、どこにすっかな</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lsyblbgwks25</guid>
       <pubDate>Wed, 02 Jul 2025 13:03:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>&lt;p&gt;なぜここなのかというのは、多くないフォロワーだけのタイムラインを見ていたあのときのように心が穏やかということな気がする、アテンションを奪うことは銭になるから...&lt;/p&gt;</title>
@@ -1152,7 +1152,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>&lt;p&gt;なぜここなのかというのは、多くないフォロワーだけのタイムラインを見ていたあのときのように心が穏やかということな気がする、アテンションを奪うことは銭になるから...&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/mw9bWiNnaGKHzdQCfZ5AhV</guid>
       <pubDate>Wed, 02 Jul 2025 01:17:28 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;人間なので、音楽を聞けば元気も出る&lt;/p&gt;</title>
@@ -1160,7 +1160,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>&lt;p&gt;人間なので、音楽を聞けば元気も出る&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/Xmn2Z5q6Z4RLLQvfWDqtAe</guid>
       <pubDate>Wed, 02 Jul 2025 01:15:22 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;とりあえずtermuxやってる&lt;/p&gt;</title>
@@ -1168,7 +1168,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>&lt;p&gt;とりあえずtermuxやってる&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/Q9MYDr5RZy3DcmAJh5NtXd</guid>
       <pubDate>Wed, 02 Jul 2025 01:14:56 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;moshあれそれしたらいいのかなあ、blinkはセッション切れがち、termiusは日本語フォントがない、termixは日本語の入力が、できることがわかったがやりやすいわけでもない&lt;/p&gt;</title>
@@ -1176,7 +1176,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>&lt;p&gt;moshあれそれしたらいいのかなあ、blinkはセッション切れがち、termiusは日本語フォントがない、termixは日本語の入力が、できることがわかったがやりやすいわけでもない&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/HatJQMJcn9TBB7HL5AMzDm</guid>
       <pubDate>Tue, 01 Jul 2025 13:56:51 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;端末の認証情報ブートストラップ、単にandroidのバージョンが古いだけで、新しめなら全然いけた、passkey最高&lt;/p&gt;</title>
@@ -1184,7 +1184,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>&lt;p&gt;端末の認証情報ブートストラップ、単にandroidのバージョンが古いだけで、新しめなら全然いけた、passkey最高&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/fXVt4DGeV6fbe6Vb9jZjHb</guid>
       <pubDate>Tue, 01 Jul 2025 13:55:17 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;ランニングを再開したいができていない、まずは睡眠から&lt;/p&gt;</title>
@@ -1192,7 +1192,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>&lt;p&gt;ランニングを再開したいができていない、まずは睡眠から&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/J4JDndfKJFFVUwVEDyzjCM</guid>
       <pubDate>Tue, 01 Jul 2025 01:26:26 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>&lt;p&gt;何もしていないのに左足首がピキッと来てしまった、何事〜&lt;/p&gt;</title>
@@ -1200,7 +1200,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>&lt;p&gt;何もしていないのに左足首がピキッと来てしまった、何事〜&lt;/p&gt;</description>
       <guid>https://usememos.yammer.jp/m/m5eY8e7mXZPv6ZQtuM6w3k</guid>
       <pubDate>Tue, 01 Jul 2025 01:25:55 GMT</pubDate>
-      <source>memos</source>
+      <category>memos</category>
     </item>
     <item>
       <title>php.net/manual/ja/func…
@@ -1212,7 +1212,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
 #phpcon</description>
       <guid>1938869814321385549</guid>
       <pubDate>Sat, 28 Jun 2025 07:59:20 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>#phpcon date_sun_info なんてあるんだ！！wwww</title>
@@ -1220,7 +1220,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>#phpcon date_sun_info なんてあるんだ！！wwww</description>
       <guid>1938869636621389911</guid>
       <pubDate>Sat, 28 Jun 2025 07:58:38 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>電話番号の仕様w #phpcon</title>
@@ -1228,7 +1228,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>電話番号の仕様w #phpcon</description>
       <guid>1938864922395582633</guid>
       <pubDate>Sat, 28 Jun 2025 07:39:54 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>全く自信がないpregクイズ #phpcon</title>
@@ -1236,7 +1236,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>全く自信がないpregクイズ #phpcon</description>
       <guid>1938864385579167770</guid>
       <pubDate>Sat, 28 Jun 2025 07:37:46 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>@theyoshida3 なるほど！</title>
@@ -1244,7 +1244,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>@theyoshida3 なるほど！</description>
       <guid>1938845770377269649</guid>
       <pubDate>Sat, 28 Jun 2025 06:23:48 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>#phpcon #track3 「サーバをください！」</title>
@@ -1252,7 +1252,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>#phpcon #track3 「サーバをください！」</description>
       <guid>1938840380587549093</guid>
       <pubDate>Sat, 28 Jun 2025 06:02:23 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>#phpcon #track3 app-state-diagram.com</title>
@@ -1260,7 +1260,7 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>#phpcon #track3 app-state-diagram.com</description>
       <guid>1938832338395468082</guid>
       <pubDate>Sat, 28 Jun 2025 05:30:25 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>DeepResearch、APIででたのか
@@ -1272,7 +1272,7 @@ platform.openai.com/docs/guides/de…</title>
 platform.openai.com/docs/guides/de…</description>
       <guid>1938829941417849109</guid>
       <pubDate>Sat, 28 Jun 2025 05:20:54 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>#phpcon #track2 ゼロ日付、実際にはどんな意味を持ったカラムの値だったのか気になる</title>
@@ -1280,7 +1280,7 @@ platform.openai.com/docs/guides/de…</description>
       <description>#phpcon #track2 ゼロ日付、実際にはどんな意味を持ったカラムの値だったのか気になる</description>
       <guid>1938825892857552976</guid>
       <pubDate>Sat, 28 Jun 2025 05:04:49 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>#phpcon #track2 それぞれ互換性を一部維持するための設定がいろいろある..!</title>
@@ -1288,7 +1288,7 @@ platform.openai.com/docs/guides/de…</description>
       <description>#phpcon #track2 それぞれ互換性を一部維持するための設定がいろいろある..!</description>
       <guid>1938825207550222352</guid>
       <pubDate>Sat, 28 Jun 2025 05:02:05 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>ききにきた！ 📣📣
@@ -1300,7 +1300,7 @@ fortee.jp/phpcon-2025/pr…
 #phpcon2025 #track2</description>
       <guid>1938822016557297775</guid>
       <pubDate>Sat, 28 Jun 2025 04:49:24 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>ひさネパ pic.x.com/r1umZbzgfV</title>
@@ -1308,7 +1308,7 @@ fortee.jp/phpcon-2025/pr…
       <description>ひさネパ pic.x.com/r1umZbzgfV</description>
       <guid>1935557622087954666</guid>
       <pubDate>Thu, 19 Jun 2025 04:37:52 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>あらゆるAI課金をやめて、課金枠をClaude MaxでClaude Codeに全振り</title>
@@ -1316,7 +1316,7 @@ fortee.jp/phpcon-2025/pr…
       <description>あらゆるAI課金をやめて、課金枠をClaude MaxでClaude Codeに全振り</description>
       <guid>1933163212918403524</guid>
       <pubDate>Thu, 12 Jun 2025 14:03:21 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>役所、行ったり来たり反復横跳び</title>
@@ -1324,7 +1324,7 @@ fortee.jp/phpcon-2025/pr…
       <description>役所、行ったり来たり反復横跳び</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lqemqka5bs2c</guid>
       <pubDate>Fri, 30 May 2025 06:39:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>とりあえず課金せずにやっているが、すでに半分ぐらい課金するかの気持ちになっている</title>
@@ -1332,7 +1332,7 @@ fortee.jp/phpcon-2025/pr…
       <description>とりあえず課金せずにやっているが、すでに半分ぐらい課金するかの気持ちになっている</description>
       <guid>1927864818100490716</guid>
       <pubDate>Wed, 28 May 2025 23:09:25 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>PocketからInstapaperに乗り換えたけど、保存を無意識でPocketにやってしまってダメ.. アプリを消そう</title>
@@ -1340,7 +1340,7 @@ fortee.jp/phpcon-2025/pr…
       <description>PocketからInstapaperに乗り換えたけど、保存を無意識でPocketにやってしまってダメ.. アプリを消そう</description>
       <guid>1927864721362821330</guid>
       <pubDate>Wed, 28 May 2025 23:09:02 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>ほとんど有料機能機能を使えていなかったが、Mozillaへの応援も兼ねて最近は有料プランでしばらくやっていた</title>
@@ -1348,7 +1348,7 @@ fortee.jp/phpcon-2025/pr…
       <description>ほとんど有料機能機能を使えていなかったが、Mozillaへの応援も兼ねて最近は有料プランでしばらくやっていた</description>
       <guid>1925709116506263733</guid>
       <pubDate>Fri, 23 May 2025 00:23:25 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>Pocket終了かなしい！乗り換え先を教えてください
@@ -1358,7 +1358,7 @@ itmedia.co.jp/news/articles/…</title>
 itmedia.co.jp/news/articles/…</description>
       <guid>1925707709871005807</guid>
       <pubDate>Fri, 23 May 2025 00:17:50 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>@buty4649 よっしゃ！新生plusplusで新記録に挑戦します！ @yammerjp ++</title>
@@ -1366,7 +1366,7 @@ itmedia.co.jp/news/articles/…</description>
       <description>@buty4649 よっしゃ！新生plusplusで新記録に挑戦します！ @yammerjp ++</description>
       <guid>1923440263743123586</guid>
       <pubDate>Fri, 16 May 2025 18:07:49 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>plusplus、貯まるポイントには特に意味がないのだけど、感謝を伝える方法としてとても便利。その人との距離に関係なく自然なコミュニケーションの手段としてお互いハッピーになれるすごく良いツール。
@@ -1376,7 +1376,7 @@ gi</title>
 github.com/pepabo/plusplu…</description>
       <guid>1923393937730912285</guid>
       <pubDate>Fri, 16 May 2025 15:03:44 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>たくさんポイントが〜というのは自分がhogefugaというわけではなく単純にたくさん人に送っているのでおすそ分けをいただいているというだけ説</title>
@@ -1384,7 +1384,7 @@ github.com/pepabo/plusplu…</description>
       <description>たくさんポイントが〜というのは自分がhogefugaというわけではなく単純にたくさん人に送っているのでおすそ分けをいただいているというだけ説</description>
       <guid>1923393382384042154</guid>
       <pubDate>Fri, 16 May 2025 15:01:31 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>実は最近までの回は在籍者のなかで1番貯めていたはず！最近スーパーリセットされたのでまた徳を積んでいきます x.com/buty4649/statu…</title>
@@ -1392,7 +1392,7 @@ github.com/pepabo/plusplu…</description>
       <description>実は最近までの回は在籍者のなかで1番貯めていたはず！最近スーパーリセットされたのでまた徳を積んでいきます x.com/buty4649/statu…</description>
       <guid>1923392623923851517</guid>
       <pubDate>Fri, 16 May 2025 14:58:31 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>@songmu こちらこそ！楽しい時間をありがとうございました！</title>
@@ -1400,7 +1400,7 @@ github.com/pepabo/plusplu…</description>
       <description>@songmu こちらこそ！楽しい時間をありがとうございました！</description>
       <guid>1923212229911917012</guid>
       <pubDate>Fri, 16 May 2025 03:01:41 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>ありがとうございました #VPoESummit_findy</title>
@@ -1408,7 +1408,7 @@ github.com/pepabo/plusplu…</description>
       <description>ありがとうございました #VPoESummit_findy</description>
       <guid>1922973595145244746</guid>
       <pubDate>Thu, 15 May 2025 11:13:26 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>gawkextlibが動かないということはJSONのパースが困る</title>
@@ -1416,7 +1416,7 @@ github.com/pepabo/plusplu…</description>
       <description>gawkextlibが動かないということはJSONのパースが困る</description>
       <guid>1915044601242722544</guid>
       <pubDate>Wed, 23 Apr 2025 14:06:27 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>あたらしいmacOSでgawkextlibが動かなくてこまった、よくかんがえたら前のmacOSでもDockerかqemuかssh先のVMの中でしか使ってなかったかも</title>
@@ -1424,7 +1424,7 @@ github.com/pepabo/plusplu…</description>
       <description>あたらしいmacOSでgawkextlibが動かなくてこまった、よくかんがえたら前のmacOSでもDockerかqemuかssh先のVMの中でしか使ってなかったかも</description>
       <guid>1915044504530546971</guid>
       <pubDate>Wed, 23 Apr 2025 14:06:04 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>よっしゃ！どこだどこだどこだ</title>
@@ -1432,7 +1432,7 @@ github.com/pepabo/plusplu…</description>
       <description>よっしゃ！どこだどこだどこだ</description>
       <guid>1915044141148635159</guid>
       <pubDate>Wed, 23 Apr 2025 14:04:37 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>要件定義の認識合わせにv0
@@ -1444,7 +1444,7 @@ github.com/pepabo/plusplu…</description>
  #hack_at_delta</description>
       <guid>1914985121838776383</guid>
       <pubDate>Wed, 23 Apr 2025 10:10:06 GMT</pubDate>
-      <source>twitter</source>
+      <category>twitter</category>
     </item>
     <item>
       <title>境界は自然とできてくるものだ、という @kenchankunsan.com の言葉をきいて「境界を収穫する」という言葉を思いついた。この先はまだないので、うまくメタファーがはまるその日にまた思い出すこ</title>
@@ -1452,7 +1452,7 @@ github.com/pepabo/plusplu…</description>
       <description>境界は自然とできてくるものだ、という @kenchankunsan.com の言葉をきいて「境界を収穫する」という言葉を思いついた。この先はまだないので、うまくメタファーがはまるその日にまた思い出すことにしよう</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lmgbfoucoc25</guid>
       <pubDate>Thu, 10 Apr 2025 00:41:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>Linuxディストリビューションを直接入れたいが、やりだすとyak shavingが止まらなくなるのでもう少し後で</title>
@@ -1460,7 +1460,7 @@ github.com/pepabo/plusplu…</description>
       <description>Linuxディストリビューションを直接入れたいが、やりだすとyak shavingが止まらなくなるのでもう少し後で</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3libphc7h5k2z</guid>
       <pubDate>Sun, 16 Feb 2025 07:28:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>GPD WIN Mini 2024を買ったおかげでn年ぶりにまともに自分のWindowsマシンをセットアップすることになった。浦島太郎みたいになっている</title>
@@ -1468,7 +1468,7 @@ github.com/pepabo/plusplu…</description>
       <description>GPD WIN Mini 2024を買ったおかげでn年ぶりにまともに自分のWindowsマシンをセットアップすることになった。浦島太郎みたいになっている</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3libpfreiis2z</guid>
       <pubDate>Sun, 16 Feb 2025 07:27:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>npmやpipやgemでグローバルに使いたいツール(たとえば~/.gitconfigのなかで使うとか)が、特定のディレクトリだとそのディレクトリの.ruby-versionに影響うけて使えなくなったり</title>
@@ -1478,7 +1478,7 @@ github.com/pepabo/plusplu…</description>
 そのコマンドだけpathの通す先を変えたらいいってことだと思うのだけど</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3li6qv3rog222</guid>
       <pubDate>Sat, 15 Feb 2025 03:16:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>明日の時間調べなきゃ</title>
@@ -1486,7 +1486,7 @@ github.com/pepabo/plusplu…</description>
       <description>明日の時間調べなきゃ</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lfwu66frxc2r</guid>
       <pubDate>Fri, 17 Jan 2025 13:03:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
     <item>
       <title>打刻にあわせてポケポケのパック開封をする生活を始めた。リズムを刻んでいけ！</title>
@@ -1494,7 +1494,7 @@ github.com/pepabo/plusplu…</description>
       <description>打刻にあわせてポケポケのパック開封をする生活を始めた。リズムを刻んでいけ！</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lfpgfo5vus2u</guid>
       <pubDate>Tue, 14 Jan 2025 14:08:00 GMT</pubDate>
-      <source>bluesky</source>
+      <category>bluesky</category>
     </item>
   </channel>
 </rss>
