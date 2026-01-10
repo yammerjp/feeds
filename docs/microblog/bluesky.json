@@ -5,6 +5,15 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/bluesky.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbytaydqzs2o",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mbytaydqzs2o",
+      "content_text": "特に用途を決めずにやすいからとNFCタグを買ってしまってまとめて届いた",
+      "date_published": "2026-01-09T15:37:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbx5ll3udc24",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbx5ll3udc24",
       "content_text": "今日も4-4だ",
@@ -261,15 +270,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3lfwu66frxc2r",
       "content_text": "明日の時間調べなきゃ",
       "date_published": "2025-01-17T13:03:00.000Z",
-      "tags": [
-        "bluesky"
-      ]
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lfpgfo5vus2u",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lfpgfo5vus2u",
-      "content_text": "打刻にあわせてポケポケのパック開封をする生活を始めた。リズムを刻んでいけ！",
-      "date_published": "2025-01-14T14:08:00.000Z",
       "tags": [
         "bluesky"
       ]
