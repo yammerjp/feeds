@@ -5,6 +5,15 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/6FgRaUemTSLCFitTceSbbP",
+      "url": "https://usememos.yammer.jp/m/6FgRaUemTSLCFitTceSbbP",
+      "content_text": "<p>テンションをつかむ</p>",
+      "date_published": "2026-01-10T08:17:02.000Z",
+      "tags": [
+        "memos"
+      ]
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbytaydqzs2o",
       "url": "https://bsky.app/profile/yammer.jp/post/3mbytaydqzs2o",
       "content_text": "特に用途を決めずにやすいからとNFCタグを買ってしまってまとめて届いた",
@@ -1323,15 +1332,6 @@
       "url": "https://usememos.yammer.jp/m/J4JDndfKJFFVUwVEDyzjCM",
       "content_text": "<p>ランニングを再開したいができていない、まずは睡眠から</p>",
       "date_published": "2025-07-01T01:26:26.000Z",
-      "tags": [
-        "memos"
-      ]
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/m5eY8e7mXZPv6ZQtuM6w3k",
-      "url": "https://usememos.yammer.jp/m/m5eY8e7mXZPv6ZQtuM6w3k",
-      "content_text": "<p>何もしていないのに左足首がピキッと来てしまった、何事〜</p>",
-      "date_published": "2025-07-01T01:25:55.000Z",
       "tags": [
         "memos"
       ]
