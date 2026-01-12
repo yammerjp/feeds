@@ -5,6 +5,15 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/memos.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/RCSvBwZM6d3jyrW94vdYrc",
+      "url": "https://usememos.yammer.jp/m/RCSvBwZM6d3jyrW94vdYrc",
+      "content_text": "<p>年明けから毎日走った結果、最寄り駅まで走って時間短縮するための体力という非常に実用的な能力が身についてしまった</p>",
+      "date_published": "2026-01-11T00:53:32.000Z",
+      "tags": [
+        "memos"
+      ]
+    },
+    {
       "id": "https://usememos.yammer.jp/m/6FgRaUemTSLCFitTceSbbP",
       "url": "https://usememos.yammer.jp/m/6FgRaUemTSLCFitTceSbbP",
       "content_text": "<p>テンションをつかむ</p>",
@@ -891,15 +900,6 @@
       "url": "https://usememos.yammer.jp/m/fXVt4DGeV6fbe6Vb9jZjHb",
       "content_text": "<p>端末の認証情報ブートストラップ、単にandroidのバージョンが古いだけで、新しめなら全然いけた、passkey最高</p>",
       "date_published": "2025-07-01T13:55:17.000Z",
-      "tags": [
-        "memos"
-      ]
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/J4JDndfKJFFVUwVEDyzjCM",
-      "url": "https://usememos.yammer.jp/m/J4JDndfKJFFVUwVEDyzjCM",
-      "content_text": "<p>ランニングを再開したいができていない、まずは睡眠から</p>",
-      "date_published": "2025-07-01T01:26:26.000Z",
       "tags": [
         "memos"
       ]
