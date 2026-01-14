@@ -5,6 +5,24 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcdqkelko22y",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mcdqkelko22y",
+      "content_text": "8両編成でも4-4なのか、はずした",
+      "date_published": "2026-01-13T23:48:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/HxaSrBn4dgXqyo2keYhny6",
+      "url": "https://usememos.yammer.jp/m/HxaSrBn4dgXqyo2keYhny6",
+      "content_text": "<p>いい記事だった</p><p>作業の外の考える範囲のひろさがひろがって、それを楽しいと受け取れているポジティブさが。</p><br><p>ところでZenn、書いた人の名前を出さずに会社名だけ出せるのか？どんな人が書いたかしれるとよかったかなあ</p><p><a href=\"https://zenn.dev/coconala/articles/e1ba22510836fc\">https://zenn.dev/coconala/articles/e1ba22510836fc</a></p>",
+      "date_published": "2026-01-13T23:44:09.000Z",
+      "tags": [
+        "memos"
+      ]
+    },
+    {
       "id": "https://usememos.yammer.jp/m/aGi9nymc5uDTK4YC3ACXpR",
       "url": "https://usememos.yammer.jp/m/aGi9nymc5uDTK4YC3ACXpR",
       "content_text": "<p>テーブルを買い替えた結果、また処理せねばならない粗大ゴミが増えてしまった</p>",
@@ -1328,15 +1346,6 @@
       ]
     },
     {
-      "id": "https://usememos.yammer.jp/m/HatJQMJcn9TBB7HL5AMzDm",
-      "url": "https://usememos.yammer.jp/m/HatJQMJcn9TBB7HL5AMzDm",
-      "content_text": "<p>moshあれそれしたらいいのかなあ、blinkはセッション切れがち、termiusは日本語フォントがない、termixは日本語の入力が、できることがわかったがやりやすいわけでもない</p>",
-      "date_published": "2025-07-01T13:56:51.000Z",
-      "tags": [
-        "memos"
-      ]
-    },
-    {
       "id": "1938869814321385549",
       "url": "https://x.com/yammerjp/status/1938869814321385549",
       "content_text": "php.net/manual/ja/func…\n\n#phpcon",
@@ -1620,15 +1629,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3li6qv3rog222",
       "content_text": "npmやpipやgemでグローバルに使いたいツール(たとえば~/.gitconfigのなかで使うとか)が、特定のディレクトリだとそのディレクトリの.ruby-versionに影響うけて使えなくなったりするの、みんなどうしているのだ？\n\nそのコマンドだけpathの通す先を変えたらいいってことだと思うのだけど",
       "date_published": "2025-02-15T03:16:00.000Z",
-      "tags": [
-        "bluesky"
-      ]
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lfwu66frxc2r",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lfwu66frxc2r",
-      "content_text": "明日の時間調べなきゃ",
-      "date_published": "2025-01-17T13:03:00.000Z",
       "tags": [
         "bluesky"
       ]

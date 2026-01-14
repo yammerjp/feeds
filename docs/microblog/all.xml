@@ -5,6 +5,22 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>8両編成でも4-4なのか、はずした</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mcdqkelko22y</link>
+      <description>8両編成でも4-4なのか、はずした</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcdqkelko22y</guid>
+      <pubDate>Tue, 13 Jan 2026 23:48:00 GMT</pubDate>
+      <category>bluesky</category>
+    </item>
+    <item>
+      <title>&lt;p&gt;いい記事だった&lt;/p&gt;&lt;p&gt;作業の外の考える範囲のひろさがひろがって、それを楽しいと受け取れているポジティブさが。&lt;/p&gt;&lt;br&gt;&lt;p&gt;ところでZenn、書いた人の名前を出さずに会社名だけ出せる</title>
+      <link>https://usememos.yammer.jp/m/HxaSrBn4dgXqyo2keYhny6</link>
+      <description>&lt;p&gt;いい記事だった&lt;/p&gt;&lt;p&gt;作業の外の考える範囲のひろさがひろがって、それを楽しいと受け取れているポジティブさが。&lt;/p&gt;&lt;br&gt;&lt;p&gt;ところでZenn、書いた人の名前を出さずに会社名だけ出せるのか？どんな人が書いたかしれるとよかったかなあ&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://zenn.dev/coconala/articles/e1ba22510836fc&quot;&gt;https://zenn.dev/coconala/articles/e1ba22510836fc&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://usememos.yammer.jp/m/HxaSrBn4dgXqyo2keYhny6</guid>
+      <pubDate>Tue, 13 Jan 2026 23:44:09 GMT</pubDate>
+      <category>memos</category>
+    </item>
+    <item>
       <title>&lt;p&gt;テーブルを買い替えた結果、また処理せねばならない粗大ゴミが増えてしまった&lt;/p&gt;</title>
       <link>https://usememos.yammer.jp/m/aGi9nymc5uDTK4YC3ACXpR</link>
       <description>&lt;p&gt;テーブルを買い替えた結果、また処理せねばならない粗大ゴミが増えてしまった&lt;/p&gt;</description>
@@ -1203,14 +1219,6 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <category>memos</category>
     </item>
     <item>
-      <title>&lt;p&gt;moshあれそれしたらいいのかなあ、blinkはセッション切れがち、termiusは日本語フォントがない、termixは日本語の入力が、できることがわかったがやりやすいわけでもない&lt;/p&gt;</title>
-      <link>https://usememos.yammer.jp/m/HatJQMJcn9TBB7HL5AMzDm</link>
-      <description>&lt;p&gt;moshあれそれしたらいいのかなあ、blinkはセッション切れがち、termiusは日本語フォントがない、termixは日本語の入力が、できることがわかったがやりやすいわけでもない&lt;/p&gt;</description>
-      <guid>https://usememos.yammer.jp/m/HatJQMJcn9TBB7HL5AMzDm</guid>
-      <pubDate>Tue, 01 Jul 2025 13:56:51 GMT</pubDate>
-      <category>memos</category>
-    </item>
-    <item>
       <title>php.net/manual/ja/func…
 
 #phpcon</title>
@@ -1486,14 +1494,6 @@ github.com/pepabo/plusplu…</description>
 そのコマンドだけpathの通す先を変えたらいいってことだと思うのだけど</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3li6qv3rog222</guid>
       <pubDate>Sat, 15 Feb 2025 03:16:00 GMT</pubDate>
-      <category>bluesky</category>
-    </item>
-    <item>
-      <title>明日の時間調べなきゃ</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3lfwu66frxc2r</link>
-      <description>明日の時間調べなきゃ</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lfwu66frxc2r</guid>
-      <pubDate>Fri, 17 Jan 2025 13:03:00 GMT</pubDate>
       <category>bluesky</category>
     </item>
   </channel>

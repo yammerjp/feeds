@@ -5,6 +5,14 @@
     <link>https://bsky.app/profile/yammer.jp</link>
     <description>Bluesky posts from @yammer.jp</description>
     <item>
+      <title>8両編成でも4-4なのか、はずした</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mcdqkelko22y</link>
+      <description>8両編成でも4-4なのか、はずした</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcdqkelko22y</guid>
+      <pubDate>Tue, 13 Jan 2026 23:48:00 GMT</pubDate>
+      <category>bluesky</category>
+    </item>
+    <item>
       <title>特に用途を決めずにやすいからとNFCタグを買ってしまってまとめて届いた</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mbytaydqzs2o</link>
       <description>特に用途を決めずにやすいからとNFCタグを買ってしまってまとめて届いた</description>
@@ -248,14 +256,6 @@ https://awkblog.net/@yammerjp/posts/35</description>
 そのコマンドだけpathの通す先を変えたらいいってことだと思うのだけど</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3li6qv3rog222</guid>
       <pubDate>Sat, 15 Feb 2025 03:16:00 GMT</pubDate>
-      <category>bluesky</category>
-    </item>
-    <item>
-      <title>明日の時間調べなきゃ</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3lfwu66frxc2r</link>
-      <description>明日の時間調べなきゃ</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lfwu66frxc2r</guid>
-      <pubDate>Fri, 17 Jan 2025 13:03:00 GMT</pubDate>
       <category>bluesky</category>
     </item>
   </channel>
