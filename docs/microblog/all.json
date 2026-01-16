@@ -5,6 +5,15 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcgcgxye2k2k",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mcgcgxye2k2k",
+      "content_text": "https://blog.kyu08.com/posts/cqrs-documents-by-greg-young/",
+      "date_published": "2026-01-15T00:13:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
+    },
+    {
       "id": "https://usememos.yammer.jp/m/H8mwxMnVAZECFqnq72RETR",
       "url": "https://usememos.yammer.jp/m/H8mwxMnVAZECFqnq72RETR",
       "content_text": "<p>自然緩和</p>",
@@ -1620,15 +1629,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3libpfreiis2z",
       "content_text": "GPD WIN Mini 2024を買ったおかげでn年ぶりにまともに自分のWindowsマシンをセットアップすることになった。浦島太郎みたいになっている",
       "date_published": "2025-02-16T07:27:00.000Z",
-      "tags": [
-        "bluesky"
-      ]
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3li6qv3rog222",
-      "url": "https://bsky.app/profile/yammer.jp/post/3li6qv3rog222",
-      "content_text": "npmやpipやgemでグローバルに使いたいツール(たとえば~/.gitconfigのなかで使うとか)が、特定のディレクトリだとそのディレクトリの.ruby-versionに影響うけて使えなくなったりするの、みんなどうしているのだ？\n\nそのコマンドだけpathの通す先を変えたらいいってことだと思うのだけど",
-      "date_published": "2025-02-15T03:16:00.000Z",
       "tags": [
         "bluesky"
       ]

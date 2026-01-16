@@ -5,6 +5,14 @@
     <link>https://bsky.app/profile/yammer.jp</link>
     <description>Bluesky posts from @yammer.jp</description>
     <item>
+      <title>https://blog.kyu08.com/posts/cqrs-documents-by-greg-young/</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mcgcgxye2k2k</link>
+      <description>https://blog.kyu08.com/posts/cqrs-documents-by-greg-young/</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcgcgxye2k2k</guid>
+      <pubDate>Thu, 15 Jan 2026 00:13:00 GMT</pubDate>
+      <category>bluesky</category>
+    </item>
+    <item>
       <title>8両編成でも4-4なのか、はずした</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mcdqkelko22y</link>
       <description>8両編成でも4-4なのか、はずした</description>
@@ -246,16 +254,6 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>GPD WIN Mini 2024を買ったおかげでn年ぶりにまともに自分のWindowsマシンをセットアップすることになった。浦島太郎みたいになっている</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3libpfreiis2z</guid>
       <pubDate>Sun, 16 Feb 2025 07:27:00 GMT</pubDate>
-      <category>bluesky</category>
-    </item>
-    <item>
-      <title>npmやpipやgemでグローバルに使いたいツール(たとえば~/.gitconfigのなかで使うとか)が、特定のディレクトリだとそのディレクトリの.ruby-versionに影響うけて使えなくなったり</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3li6qv3rog222</link>
-      <description>npmやpipやgemでグローバルに使いたいツール(たとえば~/.gitconfigのなかで使うとか)が、特定のディレクトリだとそのディレクトリの.ruby-versionに影響うけて使えなくなったりするの、みんなどうしているのだ？
-
-そのコマンドだけpathの通す先を変えたらいいってことだと思うのだけど</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3li6qv3rog222</guid>
-      <pubDate>Sat, 15 Feb 2025 03:16:00 GMT</pubDate>
       <category>bluesky</category>
     </item>
   </channel>
