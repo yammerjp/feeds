@@ -5,6 +5,15 @@
   "feed_url": "https://yammerjp.github.io/feed/microblog/bluesky.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcpd6nwfn22y",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mcpd6nwfn22y",
+      "content_text": "引っ越して引っ越して5年ぶりぐらいに眠ってたSesami mini 3をつけてみたけどスマホに繋がらない。リセットボタンを押しすぎて潰してしまったか？",
+      "date_published": "2026-01-18T14:21:00.000Z",
+      "tags": [
+        "bluesky"
+      ]
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcgcgxye2k2k",
       "url": "https://bsky.app/profile/yammer.jp/post/3mcgcgxye2k2k",
       "content_text": "https://blog.kyu08.com/posts/cqrs-documents-by-greg-young/",
@@ -261,15 +270,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3libphc7h5k2z",
       "content_text": "Linuxディストリビューションを直接入れたいが、やりだすとyak shavingが止まらなくなるのでもう少し後で",
       "date_published": "2025-02-16T07:28:00.000Z",
-      "tags": [
-        "bluesky"
-      ]
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3libpfreiis2z",
-      "url": "https://bsky.app/profile/yammer.jp/post/3libpfreiis2z",
-      "content_text": "GPD WIN Mini 2024を買ったおかげでn年ぶりにまともに自分のWindowsマシンをセットアップすることになった。浦島太郎みたいになっている",
-      "date_published": "2025-02-16T07:27:00.000Z",
       "tags": [
         "bluesky"
       ]
