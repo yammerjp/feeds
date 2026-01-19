@@ -1,0 +1,414 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "yammerの日記 (podcast)",
+  "home_page_url": "https://listen.style/p/yammer",
+  "feed_url": "https://yammerjp.github.io/feeds/podcast/feed.json",
+  "items": [
+    {
+      "id": "01kba6sc0hjqk0rvk0f4ekn8ab",
+      "url": "https://listen.style/p/yammer/uu87wem7",
+      "title": "遅くなった衣替え",
+      "content_text": "半袖がまだ出ていたので流石にしまう LISTENで開く",
+      "date_published": "2025-11-30T11:01:24.000Z"
+    },
+    {
+      "id": "01k9fa0htd3n5p9jkazdy3rwv1",
+      "url": "https://listen.style/p/yammer/t2jp3ljn",
+      "title": "2025/11/07 暖房のあしおと",
+      "content_text": "同僚が暖房をつけたというはなしをきくのですがまだつけていません。暖房の季節が近づいてきた。 LISTENで開く",
+      "date_published": "2025-11-07T14:02:33.000Z"
+    },
+    {
+      "id": "01k8zfw3cs3nrdxc3kx0dypg7a",
+      "url": "https://listen.style/p/yammer/xju5bz7w",
+      "title": "2025-11-01 冬山準備万端",
+      "content_text": "今年こそはスタッドレス LISTENで開く",
+      "date_published": "2025-11-01T10:37:08.000Z"
+    },
+    {
+      "id": "01k8xgm2pj95gjp56trrmy2saq",
+      "url": "https://listen.style/p/yammer/jawuwout",
+      "title": "開発環境、もっとおもしろくできる",
+      "content_text": "軸を決めるのが大事なのではないかと LISTENで開く",
+      "date_published": "2025-10-31T16:11:45.000Z"
+    },
+    {
+      "id": "01k8k433rm4mw3b2qze925k7fr",
+      "url": "https://listen.style/p/yammer/1alyegwx",
+      "title": "2025-10-27 飛行機前のドタバタはなぜ",
+      "content_text": "旅行中はとるタイミングがなく平常運転に戻ったということで LISTENで開く",
+      "date_published": "2025-10-27T15:20:21.000Z"
+    },
+    {
+      "id": "01k86a0avd5zbc4ab8setnnws7",
+      "url": "https://listen.style/p/yammer/hdwpluwf",
+      "title": "2025-10-22 ハードルを下げに下げる",
+      "content_text": "三日目なので、三日坊主を脱したと言っていいのではないでしょうか！ LISTENで開く",
+      "date_published": "2025-10-22T15:53:00.000Z"
+    },
+    {
+      "id": "01k83czjxshykyt13mcvpcw5kd",
+      "url": "https://listen.style/p/yammer/xwp2jarr",
+      "title": "2025/10/21 野菜炒めに重要な素材は米",
+      "content_text": "きょうもおつかれさまでした LISTENで開く",
+      "date_published": "2025-10-21T12:47:52.000Z"
+    },
+    {
+      "id": "01k80pjs79z2z2hynpqv8c1k8b",
+      "url": "https://listen.style/p/yammer/z1mdrf65",
+      "title": "2025-10-20 野菜炒め",
+      "content_text": "1分ぐらいで終わりにするという新しい試み LISTENで開く",
+      "date_published": "2025-10-20T11:37:55.000Z"
+    },
+    {
+      "id": "01jfjjf9mmmxz2mvydsweq5rn7",
+      "url": "https://listen.style/p/yammer/caddkcy0",
+      "title": "2024-10-01 終わらせられることはすぐに終わらせる",
+      "content_text": "事業部CTOになったときに考えていたことがこれだったのね (あとから視点 LISTENで開く",
+      "date_published": "2024-12-21T10:55:23.000Z"
+    },
+    {
+      "id": "01jfjfwq0stm19rbn5faqzksvt",
+      "url": "https://listen.style/p/yammer/cf2uujno",
+      "title": "2024-09-14 ポイントを貯めよう",
+      "content_text": "それからガソリンスタンドのポイントは貯められるようになったけど、コンビニは貯められていません。&nbsp;淡水は結局ノーウェイトで潜れました。おもろかったけど、寒かったかな。 LISTENで開く",
+      "date_published": "2024-12-20T17:10:31.000Z"
+    },
+    {
+      "id": "01jfjf802mydfq9fqvrvdnva3a",
+      "url": "https://listen.style/p/yammer/gnqtfwph",
+      "title": "2024-09-11 the first 今年初のダイビング",
+      "content_text": "今年はあんまり潜ってないかも。また来年！ LISTENで開く",
+      "date_published": "2024-12-20T16:54:05.000Z"
+    },
+    {
+      "id": "01jfjed1w5zmh3p6h9s81wypk2",
+      "url": "https://listen.style/p/yammer/ukovrxbb",
+      "title": "2024-09-08 V8 Isolateのワーカーをつくる",
+      "content_text": "動くものを作るのは大事。最近も今年新卒入社したパートナーに急かされて別のスパイクをやっているので、またどこかで話したい。 LISTENで開く",
+      "date_published": "2024-12-20T16:42:50.000Z"
+    },
+    {
+      "id": "01jfje3vzdcsz63fq49b9sbrhf",
+      "url": "https://listen.style/p/yammer/bzepnt6z",
+      "title": "2024-08-24 健康のために泳いでいる話",
+      "content_text": "4ヶ月前の話で、最近泳げていないや！ LISTENで開く",
+      "date_published": "2024-12-20T16:26:53.000Z"
+    },
+    {
+      "id": "01jfjdnpz3e78skd9ge2v213ra",
+      "url": "https://listen.style/p/yammer/jddzmbfu",
+      "title": "夜風を受けながら、MySQLの気持ちによりそう",
+      "content_text": "さてさて、年末ですね。取りためた何本かより先に上げてしまうので時系列がちぐはぐになるかもしれませんか、忘れないうちに投稿。 LISTENで開く",
+      "date_published": "2024-12-20T16:21:56.000Z"
+    },
+    {
+      "id": "01j519r8rjv711qy7w1zfqfepm",
+      "url": "https://listen.style/p/yammer/excj3rbo",
+      "title": "影響を広げる力を、作り上げる力に昇華する",
+      "content_text": "今日は、とあるイベントに参加したなかで考えていたことの話をしました。&nbsp;イベント: https://wakate-funwari-study.connpass.com/event/323430/3つの力: https://speakerdeck.com/pepabo_recruit/company-profile-for-career?slide=27優れたアウトプット: &nbsp;https://logmi.jp/tech/articles/320696&nbsp;&nbsp;&nbsp;&nbsp; LISTENで開く",
+      "date_published": "2024-08-11T18:03:32.000Z"
+    },
+    {
+      "id": "01j06hr97qmz29ks4kqjhw4232",
+      "url": "https://listen.style/p/yammer/7vagygu3",
+      "title": "色で分ける",
+      "content_text": "今日は、アレを色で分ける話をします。\n\n声日記、やめたわけじゃないので、今後も気が向いたときにとっていこうと思います。\n\n引っ越して、家までの帰り道に撮りづらくなったので、いい時間や場所をみつけていきたい。 LISTENで開く",
+      "date_published": "2024-06-12T15:41:06.000Z"
+    },
+    {
+      "id": "01hxs871sc7661bt8ztpj3jpqh",
+      "url": "https://listen.style/p/yammer/aymuyho6",
+      "title": "山に登る / RubyKaigiの足音を感じる",
+      "content_text": "自然、最高 LISTENで開く",
+      "date_published": "2024-05-13T15:12:53.000Z"
+    },
+    {
+      "id": "01hx9shtbj6xnscsvhvvb5g851",
+      "url": "https://listen.style/p/yammer/igi5fwgp",
+      "title": "GWは車で出かける / Webブラウザセキュリティ",
+      "content_text": "https://www.lambdanote.com/products/wbsラムダノートさんは物理も電子も配ってくれるからありがたい。 LISTENで開く",
+      "date_published": "2024-05-07T15:08:00.000Z"
+    },
+    {
+      "id": "01hwtbpjetpcgekwccva80zn4r",
+      "url": "https://listen.style/p/yammer/aiw0vyxj",
+      "title": "何ができて、何ができていないかを明らかにするのがデモ",
+      "content_text": "ということ LISTENで開く",
+      "date_published": "2024-05-01T15:17:20.000Z"
+    },
+    {
+      "id": "01hwqppdxj750k9yh37jgjjwaj",
+      "url": "https://listen.style/p/yammer/ekjfxadd",
+      "title": "洗車デビュー",
+      "content_text": "しました LISTENで開く",
+      "date_published": "2024-04-30T14:31:46.000Z"
+    },
+    {
+      "id": "01hwdgrsj2w3bb1mdbv5m1p5c5",
+      "url": "https://listen.style/p/yammer/b5jover4",
+      "title": "awkblogが依存するgawk特有の機能",
+      "content_text": "外部通信は、TCP/IPソケット通信、シェルコマンドの実行、Cでの言語拡張が、gawkに依存しています。他にはnamespaceと多次元の配列も使っていて、多次元の配列は結構便利なので、ないと困る、という感じ。 LISTENで開く",
+      "date_published": "2024-04-26T15:35:47.000Z"
+    },
+    {
+      "id": "01hwav1qeen3g7rdzam2hbq09t",
+      "url": "https://listen.style/p/yammer/hc8kwm1g",
+      "title": "コンストラクタインジェクション",
+      "content_text": "って必殺技の名前っぽい LISTENで開く",
+      "date_published": "2024-04-25T14:37:43.000Z"
+    },
+    {
+      "id": "01hw8e4xv1f4nvpvamv13zfsvf",
+      "url": "https://listen.style/p/yammer/uwsjnglx",
+      "title": "「まあ」や「なんか」という言葉を避けたい",
+      "content_text": "本当に「なんか」「まあ」であるときはいいのですが、そうではない時にも自分の口からそのような言葉を発していて、自分の考えや表現を意図しない形で曲げて伝えてしまうシチュエーションが多く、使うのを避けたい、と時々思っているのですが、ついつい、気づいたら使ってしまっていますね。 LISTENで開く",
+      "date_published": "2024-04-24T16:13:47.000Z"
+    },
+    {
+      "id": "01hw5r8qh8jmmajz1r5gk7qevk",
+      "url": "https://listen.style/p/yammer/zpdhupnw",
+      "title": "リズムを作る",
+      "content_text": "🎵 LISTENで開く",
+      "date_published": "2024-04-23T15:12:54.000Z"
+    },
+    {
+      "id": "01hw342szfv1dpwgc6ms67b65g",
+      "url": "https://listen.style/p/yammer/ia4dh6mt",
+      "title": "ユニットテストは大抵の場合書いたほうが早い",
+      "content_text": "ということをあらためて LISTENで開く",
+      "date_published": "2024-04-22T14:41:40.000Z"
+    },
+    {
+      "id": "01hvrq0rhw92mt6hhmj958ns31",
+      "url": "https://listen.style/p/yammer/ge1gyzb0",
+      "title": "洗車素人",
+      "content_text": "録音終了したタイミングで人とすれ違って気まずい😳 LISTENで開く",
+      "date_published": "2024-04-18T13:40:57.000Z"
+    },
+    {
+      "id": "01hvkp1ef0n4xae61a7d352pqx",
+      "url": "https://listen.style/p/yammer/ehwxj3oi",
+      "title": "Apple Watchを買ってしまったがために、使わなければ損",
+      "content_text": "な気がしています LISTENで開く",
+      "date_published": "2024-04-16T14:47:39.000Z"
+    },
+    {
+      "id": "01hvh5fqgbzcd65gvmw193ad67",
+      "url": "https://listen.style/p/yammer/2qtxfh9f",
+      "title": "週末の話",
+      "content_text": "🚗 LISTENで開く",
+      "date_published": "2024-04-15T15:19:52.000Z"
+    },
+    {
+      "id": "01hv9bt0hh0351jkakk83dv872",
+      "url": "https://listen.style/p/yammer/todxtwiu",
+      "title": "金曜の夜に、冷静に振り返る",
+      "content_text": "一週間終わり！ LISTENで開く",
+      "date_published": "2024-04-12T14:36:25.000Z"
+    },
+    {
+      "id": "01hv6qz4qctphb7e6b860na1v8",
+      "url": "https://listen.style/p/yammer/4evdaxql",
+      "title": "一見何が起こっているかわからないバグと、不確実性の森にあってもやらねばならぬこと",
+      "content_text": "何を話すかまとまっていなくても、まずは話してみるというのをやってみたのですが、うまくまとまらなかった LISTENで開く",
+      "date_published": "2024-04-11T14:11:10.000Z"
+    },
+    {
+      "id": "01hv6qz24v59g5jcnecjzkec0r",
+      "url": "https://listen.style/p/yammer/pm6wt2w9",
+      "title": "一見何が起こっているかわからないバグと、不確実性の森にあってもやらねばならぬこと",
+      "content_text": "何を話すかまとまっていなくても、まずは話してみるというのをやってみたのですが、うまくまとまらなかった LISTENで開く",
+      "date_published": "2024-04-11T14:11:10.000Z"
+    },
+    {
+      "id": "01hv1m51tqhfms3qy90y4s3j8y",
+      "url": "https://listen.style/p/yammer/itlittmt",
+      "title": "SFTPGoのはなし",
+      "content_text": "https://github.com/drakkan/sftpgo LISTENで開く",
+      "date_published": "2024-04-09T14:28:20.000Z"
+    },
+    {
+      "id": "01htz4j6r1j8gj9zm6f24e8p75",
+      "url": "https://listen.style/p/yammer/6zcin8vz",
+      "title": "アウトプットでリズムをつくる",
+      "content_text": "久々に収録してみました LISTENで開く",
+      "date_published": "2024-04-08T15:17:24.000Z"
+    },
+    {
+      "id": "01hq8q509a3d26jvh5b0zh2yfe",
+      "url": "https://listen.style/p/yammer/o4mxpknr",
+      "title": "プログラマーの、脳が繋がるあの瞬間",
+      "content_text": "そこら辺にいるなどという表現は不適切でした。私はレゴスクラムをやったことがないので、とても興味深くてお話しさせていただいたのでした。一回に一個作れるというのは結構良さそうだと学びになりました！ありがとうございました。 LISTENで開く",
+      "date_published": "2024-02-22T15:32:38.000Z"
+    },
+    {
+      "id": "01hq3h3c30b9rhmv5z5r9egtfj",
+      "url": "https://listen.style/p/yammer/8j32tjqo",
+      "title": "手だけを写すWebカメラ",
+      "content_text": "YAPCの感想は記事が二つになってしまいました。https://awkblog.net/@yammerjp/posts/25 https://awkblog.net/@yammerjp/posts/26&nbsp;明日持っていくキーボードは、cocot46plusでした。 https://shop.yushakobo.jp/products/6955&nbsp;&nbsp; LISTENで開く",
+      "date_published": "2024-02-20T15:10:41.000Z"
+    },
+    {
+      "id": "01hpy3k89stw7ws4m65e03zyq3",
+      "url": "https://listen.style/p/yammer/84yxwdnj",
+      "title": "hello,worldだけでもやって手をつけたことにする",
+      "content_text": "大和田常務の話は以下のエピソードのものです LISTENで開く",
+      "date_published": "2024-02-18T12:38:29.000Z"
+    },
+    {
+      "id": "01hptpjzarv6nxvbtgbmj36j9f",
+      "url": "https://listen.style/p/yammer/vuxpemsy",
+      "title": "土曜日の昼",
+      "content_text": "頑張って準備したからといってたくさん反響があるとは限らないのですが、反響や承認欲求にすがらずに、愚直にやっていきたいですね。&nbsp;あとは、RSS入門2024が欲しい話と、今日やることの宣言をしました。 LISTENで開く",
+      "date_published": "2024-02-17T04:53:25.000Z"
+    },
+    {
+      "id": "01hps6rhpa0m0hkyxs40ty9122",
+      "url": "https://listen.style/p/yammer/pryn493g",
+      "title": "デモの力 / メールの教科書",
+      "content_text": "強いのっていきとデモの力を感じた話と、「実務で使えるメール技術の教科書」を読んだ話をしました。 LISTENで開く",
+      "date_published": "2024-02-16T14:57:36.000Z"
+    },
+    {
+      "id": "01hpqbnqc4jk9shjdrt31qmv4j",
+      "url": "https://listen.style/p/yammer/4ytyczi5",
+      "title": "デモをして、動くソフトウェアを作り続ける",
+      "content_text": "風が強くて音質が厳しい😥 LISTENで開く",
+      "date_published": "2024-02-15T21:44:58.000Z"
+    },
+    {
+      "id": "01hppe8c7a5ad183tv9qkzbz3q",
+      "url": "https://listen.style/p/yammer/b4l9va69",
+      "title": "日々を記録する",
+      "content_text": "ゆっくり喋っている。そういう日もある。 LISTENで開く",
+      "date_published": "2024-02-15T13:10:51.000Z"
+    },
+    {
+      "id": "01hphj0rkfsqbhyxctae5ap2jz",
+      "url": "https://listen.style/p/yammer/l0ohjnua",
+      "title": "次のプロポーザル/暇",
+      "content_text": "おしごとおしごと！ LISTENで開く",
+      "date_published": "2024-02-13T15:40:24.000Z"
+    },
+    {
+      "id": "01hphdx1rdgp5sy8c8zk1jvkfq",
+      "url": "https://listen.style/p/yammer/lqaciscc",
+      "title": "YAPC::Hiroshima 2024に登壇した日の夜",
+      "content_text": "2/10の夜に録ったものです。一発どりで適当なことを言っているのはいつも通り。&nbsp;@songmu さんのブログの話https://junkyard.song.mu/slides/yapc-hiroshima-2024&nbsp;&nbsp;@azumakuniyuki さんのメールの話https://speakerdeck.com/azumakuniyuki/gu-iji-shu-nituite-smtpxian-dai-shi-qing-tumamishi-i&nbsp; LISTENで開く",
+      "date_published": "2024-02-13T14:28:00.000Z"
+    },
+    {
+      "id": "01hphde3j1f6mm4tg328tzvm3d",
+      "url": "https://listen.style/p/yammer/nl0kl3hg",
+      "title": "awkblogのデモ環境を用意している",
+      "content_text": "2/7に録ったものです。YAPCに登壇する数日前、デモ環境の同時リクエスト受付数がが40倍になった話。&nbsp;アプリケーションのデプロイ先: https://fly.ioデータベースの提供元: https://neon.tech&nbsp; LISTENで開く",
+      "date_published": "2024-02-13T14:20:19.000Z"
+    },
+    {
+      "id": "01hnzqd7xv9njc5j3v95zbj7vn",
+      "url": "https://listen.style/p/yammer/bytltalt",
+      "title": "仕事は悩まない / 登壇資料を作っている",
+      "content_text": "つまりそういうことです LISTENで開く",
+      "date_published": "2024-02-06T17:28:16.000Z"
+    },
+    {
+      "id": "01hnjq8aezrn7xpw1m3f38wnq8",
+      "url": "https://listen.style/p/yammer/x2rvyol9",
+      "title": "何を言わないかを決める",
+      "content_text": "本編と実は全然ない、話題に出てきたPodcastはこちらhttps://open.spotify.com/episode/65iXFIdSa1MuyxvL2VQSig?si=aGR7bh38SZK5BN-QAx69XQ&nbsp;&nbsp; LISTENで開く",
+      "date_published": "2024-02-01T16:15:27.000Z"
+    },
+    {
+      "id": "01hng2zb9tmk1wyky5d0j9ebvp",
+      "url": "https://listen.style/p/yammer/qsaexyix",
+      "title": "外でコードを書くならiPad",
+      "content_text": "手元のiPad Air 4に組み合わせて使っていたのは、Smart Keyboard Folioでした&nbsp;その他話題に出てきたものhttps://blink.shhttps://tailscale.com&nbsp; LISTENで開く",
+      "date_published": "2024-01-31T15:42:33.000Z"
+    },
+    {
+      "id": "01hnay156tss09g40nk2gqxt3y",
+      "url": "https://listen.style/p/yammer/jcwcuiry",
+      "title": "平日に録るくらいがちょうどいいかも",
+      "content_text": "やっと日記らしくなってきました LISTENで開く",
+      "date_published": "2024-01-29T15:39:00.000Z"
+    },
+    {
+      "id": "01hn93haxfezgb3w7j6ybjd8ch",
+      "url": "https://listen.style/p/yammer/vgk3kell",
+      "title": "外部通信する実装の開発やテストをどうやるか",
+      "content_text": "金曜日の帰りの道中に喋りました LISTENで開く",
+      "date_published": "2024-01-28T22:37:41.000Z"
+    },
+    {
+      "id": "01hn0kmsbjx3p4nffbcf992089",
+      "url": "https://listen.style/p/yammer/skcluenq",
+      "title": "1行で日記を続ける",
+      "content_text": "gawkの話はしません。&nbsp;撮り溜めていたのは1本ではなく2本でした。3本まとめて公開しました。&nbsp;日記のアプリはこちら:&nbsp;1行日記 https://lineaday.page.link/ja LISTENで開く",
+      "date_published": "2024-01-25T15:26:02.000Z"
+    },
+    {
+      "id": "01hn0kfpssvvr2k3cwvg5rqeef",
+      "url": "https://listen.style/p/yammer/uju22imx",
+      "title": "gawkで画像アップロード",
+      "content_text": "冒頭に話しているのは純朴声活の「(9) ゴキゲンにやっていきたいぜ」でした。&nbsp;(誤字があったので訂正しました)&nbsp;後半の署名付きアップロードの説明はグダグダなのですが、1発撮りのルールなのでこありのままを公開(!?)しています。 LISTENで開く",
+      "date_published": "2024-01-25T15:23:15.000Z"
+    },
+    {
+      "id": "01hn0k56vnm41hhm8hcsqqsqd4",
+      "url": "https://listen.style/p/yammer/efjymzvg",
+      "title": "gawkでテンプレートエンジン",
+      "content_text": "awkはやっぱりテキスト処理が得意！&nbsp;https://github.com/yammerjp/awkblog/blob/main/lib/compile_templates.awk LISTENで開く",
+      "date_published": "2024-01-25T15:17:31.000Z"
+    },
+    {
+      "id": "01hmrz1jj90h549dw3xf38keak",
+      "url": "https://listen.style/p/yammer/e0fgbx4y",
+      "title": "gawkとgraceful shutdown",
+      "content_text": "といっても、gawkではやっていないのですが。&nbsp;飲んだ日本酒は「尾瀬の雪解け」 LISTENで開く",
+      "date_published": "2024-01-22T16:11:00.000Z"
+    },
+    {
+      "id": "01hmh70d33v4jsxnqkcshwm8ed",
+      "url": "https://listen.style/p/yammer/y6mx2nk8",
+      "title": "gawkでGitHubログイン",
+      "content_text": "やっぱ現代のWebアプリケーションはソーシャルログインでしょってことで、awkblogにも実装しました。&nbsp;エピソード内で話し忘れたのですが、E2Eテストのために、GitHub側のモックサーバを作ったりもしました。https://github.com/yammerjp/github-oauth2-login-mock-server&nbsp;このエピソードを収録しているマイクは、BOYAのBY-P4Dというものです。Lightning端子がついていて、iPhone 12 miniにつけて録っています。 LISTENで開く",
+      "date_published": "2024-01-19T16:13:58.000Z"
+    },
+    {
+      "id": "01hmbzv9r7ma4df7hpaf1kzx7p",
+      "url": "https://listen.style/p/yammer/rnpettce",
+      "title": "gawkのエラーハンドリングと大域脱出",
+      "content_text": "今日は、gawkでWebアプリケーションを実装するときの、エラーハンドリングについて紹介しました。&nbsp;誰かがエラーを起こしてくれて、500 Internal Server Errorとなってくれることの有り難みを感じます。 LISTENで開く",
+      "date_published": "2024-01-17T15:23:02.000Z"
+    },
+    {
+      "id": "01hm9hjjn9xwnec0087wzy3q0w",
+      "url": "https://listen.style/p/yammer/j9hvcq3t",
+      "title": "gawkでURLデコード",
+      "content_text": "今日は、フォーム送信時の、URLエンコードされたパラメータを、gawkでデコードする話をしました。&nbsp;余談: このエピソードを録音した後、ちゃんとやらなきゃなという気持ちになって、UTF-8のバイト列が認められているものであるかのチェックを、実装し直しました。https://github.com/yammerjp/awkblog/commit/13cdad42a3f9c586878aee747743c067ff4d6df0 LISTENで開く",
+      "date_published": "2024-01-16T16:40:25.000Z"
+    },
+    {
+      "id": "01hm6qpb4e3wzjvjs1hck4s83z",
+      "url": "https://listen.style/p/yammer/c81mqpey",
+      "title": "gawkでHTTPリクエストを読み込む",
+      "content_text": "gawkでWebアプリケーションを作るとき、HTTPリクエストボディの読み込みが結構面倒で、その話をしました。&nbsp;コードはこちら。果たして読む人はいるのか、もしいたら相当な物好きでしょう…https://github.com/yammerjp/awkblog/blob/4b8c69581f37e83a2e814d8ee66a566d0f435091/src/lib/http.awk#L14&nbsp;話の途中に出てくる、ボディの末尾を読み込む挙動のよく原因がわかっていないというあたり、詳しい方がいたら教えて欲しいです。 LISTENで開く",
+      "date_published": "2024-01-15T14:16:00.000Z"
+    },
+    {
+      "id": "01hkz5w7rn8x6vd5edxjnqa5n4",
+      "url": "https://listen.style/p/yammer/ze2qsq7i",
+      "title": "gawkでつくるWebアプリケーション",
+      "content_text": "プログラミングやソフトウェアエンジニアリング、日常のことについて、歩きながら話す、yammerの日記です。通勤や散歩しながら録音しているので、その雰囲気と共にお楽しみください。 LISTENで開く",
+      "date_published": "2024-01-12T15:50:00.000Z"
+    },
+    {
+      "id": "https://listen.style/p/h173club/rbu2xvan",
+      "url": "https://listen.style/p/h173club/rbu2xvan",
+      "title": "007: 商業誌への寄稿特集特別号 - h173.club",
+      "content_text": "今年はじめて商業誌に寄稿した@takapi86と@yammerjpに、執筆の経緯や体験談を話していただきました。Software Design 2022年5月号 Software Design 2022年6月号",
+      "date_published": "2022-06-03T00:00:00+09:00"
+    }
+  ]
+}

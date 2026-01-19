@@ -1,0 +1,29 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Zenn",
+  "home_page_url": "https://zenn.dev/basd4g",
+  "feed_url": "https://yammerjp.github.io/feed/posts/zenn.json",
+  "items": [
+    {
+      "id": "https://zenn.dev/basd4g/scraps/244e05914b2635",
+      "url": "https://zenn.dev/basd4g/scraps/244e05914b2635",
+      "title": "Drupalに入門する",
+      "content_text": "",
+      "date_published": "2025-06-03T14:38:48.000Z"
+    },
+    {
+      "id": "https://zenn.dev/basd4g/scraps/e2eea84da6435d",
+      "url": "https://zenn.dev/basd4g/scraps/e2eea84da6435d",
+      "title": "Llama Indexを試す",
+      "content_text": "",
+      "date_published": "2023-06-11T14:24:15.000Z"
+    },
+    {
+      "id": "https://zenn.dev/basd4g/scraps/b183dca16b1314",
+      "url": "https://zenn.dev/basd4g/scraps/b183dca16b1314",
+      "title": "Vim8からNeoVimに乗り換える、2021GW",
+      "content_text": "",
+      "date_published": "2021-05-01T05:27:49.000Z"
+    }
+  ]
+}

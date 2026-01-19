@@ -3,7 +3,10 @@ import { readFileSync } from "node:fs";
 import { parseTwilogHtml, parseTwilogDateTime, twilogToFeedItems } from "./twilog.js";
 import type { Tweet } from "./twilog.js";
 
-const html = readFileSync("src/sources/__fixtures__/twilog-yammerjp.html", "utf-8");
+const html = readFileSync(
+  new URL("./__fixtures__/twilog-yammerjp.html", import.meta.url),
+  "utf-8"
+);
 
 describe("parseTwilogHtml", () => {
   it("should parse tweets from HTML", () => {
@@ -41,7 +44,6 @@ describe("parseTwilogHtml", () => {
   it("should not start with username header", () => {
     const tweets = parseTwilogHtml(html);
     for (const tweet of tweets) {
-      // ツイート本文がユーザー名ヘッダーで始まっていないことを確認
       expect(tweet.text).not.toMatch(/^やんまー.*@yammerjp/);
     }
   });

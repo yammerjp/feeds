@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+    <channel>
+        <title><![CDATA[yammerの日記]]></title>
+        <description><![CDATA[awkや日常のことを話します]]></description>
+        <link>https://listen.style/p/yammer</link>
+        <image>
+            <url>https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg</url>
+            <title>yammerの日記</title>
+            <link>https://listen.style/p/yammer</link>
+        </image>
+        <generator>LISTEN</generator>
+        <lastBuildDate>Sun, 30 Nov 2025 11:04:24 +0000</lastBuildDate>
+        <atom:link href="https://rss.listen.style/p/yammer/rss" rel="self" type="application/rss+xml"/>
+		<copyright><![CDATA[やんまー]]></copyright>
+		<language><![CDATA[ja]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>やんまー</itunes:author>
+		<itunes:summary>awkや日常のことを話します</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>やんまー</itunes:name>
+			<itunes:email>me@yammer.jp</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+																				<itunes:category text="Technology"/>
+																<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+		<podcast:locked>no</podcast:locked>
+		<podcast:guid>5123486d-fef9-559c-9ef0-7e586edc74de</podcast:guid>
+        				<item>
+			<title><![CDATA[遅くなった衣替え]]></title>
+			<description><![CDATA[<p>半袖がまだ出ていたので流石にしまう</p> <a href="https://listen.style/p/yammer/uu87wem7">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/uu87wem7</link>
+			<guid isPermaLink="false">01kba6sc0hjqk0rvk0f4ekn8ab</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Sun, 30 Nov 2025 11:01:24 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/KoaE1loU8AweV8hF_OfyGwO3MzWevoNele9uqqkVoUUFt5rbYWQc9SGkB_converted_normalized.mp3" length="1603052" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/uu87wem7/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/uu87wem7/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:03:20</itunes:duration>
+						<itunes:summary>&lt;p&gt;半袖がまだ出ていたので流石にしまう&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/uu87wem7"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[2025/11/07 暖房のあしおと]]></title>
+			<description><![CDATA[<p>同僚が暖房をつけたというはなしをきくのですがまだつけていません。暖房の季節が近づいてきた。</p> <a href="https://listen.style/p/yammer/t2jp3ljn">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/t2jp3ljn</link>
+			<guid isPermaLink="false">01k9fa0htd3n5p9jkazdy3rwv1</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Fri, 07 Nov 2025 14:02:33 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/uijQDu3k1Qp4l3ui_NY2i7tluYPzfb8DN1oJtFdPchF01kXtjfyBQruzr_converted_normalized.mp3" length="1043372" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/t2jp3ljn/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/t2jp3ljn/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:02:10</itunes:duration>
+						<itunes:summary>&lt;p&gt;同僚が暖房をつけたというはなしをきくのですがまだつけていません。暖房の季節が近づいてきた。&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/t2jp3ljn"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[2025-11-01 冬山準備万端]]></title>
+			<description><![CDATA[<p>今年こそはスタッドレス</p> <a href="https://listen.style/p/yammer/xju5bz7w">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/xju5bz7w</link>
+			<guid isPermaLink="false">01k8zfw3cs3nrdxc3kx0dypg7a</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Sat, 01 Nov 2025 10:37:08 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/fZcoBFr4eIztFJ4v_tS5ETdEQOf260BHAqO33OwHcHquE4SmHgRQdbL4u_converted_normalized.mp3" length="926636" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/xju5bz7w/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/xju5bz7w/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:01:56</itunes:duration>
+						<itunes:summary>&lt;p&gt;今年こそはスタッドレス&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/xju5bz7w"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[開発環境、もっとおもしろくできる]]></title>
+			<description><![CDATA[<p>軸を決めるのが大事なのではないかと</p> <a href="https://listen.style/p/yammer/jawuwout">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/jawuwout</link>
+			<guid isPermaLink="false">01k8xgm2pj95gjp56trrmy2saq</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Fri, 31 Oct 2025 16:11:45 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/KiyBww8xcnXYPs7Y_I46jSr3hq7jurSic0yqFbB0c0QhpVSpdQoPxLu7Y_converted_normalized.mp3" length="1560044" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/jawuwout/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/jawuwout/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:03:15</itunes:duration>
+						<itunes:summary>&lt;p&gt;軸を決めるのが大事なのではないかと&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/jawuwout"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[2025-10-27 飛行機前のドタバタはなぜ]]></title>
+			<description><![CDATA[<p>旅行中はとるタイミングがなく平常運転に戻ったということで</p> <a href="https://listen.style/p/yammer/1alyegwx">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/1alyegwx</link>
+			<guid isPermaLink="false">01k8k433rm4mw3b2qze925k7fr</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Mon, 27 Oct 2025 15:20:21 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/DHif5fho8Pqe7CHV_UxpzziJpnGjPr3Hd5aZwMbwu0xpkzIw0ziVClfxO_converted_normalized.mp3" length="920876" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/1alyegwx/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/1alyegwx/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:01:55</itunes:duration>
+						<itunes:summary>&lt;p&gt;旅行中はとるタイミングがなく平常運転に戻ったということで&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/1alyegwx"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[2025-10-22 ハードルを下げに下げる]]></title>
+			<description><![CDATA[<p>三日目なので、三日坊主を脱したと言っていいのではないでしょうか！</p> <a href="https://listen.style/p/yammer/hdwpluwf">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/hdwpluwf</link>
+			<guid isPermaLink="false">01k86a0avd5zbc4ab8setnnws7</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Wed, 22 Oct 2025 15:53:00 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/MAo0BqTL42lYYioR_kFjN9iAUjeSN38cYf1K3gcemhmRa1jGyM1v8D4Og_converted_normalized.mp3" length="845804" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/hdwpluwf/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/hdwpluwf/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:01:46</itunes:duration>
+						<itunes:summary>&lt;p&gt;三日目なので、三日坊主を脱したと言っていいのではないでしょうか！&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/hdwpluwf"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[2025/10/21 野菜炒めに重要な素材は米]]></title>
+			<description><![CDATA[<p>きょうもおつかれさまでした</p> <a href="https://listen.style/p/yammer/xwp2jarr">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/xwp2jarr</link>
+			<guid isPermaLink="false">01k83czjxshykyt13mcvpcw5kd</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Tue, 21 Oct 2025 12:47:52 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/SkrU4YWlbcynowLa_EDc7owSDFMp4HHFmIAGLLWD4wXOa2uQ6sRV4GBrW_converted_normalized.mp3" length="618668" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/xwp2jarr/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/xwp2jarr/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:01:17</itunes:duration>
+						<itunes:summary>&lt;p&gt;きょうもおつかれさまでした&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/xwp2jarr"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[2025-10-20 野菜炒め]]></title>
+			<description><![CDATA[<p>1分ぐらいで終わりにするという新しい試み</p> <a href="https://listen.style/p/yammer/z1mdrf65">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/z1mdrf65</link>
+			<guid isPermaLink="false">01k80pjs79z2z2hynpqv8c1k8b</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Mon, 20 Oct 2025 11:37:55 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/gvwUVXjrYBvxSAck_LI1bzxPDoHbyncG6ny4sWaR4nLcZWs5Y4qbVQ9Cd_converted_normalized.mp3" length="488876" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/z1mdrf65/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:01:01</itunes:duration>
+						<itunes:summary>&lt;p&gt;1分ぐらいで終わりにするという新しい試み&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/z1mdrf65"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[2024-10-01 終わらせられることはすぐに終わらせる]]></title>
+			<description><![CDATA[<p>事業部CTOになったときに考えていたことがこれだったのね (あとから視点</p> <a href="https://listen.style/p/yammer/caddkcy0">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/caddkcy0</link>
+			<guid isPermaLink="false">01jfjjf9mmmxz2mvydsweq5rn7</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Sat, 21 Dec 2024 10:55:23 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/3aVxTDHvYyVUO3G6utaWVyFS6hdIypXDofjpP343_normalized.mp3" length="2606030" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/caddkcy0/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:05:26</itunes:duration>
+						<itunes:summary>&lt;p&gt;事業部CTOになったときに考えていたことがこれだったのね (あとから視点&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/caddkcy0"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[2024-09-14 ポイントを貯めよう]]></title>
+			<description><![CDATA[<p>それからガソリンスタンドのポイントは貯められるようになったけど、コンビニは貯められていません。</p><p>&nbsp;</p><p>淡水は結局ノーウェイトで潜れました。おもろかったけど、寒かったかな。</p> <a href="https://listen.style/p/yammer/cf2uujno">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/cf2uujno</link>
+			<guid isPermaLink="false">01jfjfwq0stm19rbn5faqzksvt</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Fri, 20 Dec 2024 17:10:31 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/2lesDyF4cQ74F2BJPxGvQnN6d1mBfE8bhvoq27T2_normalized.mp3" length="5406208" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/cf2uujno/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:11:16</itunes:duration>
+						<itunes:summary>&lt;p&gt;それからガソリンスタンドのポイントは貯められるようになったけど、コンビニは貯められていません。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;淡水は結局ノーウェイトで潜れました。おもろかったけど、寒かったかな。&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/cf2uujno"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[2024-09-11 the first 今年初のダイビング]]></title>
+			<description><![CDATA[<p>今年はあんまり潜ってないかも。また来年！</p> <a href="https://listen.style/p/yammer/gnqtfwph">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/gnqtfwph</link>
+			<guid isPermaLink="false">01jfjf802mydfq9fqvrvdnva3a</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Fri, 20 Dec 2024 16:54:05 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/A026YBCNYEhTrwvQNYt1jNRKfRmHPCKqNSeWOiMA_normalized.mp3" length="4715968" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/gnqtfwph/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:09:49</itunes:duration>
+						<itunes:summary>&lt;p&gt;今年はあんまり潜ってないかも。また来年！&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/gnqtfwph"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[2024-09-08 V8 Isolateのワーカーをつくる]]></title>
+			<description><![CDATA[<p>動くものを作るのは大事。最近も今年新卒入社したパートナーに急かされて別のスパイクをやっているので、またどこかで話したい。</p> <a href="https://listen.style/p/yammer/ukovrxbb">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/ukovrxbb</link>
+			<guid isPermaLink="false">01jfjed1w5zmh3p6h9s81wypk2</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Fri, 20 Dec 2024 16:42:50 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/FEe4lSFm4Iq8YLlw8dCvIoihYs4Q3QUsBiWWkaQk_normalized.mp3" length="6274247" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/ukovrxbb/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:13:04</itunes:duration>
+						<itunes:summary>&lt;p&gt;動くものを作るのは大事。最近も今年新卒入社したパートナーに急かされて別のスパイクをやっているので、またどこかで話したい。&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/ukovrxbb"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[2024-08-24 健康のために泳いでいる話]]></title>
+			<description><![CDATA[<p>4ヶ月前の話で、最近泳げていないや！</p> <a href="https://listen.style/p/yammer/bzepnt6z">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/bzepnt6z</link>
+			<guid isPermaLink="false">01jfje3vzdcsz63fq49b9sbrhf</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Fri, 20 Dec 2024 16:26:53 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/nZDfVXz8sMwP87oemnmFBn3dtR0NFzmCPeAajI0T_normalized.mp3" length="1295113" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/bzepnt6z/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:02:42</itunes:duration>
+						<itunes:summary>&lt;p&gt;4ヶ月前の話で、最近泳げていないや！&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/bzepnt6z"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[夜風を受けながら、MySQLの気持ちによりそう]]></title>
+			<description><![CDATA[<p>さてさて、年末ですね。取りためた何本かより先に上げてしまうので時系列がちぐはぐになるかもしれませんか、忘れないうちに投稿。</p> <a href="https://listen.style/p/yammer/jddzmbfu">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/jddzmbfu</link>
+			<guid isPermaLink="false">01jfjdnpz3e78skd9ge2v213ra</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Fri, 20 Dec 2024 16:21:56 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/R8ahtDrEvT7sStdMn2PJY8sk2zFuIYKbNNdcNfCv_normalized.mp3" length="2530190" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/jddzmbfu/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/jddzmbfu/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:05:16</itunes:duration>
+						<itunes:summary>&lt;p&gt;さてさて、年末ですね。取りためた何本かより先に上げてしまうので時系列がちぐはぐになるかもしれませんか、忘れないうちに投稿。&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/jddzmbfu"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[影響を広げる力を、作り上げる力に昇華する]]></title>
+			<description><![CDATA[<p>今日は、とあるイベントに参加したなかで考えていたことの話をしました。</p><p>&nbsp;</p><p>イベント: <a href="https://wakate-funwari-study.connpass.com/event/323430/">https://wakate-funwari-study.connpass.com/event/323430/</a></p><p>3つの力: <a href="https://speakerdeck.com/pepabo_recruit/company-profile-for-career?slide=27">https://speakerdeck.com/pepabo_recruit/company-profile-for-career?slide=27</a></p><p>優れたアウトプット: &nbsp;<a href="https://logmi.jp/tech/articles/320696">https://logmi.jp/tech/articles/320696</a></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p> <a href="https://listen.style/p/yammer/excj3rbo">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/excj3rbo</link>
+			<guid isPermaLink="false">01j519r8rjv711qy7w1zfqfepm</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Sun, 11 Aug 2024 18:03:32 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/MHwdVMUiuuU7gJJlw5BZYc6y4QrJGlbd5dgTmluJ_normalized.mp3" length="4007797" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/excj3rbo/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/excj3rbo/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:08:21</itunes:duration>
+						<itunes:summary>&lt;p&gt;今日は、とあるイベントに参加したなかで考えていたことの話をしました。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;イベント: &lt;a href=&quot;https://wakate-funwari-study.connpass.com/event/323430/&quot;&gt;https://wakate-funwari-study.connpass.com/event/323430/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;3つの力: &lt;a href=&quot;https://speakerdeck.com/pepabo_recruit/company-profile-for-career?slide=27&quot;&gt;https://speakerdeck.com/pepabo_recruit/company-profile-for-career?slide=27&lt;/a&gt;&lt;/p&gt;&lt;p&gt;優れたアウトプット: &amp;nbsp;&lt;a href=&quot;https://logmi.jp/tech/articles/320696&quot;&gt;https://logmi.jp/tech/articles/320696&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/excj3rbo"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[色で分ける]]></title>
+			<description><![CDATA[今日は、アレを色で分ける話をします。
+
+声日記、やめたわけじゃないので、今後も気が向いたときにとっていこうと思います。
+
+引っ越して、家までの帰り道に撮りづらくなったので、いい時間や場所をみつけていきたい。 <a href="https://listen.style/p/yammer/7vagygu3">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/7vagygu3</link>
+			<guid isPermaLink="false">01j06hr97qmz29ks4kqjhw4232</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Wed, 12 Jun 2024 15:41:06 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/rVLiAnFEpgTzyabMJdsibKow5snf0tkumdggwz3i_normalized.mp3" length="4642410" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/7vagygu3/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/7vagygu3/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:09:40</itunes:duration>
+						<itunes:summary>今日は、アレを色で分ける話をします。
+
+声日記、やめたわけじゃないので、今後も気が向いたときにとっていこうと思います。
+
+引っ越して、家までの帰り道に撮りづらくなったので、いい時間や場所をみつけていきたい。 &lt;a href="https://listen.style/p/yammer/7vagygu3"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[山に登る / RubyKaigiの足音を感じる]]></title>
+			<description><![CDATA[<p>自然、最高</p> <a href="https://listen.style/p/yammer/aymuyho6">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/aymuyho6</link>
+			<guid isPermaLink="false">01hxs871sc7661bt8ztpj3jpqh</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Mon, 13 May 2024 15:12:53 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/Y3SNy3FamrfyQgzqoZJXOg4LUybHnQXLPLcQWMKO_normalized_denoised.mp3" length="5322382" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/aymuyho6/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:05:23</itunes:duration>
+						<itunes:summary>&lt;p&gt;自然、最高&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/aymuyho6"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[GWは車で出かける / Webブラウザセキュリティ]]></title>
+			<description><![CDATA[<p><a href="https://www.lambdanote.com/products/wbs">https://www.lambdanote.com/products/wbs</a></p><p>ラムダノートさんは物理も電子も配ってくれるからありがたい。</p> <a href="https://listen.style/p/yammer/igi5fwgp">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/igi5fwgp</link>
+			<guid isPermaLink="false">01hx9shtbj6xnscsvhvvb5g851</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Tue, 07 May 2024 15:08:00 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/y2oegnNQwojsR6A1wmYkiroxSdIQ125My3iFmuhy_normalized_denoised.mp3" length="8774542" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/igi5fwgp/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/igi5fwgp/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:08:53</itunes:duration>
+						<itunes:summary>&lt;p&gt;&lt;a href=&quot;https://www.lambdanote.com/products/wbs&quot;&gt;https://www.lambdanote.com/products/wbs&lt;/a&gt;&lt;/p&gt;&lt;p&gt;ラムダノートさんは物理も電子も配ってくれるからありがたい。&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/igi5fwgp"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[何ができて、何ができていないかを明らかにするのがデモ]]></title>
+			<description><![CDATA[<p>ということ</p> <a href="https://listen.style/p/yammer/aiw0vyxj">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/aiw0vyxj</link>
+			<guid isPermaLink="false">01hwtbpjetpcgekwccva80zn4r</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Wed, 01 May 2024 15:17:20 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/NmA9kjP6XSryDQ508j5ynk1lKnhQugt5b5Wscqp9_normalized_denoised.mp3" length="3341326" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/aiw0vyxj/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:03:24</itunes:duration>
+						<itunes:summary>&lt;p&gt;ということ&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/aiw0vyxj"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[洗車デビュー]]></title>
+			<description><![CDATA[<p>しました</p> <a href="https://listen.style/p/yammer/ekjfxadd">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/ekjfxadd</link>
+			<guid isPermaLink="false">01hwqppdxj750k9yh37jgjjwaj</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Tue, 30 Apr 2024 14:31:46 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/crsXz49ZMFiDdd7yJ8B8cg9mNYoKqXdjt9265PLo_normalized_denoised.mp3" length="8125966" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/ekjfxadd/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:08:15</itunes:duration>
+						<itunes:summary>&lt;p&gt;しました&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/ekjfxadd"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[awkblogが依存するgawk特有の機能]]></title>
+			<description><![CDATA[<p>外部通信は、TCP/IPソケット通信、シェルコマンドの実行、Cでの言語拡張が、gawkに依存しています。他にはnamespaceと多次元の配列も使っていて、多次元の配列は結構便利なので、ないと困る、という感じ。</p> <a href="https://listen.style/p/yammer/b5jover4">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/b5jover4</link>
+			<guid isPermaLink="false">01hwdgrsj2w3bb1mdbv5m1p5c5</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Fri, 26 Apr 2024 15:35:47 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/fGPkke4XgvMccEMKNn4sGisZc7L9owYNLQBKm0pN_normalized_denoised.mp3" length="6919822" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/b5jover4/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:06:24</itunes:duration>
+						<itunes:summary>&lt;p&gt;外部通信は、TCP/IPソケット通信、シェルコマンドの実行、Cでの言語拡張が、gawkに依存しています。他にはnamespaceと多次元の配列も使っていて、多次元の配列は結構便利なので、ないと困る、という感じ。&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/b5jover4"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[コンストラクタインジェクション]]></title>
+			<description><![CDATA[<p>って必殺技の名前っぽい</p> <a href="https://listen.style/p/yammer/hc8kwm1g">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/hc8kwm1g</link>
+			<guid isPermaLink="false">01hwav1qeen3g7rdzam2hbq09t</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Thu, 25 Apr 2024 14:37:43 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/lRjwgxgdY1ouNbR2fv1fQueRf7a7z9nlKbN0Slkc_normalized_denoised.mp3" length="4188046" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/hc8kwm1g/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:04:14</itunes:duration>
+						<itunes:summary>&lt;p&gt;って必殺技の名前っぽい&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/hc8kwm1g"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[「まあ」や「なんか」という言葉を避けたい]]></title>
+			<description><![CDATA[<p>本当に「なんか」「まあ」であるときはいいのですが、そうではない時にも自分の口からそのような言葉を発していて、自分の考えや表現を意図しない形で曲げて伝えてしまうシチュエーションが多く、使うのを避けたい、と時々思っているのですが、ついつい、気づいたら使ってしまっていますね。</p> <a href="https://listen.style/p/yammer/uwsjnglx">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/uwsjnglx</link>
+			<guid isPermaLink="false">01hw8e4xv1f4nvpvamv13zfsvf</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Wed, 24 Apr 2024 16:13:47 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/Zxj5u3iIYzL8HnNBs8sOxu2PR9n0pcdLUmbFJlGF_normalized_denoised.mp3" length="7447822" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/uwsjnglx/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:07:18</itunes:duration>
+						<itunes:summary>&lt;p&gt;本当に「なんか」「まあ」であるときはいいのですが、そうではない時にも自分の口からそのような言葉を発していて、自分の考えや表現を意図しない形で曲げて伝えてしまうシチュエーションが多く、使うのを避けたい、と時々思っているのですが、ついつい、気づいたら使ってしまっていますね。&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/uwsjnglx"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[リズムを作る]]></title>
+			<description><![CDATA[<p>🎵</p> <a href="https://listen.style/p/yammer/zpdhupnw">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/zpdhupnw</link>
+			<guid isPermaLink="false">01hw5r8qh8jmmajz1r5gk7qevk</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Tue, 23 Apr 2024 15:12:54 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/8OIJ6pmhLRXioR6aYcwe8UXIlmD5eR4nc0cViJ96_normalized_denoised.mp3" length="7591054" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/zpdhupnw/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:07:42</itunes:duration>
+						<itunes:summary>&lt;p&gt;🎵&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/zpdhupnw"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[ユニットテストは大抵の場合書いたほうが早い]]></title>
+			<description><![CDATA[<p>ということをあらためて</p> <a href="https://listen.style/p/yammer/ia4dh6mt">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/ia4dh6mt</link>
+			<guid isPermaLink="false">01hw342szfv1dpwgc6ms67b65g</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Mon, 22 Apr 2024 14:41:40 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/sQYbH4ZmG3VmjiwyiMvGqYAtda4PXAkBLL2oY191_normalized_denoised.mp3" length="8101390" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/ia4dh6mt/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/ia4dh6mt/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:08:12</itunes:duration>
+						<itunes:summary>&lt;p&gt;ということをあらためて&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/ia4dh6mt"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[洗車素人]]></title>
+			<description><![CDATA[<p>録音終了したタイミングで人とすれ違って気まずい😳</p> <a href="https://listen.style/p/yammer/ge1gyzb0">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/ge1gyzb0</link>
+			<guid isPermaLink="false">01hvrq0rhw92mt6hhmj958ns31</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Thu, 18 Apr 2024 13:40:57 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/dUPH085ESPXn7Rtg726lvLUlqGMQCfI5EvyjoIkv_normalized_denoised.mp3" length="3445006" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/ge1gyzb0/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:03:29</itunes:duration>
+						<itunes:summary>&lt;p&gt;録音終了したタイミングで人とすれ違って気まずい😳&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/ge1gyzb0"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[Apple Watchを買ってしまったがために、使わなければ損]]></title>
+			<description><![CDATA[<p>な気がしています</p> <a href="https://listen.style/p/yammer/ehwxj3oi">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/ehwxj3oi</link>
+			<guid isPermaLink="false">01hvkp1ef0n4xae61a7d352pqx</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Tue, 16 Apr 2024 14:47:39 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/tAgdzuiMs1ckf0tut1WA0gxgjwcaKH12t7uAsWOG_normalized_denoised.mp3" length="6155278" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/ehwxj3oi/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:06:16</itunes:duration>
+						<itunes:summary>&lt;p&gt;な気がしています&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/ehwxj3oi"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[週末の話]]></title>
+			<description><![CDATA[<p>🚗</p> <a href="https://listen.style/p/yammer/2qtxfh9f">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/2qtxfh9f</link>
+			<guid isPermaLink="false">01hvh5fqgbzcd65gvmw193ad67</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Mon, 15 Apr 2024 15:19:52 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/KzSisnKVzMLlS4QdVFZLpA6xqGp6CPNQed4xwlut_normalized_denoised.mp3" length="6938638" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/2qtxfh9f/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:05:28</itunes:duration>
+						<itunes:summary>&lt;p&gt;🚗&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/2qtxfh9f"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[金曜の夜に、冷静に振り返る]]></title>
+			<description><![CDATA[<p>一週間終わり！</p> <a href="https://listen.style/p/yammer/todxtwiu">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/todxtwiu</link>
+			<guid isPermaLink="false">01hv9bt0hh0351jkakk83dv872</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Fri, 12 Apr 2024 14:36:25 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/rp2mvANz57OLP5VVDGkcGQYgN9kwJ21ZN7sPP1Qx_normalized_denoised.mp3" length="7153294" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/todxtwiu/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:07:19</itunes:duration>
+						<itunes:summary>&lt;p&gt;一週間終わり！&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/todxtwiu"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[一見何が起こっているかわからないバグと、不確実性の森にあってもやらねばならぬこと]]></title>
+			<description><![CDATA[<p>何を話すかまとまっていなくても、まずは話してみるというのをやってみたのですが、うまくまとまらなかった</p> <a href="https://listen.style/p/yammer/4evdaxql">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/4evdaxql</link>
+			<guid isPermaLink="false">01hv6qz4qctphb7e6b860na1v8</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Thu, 11 Apr 2024 14:11:10 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/c6vsmAO1ihwmNMP2ZMvhLrgvEMLf1byN8klcVEYT_normalized_denoised.mp3" length="7828750" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/4evdaxql/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:08:00</itunes:duration>
+						<itunes:summary>&lt;p&gt;何を話すかまとまっていなくても、まずは話してみるというのをやってみたのですが、うまくまとまらなかった&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/4evdaxql"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[一見何が起こっているかわからないバグと、不確実性の森にあってもやらねばならぬこと]]></title>
+			<description><![CDATA[<p>何を話すかまとまっていなくても、まずは話してみるというのをやってみたのですが、うまくまとまらなかった</p> <a href="https://listen.style/p/yammer/pm6wt2w9">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/pm6wt2w9</link>
+			<guid isPermaLink="false">01hv6qz24v59g5jcnecjzkec0r</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Thu, 11 Apr 2024 14:11:10 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/TTDh2nwDv7r3RjXX55JjrNKC7tMCOhR1dtSrxqoW_normalized_denoised.mp3" length="7828750" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/pm6wt2w9/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:08:00</itunes:duration>
+						<itunes:summary>&lt;p&gt;何を話すかまとまっていなくても、まずは話してみるというのをやってみたのですが、うまくまとまらなかった&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/pm6wt2w9"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[SFTPGoのはなし]]></title>
+			<description><![CDATA[<p>https://github.com/drakkan/sftpgo</p> <a href="https://listen.style/p/yammer/itlittmt">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/itlittmt</link>
+			<guid isPermaLink="false">01hv1m51tqhfms3qy90y4s3j8y</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Tue, 09 Apr 2024 14:28:20 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/srguUYeAoFzHm8GDVN6mYW4KUNZxZzphNdB2kr0o_normalized_denoised.mp3" length="5509390" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/itlittmt/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:05:26</itunes:duration>
+						<itunes:summary>&lt;p&gt;https://github.com/drakkan/sftpgo&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/itlittmt"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[アウトプットでリズムをつくる]]></title>
+			<description><![CDATA[<p>久々に収録してみました</p> <a href="https://listen.style/p/yammer/6zcin8vz">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/6zcin8vz</link>
+			<guid isPermaLink="false">01htz4j6r1j8gj9zm6f24e8p75</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Mon, 08 Apr 2024 15:17:24 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/abhH4X3jhFaUZfLi5ZRnCdAPuyA2tptUbc2rSim3_normalized_denoised_chapters.mp3" length="9712728" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/6zcin8vz/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/6zcin8vz/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:09:55</itunes:duration>
+						<itunes:summary>&lt;p&gt;久々に収録してみました&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/6zcin8vz"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[プログラマーの、脳が繋がるあの瞬間]]></title>
+			<description><![CDATA[<p>そこら辺にいるなどという表現は不適切でした。私はレゴスクラムをやったことがないので、とても興味深くてお話しさせていただいたのでした。一回に一個作れるというのは結構良さそうだと学びになりました！ありがとうございました。</p> <a href="https://listen.style/p/yammer/o4mxpknr">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/o4mxpknr</link>
+			<guid isPermaLink="false">01hq8q509a3d26jvh5b0zh2yfe</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Thu, 22 Feb 2024 15:32:38 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/RrTBV2Z6ovYeSv9HiKt1DxLWhKMNRs7uXuu4CeRJ_normalized_denoised.mp3" length="6496403" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/o4mxpknr/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:06:46</itunes:duration>
+						<itunes:summary>&lt;p&gt;そこら辺にいるなどという表現は不適切でした。私はレゴスクラムをやったことがないので、とても興味深くてお話しさせていただいたのでした。一回に一個作れるというのは結構良さそうだと学びになりました！ありがとうございました。&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/o4mxpknr"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[手だけを写すWebカメラ]]></title>
+			<description><![CDATA[<p>YAPCの感想は記事が二つになってしまいました。</p><p><a href="https://awkblog.net/@yammerjp/posts/25">https://awkblog.net/@yammerjp/posts/25</a> <a href="https://awkblog.net/@yammerjp/posts/26">https://awkblog.net/@yammerjp/posts/26</a></p><p>&nbsp;</p><p>明日持っていくキーボードは、cocot46plusでした。 <a href="https://shop.yushakobo.jp/products/6955">https://shop.yushakobo.jp/products/6955</a>&nbsp;</p><p>&nbsp;</p> <a href="https://listen.style/p/yammer/8j32tjqo">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/8j32tjqo</link>
+			<guid isPermaLink="false">01hq3h3c30b9rhmv5z5r9egtfj</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Tue, 20 Feb 2024 15:10:41 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/xmVJIeeP1e3MbmoK2R2r5KeHAViEOqJKbQoUy1Au_normalized_denoised.mp3" length="7187939" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/8j32tjqo/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:07:29</itunes:duration>
+						<itunes:summary>&lt;p&gt;YAPCの感想は記事が二つになってしまいました。&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://awkblog.net/@yammerjp/posts/25&quot;&gt;https://awkblog.net/@yammerjp/posts/25&lt;/a&gt; &lt;a href=&quot;https://awkblog.net/@yammerjp/posts/26&quot;&gt;https://awkblog.net/@yammerjp/posts/26&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;明日持っていくキーボードは、cocot46plusでした。 &lt;a href=&quot;https://shop.yushakobo.jp/products/6955&quot;&gt;https://shop.yushakobo.jp/products/6955&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/8j32tjqo"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[hello,worldだけでもやって手をつけたことにする]]></title>
+			<description><![CDATA[<p>大和田常務の話は以下のエピソードのものです</p><figure class="media"><div data-oembed-url="https://listen.style/p/juneboku-life/kqfkjn2b"><div><iframe src="https://listen.style/p/juneboku-life/kqfkjn2b/player" scrolling="no" frameborder="0" style="width: 100%; height: 178px;"></iframe></div></div></figure> <a href="https://listen.style/p/yammer/84yxwdnj">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/84yxwdnj</link>
+			<guid isPermaLink="false">01hpy3k89stw7ws4m65e03zyq3</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Sun, 18 Feb 2024 12:38:29 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/yydJUgFql7y3QZMovLSD0qW6dzcsHCW2bBud8viE_normalized_denoised.mp3" length="5329379" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/84yxwdnj/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:05:33</itunes:duration>
+						<itunes:summary>&lt;p&gt;大和田常務の話は以下のエピソードのものです&lt;/p&gt;&lt;figure class=&quot;media&quot;&gt;&lt;div data-oembed-url=&quot;https://listen.style/p/juneboku-life/kqfkjn2b&quot;&gt;&lt;div&gt;&lt;iframe src=&quot;https://listen.style/p/juneboku-life/kqfkjn2b/player&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 100%; height: 178px;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/figure&gt; &lt;a href="https://listen.style/p/yammer/84yxwdnj"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[土曜日の昼]]></title>
+			<description><![CDATA[<p>頑張って準備したからといってたくさん反響があるとは限らないのですが、反響や承認欲求にすがらずに、愚直にやっていきたいですね。</p><p>&nbsp;</p><p>あとは、RSS入門2024が欲しい話と、今日やることの宣言をしました。</p> <a href="https://listen.style/p/yammer/vuxpemsy">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/vuxpemsy</link>
+			<guid isPermaLink="false">01hptpjzarv6nxvbtgbmj36j9f</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Sat, 17 Feb 2024 04:53:25 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/X7l5NdmnTA2gii7SGGJbZhDP59PP85dicVeP8fNb_normalized_denoised_chapters.mp3" length="8038518" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/vuxpemsy/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/vuxpemsy/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:08:22</itunes:duration>
+						<itunes:summary>&lt;p&gt;頑張って準備したからといってたくさん反響があるとは限らないのですが、反響や承認欲求にすがらずに、愚直にやっていきたいですね。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;あとは、RSS入門2024が欲しい話と、今日やることの宣言をしました。&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/vuxpemsy"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[デモの力 / メールの教科書]]></title>
+			<description><![CDATA[<p>強いのっていきとデモの力を感じた話と、「実務で使えるメール技術の教科書」を読んだ話をしました。</p> <a href="https://listen.style/p/yammer/pryn493g">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/pryn493g</link>
+			<guid isPermaLink="false">01hps6rhpa0m0hkyxs40ty9122</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Fri, 16 Feb 2024 14:57:36 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/HMl2RUPl1hRi9LebFN2Gg712QYCaiGgOtsBiTxh4_normalized_denoised.mp3" length="8405603" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/pryn493g/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:08:45</itunes:duration>
+						<itunes:summary>&lt;p&gt;強いのっていきとデモの力を感じた話と、「実務で使えるメール技術の教科書」を読んだ話をしました。&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/pryn493g"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[デモをして、動くソフトウェアを作り続ける]]></title>
+			<description><![CDATA[<p>風が強くて音質が厳しい😥</p> <a href="https://listen.style/p/yammer/4ytyczi5">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/4ytyczi5</link>
+			<guid isPermaLink="false">01hpqbnqc4jk9shjdrt31qmv4j</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Thu, 15 Feb 2024 21:44:58 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/ixfTMbtFvTOmU0J0yLpiuNKViN1oeq4eijLLwTHg_normalized_denoised.mp3" length="4491491" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/4ytyczi5/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:04:41</itunes:duration>
+						<itunes:summary>&lt;p&gt;風が強くて音質が厳しい😥&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/4ytyczi5"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[日々を記録する]]></title>
+			<description><![CDATA[<p>ゆっくり喋っている。そういう日もある。</p> <a href="https://listen.style/p/yammer/b4l9va69">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/b4l9va69</link>
+			<guid isPermaLink="false">01hppe8c7a5ad183tv9qkzbz3q</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Thu, 15 Feb 2024 13:10:51 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/cnijZa8JO1RxTgUWh3mjmAjKRMkcCzxMJcwL4OQO_normalized_denoised.mp3" length="2868844" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/b4l9va69/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:02:59</itunes:duration>
+						<itunes:summary>&lt;p&gt;ゆっくり喋っている。そういう日もある。&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/b4l9va69"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[次のプロポーザル/暇]]></title>
+			<description><![CDATA[<p>おしごとおしごと！</p> <a href="https://listen.style/p/yammer/l0ohjnua">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/l0ohjnua</link>
+			<guid isPermaLink="false">01hphj0rkfsqbhyxctae5ap2jz</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Tue, 13 Feb 2024 15:40:24 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/Je85KsNNi8eedKOn8xJC3fl1C1Ck0XA5P7mQm5QY_normalized_denoised.mp3" length="6357363" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/l0ohjnua/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:06:37</itunes:duration>
+						<itunes:summary>&lt;p&gt;おしごとおしごと！&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/l0ohjnua"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[YAPC::Hiroshima 2024に登壇した日の夜]]></title>
+			<description><![CDATA[<p>2/10の夜に録ったものです。一発どりで適当なことを言っているのはいつも通り。</p><p>&nbsp;</p><p>@songmu さんのブログの話</p><p><a href="https://junkyard.song.mu/slides/yapc-hiroshima-2024">https://junkyard.song.mu/slides/yapc-hiroshima-2024</a>&nbsp;</p><p>&nbsp;</p><p>@azumakuniyuki さんのメールの話</p><p><a href="https://speakerdeck.com/azumakuniyuki/gu-iji-shu-nituite-smtpxian-dai-shi-qing-tumamishi-i">https://speakerdeck.com/azumakuniyuki/gu-iji-shu-nituite-smtpxian-dai-shi-qing-tumamishi-i</a>&nbsp;</p> <a href="https://listen.style/p/yammer/lqaciscc">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/lqaciscc</link>
+			<guid isPermaLink="false">01hphdx1rdgp5sy8c8zk1jvkfq</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Tue, 13 Feb 2024 14:28:00 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/DakiCGFtcWOOFDgMVEO9gM8eKxjEoD7vhIRGg2zw_normalized_denoised.mp3" length="9720812" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/lqaciscc/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:10:07</itunes:duration>
+						<itunes:summary>&lt;p&gt;2/10の夜に録ったものです。一発どりで適当なことを言っているのはいつも通り。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;@songmu さんのブログの話&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://junkyard.song.mu/slides/yapc-hiroshima-2024&quot;&gt;https://junkyard.song.mu/slides/yapc-hiroshima-2024&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;@azumakuniyuki さんのメールの話&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://speakerdeck.com/azumakuniyuki/gu-iji-shu-nituite-smtpxian-dai-shi-qing-tumamishi-i&quot;&gt;https://speakerdeck.com/azumakuniyuki/gu-iji-shu-nituite-smtpxian-dai-shi-qing-tumamishi-i&lt;/a&gt;&amp;nbsp;&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/lqaciscc"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[awkblogのデモ環境を用意している]]></title>
+			<description><![CDATA[<p>2/7に録ったものです。YAPCに登壇する数日前、デモ環境の同時リクエスト受付数がが40倍になった話。</p><p>&nbsp;</p><p>アプリケーションのデプロイ先: <a href="https://fly.io">https://fly.io</a></p><p>データベースの提供元: <a href="https://neon.tech">https://neon.tech</a>&nbsp;</p> <a href="https://listen.style/p/yammer/nl0kl3hg">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/nl0kl3hg</link>
+			<guid isPermaLink="false">01hphde3j1f6mm4tg328tzvm3d</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Tue, 13 Feb 2024 14:20:19 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/1VuMS454JcAdxNXCWP2RYS9nKEm4Z1Oow5AGRq7v_normalized_denoised.mp3" length="5441506" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/nl0kl3hg/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:05:40</itunes:duration>
+						<itunes:summary>&lt;p&gt;2/7に録ったものです。YAPCに登壇する数日前、デモ環境の同時リクエスト受付数がが40倍になった話。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;アプリケーションのデプロイ先: &lt;a href=&quot;https://fly.io&quot;&gt;https://fly.io&lt;/a&gt;&lt;/p&gt;&lt;p&gt;データベースの提供元: &lt;a href=&quot;https://neon.tech&quot;&gt;https://neon.tech&lt;/a&gt;&amp;nbsp;&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/nl0kl3hg"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[仕事は悩まない / 登壇資料を作っている]]></title>
+			<description><![CDATA[<p>つまりそういうことです</p> <a href="https://listen.style/p/yammer/bytltalt">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/bytltalt</link>
+			<guid isPermaLink="false">01hnzqd7xv9njc5j3v95zbj7vn</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Tue, 06 Feb 2024 17:28:16 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/0bBdgQ6XGWTK1NZrKT9zuxRQDRPuHBUCLTIOrwOW_normalized_denoised_chapters.mp3" length="8151375" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/bytltalt/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/bytltalt/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:08:29</itunes:duration>
+						<itunes:summary>&lt;p&gt;つまりそういうことです&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/bytltalt"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[何を言わないかを決める]]></title>
+			<description><![CDATA[<p>本編と実は全然ない、話題に出てきたPodcastはこちら</p><p>https://open.spotify.com/episode/65iXFIdSa1MuyxvL2VQSig?si=aGR7bh38SZK5BN-QAx69XQ</p><p>&nbsp;</p><p>&nbsp;</p> <a href="https://listen.style/p/yammer/x2rvyol9">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/x2rvyol9</link>
+			<guid isPermaLink="false">01hnjq8aezrn7xpw1m3f38wnq8</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Thu, 01 Feb 2024 16:15:27 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/3TmNdx0iwvecz8V4t67sRAaBh3D3FJuY9FBjKT4a_normalized_denoised.mp3" length="6284386" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/x2rvyol9/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:06:33</itunes:duration>
+						<itunes:summary>&lt;p&gt;本編と実は全然ない、話題に出てきたPodcastはこちら&lt;/p&gt;&lt;p&gt;https://open.spotify.com/episode/65iXFIdSa1MuyxvL2VQSig?si=aGR7bh38SZK5BN-QAx69XQ&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/x2rvyol9"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[外でコードを書くならiPad]]></title>
+			<description><![CDATA[<p>手元のiPad Air 4に組み合わせて使っていたのは、Smart Keyboard Folioでした</p><p>&nbsp;</p><p>その他話題に出てきたもの</p><p><a href="https://blink.sh">https://blink.sh</a></p><p><a href="https://tailscale.com">https://tailscale.com</a></p><p>&nbsp;</p> <a href="https://listen.style/p/yammer/qsaexyix">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/qsaexyix</link>
+			<guid isPermaLink="false">01hng2zb9tmk1wyky5d0j9ebvp</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Wed, 31 Jan 2024 15:42:33 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/fSdRUMoLeMSC4HmR82HQiThJlLJb2WvrtM8TfC8f_normalized_denoised.mp3" length="8568032" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/qsaexyix/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:08:55</itunes:duration>
+						<itunes:summary>&lt;p&gt;手元のiPad Air 4に組み合わせて使っていたのは、Smart Keyboard Folioでした&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;その他話題に出てきたもの&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blink.sh&quot;&gt;https://blink.sh&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://tailscale.com&quot;&gt;https://tailscale.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/qsaexyix"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[平日に録るくらいがちょうどいいかも]]></title>
+			<description><![CDATA[<p>やっと日記らしくなってきました</p> <a href="https://listen.style/p/yammer/jcwcuiry">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/jcwcuiry</link>
+			<guid isPermaLink="false">01hnay156tss09g40nk2gqxt3y</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Mon, 29 Jan 2024 15:39:00 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/MPuKwteAaS6byULSrzefT3c0l5CQJhgKA2VZqY8k_normalized_denoised.mp3" length="6455266" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/jcwcuiry/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:06:43</itunes:duration>
+						<itunes:summary>&lt;p&gt;やっと日記らしくなってきました&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/jcwcuiry"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[外部通信する実装の開発やテストをどうやるか]]></title>
+			<description><![CDATA[<p>金曜日の帰りの道中に喋りました</p> <a href="https://listen.style/p/yammer/vgk3kell">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/vgk3kell</link>
+			<guid isPermaLink="false">01hn93haxfezgb3w7j6ybjd8ch</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Sun, 28 Jan 2024 22:37:41 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/CDw5WjcgbqcSniYry4UmYIgxLcEPX8gl2Ss0BPDX_normalized_denoised.mp3" length="5419618" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/vgk3kell/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:05:39</itunes:duration>
+						<itunes:summary>&lt;p&gt;金曜日の帰りの道中に喋りました&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/vgk3kell"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[1行で日記を続ける]]></title>
+			<description><![CDATA[<p>gawkの話はしません。</p><p>&nbsp;</p><p>撮り溜めていたのは1本ではなく2本でした。3本まとめて公開しました。</p><p>&nbsp;</p><p>日記のアプリはこちら:&nbsp;</p><p>1行日記 https://lineaday.page.link/ja</p> <a href="https://listen.style/p/yammer/skcluenq">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/skcluenq</link>
+			<guid isPermaLink="false">01hn0kmsbjx3p4nffbcf992089</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Thu, 25 Jan 2024 15:26:02 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/gX3LCCnE2NnSC6NztYBZLQGeNfiiOEXtRjJF7X6d_normalized_denoised.mp3" length="2349922" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/skcluenq/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:02:27</itunes:duration>
+						<itunes:summary>&lt;p&gt;gawkの話はしません。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;撮り溜めていたのは1本ではなく2本でした。3本まとめて公開しました。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;日記のアプリはこちら:&amp;nbsp;&lt;/p&gt;&lt;p&gt;1行日記 https://lineaday.page.link/ja&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/skcluenq"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[gawkで画像アップロード]]></title>
+			<description><![CDATA[<p>冒頭に話しているのは純朴声活の「<a href="https://listen.style/p/juneboku-life/zsmbftnb">(9) ゴキゲンにやっていきたいぜ</a>」でした。</p><p>&nbsp;</p><p>(誤字があったので訂正しました)</p><p>&nbsp;</p><p>後半の署名付きアップロードの説明はグダグダなのですが、1発撮りのルールなのでこありのままを公開(!?)しています。</p> <a href="https://listen.style/p/yammer/uju22imx">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/uju22imx</link>
+			<guid isPermaLink="false">01hn0kfpssvvr2k3cwvg5rqeef</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Thu, 25 Jan 2024 15:23:15 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/aOIkwbItX5JE9QVVtNTjC9jikB4nmKe11cTzwAhK_normalized_denoised.mp3" length="5476466" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/uju22imx/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:05:42</itunes:duration>
+						<itunes:summary>&lt;p&gt;冒頭に話しているのは純朴声活の「&lt;a href=&quot;https://listen.style/p/juneboku-life/zsmbftnb&quot;&gt;(9) ゴキゲンにやっていきたいぜ&lt;/a&gt;」でした。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;(誤字があったので訂正しました)&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;後半の署名付きアップロードの説明はグダグダなのですが、1発撮りのルールなのでこありのままを公開(!?)しています。&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/uju22imx"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[gawkでテンプレートエンジン]]></title>
+			<description><![CDATA[<p>awkはやっぱりテキスト処理が得意！</p><p>&nbsp;</p><p>https://github.com/yammerjp/awkblog/blob/main/lib/compile_templates.awk</p> <a href="https://listen.style/p/yammer/efjymzvg">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/efjymzvg</link>
+			<guid isPermaLink="false">01hn0k56vnm41hhm8hcsqqsqd4</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Thu, 25 Jan 2024 15:17:31 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/JkD7AihKIGaTFnLaxTM2ZKYLHm6O6wai9srn5id7_normalized_denoised.mp3" length="8374512" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/efjymzvg/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/efjymzvg/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:08:43</itunes:duration>
+						<itunes:summary>&lt;p&gt;awkはやっぱりテキスト処理が得意！&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;https://github.com/yammerjp/awkblog/blob/main/lib/compile_templates.awk&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/efjymzvg"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[gawkとgraceful shutdown]]></title>
+			<description><![CDATA[<p>といっても、gawkではやっていないのですが。</p><p>&nbsp;</p><p>飲んだ日本酒は「尾瀬の雪解け」</p> <a href="https://listen.style/p/yammer/e0fgbx4y">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/e0fgbx4y</link>
+			<guid isPermaLink="false">01hmrz1jj90h549dw3xf38keak</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Mon, 22 Jan 2024 16:11:00 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/rPcBUf1LjkgOkukKtmMcWXvDJwxsUlgLwDue1AzY_normalized_denoised.mp3" length="8819171" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/e0fgbx4y/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:09:11</itunes:duration>
+						<itunes:summary>&lt;p&gt;といっても、gawkではやっていないのですが。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;飲んだ日本酒は「尾瀬の雪解け」&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/e0fgbx4y"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[gawkでGitHubログイン]]></title>
+			<description><![CDATA[<p>やっぱ現代のWebアプリケーションはソーシャルログインでしょってことで、awkblogにも実装しました。</p><p>&nbsp;</p><p>エピソード内で話し忘れたのですが、E2Eテストのために、GitHub側のモックサーバを作ったりもしました。<a href="https://github.com/yammerjp/github-oauth2-login-mock-server">https://github.com/yammerjp/github-oauth2-login-mock-server</a></p><p>&nbsp;</p><p>このエピソードを収録しているマイクは、BOYAのBY-P4Dというものです。Lightning端子がついていて、iPhone 12 miniにつけて録っています。</p> <a href="https://listen.style/p/yammer/y6mx2nk8">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/y6mx2nk8</link>
+			<guid isPermaLink="false">01hmh70d33v4jsxnqkcshwm8ed</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Fri, 19 Jan 2024 16:13:58 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/aRankJiLmx8wtl42tHTK0i4PxfxYsCPDtCANexe5_normalized_denoised.mp3" length="7348082" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/y6mx2nk8/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:07:39</itunes:duration>
+						<itunes:summary>&lt;p&gt;やっぱ現代のWebアプリケーションはソーシャルログインでしょってことで、awkblogにも実装しました。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;エピソード内で話し忘れたのですが、E2Eテストのために、GitHub側のモックサーバを作ったりもしました。&lt;a href=&quot;https://github.com/yammerjp/github-oauth2-login-mock-server&quot;&gt;https://github.com/yammerjp/github-oauth2-login-mock-server&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;このエピソードを収録しているマイクは、BOYAのBY-P4Dというものです。Lightning端子がついていて、iPhone 12 miniにつけて録っています。&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/y6mx2nk8"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[gawkのエラーハンドリングと大域脱出]]></title>
+			<description><![CDATA[<p>今日は、gawkでWebアプリケーションを実装するときの、エラーハンドリングについて紹介しました。</p><p>&nbsp;</p><p>誰かがエラーを起こしてくれて、500 Internal Server Errorとなってくれることの有り難みを感じます。</p> <a href="https://listen.style/p/yammer/rnpettce">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/rnpettce</link>
+			<guid isPermaLink="false">01hmbzv9r7ma4df7hpaf1kzx7p</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Wed, 17 Jan 2024 15:23:02 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/B8dbFSFmMW2DYFlXMg39m4N2UlSJMsrCohdOxN5U_normalized_denoised.mp3" length="5905010" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/rnpettce/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:06:09</itunes:duration>
+						<itunes:summary>&lt;p&gt;今日は、gawkでWebアプリケーションを実装するときの、エラーハンドリングについて紹介しました。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;誰かがエラーを起こしてくれて、500 Internal Server Errorとなってくれることの有り難みを感じます。&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/rnpettce"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[gawkでURLデコード]]></title>
+			<description><![CDATA[<p>今日は、フォーム送信時の、URLエンコードされたパラメータを、gawkでデコードする話をしました。</p><p>&nbsp;</p><p>余談: このエピソードを録音した後、ちゃんとやらなきゃなという気持ちになって、UTF-8のバイト列が認められているものであるかのチェックを、実装し直しました。</p><p><a href="https://github.com/yammerjp/awkblog/commit/13cdad42a3f9c586878aee747743c067ff4d6df0">https://github.com/yammerjp/awkblog/commit/13cdad42a3f9c586878aee747743c067ff4d6df0</a></p> <a href="https://listen.style/p/yammer/j9hvcq3t">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/j9hvcq3t</link>
+			<guid isPermaLink="false">01hm9hjjn9xwnec0087wzy3q0w</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Tue, 16 Jan 2024 16:40:25 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/2oPrdArFiYqySGtn4T9NK1P3aTtwtv7MMu0rDrCJ_normalized_denoised.mp3" length="10101728" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/j9hvcq3t/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:10:31</itunes:duration>
+						<itunes:summary>&lt;p&gt;今日は、フォーム送信時の、URLエンコードされたパラメータを、gawkでデコードする話をしました。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;余談: このエピソードを録音した後、ちゃんとやらなきゃなという気持ちになって、UTF-8のバイト列が認められているものであるかのチェックを、実装し直しました。&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/yammerjp/awkblog/commit/13cdad42a3f9c586878aee747743c067ff4d6df0&quot;&gt;https://github.com/yammerjp/awkblog/commit/13cdad42a3f9c586878aee747743c067ff4d6df0&lt;/a&gt;&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/j9hvcq3t"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[gawkでHTTPリクエストを読み込む]]></title>
+			<description><![CDATA[<p>gawkでWebアプリケーションを作るとき、HTTPリクエストボディの読み込みが結構面倒で、その話をしました。</p><p>&nbsp;</p><p>コードはこちら。果たして読む人はいるのか、もしいたら相当な物好きでしょう…</p><p><a href="https://github.com/yammerjp/awkblog/blob/4b8c69581f37e83a2e814d8ee66a566d0f435091/src/lib/http.awk#L14">https://github.com/yammerjp/awkblog/blob/4b8c69581f37e83a2e814d8ee66a566d0f435091/src/lib/http.awk#L14</a></p><p>&nbsp;</p><p>話の途中に出てくる、ボディの末尾を読み込む挙動のよく原因がわかっていないというあたり、詳しい方がいたら教えて欲しいです。</p> <a href="https://listen.style/p/yammer/c81mqpey">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/c81mqpey</link>
+			<guid isPermaLink="false">01hm6qpb4e3wzjvjs1hck4s83z</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Mon, 15 Jan 2024 14:16:00 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/lYcymqdg603RSyPGf6hIz9en7trMyW6bx24Ixbno_normalized_denoised.mp3" length="10721923" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/c81mqpey/transcript.vtt" type="text/vtt" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:11:10</itunes:duration>
+						<itunes:summary>&lt;p&gt;gawkでWebアプリケーションを作るとき、HTTPリクエストボディの読み込みが結構面倒で、その話をしました。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;コードはこちら。果たして読む人はいるのか、もしいたら相当な物好きでしょう…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/yammerjp/awkblog/blob/4b8c69581f37e83a2e814d8ee66a566d0f435091/src/lib/http.awk#L14&quot;&gt;https://github.com/yammerjp/awkblog/blob/4b8c69581f37e83a2e814d8ee66a566d0f435091/src/lib/http.awk#L14&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;話の途中に出てくる、ボディの末尾を読み込む挙動のよく原因がわかっていないというあたり、詳しい方がいたら教えて欲しいです。&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/c81mqpey"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		        				<item>
+			<title><![CDATA[gawkでつくるWebアプリケーション]]></title>
+			<description><![CDATA[<p>プログラミングやソフトウェアエンジニアリング、日常のことについて、歩きながら話す、yammerの日記です。通勤や散歩しながら録音しているので、その雰囲気と共にお楽しみください。</p> <a href="https://listen.style/p/yammer/ze2qsq7i">LISTENで開く</a>]]></description>
+			<link>https://listen.style/p/yammer/ze2qsq7i</link>
+			<guid isPermaLink="false">01hkz5w7rn8x6vd5edxjnqa5n4</guid>
+			<dc:creator><![CDATA[やんまー]]></dc:creator>
+			<pubDate>Fri, 12 Jan 2024 15:50:00 +0000</pubDate>
+							<enclosure url="https://cdn.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/audio/QtjKq4OyAptLg9N7LdlW3bE3jPFYAiZKHcf3jpAE_normalized.mp3" length="2661376" type="audio/mpeg"/>
+								<podcast:transcript url="https://listen.style/p/yammer/ze2qsq7i/transcript.vtt" type="text/vtt" />
+										<podcast:chapters url="https://listen.style/p/yammer/ze2qsq7i/chapters.json" type="application/json+chapters" />
+													<itunes:episodeType>Full</itunes:episodeType>
+				<itunes:duration>00:05:33</itunes:duration>
+						<itunes:summary>&lt;p&gt;プログラミングやソフトウェアエンジニアリング、日常のことについて、歩きながら話す、yammerの日記です。通勤や散歩しながら録音しているので、その雰囲気と共にお楽しみください。&lt;/p&gt; &lt;a href="https://listen.style/p/yammer/ze2qsq7i"&gt;LISTENで開く&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:image href="https://image.listen.style/p/01hkz3rvbnwbdhnxftf76x3zs5/images/EpcVrGQE8dKpxenAgaFNY0mnrvZz9B1K8yJV6cEI.jpg"/>
+								</item>
+		            </channel>
+ </rss>

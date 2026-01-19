@@ -1,0 +1,1261 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Posts on memo.yammer.jp</title>
+<link>https://memo.yammer.jp/posts/</link>
+<description>Recent content in Posts on memo.yammer.jp</description>
+<generator>memo.yammer.jp with Next.js (https://github.com/yammerjp/memo.yammer.jp)</generator>
+<language>ja</language>
+<copyright>©2021 Keisuke Nakayama</copyright>
+<lastBuildDate>Tue, 16 Dec 2025 00:32:38 GMT
+</lastBuildDate>
+<atom:link href="https://memo.yammer.jp/posts/index.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>トイカメラで、写真の荒さを楽しむ</title>
+<link>https://memo.yammer.jp/posts/20251215</link>
+<pubDate>Tue, 16 Dec 2025 00:10:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/20251215</guid>
+<description>2025年も残り2週間、いかがお過ごしでしょうか？ 最近私はトイカメラを買いました。 トイカメラを買った トイカメラとは安価な素材で作られた簡素なカメラを指し、チープな見た目やうつり具合を楽しむもののようです。 スマホで高画質な写真が撮れる昨今、細かいところまで綺麗に映るのはありがたいものの、いいと感じる写真を撮るには素人にはどうも腕が足りず、イマイチだなあと感じてしまう機会も多くあります。 そこで、あえて逆張りで荒い解像度でトイカメラで撮るなら、細かいことを気にせず写真を楽しく撮れるのではないかと思い、、買って試してみることにしました。 買ったのはImpress Watchの記事でも紹介され</description>
+<category>日記</category>
+</item>
+<item>
+<title>メール送信者認証技術の整理</title>
+<link>https://memo.yammer.jp/posts/mail-sender-authentication</link>
+<pubDate>Fri, 04 Jul 2025 18:52:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/mail-sender-authentication</guid>
+<description>SPF, DKIM, DMARCをはじめとするメール送信者認証技術のトピックが時々必要になるので、自分用のメモとして書き出しておきます。覚えていないところはRFCを見たりしていますが、記憶の中を書き出しているだけので、間違っているところがあったらご指摘ください。 メール送信者認証技術はなぜ必要なのか？ SMTPで送信元を表すのは、IPアドレス、エンベロープFrom、ヘッダFrom メールは、SMTPというプロトコル上でやり取りされます。この時、送信者側がどのホスト名からの接続か宣言されることとなっており、これがいわゆるエンベロープFromと呼ばれます。SMTPプロトコル上ではメールの内容(メー</description>
+<category>mail</category>
+<category>smtp</category>
+<category>spf</category>
+<category>dkim</category>
+<category>dmarc</category>
+<category>bimi</category>
+<category>email-authentication</category>
+<category>dns</category>
+</item>
+<item>
+<title>GMO Developers Day 2024に登壇した</title>
+<link>https://memo.yammer.jp/posts/gmo-developers-day-2024</link>
+<pubDate>Sun, 01 Dec 2024 14:59:05 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/gmo-developers-day-2024</guid>
+<description>昨日、11/29, 30に開催されたGMO Developers Day 2024の「EC決済 開発責任者対談」というセッションに登壇した。 Developers Dayの登壇は昨年に続き2回目で、前回に引き続きGMOグループとして力入れてるなというのを感じる。 今年も、去年私が登壇した枠と似たようなパネルディスカッションに近い形式で、 @inamoly によるモデレータ+3人での対談を行った。事前の打ち合わせで何を話すか多少擦り合わせていたが、そのときに出てない話も本番では話していたり、対談の臨場感が現れた発表になったと思う。 対談形式の発表は特定のメッセージを強く伝えるようなものではないが</description>
+
+</item>
+<item>
+<title>GMOペパボ EC事業部CTOに就任しました</title>
+<link>https://memo.yammer.jp/posts/cto-in-ec-div</link>
+<pubDate>Mon, 07 Oct 2024 02:00:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/cto-in-ec-div</guid>
+<description>2024年10月1日付で、GMOペパボ株式会社 EC事業部CTOに就任しました。 事業部CTOとは 事業部CTOは、ペパボのエンジニアリングマネジメントラインのなかで、部門の技術領域の責任者として設けられていたSEL(シニアエンジニアリングリード)1を、2024年2月に再定義2した役職です。 部門ごとに異なる事業を運営するペパボは、事業部門のなかに開発組織を含む様々な職種のパートナーがおり、それぞれ様々なサービスを提供しています。事業部CTOという役職は、技術と技術組織の責任者として部門を成長に導くという点は以前のSELと変わらず、部門をひとつの会社として見立てたときのCTOの果たすべき役割を</description>
+<category>pepabo</category>
+</item>
+<item>
+<title>財務3表一体理解法を読んだ(2024年8月)</title>
+<link>https://memo.yammer.jp/posts/2024-08-pl-bs-cf-introduction</link>
+<pubDate>Sun, 22 Sep 2024 14:44:08 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/2024-08-pl-bs-cf-introduction</guid>
+<description>8月に読んだ本のメモが下書きのまま眠っていたので投稿しておく。また当方は会計の専門家ではないので、この感想にツッコミどころがあったらこっそり教えてください。 はじめに 企業における会計のことを少しはわかっていなくてはと思い、友人に薦められた財務3表一体理解法という本を読んだ。 学生時代も入社してからも会計のことを学んでおらず、PL (Profit and Loss Statement / 損益計算書) やBS (Balance Sheet / 貸借対照表)、CF (Cash Flow Statement / キャッシュフロー計算書) というのを名前は知っていても実態は正直わかっていないという状</description>
+<category>本</category>
+<category>会計</category>
+</item>
+<item>
+<title>私と技術カンファレンス 2023 (雑文)</title>
+<link>https://memo.yammer.jp/posts/tech-conference-2023</link>
+<pubDate>Sun, 31 Dec 2023 14:51:18 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/tech-conference-2023</guid>
+<description>技術カンファレンス Advent Calendar 2023、11日目の記事をお送りします。今は2023/12/31な訳ですが、今年中に出し切るということで先ほどから書き始めました。推敲していない雑文をお許しください。 私がカンファレンスにはじめてちゃんと参加したのはPHP Conference Japn 2022であった。これはスポンサー枠で登壇したもので、緊張もしたけれど思ったよりもたくさんの方に聞いていただいて嬉しかった。 社内のレビューによってとても良い発表ができたが、いっぽうで会社の代表なので、会社としての取り組みを紹介するというのが主だった。自分でプロポーザルを書いて出して自分のや</description>
+<category>技術カンファレンス</category>
+</item>
+<item>
+<title>ISUCONに初めて参加した(2023年12月)</title>
+<link>https://memo.yammer.jp/posts/isucon13</link>
+<pubDate>Fri, 08 Dec 2023 14:43:12 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/isucon13</guid>
+<description>(2024/09/22記) 去年のISUCON13に参加したときの記録が下書きのままになっていたので、いまさらですが公開します。 同期の @homirun @yukun と一緒に、ISUCON13に参加しました。 結論はこれ。 https://twitter.com/yammerjp/status/1728340237146112188 最後のスコアは1万点にギリギリ届かず満足できないけれど、何もわからんという感じにはならずやることはたくさん見えていたので、次回(が開催されるならば)ご期待ください！ やったこと 前日まで 夏頃から、毎週1時間くらい業務後にあつまって練習していた。ISUCON本</description>
+<category>日記</category>
+<category>isucon</category>
+<category>backend</category>
+<category>performance</category>
+</item>
+<item>
+<title>チームが気付き、変化する</title>
+<link>https://memo.yammer.jp/posts/team-dynamics-evolving</link>
+<pubDate>Sun, 03 Dec 2023 10:42:23 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/team-dynamics-evolving</guid>
+<description>GMOペパボ EC Advent Calenderの2日目は、yammerから、私の所属するチームについての話題を紹介します。 1日目の記事は、@kenchanの『「炭鉱のカナリア」になる』でした。自分が今年、消防車を呼べたとき、呼べなかった時はいつだっただろうか？と思い出しながら読みました。3日目の記事は@tatsumi000の、「開発環境.nvim 2023」です。Vimmerでありながら就業時間中はVSCodeのVimプラグインに甘んじている身として「1週間くらいNeoVimだけで生活してみようかな」と心が揺さぶられるトピックでした。1 私が今いるチームは2023年の年初に発足し、はじま</description>
+<category>チームワーク</category>
+<category>ソフトウェア開発</category>
+<category>コードレビュー</category>
+</item>
+<item>
+<title>人月の神話を少し読む</title>
+<link>https://memo.yammer.jp/posts/the-mythical-man-month-essays-on-software-engineering</link>
+<pubDate>Thu, 13 Jul 2023 05:40:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/the-mythical-man-month-essays-on-software-engineering</guid>
+<description>人月の神話 (Frederick Phillips Brooks, Jr. 著、滝沢徹 訳、牧野祐子 訳、富澤昇 訳、丸善出版 発行)を、いくつかの章は流しながら読んだ。 この本は1975年に初版がでたもので、そろそろ発売から50年になろうとしている。記事の中に書かれている個々の事象は「お、まじか」と驚くような (しかし当時としては妥当であっただろう) How Toも多数ある。50年経つことを前提に置いて、細かい事象にはあまり深入りせずに読むことにしていた。 本の中で語られる「人」と「月」の常に等価交換できないということは、2023年の私の身の回りではありがたいことに当たり前に認識されているよ</description>
+<category>本</category>
+<category>ソフトウェアエンジニアリング</category>
+</item>
+<item>
+<title>エンジニアのためのマネジメントキャリアパスを読む</title>
+<link>https://memo.yammer.jp/posts/the-managers-path</link>
+<pubDate>Mon, 10 Jul 2023 23:50:38 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/the-managers-path</guid>
+<description>書籍「エンジニアのためのマネジメントキャリアパス」(Camille Fournier著、武舎 広幸、武舎 るみ訳、及川 卓也まえがき、オライリージャパン発行)を読んだ。 私は一介のジュニアエンジニアで、今はシニアと呼ばれるような能力を身につけることを目指しており、マネジメントのキャリアを主軸に考えているわけではない。ただ、組織に対する視座や解像度が低いと感じることがあり、将来マネジメントのキャリアを拒んでいるわけではないので、気になってこの本を読んでみた。 この本は、いちメンバーから上級のマネジメント職位に、順を追って話が進む。最初は自分自身が管理される側としてどのようにあるべきか、インターン</description>
+<category>本</category>
+<category>エンジニアリングマネジメント</category>
+</item>
+<item>
+<title>dotfiles管理の推しツール「yadm」の記事を寄稿しました (Software Design 連載最終回)</title>
+<link>https://memo.yammer.jp/posts/software-design-202307</link>
+<pubDate>Fri, 16 Jun 2023 01:45:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/software-design-202307</guid>
+<description>yadm の紹介記事を、本日発売のSoftware Design 2023年7月号に書きました。昨年12月から続けている連載「開発環境 探究の道」の最終回として、dotfilesの管理をより便利にするための方法を説明しています。 yadmについて / 記事の紹介 yadmは、シェルスクリプトで実装されたdotfiles管理ツールです。可搬性に優れ、dotfiles管理に必要な多数の機能と、gitに準じたコマンド操作体系をもっています。 私も普段からyadmを使っており、容易に導入できて、とても気に入っている1ものであり、ぜひみなさんに知っていただきたいと思って記事にしました。 記事の中では、y</description>
+<category>dotfiles</category>
+<category>yadm</category>
+<category>SoftwareDesign</category>
+</item>
+<item>
+<title>LlamaIndexを使って、gawkプログラミングの相棒を作る</title>
+<link>https://memo.yammer.jp/posts/gawk-rubber-duck</link>
+<pubDate>Tue, 13 Jun 2023 05:10:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/gawk-rubber-duck</guid>
+<description>LlamaIndexを使って手を動かしてみようということで、gawkプログラマーが使える、質問回答アプリケーションを作ってみた。 gawk-rubber-duck LlamaIndexとは LlamaIndexという、LLMアプリケーションのためのフレームワークがある。 Pythonで書かれたプログラムで、内部でOpenAI APIを実行するが、その前後の処理なども行ってくれるものである。 LlamaIndexがどのようなものかの説明は、次の記事がわかりやすい。 Llamaindex を用いた社内文書の ChatGPT QA ツールをチューニングする - GMOインターネットグループ グループ</description>
+<category>OpenAI</category>
+<category>llama-index</category>
+<category>embedding</category>
+<category>python</category>
+<category>flask</category>
+</item>
+<item>
+<title>awkで実装するUnion-Findと、ABC177 D</title>
+<link>https://memo.yammer.jp/posts/union-find</link>
+<pubDate>Mon, 05 Jun 2023 17:15:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/union-find</guid>
+<description>最近、業務時間後のオフィスで「競プロもくもくわいわい会」というのをやっている。そこで@purple_jwlさんよりUnion-Findを教えていただいたので、それをawkで実装して、ABC177のD問題を解いてみる。 Union-Findとは ここでは深く解説しないが、Union-Findについては、以下のサイトなどが参考になる。 Union-Find とは - アルゴ式 Union-Find はグループ分けを効率的に管理する、根付き木を用いたデータ構造です。 Union-Find を用いると、次の各クエリ(要求)を高速に処理できます。 N 個の要素 0,1,⋯,N−1 があり、初期状態ではそ</description>
+<category>競技プログラミング</category>
+<category>AtCoder</category>
+<category>ABC</category>
+<category>Union-Find</category>
+<category>awk</category>
+</item>
+<item>
+<title>OpenAI API Embeddingsを使った、関連記事の表示・検索</title>
+<link>https://memo.yammer.jp/posts/embedding-and-vector-similarity-matching</link>
+<pubDate>Sun, 04 Jun 2023 16:35:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/embedding-and-vector-similarity-matching</guid>
+<description>このブログに、お試しで2つの機能を追加してみた。 ひとつは、関連記事の表示。もう1つは、検索。 どちらもOpenAI API Embeddingsを使って、記事の文章をベクトル化し、Pineconeを使ってベクトルの類似度の近しいものを得ている。 以下は、これをどのようにして作ったか、どのようにして動いているのかを説明する。 構成 作ったものの全体像は以下の図のとおり。 以下のようなことをやっている。出てくる要素は、「要素技術とロール」の項で後述する。 STEP1: インデックス作成 すべての記事に対して、それぞれ、記事全文をOpenAI API Embediingsに渡してベクトル化し、それ</description>
+<category>OpenAI</category>
+<category>Pinecone</category>
+<category>検索</category>
+<category>Embedding</category>
+</item>
+<item>
+<title>rtxはじめました</title>
+<link>https://memo.yammer.jp/posts/rtx</link>
+<pubDate>Tue, 30 May 2023 17:00:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/rtx</guid>
+<description>ランタイム管理ツールasdfと互換性のある、rtxを使い始めた。 asdfのプラグインエコシステムに乗っかっていて、できることはasdfと基本的には同じのようだが、はやい1などのメリットがある(後述)。 切り替え 切り替えは以下のような手順で進めた。dotfilesの差分はこんな感じ yammerjp/dotfiles 6a6951c。 シェルの設定ファイル(.zshrcなど)に書かれているasdfの読み込みをやめる 私の場合はsheldonのプラグインにしていたので、~/.config/sheldon/plugins.tomlの記述をひとまずコメントアウトした。 rtxをいれる Apple </description>
+<category>開発環境</category>
+<category>shell</category>
+<category>rtx</category>
+<category>asdf</category>
+</item>
+<item>
+<title>エンジニアのためのドキュメントライティングを少し読む</title>
+<link>https://memo.yammer.jp/posts/docs-for-developers</link>
+<pubDate>Fri, 21 Apr 2023 00:55:17 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/docs-for-developers</guid>
+<description>前回に引き続き、全部読まない読書の感想とメモを書いていく。前回記事では1週間で読み切るといいつつ、気づけば2週間経っていることには一旦目を瞑りたい。 2冊目は「エンジニアのためのドキュメントライティング」。 ユーザの問題解決とプロダクトの成功を導く エンジニアのためのドキュメントライティング - Amazon 一週間読書の方法 本の感想に入る前に、どのように一週間読書をやっているかを紹介する。なお、ここで扱う書籍は技術書を中心としたもので、小説などは当てはまらない。 目次から読むところを選ぶ 全部読むことが目的ではなく、短い時間で読みたいところを読むのが目的である。そこで、最初から読み始めない</description>
+<category>本</category>
+<category>テクニカルライティング</category>
+<category>一週間読書</category>
+</item>
+<item>
+<title>レガシーコード改善ガイドを少し読む</title>
+<link>https://memo.yammer.jp/posts/working-effectively-with-legacy-code</link>
+<pubDate>Fri, 07 Apr 2023 00:41:21 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/working-effectively-with-legacy-code</guid>
+<description>1週間だけ読む取り組み 一冊の本を一週間で読めるだけ読むというのをやってみる。 買った本は積まれる一方だし、買いたい本のURLもPocketに溜まるばかり。そしていざ本を読み始めると、最初から頑張って全部読みがちである。そういった習慣を変えるために、1週間で読むのをやめて強制的に次の本に行くという方法を試してみる。 一週間やってみて、全然読みきれないと感じた。ゾーンに入ってバーンと読んでしまえば今回の本などは読み切れるのかもしれないが、そうやって気合いを入れるのではなくて、趣味のプログラミングや雑誌の原稿や仕事のキャッチアップなどをする日々に馴染む範囲で日常的にどんどん読んでいきたいので、この</description>
+<category>雑記</category>
+<category>ソフトウェア開発</category>
+<category>本</category>
+<category>一週間読書</category>
+</item>
+<item>
+<title>PHPerKaigi2023が最高だった</title>
+<link>https://memo.yammer.jp/posts/phperkaigi2023-day2</link>
+<pubDate>Sun, 26 Mar 2023 08:45:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/phperkaigi2023-day2</guid>
+<description>昨日のPHPerKaigi2023最終日、自分はLTをしたのですが、登壇以外にもたくさんの体験をして本当に濃い一日でした。 Day1のブログ: PHPerKaigi2023に参加しています - memo.yammer.jp LTで登壇 LTでペンライトを振るのも振られるのも楽しんだり。 登壇した内容は、PHP Conference 2022で出題したクイズの裏話として、当時の問題を振り返りながら、何を考えて作っていたか/作るならどうすべきかでした。 クイズのことを覚えていた方もたくさんいらっしゃったようで、嬉しい限りです。 https://twitter.com/yammerjp/status</description>
+<category>カンファレンス</category>
+<category>PHP</category>
+<category>PHPerKaigi</category>
+<category>日記</category>
+</item>
+<item>
+<title>PHPerKaigi2023に参加しています</title>
+<link>https://memo.yammer.jp/posts/phperkaigi2023-day1</link>
+<pubDate>Fri, 24 Mar 2023 14:23:11 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/phperkaigi2023-day1</guid>
+<description>昨日から始まっているPHPerKaigi、昨日はオンライン、今日は物理で参戦しています。 https://twitter.com/yammerjp/status/1639071029611089920?s=61&amp;t=i0aLgTjxKQNCLbbldPH3gA 初めてのPHPerKaigiですが、各発表やLTの独特の空気感がとても新鮮で、とても楽しんで参加できました。 PHPer界隈のTwitterでよく見るぞ、という方の話を聞けたり、なんなら物理的に話すなどできて、カンファレンスよいなあという気持ちに浸っています。 聞いたセッションはこちら。それぞれ細かい感想はフィードバックやまた別の記事で</description>
+<category>カンファレンス</category>
+<category>PHP</category>
+<category>PHPerKaigi</category>
+<category>日記</category>
+</item>
+<item>
+<title>ターミナルをカスタマイズする Software Design連載 開発環境 探求の道 第3回</title>
+<link>https://memo.yammer.jp/posts/software-design-202303</link>
+<pubDate>Fri, 17 Feb 2023 02:20:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/software-design-202303</guid>
+<description>本日2/17発売の月刊誌 Software Design 2023年3月号に、連載第3回目の記事を寄稿しました。 今回は「ターミナルをカスタマイズする」と題して、Alactirryとtmuxの基本的な使い方を紹介しています。UnixやLinuxの技術者がふれる時間の長いターミナルを使いこなすことで、快適に作業できることを目指す内容です。 ぜひ書店でお買い求めください。 </description>
+<category>SoftwareDesign</category>
+<category>dotfiles</category>
+<category>ターミナル</category>
+<category>Alacritty</category>
+<category>tmux</category>
+<category>開発環境</category>
+</item>
+<item>
+<title>Smart Keyboard Folio を買った(2023年2月)</title>
+<link>https://memo.yammer.jp/posts/smart-keyboard-folio</link>
+<pubDate>Wed, 01 Feb 2023 14:43:02 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/smart-keyboard-folio</guid>
+<description>(2024/09/22記)2023年2月ごろに、Smarty Keyboard Folioを買って、その感想を書いた記事が下書きに残っていたので公開する。最近はあんまり持ち歩いていないんだけど、一時期はだいたいiPadだけを持ち歩いていて、とても気に入って使っていた。dotfilesの連載記事の寄稿も、何割かはiPad + Smarty Keyboard Folioを使ってsshしてVimで書いていたはず。結構快適だった。 iPad Air 4の機動力を上げたくて、Smart Keyboard Folioを買った。 購入の動機 コンパクトな自作キーボードをiPadと一緒に持ち歩いて作業するとい</description>
+<category>iPad</category>
+<category>keyboard</category>
+<category>ガジェット</category>
+</item>
+<item>
+<title>シェルをカスタマイズする Software Design連載 開発環境 探求の道 第2回</title>
+<link>https://memo.yammer.jp/posts/software-design-202302</link>
+<pubDate>Wed, 18 Jan 2023 13:20:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/software-design-202302</guid>
+<description>本日発売の月刊誌Software Design 2023年2月号に、連載記事の第2回を寄稿しました。 開発環境 探求の道 連載「開発環境 探求の道」は、UnixやLinux上で、自分好みの開発環境をつくり、探求する道を紹介する連載です。 連載の中では、テキストエディタやシェルやターミナルに関するツールを紹介し、インストールからカスタマイズまで、手元で試せるような記事となっています。 シェルをカスタマイズする 第2回「シェルをカスタマイズする」では、bashとzshの設定ファイルを編集するのが主な内容となっています。 関連してgitのエイリアス機能やfzfにも触れます。 シェルの設定ファイルを編</description>
+<category>SoftwareDesign</category>
+<category>dotfiles</category>
+<category>Shell</category>
+<category>bash</category>
+<category>zsh</category>
+<category>開発環境</category>
+</item>
+<item>
+<title>Ubuntu DesktopにAlacrittyをインストールする</title>
+<link>https://memo.yammer.jp/posts/how-to-install-alacritty</link>
+<pubDate>Sun, 15 Jan 2023 16:54:41 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/how-to-install-alacritty</guid>
+<description>Alacrittyは、公式ではLinux向けのバイナリが配布されていないので、どこかから入手するか、自分でビルドする必要があります。 以下では、Ubuntu Desktop 22.04上でビルドし、インストールする方法を紹介します。なお、この記事の内容は2023/01/16時点のものです。また、公式に提供されているインストール用ドキュメントを参考にしています。 簡易的に利用するとき ビルドされた実行ファイルをPATHの通った場所に配置するのみで良い場合は、こちらの方法を実行します。デスクトップのランチャー上にアイコンを表示したり、マニュアルをインストールした場合は、後述の「本格的に利用する」を</description>
+<category>Ubuntu</category>
+<category>Linux</category>
+<category>Alacritty</category>
+</item>
+<item>
+<title>連載「最強の開発環境 探求の道」をSoftware Designではじめます</title>
+<link>https://memo.yammer.jp/posts/software-design-202301</link>
+<pubDate>Fri, 16 Dec 2022 00:50:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/software-design-202301</guid>
+<description>本日、12月16日(金)発売のSoftware Design 2023年1月号より、表題のとおり「最強の開発環境 探求の道」という連載をはじめます。 全国の書店やネットで購入いただけますので、よろしければお手にとって読んでいただけると嬉しいです。 連載の内容とねらい 連載では、LinuxやUNIXの環境における、シェル、ターミナル、エディタ、dotfilesなどの使い方やカスタマイズを扱います。 これらに興味がある方におすすめです。 また、コマンドラインの環境に詳しくない/なんとなく使っているが、これから使いこなせるようになりたい方にも読んでいただきたい内容となっています。 記事の中では実際に</description>
+<category>SoftwareDesign</category>
+<category>dotfiles</category>
+<category>Shell</category>
+<category>bash</category>
+<category>zsh</category>
+<category>開発環境</category>
+</item>
+<item>
+<title>日報 インターネット出張公開版</title>
+<link>https://memo.yammer.jp/posts/20221214</link>
+<pubDate>Thu, 15 Dec 2022 01:00:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/20221214</guid>
+<description>GMOペパボ EC Advent Calendar 2022の14日目は、「日報 インターネット出張公開版」です。私やんまーが、12/14の日報を書きます。 13日目はよぴさんの「半分営業半分コンサルみたいな職種からEC業界に転職して感じたこと　〜よぴ的営業マインド語りも添えて〜」でした。 記事の中に出てきた「お客さんの理想とサービスでできることの限界の中間地点を一緒に模索する」という表現が印象的で、営業という仕事に対するよぴさんの熱さを感じました！ さて、14日目アドベントカレンダーは、日報についてです。 私の勤めるGMOペパボ社内では、書きたい人々が思い思いに日報を書く文化があります。 社</description>
+<category>日記</category>
+<category>ペパボ</category>
+<category>Webサービス開発</category>
+</item>
+<item>
+<title>jpro: JavaScriptで書くJSON processor</title>
+<link>https://memo.yammer.jp/posts/jpro</link>
+<pubDate>Fri, 02 Dec 2022 00:18:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/jpro</guid>
+<description>この記事は、🎅GMOペパボエンジニア Advent Calendar 2022の2日目のものです。 みなさんは、JSON processorを使っていますか？ええ、jqのようなツールのことです。世は大JSON時代、値を抽出したり、変換したりする機会も多いことでしょう。 ところで、jqの抽出クエリやコマンドラインオプション、さらっと書けますか？私はあんまり得意じゃないです。そこで、JavaScriptで書けるJSON processor「jpro」 をつくりました。 使ってみる 実際に使ってみましょう。Node.jsとnpmが使える環境ならば、事前のインストールなしに、「npx jpro」で実</description>
+<category>JSON</category>
+<category>JavaScript</category>
+<category>CLI</category>
+<category>Shell</category>
+</item>
+<item>
+<title>Asahi Linuxを使う</title>
+<link>https://memo.yammer.jp/posts/asahi-linux</link>
+<pubDate>Mon, 14 Nov 2022 16:55:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/asahi-linux</guid>
+<description>Apple Silicon搭載のPC上でLinuxをブートするという魅力的なプロジェクト、Asahi Linuxを手元のMacBook (2020, M1, 256GB SSD, 16GB Memory) で動かしてみた。 MacBookはハードウェアとしてすごく良く出来ていると思うが、ときどきLinux Desktopだったらもっといいなと感じることもあり、Asahi Linuxのことが気になっていた。 現在リリースされているのはα版。 一部のハードウェアが動かなかったりするものの、自己責任の範囲で、手軽にデュアルブート環境を構築できる。 感想 FirefoxとAlacrittyが動くことが</description>
+<category>Linux</category>
+<category>dotfiles</category>
+<category>MacBook</category>
+<category>macOS</category>
+<category>AppleSilicon</category>
+<category>Setup</category>
+</item>
+<item>
+<title>Fitbit Charge 5を買った</title>
+<link>https://memo.yammer.jp/posts/fitbit-charge-5</link>
+<pubDate>Mon, 14 Nov 2022 16:54:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/fitbit-charge-5</guid>
+<description>スマホをFelica非搭載のものに乗り換えるために、Suicaを使える機器が欲しくてFitbit Charge 5を買った。 決済ができれば十分という条件で、なるべく安いスマートウォッチ(スマートバンド)を探して、この機種に帰着した。 買ってから2週間くらい経ったので感想を書いてみる。 🤔決済 まず、Suicaについて。 腕につける端末でSuicaを使えるのは体験がよい。 改札だったり、お店だったりで支払うとき、とても楽だし、スムーズでいい感じ。 ただし、気になるポイントもいくつかある。 一つは、オートチャージできないのが残念 (これは事前にわかっていた)。もともとオートチャージを使っていな</description>
+<category>ガジェット</category>
+<category>Suica</category>
+</item>
+<item>
+<title>Python実践機械学習システム100本ノックの準備</title>
+<link>https://memo.yammer.jp/posts/python-ml-100-knocks-setup</link>
+<pubDate>Mon, 14 Nov 2022 16:53:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/python-ml-100-knocks-setup</guid>
+<description>Python実践機械学習システム100本ノックを手元で動かしながら読んでみている。 Docker環境でJupyter Notebookを動かすサンプルコードがダウンロードできるが、そのままではビルドに失敗するので、requirements.txtにあるバージョンを書き換えるなどして動くように整えた。 jupyter==1.0.0 numpy==1.21.0 pandas==1.5.1 openpyxl==3.0.4 scikit-learn==1.1.3 matplotlib==3.3.2 japanize-matplotlib==1.1.2 seaborn==0.11.0 ipywidget</description>
+<category>Python</category>
+<category>機械学習</category>
+<category>本</category>
+</item>
+<item>
+<title>印象に残った仕事の話をきく話</title>
+<link>https://memo.yammer.jp/posts/talking-about-your-own-impressive-work</link>
+<pubDate>Mon, 14 Nov 2022 16:52:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/talking-about-your-own-impressive-work</guid>
+<description>とある飲み会で、下のツイートにある質問の「(今まで携わった|最近やった)仕事の中で、印象に残ったもの」というテーマの話を、とある方が振ってくれて、聞いたり話したりしていた。 https://twitter.com/n_book_/status/1591101355162497024 この質問がめちゃくちゃよかった。 周りの人がどんな仕事をしているか、というのを把握する機会はあれど、それをどういう印象で受け止めているのかや、仕事の中でのおもしろポイント、その人が価値に感じていることを知れる機会というのは案外少ないかもしれない。 同じ仕事の内容でも人によって捉え方が違うだろうし、仕事の内容を知るだ</description>
+<category>雑記</category>
+</item>
+<item>
+<title>HerokuからCloud Run + Litestreamへ移行した</title>
+<link>https://memo.yammer.jp/posts/cloud-run-litestream</link>
+<pubDate>Wed, 12 Oct 2022 01:15:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/cloud-run-litestream</guid>
+<description>はじめに Herokuの無料枠が終了することにあわせて、個人で動かしているRailsアプリケーションを他の場所へ移行する。 いままで無料で使わせていただいたこと感謝しつつも、月千円ほど払うほどのアプリケーションでもないので、ほぼ無料で移行できそうな場所を探すことにした。1 コンテナをホスティングできるGoogle Cloud Runは従量課金制だが、個人で使う分にはほぼ無料なので、これを選ぶことにする。 Cloud Runで使うRDBは一般にはGoogle Cloud SQLが推奨されていそうだが、ここでは安さのためにSQLite3 + Litestream + Google Cloud St</description>
+<category>CloudRun</category>
+<category>heroku</category>
+<category>docker</category>
+<category>SQLite</category>
+<category>Litestream</category>
+<category>雑記</category>
+</item>
+<item>
+<title>CloudFront Functionsで指定したURLにリダイレクトさせる</title>
+<link>https://memo.yammer.jp/posts/cloudfront-functions-redirect</link>
+<pubDate>Sat, 08 Oct 2022 01:25:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/cloudfront-functions-redirect</guid>
+<description>CloudFront Functionsというサービスがあり、軽量のJavaScriptコードをデプロイしてCloudFrontディストリビューションに紐づけることができるらしい。 他のサーバレスの実行環境との比較は以下の記事が参考になる。 CloudFront Functions の導入 – 任意の規模において低レイテンシーでコードをエッジで実行 | Amazon Web Services ブログ エッジで爆速コード実行！CloudFront Functionsがリリースされました！ | DevelopersIO ちょうどdotfilesリポジトリのセットアップ用スクリプトを取得できるエンド</description>
+<category>AWS</category>
+<category>CloudFront</category>
+<category>dotfiles</category>
+</item>
+<item>
+<title>Alacrittyを使っていく</title>
+<link>https://memo.yammer.jp/posts/alacritty</link>
+<pubDate>Tue, 06 Sep 2022 15:22:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/alacritty</guid>
+<description>Alacritty とは Alacrittyはクロスプラットフォームなターミナルエミュレーター。 yamlで設定を記述できること、クロスプラットフォームであること、動作が早いことが特徴である。 IMEのインラインサポート https://twitter.com/Ket0104/status/1566430771702665216 AlacrittyにIMEで入力した時に未確定な文字列を表示する対応が入ったらしい。 対応されたのが嬉しかったので、早速ビルド1して手元のMacBook Airで使うことにした。 実は以前、この変換前文字列の表示がサポートされていないことを理由に使うのをやめてしまって</description>
+<category>shell</category>
+<category>ターミナル</category>
+<category>開発環境</category>
+<category>alacritty</category>
+<category>dotfiles</category>
+</item>
+<item>
+<title>プログラマのための文字コード技術入門を読んだ(2022年9月)</title>
+<link>https://memo.yammer.jp/posts/introduction-of-character-code-for-programmer</link>
+<pubDate>Thu, 01 Sep 2022 14:42:09 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/introduction-of-character-code-for-programmer</guid>
+<description>(2024/09/22記) 2022年の9月に読んだ本の記事が、下書きとして残っていたままだったので公開します。 業務で文字コードに触れる機会があったのですがそもそも文字コードというものに詳しくないので「改定新版 プログラマのための文字コード技術入門」という本を読みました。 本を読む前は文字コードにはいくつかの規格があることを知っている程度の理解であったので、なによりもまず勉強になりました。また後述するいくつかの概念は背景とともに説明があって知っておかないと規格を理解しづらいので、本を買ってよかったという気持ちになりました。 それだけでなく、この本を結構読むのが楽しく、平日の数日間で勢いで読み</description>
+<category>日記</category>
+<category>文字コード</category>
+<category>技術書</category>
+<category>本</category>
+</item>
+<item>
+<title>Clean Architectureを読んだ</title>
+<link>https://memo.yammer.jp/posts/clean-architecture</link>
+<pubDate>Tue, 23 Aug 2022 14:30:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/clean-architecture</guid>
+<description>書籍「Clean Architecture」を読みました。 副題は「達人に学ぶソフトウェアの構造と設計」となっており、ソフトウェアの構造や設計について見識をあまり持たない私は、この副題のとおり達人に学ぼうという気持ちで読みました。 本書で学べたこと (印象に残ったこと) 本書を読むことで、&quot;依存の方向&quot;と&quot;境界の決定&quot;に関する考え方を学びました。 これらをはじめとする、本書で学んだ考え方を以下に紹介します。 なおこの記事では、書籍のタイトルや内容に反して、クリーンアーキテクチャとは何かやクリーンアーキテクチャの図に関する話はほとんど出てきません。それを構成する考え方に重きをおいて紹介します。 </description>
+<category>本</category>
+<category>ソフトウェア開発</category>
+<category>アーキテクチャ</category>
+</item>
+<item>
+<title>WiresharkでHTTP通信の内容を確認する</title>
+<link>https://memo.yammer.jp/posts/wireshark</link>
+<pubDate>Tue, 23 Aug 2022 13:32:06 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/wireshark</guid>
+<description>Wiresharkはネットワークプロトコルアナライザとよばれるソフトウェアで、通信の内容を確認することができる。 以下では簡単な使い方として、curlコマンドを使って手元のPCからインターネット上のサーバへHTTP通信した場合のパケットの内容を、tcpdumpでキャプチャし、最後にWiresharkのGUI画面上で確認する手順を示す。 なお、実行したPCは macOS 11.6 BigSur (Apple M1) だが、他の環境でも同様の手順で実行できると思われる。 パケットのキャプチャ まずはじめに、キャプチャするパケットを絞り込めるよう、事前に通信先のIPアドレスを調べておく。 次に、tc</description>
+<category>ネットワーク</category>
+<category>Wireshark</category>
+<category>HTTP</category>
+<category>TCP</category>
+<category>tcpdump</category>
+</item>
+<item>
+<title>abbrはじめました。</title>
+<link>https://memo.yammer.jp/posts/zsh-abbr</link>
+<pubDate>Thu, 04 Aug 2022 01:26:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/zsh-abbr</guid>
+<description>同僚に教えてもらった zsh-abbrを導入しました。 zsh-abbrとは abbr は abbreviation の略で、おそらくもともとfish shellに組み込まれた機能とコマンド名を指しているようです。fishのabbrコマンドは、短いコマンド名を展開するalias コマンドに似た働きをするものです。 aliasコマンドとの違いは以下のようなところにあります 実行前にプロンプト上で短いコマンド名を展開してから実行される historyには展開された結果が記録に残る 短いコマンド名を入力したあとスペースキーを入力しても、プロンプト上で展開される zsh-abbrはfishのabbrコ</description>
+<category>dotfiles</category>
+<category>zsh</category>
+</item>
+<item>
+<title>Software Designへ寄稿しました (2022年6月号 第1特集 Appendix dotfilesのススメ)</title>
+<link>https://memo.yammer.jp/posts/software-design-202206</link>
+<pubDate>Wed, 18 May 2022 02:00:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/software-design-202206</guid>
+<description>技術評論社のSoftware Design 2022年6月号 第1特集 Appendix へ「dotfilesのススメ」という記事を寄稿させていただきました。 本日5/18発売で、全国の書店やWebでお買い求めいただけます。 「dotfilesのススメ」は、UnixやLinuxなどでツールの設定を記述するファイルであるdotfilesの管理構成をつくるハンズオン記事になっています。 GitHub上にdotfilesリポジトリをつくることを通してdotfilesに入門できます。 .bashrcや.zshrcや.gitconfigに何書いてるかよくわからない方、dotfilesをあまり知らない方、</description>
+<category>SoftwareDesign</category>
+<category>dotfiles</category>
+<category>Shell</category>
+<category>bash</category>
+</item>
+<item>
+<title>cocot46を組み立てた(Build Log)</title>
+<link>https://memo.yammer.jp/posts/cocot46</link>
+<pubDate>Mon, 16 May 2022 17:30:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/cocot46</guid>
+<description>トラックボールとロータリーエンコーダを搭載したキーボード、cocot46を組み立てました。 40%でColumn staggeredな配列が魅力的なキーボードです。 経緯 購入のきっかけはcocot46の作者の@aki27kbdさんが再販予定をツイートされているのを見かけたことでした。 https://twitter.com/aki27kbd/status/1515311831375843335 トラックボール一体型のキーボードが気になっていたものの、1Uのトラックボールユニットは終売となっていて手に入れるのが難しそうだと思っていた時だったので、ツイートをみかけて嬉しくなりました。 このあとは</description>
+<category>自作キーボード</category>
+</item>
+<item>
+<title>歳をとった</title>
+<link>https://memo.yammer.jp/posts/24-years-old</link>
+<pubDate>Mon, 16 May 2022 17:25:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/24-years-old</guid>
+<description>先月誕生日を迎えて歳をとりました。 干芋で祝ってくださった同期の方々、ありがとうございました！ 送っていただいてから少し時間が経ってしまっているものもありますが、感謝をこめて紹介します。 ちいさめの水筒。社の食堂でのみものを入れるのに重宝します。蓋がしっかりついているので変にこぼしたりする不安もなくてとてもよいです。 レンジでパスタ。4人前まで一気に茹でられる大きいもので、パスタを茹でる時に鍋を使わなくていいのがよいです！パスタは簡単に素早くつくれるので、リモートワークのお昼になりがちです。 2個あるので8人までいけます！(そんなには茹でない) 人に頼む技術。こういうことができるようになると、</description>
+<category>日記</category>
+</item>
+<item>
+<title>秘匿情報を含む.bashrcを分割する</title>
+<link>https://memo.yammer.jp/posts/devide-bashrc</link>
+<pubDate>Sun, 10 Apr 2022 19:52:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/devide-bashrc</guid>
+<description>dotfiles(ドットで始まる設定ファイル)の管理のために、Gitリポジトリを作成しGitHubにdotfilesという名前で公開するときに注意すべきこととして秘匿情報の扱いが挙げられます。 秘匿情報が .bashrc に含まれているとき、それをそのままGit管理してGitHubに公開することには問題があります。 ここでいう秘匿情報とはGitHubのパーソナルアクセストークンやAWSのアクセス用シークレットキーなどの認証時のパスワードの代替となるようなものをはじめとする、他の人に見せてはいけない情報のことです。 こういった内容を含む.bashrcは分割し、秘匿情報の含まない部分のみGit管理</description>
+<category>dotfiles</category>
+<category>bash</category>
+</item>
+<item>
+<title>神奈川県民から埼玉県人へ</title>
+<link>https://memo.yammer.jp/posts/moving-to-saitama</link>
+<pubDate>Thu, 31 Mar 2022 14:13:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/moving-to-saitama</guid>
+<description>2年ほど実家に戻っていましたが改めて引っ越し、神奈川県民から埼玉県人になりました。 ちなみに神奈川では県&quot;民&quot;と言うけれど埼玉では県&quot;人&quot;と言う気がします。なんででしょうね？ 会社への通勤時間はおよそ1時間といったところで、引越し前と比べたらだいぶ近くなったので時々通うのにちょうどよい距離かなと思っています。 🎉 単なる引っ越しにお祝いを頂いてしまいました。ありがとうございました🙏この場を借りて感謝をお伝えします。 タオル。タオル研究所というところのものらしく同期の欲しい物リストで見つけて気になっていたもの。結構ふわふわで良さげです。最近はバスタオルをやめて家のタオルをすべてフェイスタオル</description>
+<category>日記</category>
+</item>
+<item>
+<title>Web Components (ShadowDOM) でもページ内リンクをしたい</title>
+<link>https://memo.yammer.jp/posts/shadow-dom-internal-link</link>
+<pubDate>Thu, 31 Mar 2022 04:01:55 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/shadow-dom-internal-link</guid>
+<description>HTMLではページ内リンクができる。 id属性ないしname属性で指定した文字列を # 1 の後ろにつけてリンク先のパスとして指定すると、当該の要素が画面上部に来るようにスクロールする。 &lt;p id=&quot;content&quot;&gt;   hello! &lt;/p&gt; &lt;p style=&quot;height: 2000px; background-color: red;&quot;&gt;   blank &lt;/p&gt; &lt;a href=&quot;#content&quot;&gt;   「hello!」へ飛ぶ &lt;/a&gt; このページ内リンクをShadowDOM内の要素からShadowDOM内にむけて行いたいとき、そのままではできない。 同じような動きを実現する方法</description>
+<category>HTML</category>
+<category>WebComponents</category>
+</item>
+<item>
+<title>リバースSSHトンネルでVPSを介していつでも自宅のPCに繋ぐ</title>
+<link>https://memo.yammer.jp/posts/ssh-to-home</link>
+<pubDate>Thu, 24 Feb 2022 13:15:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/ssh-to-home</guid>
+<description>外出先で手元のラップトップ (MacBook Air) からポートを公開していない自宅のサーバ1 (Ubuntu) へsshしたいときの記録。 数ヶ月くらい前から安価なVPSを借りて、そこを中継地点として外出先からいつでも自宅のサーバにsshできるようにしている。 ひとまず繋ぐ 以下の接続ができるようにしておく。 ラップトップの公開鍵を自宅サーバとVPSに、自宅サーバの公開鍵をVPSに登録 (~/.ssh/authorized_keys に追記) して、sshできることを確認する。 自宅のラップトップ -&gt; 自宅のサーバ 自宅のラップトップ -&gt; VPS 自宅のサーバ -&gt; VPS ~/.ss</description>
+<category>VPS</category>
+<category>SSH</category>
+<category>自宅サーバ</category>
+</item>
+<item>
+<title>Ruby製のCLIを作ってgemにしてみる</title>
+<link>https://memo.yammer.jp/posts/file_charset_validator</link>
+<pubDate>Wed, 09 Feb 2022 13:20:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/file_charset_validator</guid>
+<description>会社に入ってからRubyを触る機会がちょこちょこあるが、Rubyのことをあんまりわかっていないという感覚があるので機会をみつけてRubyで何かをつくるというのをやっていきたい。 今日はその中でファイルの文字コードを確認する処理をCLIとして実装してみた話。 作ったもの 実装するものは比較的シンプルで、渡されたファイルが指定された文字コードで解釈できるか否かを判定する。1 Rubyのワンライナーで書くこともできる規模感のものだ。 $ find path/to/dir -type f | ruby -e &apos;STDIN.reject{|path| IO.binread(path.chomp).for</description>
+<category>ruby</category>
+<category>gem</category>
+<category>文字コード</category>
+<category>CLI</category>
+</item>
+<item>
+<title>graspad - iPad用の握れるキーボード</title>
+<link>https://memo.yammer.jp/posts/graspad</link>
+<pubDate>Wed, 26 Jan 2022 14:41:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/graspad</guid>
+<description>昨年秋1に3Dプリンタを買って作りたかったのがiPad用のキーボード。 iPadケースの背面にキーボードがくっついていて、iPadを横から握ったまま物理キーボードを打てる。 左右の2パーツから成っていて、iPadの左右から差し込み、2つをつなぐ配線とiPadのType-Cをつなぐことで使える。 キー数は42キーで、3x6のキーが背面の左右に、親指で押す用の側面のキーが3つずつ左右にある。 本記事では、この少し変わったキーボードの製作過程を記す。 設計 着想 iPadに物理キーボードを使いたいと思っていたのだが、普通のキーボードを繋ぐだけでは安定した机の上でしか使えないし、それならMacbook</description>
+<category>自作キーボード</category>
+<category>3Dプリンタ</category>
+<category>iPad</category>
+</item>
+<item>
+<title>2021年に3Dプリンタに入門した - Anycubic Mega S</title>
+<link>https://memo.yammer.jp/posts/anycubic-mega-s</link>
+<pubDate>Wed, 26 Jan 2022 14:40:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/anycubic-mega-s</guid>
+<description>昨年の秋に3Dプリンタを買ったので、その経緯と3Dプリンタに入門して学んだことを記します。 https://twitter.com/yammerjp/status/1439779993307942916 作りたいものがあって、3Dプリンタの印刷サービスを検討していたが高すぎたのが事の発端です。 作りたいものの寸法が大きかったため依頼すると2万円くらいするとわかり、更に安価な3Dプリンタ本体が2-3万円くらいで入手できることがわかり、これは試してみてもいいのではという気持ちになりました。1 3Dプリンタを選ぶ 家庭用3Dプリンタには光造形方式と熱積層方式があり、今回は熱積層方式のものを購入しまし</description>
+<category>3Dプリンタ</category>
+</item>
+<item>
+<title>情報処理技術者試験にはミックスサンド (DBスペシャリスト試験を受けました)</title>
+<link>https://memo.yammer.jp/posts/database-specialist-examination</link>
+<pubDate>Sun, 19 Dec 2021 08:13:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/database-specialist-examination</guid>
+<description>2021/10/10に令和3年度秋期データベーススペシャリスト試験を受験しました。 情報処理技術者試験は通算4回目、高度情報は2回目 (春にネットワークスペシャリスト落ち)、データベーススペシャリストは今回が初でした。 合格したので、この度晴れてみくりさんと結婚できる権利を得ました。 #逃げ恥 リストラ候補の津崎平匡さんの資格欄「応用情報技術者、データベーススペシャリスト、基本情報技術者」 - togetter 以下、対策したことを記録します。 参考書 いままではインプレスの過去問題集を毎度買っていたのですが、今回は翔泳社の「うかる！データベーススペシャリスト」を購入しました。 結果からいうと</description>
+<category>日記</category>
+<category>データベース</category>
+<category>情報処理技術者試験</category>
+</item>
+<item>
+<title>ECテックカンファレンスの前と後</title>
+<link>https://memo.yammer.jp/posts/newcomer-in-development-team-supplement</link>
+<pubDate>Thu, 16 Dec 2021 01:43:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/newcomer-in-development-team-supplement</guid>
+<description>前の記事に書いたとおり先日ペパボECテックカンファレンスに登壇しました。 今日はテックカンファレンスの内容ではなく発表前後に考えていたことと気持ちをいくつか記します。 「新卒」という言葉を使わない 発表に際してひとつ気をつけていたことに「新卒」という言葉をあまり使わないことがあります。 テックカンファレンスの目的や狙いが記載された社内向けのissueを登壇が決まった頃に読んだ記憶があります。 これと今までやってきたこととを照らし合わせ自らの発表を聞いて欲しい人をジュニア層 1 のエンジニアと定めていました。 私は新卒で入社したのでその体験をこれから新卒で入社される方や興味のある方に向けて話す行</description>
+<category>日記</category>
+</item>
+<item>
+<title>開発チームの新しいエンジニアメンバーがうまくやるには</title>
+<link>https://memo.yammer.jp/posts/newcomer-in-development-team</link>
+<pubDate>Mon, 13 Dec 2021 15:03:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/newcomer-in-development-team</guid>
+<description>こんにちは、2021/12/09に開催されたペパボECテックカンファレンスにて、記事名と同じタイトルで発表をしました。 当日のスライドはSpeaker Deckで公開しています。 今日はその発表の内容を記事として紹介します。 開発チームの新しいエンジニアメンバーがうまくやるには 私は4月に新卒でWebアプリケーションエンジニアとして入社し、今は10人弱のチームに配属となってから3ヶ月ほどが経ちました。 会社のGitHub Enterprise Server上では、配属からこれまでで約60のPull Requestを開き、マージし、デプロイされました。 Pull Requestの数と成果は必ずし</description>
+<category>オンボーディング</category>
+<category>チームワーク</category>
+<category>Webサービス開発</category>
+<category>ドメイン知識</category>
+</item>
+<item>
+<title>複数の環境に適応する、階層構造のdotfiles</title>
+<link>https://memo.yammer.jp/posts/layered-dotfiles</link>
+<pubDate>Thu, 02 Dec 2021 05:00:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/layered-dotfiles</guid>
+<description>こんにちは、やんまーです。 もう師走、早いですね... この記事はGMOペパボアドベントカレンダーの2日目のものです。 昨日はdaikiさんの「社会人エンジニアな僕が研究を続ける理由」でした。 記事の中の研究を通して自己表現をされているという表現が印象的でした。仕事に精を出しながらも、仕事とは異なるところで時間をとって継続的に物事に取り組むということに尊敬の念を持ちます。 私も見習いたいものです。 今日は変わって実践的な内容です。私の開発環境 dotfilesを紹介します。 dotfiles とは Unix / Linux の環境において、~/.bashrc、 ~/.vimrc、 ~/.git</description>
+<category>dotfiles</category>
+<category>bash</category>
+</item>
+<item>
+<title>master push をしないために</title>
+<link>https://memo.yammer.jp/posts/restrict-git-master-push</link>
+<pubDate>Tue, 09 Nov 2021 01:31:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/restrict-git-master-push</guid>
+<description>昨日、master push をしてしまいましたので懺悔します。 私の会社の開発は、GitHub Enterprise Server上のPull Requestベースで行われており、開発した機能をPull Reqeustにしてレビューを貰ってからマージすることとなっています。 しかしながら昨日の私は、ローカルで作ったcommitをそのままリモートリポジトリのmasterブランチにpushしてしまいました。 masterにマージするだけでは本番にはデプロイされませんが、複数のチームが開発しているリポジトリであり、各方面に迷惑をおかけしました。 私がやらかした後、master pushを防ぐ術を教</description>
+<category>git</category>
+<category>GitHub</category>
+<category>Shell</category>
+</item>
+<item>
+<title>ユニコーン企業のひみつを読んだ</title>
+<link>https://memo.yammer.jp/posts/competing-with-unicorns</link>
+<pubDate>Wed, 18 Aug 2021 13:28:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/competing-with-unicorns</guid>
+<description>8月も折り返し、いかがお過ごしでしょうか？8月は夏ですね。夏といえば夏休み、夏休みといえば宿題、読書感想文1。ということで読んだ本の感想を綴ります。読書メモが下書きに溜まってしまっているので消化する試みです。 書籍「ユニコーン企業のひみつ」を読みました。 本書はSpotify をはじめとするテック企業が、スタートアップのような勢いのある価値提供をどうやってスケールさせているかを説明する、ソフトウェア開発企業の組織づくりについて説明されたものです。 今年の4月に日本語訳版が発売され、私の所属する会社の社内で広く読まれているようです。 本書籍内でも言及されるSpotifyモデルと呼ばれる組織体制を</description>
+<category>本</category>
+</item>
+<item>
+<title>アプリケーションをつくる英語を読んだ</title>
+<link>https://memo.yammer.jp/posts/english-for-apps</link>
+<pubDate>Wed, 14 Jul 2021 14:54:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/english-for-apps</guid>
+<description>会社の先輩に教えていただいた「アプリケーションをつくる英語」を読んだ。 この本はアプリケーション開発においてUIに表示される言葉を中心に、それらを英語でどう表現すればよいかのヒントが書かれている本である。 三部構成で前半の二部は辞書的に単語や表現が紹介され、最後の一部が読み物になっている。 前半の辞書的な部分は、プログラムを書く中で命名に迷ったり、エラーメッセージを書いたりするときに役立ちそうだった。 紹介されている単語や言い回しは比較的厳選されている。 自分の表したいニュアンスの言葉が確実にあるわけではないと思うが、ソフトウェアやUIに関係する言い回しに絞って書かれている。 迷ったときには和</description>
+<category>本</category>
+<category>プログラミング</category>
+</item>
+<item>
+<title>ソフトウェアは幽霊などではない。👻</title>
+<link>https://memo.yammer.jp/posts/software-is-not-ghost</link>
+<pubDate>Wed, 07 Jul 2021 00:15:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/software-is-not-ghost</guid>
+<description>ソフトウェアを開発していると、ときどき幽霊に出会うことがある。正確にはまるで幽霊のしわざかに思えるような謎の挙動に悩まされるときがある。 実際には幽霊などおらずコンピュータは書かれたとおりに動作しているだけで、さらに大抵は自分がプロトコルや仕様を把握していないか誤ったプログラムを書いているのだが。 https://twitter.com/yammerjp/status/1412326675157688326 複数の要因が重なっていたりして挙動の説明がすぐにはつかないとき、原因を追求するためにだいたい次のようなことをする。 原因を考える (現状を整理する、アタリをつける) 挙動を確認するためにプ</description>
+<category>プログラミング</category>
+</item>
+<item>
+<title>初出社、ワクチン接種</title>
+<link>https://memo.yammer.jp/posts/20210624</link>
+<pubDate>Thu, 24 Jun 2021 14:19:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/20210624</guid>
+<description>日記です。雑多なトピックが以下に続きます。 4月に入社した会社に、今日はじめて出社しました。 新型コロナウィルスのワクチン接種が主な理由で、くわえて同期をはじめとして何人かに出会うなどしました。 今日の主なイベントであるワクチン接種ですが、大変スムーズで拍子抜けしました。 受付をして打つのは一瞬、15分経過観察しておわり。 職域接種のためいわゆるモデルナ筋注といわれるものを打って今は9時間ほど、腕が重いですね。 社の方々と会うのはちょっと緊張。 人との接触は抑える必要もあるのであまりたくさん会話できるわけでもなく、会えていない人もたくさんいて、それらは未来の機会に託しました。 新型コロナウィル</description>
+<category>日記</category>
+</item>
+<item>
+<title>curldocというWeb APIの仕様書形式 兼 モックサーバを作っている</title>
+<link>https://memo.yammer.jp/posts/curldoc-development</link>
+<pubDate>Mon, 21 Jun 2021 00:40:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/curldoc-development</guid>
+<description>こんにちは。最近は会社の技術研修を粛々と受けています。 6月に入ってからはRailsチュートリアルを進めていて、ちょうど先週に終わりました。Railsは大変多機能であるとヒシヒシ感じています。 Ruby自体も今まで書いたことがなかったので、私の経験のある言語とは結構毛色が違っていて面白い気分です。 残業も特になく給料をいただきながら勉強している謎の身分ですが、権利をありがたく享受してスーパーエンジニアに成長したいと思います。 そんなこんなとは別で、趣味で最近作り始めたのがcurldocというツールです。 curldoc curldocのcurlはコマンドのcurlから来ています。 平たく言うと</description>
+<category>JavaScript</category>
+<category>TypeScript</category>
+<category>curl</category>
+<category>HTTP</category>
+</item>
+<item>
+<title>リモートワークの馴染む、4月の新卒研修 (GMOペパボ)</title>
+<link>https://memo.yammer.jp/posts/pepabo-11th-training</link>
+<pubDate>Tue, 11 May 2021 13:38:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/pepabo-11th-training</guid>
+<description>2021年4月1日にGMOペパボ株式会社 (以下ペパボ) に入社しました。 これからソフトウェアエンジニアとして成長し活躍することを夢見てやる気に満ち溢れています。 その第一歩として4月9日から4月30日までの約3週間、全職種で取り組むペパボの新卒研修に参加したので感想を記します1。 ええ、それはその、大変楽しい研修期間でした。 リモートワークでうまくやる ペパボは2020年6月にリモートワークを基本とした働き方に移行し、今年の研修は全てオンラインで実施されました。 私自身、入社後にまだ一度も出社していません。 リモートワークの環境で新卒入社することに少なからず不安はありました。 大学のときは</description>
+<category>ペパボ</category>
+<category>新卒研修</category>
+<category>リモートワーク</category>
+<category>日記</category>
+</item>
+<item>
+<title>ブログをNext.jsに置き換える</title>
+<link>https://memo.yammer.jp/posts/blog-with-nextjs</link>
+<pubDate>Fri, 07 May 2021 13:07:57 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/blog-with-nextjs</guid>
+<description>ゴールデンウィーク明けの平日、いかがお過ごしだろうか。 私の場合は新卒研修のブログ記事を書こうと思ったものの、その記事を投稿するためのブログを弄っているうちにゴールデンウィークが終わってしまった。 そんなわけでここ数日は、「そろそろちゃんと触るか〜」と思っていたNext.jsを使ってこのブログを作り変えていた。 見た目は似ているけど中身はイチから作ったので別物である。1 機能追加をしたいことがあったりしたので前々からJavaScriptのフレームワークに載せ替えたいと思っていて、やっと腰が上がった次第。2 本当は1,2日でサクッと終わらせてしまってブログ投稿用のエディタを作ろうと思っていたのだ</description>
+<category>Next.js</category>
+<category>JavaScript</category>
+<category>TypeScript</category>
+<category>ブログ</category>
+</item>
+<item>
+<title>融けるデザインを読んだ</title>
+<link>https://memo.yammer.jp/posts/tokeru-design</link>
+<pubDate>Thu, 29 Apr 2021 08:01:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/tokeru-design</guid>
+<description>このまえ教えてもらった本、「融けるデザイン ―ハード×ソフト×ネット時代の新たな設計論」(著: 渡邊恵太) を読んだ。 以下はその解釈と感想である。 融けるデザイン ―ハード×ソフト×ネット時代の新たな設計論 | 渡邊恵太 |本 | 通販 | Amazon 本書では「自己帰属感」という言葉を通して良いインターフェイスとはどのようなものかを述べている。 自分の与えた動作に伴ってリアルタイムに反応があると自己帰属感が生まれ、自己帰属感が高まると身体が拡張したかのように思いのままに操作できるようになる。 例えばキーボードは、慣れるまではひどく使いにくいが、慣れてしまえば文字を打つときに自然と手が動き</description>
+<category>本</category>
+</item>
+<item>
+<title>足でマイクのミュートを解除しよう for 在宅勤務</title>
+<link>https://memo.yammer.jp/posts/foot-switch-mic-mute</link>
+<pubDate>Tue, 27 Apr 2021 00:41:29 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/foot-switch-mic-mute</guid>
+<description>私はいま、在宅勤務をしている。 特に研修中だからかオンライン通話の機会が多く、通話しながら作業や調べ物をするので、マイクのミュート/ミュート解除に手こずることに悩みを抱えている。 そんな中、ふとしたときに気づいたのである。「足が空いているではないか」と。 家に左クリックが壊れたマウスが有ったのでこれをフットスイッチ代わりにして、押しているときだけミュート解除するようにしてみた。 https://twitter.com/yammerjp/status/1386699716356837380 どのように実現しているかは後半の「つくりかた」に書く。 良いところ 細かくミュート/ミュート解除できる 目</description>
+<category>macOS</category>
+<category>在宅勤務</category>
+<category>作業環境</category>
+<category>Karabiner-Elements</category>
+</item>
+<item>
+<title>ロリポップ上に公開された WordPress サイトを、ローカルの docker-compose 上で再現する</title>
+<link>https://memo.yammer.jp/posts/backup-lolipop-wordpress-with-docker</link>
+<pubDate>Fri, 23 Apr 2021 18:41:20 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/backup-lolipop-wordpress-with-docker</guid>
+<description>表題の通り、ロリポップ！レンタルサーバ上に公開されている自身のWebサイトをバックアップし、さらに手元のPC上にdocker-composeで動作するように配置する。 前提の環境 ロリポップ！レンタルサーバ上で WordPress を用いた Webサイトを構築している。 macOS 10.15 Catalina Docker Desktop for Mac がインストールされている wget がインストールされている。 (Homebrew を用いて brew install wget でインストール) 手順1: ロリポップ上の情報をダウンロード 1-1: ファイルを抜き出す はじめにロリポップ</description>
+
+</item>
+<item>
+<title>僕の、私の、ストレングス・ファインダー (感想)</title>
+<link>https://memo.yammer.jp/posts/strengths-finder</link>
+<pubDate>Mon, 19 Apr 2021 14:45:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/strengths-finder</guid>
+<description>会社の研修でストレングス・ファインダーを受けたので、結果を過去の経験と照らし合わせて考えてみます。 読書メモみたいなものです。 ストレングス・ファインダーとは 1998年に心理学者のドナルド・O・クリフトンが開発したオンライン心理テスト。 「実行力」「影響力」「人間関係構築力」「戦略的思考力」の4領域に分類される34の資質のうちどれを自分が持っているのかを判断してくれる。 それぞれの資質を知ることで自分の能力をどのように開発していけばよいかの参考になるらしい。 書籍「さあ、才能(じぶん)に目覚めよう 新版 ストレングス・ファインダー2.0」に付属するアクセスコードから受けることができる。 なお</description>
+<category>本</category>
+</item>
+<item>
+<title>社会人一週目の所感</title>
+<link>https://memo.yammer.jp/posts/20210408</link>
+<pubDate>Thu, 08 Apr 2021 15:57:25 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/20210408</guid>
+<description>4/1に社会人になり一週間が経った。 職種合同での研修期間中で実際の仕事やエンジニアリングとはまだ少し距離がある。 研修もまだまだこれからだけど、区切りが良い日なので今日の気持ちを記録しようかと。 生活について まず当たり前だが、社会人は結構疲れる。 3月末までは一日中暇で、好きなだけコードを書き好きなだけネット見て好きなだけ寝ていたので差が大きいだけで、毎日朝から夕方まで集中していたら人間誰でも疲れるだろう。 睡眠は本当に大事。 一昨日つい睡眠時間を削ったら昨日は一日中眠くて、仕事終わった直後にベッドで爆睡した。 これができるから在宅勤務は良い。通勤が無くて良い。 慣れてしまったら毎日出社な</description>
+<category>日記</category>
+</item>
+<item>
+<title>Office365メールやGmailをローカルにバックアップする (macOS)</title>
+<link>https://memo.yammer.jp/posts/mail-backup-mbox</link>
+<pubDate>Sun, 28 Mar 2021 09:03:06 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/mail-backup-mbox</guid>
+<description>3月で大学を卒業するにあたり、大学のメール (Office365) と研究室のメール (Google Workspace) が使えなくなる。 閲覧もできなくなるのでバックアップを取っておきたいので試してみる。 メールの取得 Gmail 上のすべてのメールを mbox 形式で取得する Google は サービス上の個人データをエクスポートする機能を提供している。 参考: Gmail からデータを書き出す - Gmail ヘルプ 2021/03現在では、次の手順で取得できる。 Gmail を開き、右上の自分のアイコンをクリックして、「Google アカウントを管理」を選択 「データとカスタマイズ」</description>
+<category>macOS</category>
+<category>メール</category>
+</item>
+<item>
+<title>TCP/IP における全レイヤを俯瞰したパケットの構成</title>
+<link>https://memo.yammer.jp/posts/tcp-packet-layout</link>
+<pubDate>Fri, 19 Feb 2021 02:24:44 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/tcp-packet-layout</guid>
+<description>ふとしたときに TCP/IP でのパケットの各フィールドにどんなものがあったか確認したくなることがあるので、レイヤごとに分けずまとめて書かれた物があると便利。 以下, Ethernet, IPv4, TCP, HTTP を用いたパケットの各フィールドの配置を表した図。 各フィールドの意味は記載しません。 </description>
+<category>HTTP</category>
+<category>TCP/IP</category>
+</item>
+<item>
+<title>卒業論文の発表を終えた。近況。</title>
+<link>https://memo.yammer.jp/posts/20210218</link>
+<pubDate>Thu, 18 Feb 2021 13:44:22 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/20210218</guid>
+<description>先週に卒業論文を提出し、今日その内容を学科内で発表した。 無事合格できた旨のメールを先ほど受け取って、これで大学4年間の全ての単位を取得できる見込みになった。 最近は論文執筆に勤しんでいた。 新年の意気込みで早寝早起きと言っておきながら最近はだいぶ夜ふかしをしていたし、本を読む目標もあまり進んでいない。 少し読んだ本もあるが、そんな時間があるなら論文を書きましょうという感じだった。 というわけで駄文でした。 研究が終わったらやりたいことがいくつか溜まっていたので順番に消化していきたい。 気分症なのでいくつか既に昇華してしまったものもあるが、まあよいだろう。 生活リズムも戻します。 ブログもまた</description>
+<category>日記</category>
+</item>
+<item>
+<title>ベジェ曲線で画像を丸っぽくくり抜く (CSS clip-path)</title>
+<link>https://memo.yammer.jp/posts/clip-path</link>
+<pubDate>Wed, 27 Jan 2021 02:43:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/clip-path</guid>
+<description>  &lt;img     src=&quot;https://blob.yammer.jp/gather_fishes.jpg&quot;     style=&quot;clip-path:url(#bezier-curve-circle); width:300px;&quot;   /&gt;   &lt;svg&gt;     &lt;clipPath id=&quot;bezier-curve-circle&quot; clipPathUnits=&quot;objectBoundingBox&quot;&gt;     &lt;path d=&quot;       M 0 0.5       C 0 0.166, 0.166 0, 0.5 0       S 1 0.166, 1 0.5       S 0.</description>
+
+</item>
+<item>
+<title>Planck Keyboard を手に入れた</title>
+<link>https://memo.yammer.jp/posts/planck-keyboard</link>
+<pubDate>Sat, 09 Jan 2021 06:07:39 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/planck-keyboard</guid>
+<description>先月に申し込んだ Planck Keyboard が届いたので組み立てた。 Planck Keyboard とは Drop + OLKB Planck Mechanical Keyboard Kit V6 | Drop いわゆる 40%1 と言われる分類で格子配列2 のキーボードキット。 キー数が少なく(4x12個) コンパクトなキーボードである。 スイッチを取り付ける基盤である PCB と PCB に装着するケースのセットで販売されていて、アメリカの共同購入サイト Drop (Massdrop, Inc.) で購入できる。 いつでも買うことが出来るわけではなく購入希望者が集まってからまとめて</description>
+<category>自作キーボード</category>
+</item>
+<item>
+<title>2021年の目標「早寝早起き、本を読む」</title>
+<link>https://memo.yammer.jp/posts/2021-target</link>
+<pubDate>Sat, 02 Jan 2021 07:08:22 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/2021-target</guid>
+<description>今年の目標は「早寝早起き、本を読む」とする。 生活リズムの改善 目標の前半部分「早寝早起き」について。 2020年は大学の講義中心の生活から研究中心の生活に移り、殆ど自宅で過ごしたこともあって夜型の生活が続いた。 寝るのが惜しくて夜ふかしをして、起きるのが遅くなることで更に眠くなる時間が遅くなり、、という悪循環から朝4時頃に寝て昼頃に起きるのが常態化していた。(もっと遅いことも多々) これに対し、今年から社会人になるのでこのままでは良くないと思い12月中頃から生活リズムを改善する試みが始まった。 22歳になって「早寝早起き」という小学生みたいな目標を立てているが、今まで生活リズムを制御すること</description>
+
+</item>
+<item>
+<title>リーダブルコードを読んだ感想</title>
+<link>https://memo.yammer.jp/posts/readable-code</link>
+<pubDate>Sat, 02 Jan 2021 06:49:50 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/readable-code</guid>
+<description>2021年最初の読書はリーダブルコード。 今年は本をたくさん読みたいので景気づけも兼ねて元日のうちに読み始め、今日の午前に読み終えたので感想を綴る。 本の概要 リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice) | Dustin Boswell, Trevor Foucher, 須藤 功平, 角 征典 |本 | 通販 | Amazon プログラマーに向けた、読みやすいコードを書くためのバイブルといわれることもある本である。 表紙が楽譜のデザインであり、ソフトウェアにおける「コード」と音楽における「コード」(音楽符号) をかけてい</description>
+<category>本</category>
+</item>
+<item>
+<title>自分のGitHubリポジトリで振り返る2020年</title>
+<link>https://memo.yammer.jp/posts/2020-github-repositories</link>
+<pubDate>Thu, 31 Dec 2020 09:18:37 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/2020-github-repositories</guid>
+<description>今年コミットした GitHub のリポジトリを順にみながら2020年の個人開発を振り返ってみる。 実は去年もやろうとしていた企画1、今年こそ年内に公開するぞ。 リポジトリ一覧の取得 去年の記事では API を curl で取得していた2が、今年は GitHub の公式 CLI である gh を使って取得することとする。 jq と gh をインストールし、 ~/.config/gh/config.yml の aliases キーに、次のような内容を追記する。 aliases:     repos: |         !gh api --paginate graphql -f owner=&quot;$1</description>
+<category>日記</category>
+</item>
+<item>
+<title>HugoでURLをパーセントエンコード (CloudinaryでOGP画像生成)</title>
+<link>https://memo.yammer.jp/posts/hugo-url-encode</link>
+<pubDate>Sat, 26 Dec 2020 11:52:36 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/hugo-url-encode</guid>
+<description>Hugo で Cloudinary1 を用いた OGP 画像生成のため日本語を URL に埋め込みたい。 埋め込みのために文字列をパーセントエンコード2 する方法を記す。 方法 Hugo のテンプレートの中で $string 変数に文字列が格納されているとき、次の表記で変数内の文字列をパーセントエンコードして出力できる。 {{- replace (substr (querify  &quot;a&quot; $string) 2) &quot;+&quot; &quot;%20&quot; -}} 例えば OGP 画像のためURLに日本語文字列を埋め込むのは次のようにして実現できる {{ $title := &quot;埋め込む文字列&quot; }} &lt;meta   p</description>
+<category>Hugo</category>
+<category>ブログ</category>
+</item>
+<item>
+<title>MacBookAir 2020 (M1) のセットアップ</title>
+<link>https://memo.yammer.jp/posts/mba2020-setup</link>
+<pubDate>Tue, 22 Dec 2020 05:24:01 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/mba2020-setup</guid>
+<description>Apple Silicon を搭載した MacBook Air を購入したのでセットアップをやっていく。 そのメモ。 https://twitter.com/yammerjp/status/1340576122795266048 2020/12/20現在では「brew bundleしておわり」というわけにはいかない。 できる限りApple Silicon版のバイナリを使いたいので、各種ソフトウェアのビルド方法などを記録することにする。 Tips arch -x86_64 を先頭につけてコマンドを実行すると Rosseta2 上で実行してくれる。 ソフトウェアのインストール以前 macOS の設</description>
+<category>macOS</category>
+<category>AppleSilicon</category>
+<category>Setup</category>
+</item>
+<item>
+<title>Pocketにツイートを保存したらリツイートする</title>
+<link>https://memo.yammer.jp/posts/pocket2retweet</link>
+<pubDate>Tue, 15 Dec 2020 09:27:23 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/pocket2retweet</guid>
+<description>題名のスクリプトを作ってcronで定期実行したら便利だった話。 背景 Twitter アカウントがいくつかある。1 情報を浴びるように流しているアカウントだったり、情報の種類別だったり、使っていないものだったり。 PC で Twitter を見るときは大体 TweetDeckを使っておりこれは結構使いやすい。 一方で iOS ではマルチアカウントで満足する Twitter クライアントを見つけられていない。 (今は feather を使っている。) 具体的には次のような機能がほしい。 ユーザを別アカウントでフォローする ツイートを別アカウントでリツイートする 作ったもの 作ったものはこちら: </description>
+
+</item>
+<item>
+<title>東芝HDDレコーダRD-S600の動画をmacOSにコピーする (ネットdeダビング)</title>
+<link>https://memo.yammer.jp/posts/toshiba-dubbing</link>
+<pubDate>Mon, 14 Dec 2020 14:18:07 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/toshiba-dubbing</guid>
+<description>TL;DR: 2006年製の東芝製 HDD レコーダ RD-S600 の動画を, 当該機種に搭載の「ネットdeダビング」機能を使って, LAN 経由で macOS のストレージにコピーする. 背景 8ミリのビデオテープや VHS に記録されたホームビデオをデジタル化するにあたり, 家族が自宅にあった HDD レコーダ RD-S600 の内蔵 HDD に動画を録画していた. これを, HDDの寿命が怖いしブルーレイに焼きたかったりするのでPCに転送したい. RD-S600 は2006年東芝製の HDD レコーダで, 都合のいいことにイーサネットポートがついているため LAN 内で動画を転送できる</description>
+
+</item>
+<item>
+<title>Youtubeライブ「技術文章の書き方」を聞いた内容のメモ(2020年12月)</title>
+<link>https://memo.yammer.jp/posts/2020-12-how-to-write-technical-texts</link>
+<pubDate>Sun, 06 Dec 2020 14:40:12 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/2020-12-how-to-write-technical-texts</guid>
+<description>(2024/09/22記) 2020/12/06に書いていたメモ。当時は学部の4年で卒論を書いていた頃で、卒論をきっかけに技術文章を書くことに興味をもって調べていて見つけた動画をメモしていたのだろう。ブログ記事を書いたり、あとは雑誌の記事を書いたりするときにも参考にしていたもので、まとまった文章を書く必要に迫られたら見返したくなる。 以降は箇条書きであくまでメモなので、詳細は当然動画を見ていただけるとよくて、動画を見返すためのインデックスとして書き出している。 以下は、Youtubeに公開されている動画 (15) 技術文書の書き方 ・ゲスト：Web+DB Press稲尾さん - YouTube</description>
+<category>技術文章</category>
+<category>メモ</category>
+<category>Youtube</category>
+</item>
+<item>
+<title>m1のMacbook Airを買った言い訳</title>
+<link>https://memo.yammer.jp/posts/mba2020-buying</link>
+<pubDate>Fri, 04 Dec 2020 03:35:25 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/mba2020-buying</guid>
+<description>https://twitter.com/yammerjp/status/1334697452855705604 買ってしまいました。 Apple Silicon版のm1チップを搭載したMacbook Airは出来が良いと評判なのは皆様ご周知の通り。 私も時代の波に乗ろうと思う。 買う理由 ここから買い替えの言い訳が始まります。 手元のMacが遅い。ブラウザのタブをたくさん開くと遅くなるのでちょっと嫌な気持ちになる。 手元のMacが遅い。メモリ8GBだしこのMacでDockerは重すぎるのでどうせ別のx86 linuxマシンにsshするし、ARMでも問題ないでしょう。 手元のMacの売却額が下が</description>
+<category>macOS</category>
+<category>AppleSilicon</category>
+<category>日記</category>
+</item>
+<item>
+<title>macOS で ssh接続のパスフレーズ入力を2回目以降省略する</title>
+<link>https://memo.yammer.jp/posts/macos-ssh-agent</link>
+<pubDate>Tue, 01 Dec 2020 12:32:03 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/macos-ssh-agent</guid>
+<description>macOS Catalina にて、ssh接続のパスフレーズ入力を2回目以降省略するには、 ~/.ssh/config の先頭に次を記述する。 # ~/.ssh/config Host *   AddKeysToAgent yes   UseKeychain yes   IdentityFile ~/.ssh/id_rsa ssh接続時に使用した鍵が ssh-agent に自動的に登録される。 また、パスフレーズの入力を行うと、Keychain にパスフレーズがキャッシュされ、2回目以降は聞かれなくなる ちなみに macOS では ssh-agent の起動は ssh-add するタイミングに</description>
+
+</item>
+<item>
+<title>Ubuntu20.04LTS DesktopにmacOSからVNCで接続する</title>
+<link>https://memo.yammer.jp/posts/ubuntu-vnc-setup</link>
+<pubDate>Tue, 01 Dec 2020 09:17:21 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/ubuntu-vnc-setup</guid>
+<description>Install # VNCでログイン時に実行されるコマンドを設定 $ mkdir ~/.vnc $ vim ~/.vnc/xstartup #!/bin/sh # ~/.vnc/xstartup [ -x /etc/vnc/xstartup ] &amp;&amp; exec /etc/vnc/xstartup [ -r $HOME/.Xresources ] &amp;&amp; xrdb $HOME/.Xresources vncconfig -iconic &amp;\ndbus-launch --exit-with-session gnome-session &amp; # VNCサーバをインストール $ sudo apt-get </description>
+
+</item>
+<item>
+<title>ブラウザの検索バーから英語サイトに絞って検索出来るようにする (Vivaldi編)</title>
+<link>https://memo.yammer.jp/posts/vivaldi-search-english</link>
+<pubDate>Tue, 17 Nov 2020 17:47:11 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/vivaldi-search-english</guid>
+<description>コードを書いていると, 英語のサイトに絞ってGoogle検索したいときがままある。 日本語だと文献がみつからなかったり、いかがでしたかブログのような検索結果ばかりが上位に並んだりして、公式のドキュメントだったりに飛ぶには英語で探したほうが早かったりする。 いままでは検索言語を変更する度に、Googleの検索結果ページからオプションを指定できるページに飛んで言語を変更して... とやっていたのだが、結構面倒くさいので楽に出来る方法がないかと考えて思いついたのが以下のやり方。 設定内容 URLのクエリパラメータで検索結果の対象言語(lr=lang_en)と表示言語(hl=en) 1 を指定できるの</description>
+
+</item>
+<item>
+<title>sudoしたユーザのホームディレクトリが知りたい</title>
+<link>https://memo.yammer.jp/posts/sudo-user-home-dir</link>
+<pubDate>Mon, 02 Nov 2020 16:54:49 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/sudo-user-home-dir</guid>
+<description>TL;DR ... ホームディレクトリはsudoで実行したかにかかわらず, getent passwd ${SUDO_USER:-$USER} | cut -d: -f6 で得られる. 問題と解決策 bash において, ログインユーザ名やホームディレクトリは環境変数から取得できる. $ echo &quot;$USER&quot; yammerjp $ echo &quot;$HOME&quot; /home/yammerjp しかしながら, sudo で実行される場合, これらは root のものとして扱われてしまう. $ echo &apos;echo &quot;$USER&quot;&apos; | sudo bash root $ echo &apos;echo &quot;$H</description>
+<category>bash</category>
+<category>Shell</category>
+<category>Linux</category>
+</item>
+<item>
+<title>tmuxに入門する</title>
+<link>https://memo.yammer.jp/posts/tmux</link>
+<pubDate>Sat, 31 Oct 2020 14:53:54 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/tmux</guid>
+<description>vim を使うようになってから特に複数のターミナルウィンドウを開くことが多くなったので, 便利そうな tmux を使ってみる. 以前から存在は知っていたもののキーバインドが多くて慣れるの大変そうだと敬遠していたが, 自分の時間が出来たので良い機会だろう. tmuxとは GitHub の公式リポジトリでは以下のように説明されている. tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen. tmux m</description>
+
+</item>
+<item>
+<title>積読本だった&quot;Webを支える技術&quot;を読んだ感想と、本を読むための心がけ</title>
+<link>https://memo.yammer.jp/posts/webteckbook</link>
+<pubDate>Mon, 28 Sep 2020 18:35:02 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/webteckbook</guid>
+<description>「Webを支える技術 HTTP, URI, HTML, そしてREST」を改めて読み直した。 年始に買って途中まで読んでいたものだ。 書籍 &quot;Webを支える技術&quot; について 本を選んだ背景と読んだ感想 書籍購入当時はスマホアプリのWeb APIを開発しており、URIの設計の参考にしたくて手にとった。 RESTという考え方やAPI設計についてとても参考になり、 良い設計とは何かを知ることが出来た。 これまでは用意されたWeb APIを使う側で、URI設計について意識することがなく無意識に良くつくられたURIのAPIを使っていた。 一方で設計するためにはまず利用者として当たり前だったことを言語化し</description>
+<category>本</category>
+<category>インターネット</category>
+</item>
+<item>
+<title>2020年9月のキーマップ for lily58</title>
+<link>https://memo.yammer.jp/posts/keymap-202009</link>
+<pubDate>Fri, 25 Sep 2020 03:53:30 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/keymap-202009</guid>
+<description>以前記事に書いたとおり、分割キーボード lily58を使っている。 自作してから1ヶ月以上経つが、何度かキーマップを書き換えており、順調に配列沼にハマっている。 丁度、しばらく使っていてしっくり来ないところを昨日書き換えたばかり。 せっかくなので記録がてら記事に残しておく。 https://twitter.com/yammerjp/status/1309153335530848256 3レイヤーで、最下段の内側から2つめのキーを押している間はレイヤーが切り替わる。 この配列は次のような方針で作られている。 基本はqwertyのUS配列に寄せる ホームポジションとそれに隣接するキーでなるべく完結</description>
+<category>自作キーボード</category>
+<category>Lily58</category>
+<category>キーマップ</category>
+</item>
+<item>
+<title>Makefileの中で名前付きパイプ(bash記法)を使いたかった。2つのコマンド実行結果を比較する。</title>
+<link>https://memo.yammer.jp/posts/makefile-named-pipe</link>
+<pubDate>Thu, 17 Sep 2020 07:31:46 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/makefile-named-pipe</guid>
+<description>今日は小さな Tips。 make は1970年代に生まれ、C言語のビルドなどでよく用いられるビルドツールだ。 Makefileにビルド手順を記述しておき $make で一連の流れを実行できる。 古からあるビルドツールであるから、インデントがタブ文字でないといけないなどの制約があるが、環境に依存しづらいので最近はよく使うようにしている。 Makefile にはシェルスクリプトのように実行するコマンドを記述するが、この中ではbash独自の拡張記法には対応していない。(Makefile独自の記法があったりする) 2つのコマンドの実行結果を比較したい時、bashでは次のように名前付きパイプを使うと簡</description>
+<category>Shell</category>
+</item>
+<item>
+<title>LoveLabのAPIサーバをAWS EC2上にセットアップする</title>
+<link>https://memo.yammer.jp/posts/lovelab-ec2</link>
+<pubDate>Fri, 14 Aug 2020 13:55:26 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/lovelab-ec2</guid>
+<description>以下過去の自分用のメモを移動。 昨冬、チーム開発で ToDo 管理の iPhone アプリ LoveLab を開発していた。 LoveLab API サーバは、docker-composeでまとめられている。 AWS の EC2 上で立ち上げるための手順を以下に示す。 EC2 instance作成後の作業 80番ポートを開放 sshでログイン 関係ソフトウェアをinstall $ sudo yum install -y docker $ sudo service docker start $ sudo usermod -a -G docker ec2-user $ sudo docker in</description>
+<category>AWS</category>
+<category>Shell</category>
+</item>
+<item>
+<title>LALR(1)構文解析を行いながら、コンパイラの構文解析を学ぶ</title>
+<link>https://memo.yammer.jp/posts/compiler-lalr1</link>
+<pubDate>Fri, 14 Aug 2020 10:13:19 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/compiler-lalr1</guid>
+<description>以下、過去の自分向けのメモの移動。 コンパイラの主要な処理に構文解析がある。 前回はLR0文法構文解析を行った。 今回は与えられたLALR(1)文法規則に基づいて構文解析するオートマトンを作り、構文解析の手法について整理する。 問題の文法規則 次のLALR(1)文法規則を受理するオートマトンと構文解析表をつくり、構文解析を行う。 E -&gt; E + T E -&gt; T T -&gt; T * F T -&gt; F F -&gt; i F -&gt; ( E ) First集合 First集合とは First(K) ... Kの還元前の終端記号列において、先頭に来る可能性のある終端記号の集合 First集合の求め方 最初</description>
+<category>コンパイラ</category>
+<category>構文解析</category>
+</item>
+<item>
+<title>LR(0)構文解析を行いながら、コンパイラの構文解析を学ぶ</title>
+<link>https://memo.yammer.jp/posts/compiler-lr0</link>
+<pubDate>Fri, 14 Aug 2020 10:04:31 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/compiler-lr0</guid>
+<description>以下、過去の自分向けのメモの移動。 コンパイラの主要な処理に構文解析がある。 今回は与えられたLR(0)文法規則に基づいて構文解析するオートマトンを作り、構文解析の手法について整理する。 問題 次の文法について、次の問を答えよ S -&gt; ( L )  S -&gt; a L -&gt; L , S L -&gt; S 上から順にR1,R2,R3,R4と呼ぶ。 ただし、SとLは非終端記号、(と)と,とaは終端記号とする。 LR(0)正準集合とオートマトンを求めよ 以下の文字列が示された文法から生成されるかどうか、また構文解析の結果を答えよ LR(0)構文解析の方法 LR(k)構文解析とは 上向き構文解析(下向きは</description>
+<category>コンパイラ</category>
+<category>構文解析</category>
+</item>
+<item>
+<title>Dockerチートシート プログラマのためのDocker教科書 第2版より</title>
+<link>https://memo.yammer.jp/posts/docker</link>
+<pubDate>Fri, 14 Aug 2020 09:59:31 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/docker</guid>
+<description>以下、過去の自分用メモの移動。 dockerに入門するにあたり「プログラマのためのDocker教科書 第2版より」を読んだ。 Dockerfileを書いてコンテナを走らせるための自分向けのまとめをチートシート的に書き記す。 Dockerfileの命令 命令一覧 FROM .. ベースイメージの指定 RUN .. コマンド実行 CMD .. コンテナの実行コマンド LABEL .. ラベルを設定 EXPOSE .. ポートのエクスポート ENV .. 環境変数 ADD .. ファイル/ディレクトリの追加 COPY .. ファイルのコピー ENTRYPOINT .. コンテナの実行コマンド VOL</description>
+<category>Docker</category>
+<category>Shell</category>
+</item>
+<item>
+<title>GitHubにsshでつなぐ</title>
+<link>https://memo.yammer.jp/posts/github-ssh</link>
+<pubDate>Fri, 14 Aug 2020 09:55:39 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/github-ssh</guid>
+<description>以下、過去の自分用メモの移動。 WindowsやMacでは、GitHubのIDとパスワードを安全に記憶して、HTTPS通信で勝手に使ってくれるのだが、Ubuntuではどうもよい方法がなさそうだった。 そこでHTTPSではなくSSHを使ってgithubと通信するようにして、公開鍵認証により安全を担保しようというわけだ。 鍵ペアを作る $ cd ~/.ssh $ ssh-keygen -t rsa -b 4096 -C &quot;mymail@example.com&quot; # 鍵の名前を id_rsa_github とする # パスワードも聞かれるので入力 $ ls -1  id_rsa_github # 秘</description>
+<category>git</category>
+<category>ssh</category>
+<category>Shell</category>
+</item>
+<item>
+<title>Lily58 Pro を Bluetooth 対応し無線化する</title>
+<link>https://memo.yammer.jp/posts/lily58-pro-ble</link>
+<pubDate>Thu, 13 Aug 2020 17:07:01 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/lily58-pro-ble</guid>
+<description>前回の記事で作った左右分割型の自作キーボード Lily58 Pro を Bluetooth に対応させ、無線で PC に接続できるように改造した。 その作業記録。 この記事では、無線化にあたり次のことを行う。 USBからキーボードへの給電がなくなるので、別途ボタン電池用の電源基板をつなぐ 有線キーボードの制御用マイコンである Pro Micro を、Bluetooth に対応した BLE Micro Pro に交換する BLE Micro Pro にファームウェアを書き込む 必要なもの Lily58 Pro (遊舎工房) Pro Micro 互換の Bluetooth-LowEnergy 対応</description>
+<category>自作キーボード</category>
+<category>Lily58</category>
+</item>
+<item>
+<title>Lily58 を作って自作キーボードに入門した (Lily58 Pro Build Log)</title>
+<link>https://memo.yammer.jp/posts/lily58-pro-build-log</link>
+<pubDate>Thu, 13 Aug 2020 16:55:25 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/lily58-pro-build-log</guid>
+<description>https://twitter.com/yammerjp/status/1284673759593418752 数ヶ月前から、自作キーボードが気になっていたのだが、ついに手を出してしまった。 自作キーボードとは 自作キーボードとは、キースイッチやキーキャップ、基板(PCB)等を購入し、自分で組み立ててキーボードを作ることである。 自分の欲しいキーボードを作ることができるのが魅力。 パーツをはんだ付けしたり、マイコンにファームウェアを書き込んだり、場合によっては基板を設計したりすることでつくる。 今回は既に設計, 基板が製造済みで、組み立てキット形式になっている Lily58 Pro を作ること</description>
+<category>自作キーボード</category>
+<category>Lily58</category>
+</item>
+<item>
+<title>Ubuntu20.04でトラックボールのボールを転がしてスクロールする</title>
+<link>https://memo.yammer.jp/posts/ubuntu-m570-scroll</link>
+<pubDate>Thu, 13 Aug 2020 16:20:09 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/ubuntu-m570-scroll</guid>
+<description>最近、Logicool のトラックボール M570 を購入した。 このトラックボールはスクロールホイールがついているが、左右にスクロールする機能はない。 そこで、ボールを転がして上下左右にスクロールを可能にする。 今回は Ubuntu 20.04 をターゲットに設定を行う。 (macOS では、Karabiner Elements と Scroll Reverser というソフト (どちらも brew cask にあり) を使い実現した。詳細は省略) デバイス名を調べる $ xinput list ⎡ Virtual core pointer                    	id=2	</description>
+<category>Linux</category>
+<category>Ubuntu</category>
+<category>トラックボール</category>
+</item>
+<item>
+<title>自作コンパイラのfor文バグ</title>
+<link>https://memo.yammer.jp/posts/willani-for-stmt-bug</link>
+<pubDate>Wed, 08 Jul 2020 17:09:03 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/willani-for-stmt-bug</guid>
+<description>C言語のコンパイラを自作に関する今日の日記。 これまでの記事 「数日前からCコンパイラを書き始めた。」 「自作Cコンパイラの途中経過」 「自作コンパイラのセルフホストに挑戦中」 「C言語の構造体メンバのアライメント (x86_64, Linux (System V ABI))」 今日実装したのは次の2つ。 構造体のアライメント for文バグの修正 ちなみに昨日はastをjsonで吐くコード(git反映前に間違えて切り取って飛ばしてしまい頑張って再実装したが、翌日セルフホスト向けにはバグっていることがわかりお蔵入り)、セルフホスト用のシェルスクリプトなどを実装していた。 構造体のアライメント w</description>
+<category>コンパイラ</category>
+<category>willani</category>
+<category>日記</category>
+<category>C</category>
+</item>
+<item>
+<title>C言語の構造体メンバのアライメント (x86_64, Linux (System V ABI))</title>
+<link>https://memo.yammer.jp/posts/willani-struct-alignment</link>
+<pubDate>Wed, 08 Jul 2020 15:59:59 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/willani-struct-alignment</guid>
+<description>System V ABI における構造体メンバのアライメントの方法を記す。 C言語のコンパイラを自作しているときに学んだことの記録で、 これまでの記事 「数日前からCコンパイラを書き始めた。」 「自作Cコンパイラの途中経過」 「自作コンパイラのセルフホストに挑戦中」 に続く記事である。 System V ABI とは？ ABI (Application Binary Interface) とは、バイナリレベルでのコンパイラが満たすべき規約である。 アーキテクチャやOSごとに決まっており、例えば我々が一般的に使うintelのCPUである x86_64 でいえば、 Windows は  Micro</description>
+<category>コンパイラ</category>
+<category>willani</category>
+<category>日記</category>
+<category>C</category>
+</item>
+<item>
+<title>自作コンパイラのセルフホストに挑戦中</title>
+<link>https://memo.yammer.jp/posts/willani-try-selfhost</link>
+<pubDate>Mon, 06 Jul 2020 16:54:10 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/willani-try-selfhost</guid>
+<description>以前の記事「数日前からCコンパイラを書き始めた。」「自作Cコンパイラの途中経過」に続く記事。 これは日記であって、知見が書かれた文章ではない。 経過報告 気づけば2020年も半分が終わり、梅雨に入って雨が続き、今日もジメジメと蒸し暑い。 大学の研究室は相変わらずリモートで、新型コロナウィルスの東京都の感染者数も100人を超える日が続き、収束の気配がない。 世間は春から夏へ季節が変わろうとしているし、世界的にウィルスとの戦いを繰り広げている昨今だが、私のやっていることは相変わらずCコンパイラ「willani」の制作。もう6週目になるだろうか。 昨日あたりからセルフホストに向けて、やっとコンパイラ</description>
+<category>コンパイラ</category>
+<category>willani</category>
+<category>日記</category>
+<category>C</category>
+</item>
+<item>
+<title>Mares Puck Pro 電池交換の手順(2020年7月)</title>
+<link>https://memo.yammer.jp/posts/mares-pack-pro-battery-replacement</link>
+<pubDate>Wed, 01 Jul 2020 14:40:07 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/mares-pack-pro-battery-replacement</guid>
+<description>(2024/09/22)さてさて、このブログのドメインは「memo.yammer.jp」としていて自分のメモ書きのために用意した場所で、それをブログという体裁で公開しています。ただし大した量のないメモや書き途中の文章がどうにもブログの下書きとしてたまってしまい、かつあとで自分で見返すときに下書きにあると見つけづらくて困るという問題があるので、ここから何本か下書きのものを最低限の体裁だけ整えて、公開しているリポジトリに写していきます。 ふだんダイビングでMaresのPuck Proというダイビングコンピュータを使っている。これはボタンが一つだけでシンプルな操作感と、大きな画面でとても見やすく気に</description>
+<category>scubadiving</category>
+<category>diving</category>
+<category>ガジェット</category>
+</item>
+<item>
+<title>はてなブログに乗り換えた</title>
+<link>https://memo.yammer.jp/posts/firebase2hatenablog</link>
+<pubDate>Sun, 14 Jun 2020 12:26:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/firebase2hatenablog</guid>
+<description>昨年に作ったブログの公開場所をはてなブログに変え、名前も「やんまーのブログ」と改名した。 以前は Firebase Hosting 上に、 Nuxt.js の Generate モードで生成した HTML ファイルを公開していた。 移行するにあたって次のことを行った。 はてなブログCLI gimonfu による記事管理 Zeit Nowを使った旧ドメインの転送処理 1. gimonfu による記事管理 はてなブログは Markdown で記事を作成でき、これが乗り換える後押しになった。 Markdown の記事は、以前のブログでも GitHub 上で記事を管理していたので、今回も同じことを行い</description>
+<category>はてなブログ</category>
+</item>
+<item>
+<title>gimonfu で、はてなブログの記事を GitHub と同期する</title>
+<link>https://memo.yammer.jp/posts/gimonfu</link>
+<pubDate>Sun, 14 Jun 2020 12:23:06 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/gimonfu</guid>
+<description>ブログをはてなブログに移行するにあたり、記事を管理する CLI 「gimonfu」を作成した。 本記事では、gimonfu と GitHub Actions を使って、GitHub のリポジトリとはてなブログを連携し、記事を git で管理できるように設定を行う。 記事の内容を設定すれば、Markdown ファイルを GitHub のリポジトリにプッシュするとはてなブログに記事を公開できたり、はてなの Web ページで記事を編集すると、GitHub のリポジトリに自動で反映されてバックアップを取ることができる。 最終的な GitHub Actions の設定は、私のブログの記事リポジトリにある</description>
+<category>JavaScript</category>
+<category>はてなブログ</category>
+<category>CI</category>
+<category>GitHub Actions</category>
+</item>
+<item>
+<title>自作Cコンパイラの途中経過</title>
+<link>https://memo.yammer.jp/posts/willani-compliperbook-finished</link>
+<pubDate>Tue, 09 Jun 2020 08:00:06 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/willani-compliperbook-finished</guid>
+<description>Cコンパイラ自作の進捗 以前の記事に書いたとおり、C言語のコンパイラを自作している。 セルフホストには至ってないが、教科書であるオンラインブック「低レイヤを知りたい人のためのCコンパイラ作成入門」の内容が一通り実装し終わったので経過報告をする。 裏で最初は毎日記録をつけていたのだが、だんだん面倒くさくなってやめたので、コミット履歴を見ながら振り返る。 最初のコミットは19日前(5/21)なので、そろそろ三週間経ったところだ。 5/28-30の三日間以外は何かしらコミットしているので、継続的に開発できている。もっともバイトや授業に遮られることがなく、時間がたくさんあるのでできることであるが。 こ</description>
+<category>コンパイラ</category>
+<category>willani</category>
+<category>日記</category>
+<category>C</category>
+</item>
+<item>
+<title>Zeit Now を使って、express.jsで書かれたアプリケーションを独自ドメインで公開する</title>
+<link>https://memo.yammer.jp/posts/zeit-now</link>
+<pubDate>Sun, 31 May 2020 07:44:33 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/zeit-now</guid>
+<description>now という PaaS がある。 Node.js で書かれたアプリケーションを、無料で3つまでホスティングできるらしい。 heroku を無料プランで使うと、dyno の立ち上げに30秒くらいかかるので、Web サーバとしては致命的に遅い。 一方 zeit はそのような待ち時間は発生しない。(どこかに、AWS Lambda を中で使っていると書いてあった気がする) 今回はシンプルな express.js のアプリケーションを now でホスティングする手順。 インストール $ mkdir now-app $ cd now-app $ yarn init $ yarn global add n</description>
+<category>JavaScript</category>
+<category>ドメイン</category>
+</item>
+<item>
+<title>TCP と UDP</title>
+<link>https://memo.yammer.jp/posts/tcp-udp</link>
+<pubDate>Sat, 30 May 2020 05:05:53 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/tcp-udp</guid>
+<description>今日のインターネットの根幹をなすTCP/IPプロトコルスタックのうち、トランスポート層のプロトコルであるTCPとUDPについての基本的な知識を説明する。 本記事は研究室の輪講で「マスタリングTCP/IP 入門編」を読んだことがきっかけの第2回。 前回はTCP/IPプロトコルスタック全体についての概要を書いた。 参考文献: マスタリングTCP/IP入門編 第6章 pp219-246 もくじ トランスポートプロトコルの役割 ポート番号 TCP と UDP TCP の様々な制御 トランスポートプロトコルの役割 トランスポート層の役割は主に3つある。 End-to-End の通信を実現すること。 アプ</description>
+
+</item>
+<item>
+<title>デスクトップLinuxでCPUの状況を確認する</title>
+<link>https://memo.yammer.jp/posts/linux-cpu</link>
+<pubDate>Sat, 30 May 2020 02:46:49 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/linux-cpu</guid>
+<description>$ cat /proc/cpuinfo # CPUの各スレッドごとの情報を含んだファイルを表示する $ nproc # CPUのスレッド数(プロセッサの数)を表示する $ top # CPU使用率の高い順にプロセスを表示する。定期的に内容は再描画される。 参考: CPU and Linux -  Youtube Satoru Takeuchi</description>
+
+</item>
+<item>
+<title>数日前からCコンパイラを書き始めた。</title>
+<link>https://memo.yammer.jp/posts/willani-start</link>
+<pubDate>Sun, 24 May 2020 16:02:52 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/willani-start</guid>
+<description>数日前からCコンパイラを書き始めた。(GitHub) 植山類さんのオンラインブック、低レイヤを知りたい人のためのCコンパイラ作成入門を読みながら、概ね本の内容に沿って進めている。 自分の書いたコンパイラで自身をコンパイルするセルフホストを目指している。 コンパイラというのはある言語で書かれたプログラムを別の言語に変換するプログラムだ。 ここではC言語をアセンブリに変換するものを指している。 いきなりC言語をコンパイルするのは無理なので、徐々に複雑な入力を受け付けるように改良し、最終的にC言語を受け付けるようにする(したい)。 最初は入力をそのまま出力することから始まり、四則演算ができるようにな</description>
+<category>コンパイラ</category>
+<category>willani</category>
+<category>日記</category>
+<category>C</category>
+</item>
+<item>
+<title>npm publishの手順</title>
+<link>https://memo.yammer.jp/posts/npm-publish</link>
+<pubDate>Thu, 21 May 2020 06:40:14 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/npm-publish</guid>
+<description>npm (Node Package Manager) とは、Node.js におけるパッケージ管理ツールである。 npm が GitHub に買収されたり、deno が正式リリースされたりしているこのご時世であるが、初めて npm にパッケージを公開したので手順と注意点を振り返る。 ちなみ公開したのは、はてなブログ記事管理ツールの gimonfu。 全体の流れ $ npm publishする作業をよしなにしてくれる CLI ツール np などもあるようだ。 今回は必要な作業を知る意味を込めて手動で行った。 私がやったのは以下の通り。細かくはこれから述べる。 npm に登録する 内容を確認する </description>
+<category>JavaScript</category>
+<category>npm</category>
+</item>
+<item>
+<title>コンピュータの有名なエッセイ</title>
+<link>https://memo.yammer.jp/posts/computer-essay</link>
+<pubDate>Wed, 20 May 2020 05:23:23 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/computer-essay</guid>
+<description>コンピュータの専門家を志すものとして、近いうちに読んでおきたい(読み直したい)エッセイ。 インターネット上に公開されているものも多く、日本語訳のリンクをつけている。 著者、訳者に感謝。 自分の今後の人生など知る由もないが、仕事になろうとそうでなかろうと、コンピューテーションが楽しいものだということを忘れずに、いや今よりもそう思えるような人間でありたい。 ハッカーと画家(Hackers &amp; Painters) ポール・グレアム著。 エッセイ集。 いくつかの章は読んだ。強い表現のところもあったりしてクセのある、他方魅力的な文章。 どうしてオタクはモテないか ハッカーと画家 口にできないこと もうひ</description>
+<category>本</category>
+</item>
+<item>
+<title>リポジトリで振り返る2019年</title>
+<link>https://memo.yammer.jp/posts/2019-github-repositories</link>
+<pubDate>Tue, 19 May 2020 12:44:57 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/2019-github-repositories</guid>
+<description>2020年も中頃だが、2019年末〜2020年正月に書きかけた記事が出てきた。 捨てるのも何なのでここに放出。 以下。年末に1年を振り返るという記事の趣旨から各リポジトリにリンクをつけた以外は原文のまま。 リンク以外の追記部分はその旨を記述している。 なにをするか あけましておめでとうございます。 年越ししてしまいましたが、まだ正月なので昨年を振り返って今年に向けて身を引き締めたい。 今回はGitHubのリポジトリを総ざらいして自分がどんな開発をしたか振り返る。 準備:GitHubのリポジトリ一覧を取得する githubのAPIを用いて、curlでリポジトリ情報を取得する。 $ curl -u</description>
+<category>日記</category>
+</item>
+<item>
+<title>非同期のまえに同期処理を通してPromiseとasync/awaitを理解する</title>
+<link>https://memo.yammer.jp/posts/promise</link>
+<pubDate>Tue, 19 May 2020 07:50:47 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/promise</guid>
+<description>JavaScript といえば非同期処理はつきものだが、非同期や Promise に苦手意識を持つ人も多いのではないだろうか。 これらの最初の理解のハードルは結構高いと思う。私も理解できずに悶絶した。C言語のポインタよりむずくないか？。。。 この記事の前半では一旦非同期のことは忘れる。 まず記事前半は、同期処理をテーマに、コールバック, Promise, async/await について説明する。 記事の後半は、これらを非同期処理を交えて説明する。 Promise はよくわからないという方や、一度挫折した方などにぜひ読んでもらいたい。 (2020/05/30補足: Qiita投稿に合わせて全体</description>
+<category>JavaScript</category>
+<category>非同期</category>
+</item>
+<item>
+<title>Promiseのthenメソッドには第二引数がある</title>
+<link>https://memo.yammer.jp/posts/promise-then-arg2</link>
+<pubDate>Tue, 19 May 2020 06:57:35 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/promise-then-arg2</guid>
+<description>この記事は以下のツイートについて。 https://twitter.com/yammerjp/status/1262637541028585475 きっかけはMDN web docsのPromiseについてのページを見ていたことに始まる。 以前、私がPromiseとaync/awaitを理解するときにとても役にたった記事があった。 Qiitaにあった記事で同期処理でPromiseをしてみて理解しようと試みる記事だったのだが、いま探しても見つからない。 需要がありそうなので自分で書いているのだが、そんな中でMDNを見ていてthenメソッドに関する発見があった。 const promise = n</description>
+<category>JavaScript</category>
+<category>非同期</category>
+</item>
+<item>
+<title>Raspberry Pi Zeroをモニタレスで使うためのSetup</title>
+<link>https://memo.yammer.jp/posts/raspberry-pi-zero-setup</link>
+<pubDate>Fri, 15 May 2020 16:21:46 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/raspberry-pi-zero-setup</guid>
+<description>2020/3/4のメモ。 Raspberry pi Zero を、購入後一切モニタにつなぐことなく無線LAN経由でSSHできるようセットアップする手順。 母艦は MacOS X で行っているが、SDカードへの書き込みができればなんでもよい。 肝となるのは、OSを書き込んだSDカードに次のように手を加えておくことだ。 事前に無線LANのSSIDとパスワードを記述したファイルをおく SSHを有効化する 起動前 micro SD cardのフォーマット SD Association公式サイトより、SDカードフォーマッターをダウンロードする。 ダウンロードしたSDカードフォーマッターでSDカードをフォ</description>
+<category>RaspberryPi</category>
+</item>
+<item>
+<title>Vimに入門したときの覚書</title>
+<link>https://memo.yammer.jp/posts/vim-intro</link>
+<pubDate>Fri, 15 May 2020 16:07:44 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/vim-intro</guid>
+<description>昨年、Vimを使える人間になりたいという気持ちからVimに入門した。 まずvimtutorをやり、またVim以外のエディタを使うことを禁止して慣れるようにした。 vimtuorのあとは実践Vimを読んだりしながら日常使いの中でVimに慣れていった。 また基本的にプラグインを追加することを禁止し、不用意な.vimrcの編集も禁止して、素の状態のVimに慣れるように気を配っていた。 そんなこんなでVimに慣れようとしていたわけだが、最初期vimtutorをやるだけではなかなかキーバインドが覚えられず、とても編集速度が遅かったので、同時にメモに書き出すことで覚えていたようである。 このときのメモをこ</description>
+<category>Vim</category>
+</item>
+<item>
+<title>TypeScriptでプロジェクト内独自の型定義をまとめたファイルを読み込ませる方法。</title>
+<link>https://memo.yammer.jp/posts/my-type-of-typescript</link>
+<pubDate>Fri, 15 May 2020 16:01:45 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/my-type-of-typescript</guid>
+<description>TypeScriptでプロジェクト内の型定義をするときのための過去のメモをここに供養する。 日付は2020/1/10。 やりたいこと TypeScriptで、独自の型定義をプロジェクト内の複数のファイルで利用したい。 src/types/index.d.tsで定義する型DayOfWeekをはじめとして、src/typesディレクトリ以下のファイルにある型定義をTypeScriptコンパイラに読み込ませて、プロジェクト内の任意のファイルで利用できるようにする。 // src/types/index.d.ts type DayOfWeek = &quot;Sunday&quot; | &quot;Monday&quot; | &quot;Tues</description>
+<category>TypeScript</category>
+</item>
+<item>
+<title>TELNETでHTTP通信する</title>
+<link>https://memo.yammer.jp/posts/telnet-http</link>
+<pubDate>Fri, 15 May 2020 15:43:55 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/telnet-http</guid>
+<description>TELNETでHTTP通信するだけの記事である。 すぐ終わる。 相手ホストやポート番号、手書きのHTTPヘッダを渡せば、 TELNET で HTTP 通信ができる。 $ telnet memo.yammer.jp 80 Trying 2400:6180:0:d1::4df:d001... Connected to memo-basd4g-net.netlify.com. Escape character is &apos;^]&apos;. GET / HTTP/1.1 Host: memo.yammer.jp Connection: close HTTP/1.1 301 Moved Permanently Ca</description>
+<category>Shell</category>
+<category>HTTP</category>
+</item>
+<item>
+<title>インターネットとTCP/IP</title>
+<link>https://memo.yammer.jp/posts/internet-tcpip</link>
+<pubDate>Fri, 15 May 2020 14:37:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/internet-tcpip</guid>
+<description>今日のインターネットの根幹をなすTCP/IPについての基本的な知識を説明する。 研究室の輪講で「マスタリングTCP/IP 入門編」を読んだことがきっかけ。 参考文献: マスタリングTCP/IP入門編 第二章 pp60-80 インターネット 今この文章もインターネットに公開され、インターネットを介して見ていることと思うが、インターネットとはそもそも何を指すのか。 Internet / The Internet とは、TCP/IPにより全世界を接続しているコンピュータネットワーク、ただ一つのことを指す。 語源は「複数のネットワークを結ぶ」ことを表す internet。 現在ではこの意味は inte</description>
+<category>インターネット</category>
+<category>TCP/IP</category>
+</item>
+<item>
+<title>就活を終えて半年経って思うこと。</title>
+<link>https://memo.yammer.jp/posts/job-hunting-6-month-ago</link>
+<pubDate>Wed, 13 May 2020 14:54:22 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/job-hunting-6-month-ago</guid>
+<description>進路を迷っている知人に就活のことを聞かれ、自分が何を考えて決めたのかを、主に次の視点で綴ったので、ここにも記します。 就職先の決め手 なぜエンジニアとして働くのか なぜ大学院に進学しなかったのか 就職先の決め手 就活時に重視していたところはつぎのようなことがあります。 文化 技術的な成長 会社のサービスに自分が貢献したいと思えるか 会社を決めた理由は、ざっくりまとめると「自分が最も成長できそうだから」でしょうか。 就職予定の会社は、独特の企業文化が特徴です。これが自分が働くモチベーション高く保つことにつながると考えました。 技術が身につく環境でも、自分に合わない環境で働くのは長続きしないでしょ</description>
+<category>お気持ち</category>
+</item>
+<item>
+<title>(余談) User Defaultsとproperty list(plist)</title>
+<link>https://memo.yammer.jp/posts/plist</link>
+<pubDate>Sat, 02 May 2020 07:26:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/plist</guid>
+<description>Mac OS XのUser Defaultsを変更するためのシェルスクリプトを作るツール pdefを制作した。(解説記事: Macの設定を自動化するdefaultsコマンドと、それを助けるpdef) これを作る際にProperty listについて学んだことを記す。 User Defaults User Defaultsは、MacOSXやiOSにおける各アプリケーションが設定などを保持するためのデータベースである。 User Defaultsは、各アプリケーション(正確にはアプリケーションの持つドメイン)ごとにProperty listとして記録される。 普段は各アプリケーションを通して読み書</description>
+<category>macOS</category>
+<category>plist</category>
+</item>
+<item>
+<title>Macの設定を自動化するdefaultsコマンドと、それを助けるpdef</title>
+<link>https://memo.yammer.jp/posts/pdef</link>
+<pubDate>Thu, 30 Apr 2020 15:52:47 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/pdef</guid>
+<description>tl;dr Mac OS XのUser Defaultsの差分をdefaultsコマンドの形式に変換するコマンドラインツール、&quot;pdef&quot;を作った。 本題(pdefでシェルスクリプトを作る)まで飛ばす defaultsコマンドでMacの設定を自動化する Macには、OSや各アプリの設定を保存するUser Defaultsというデータベースがある。 例えばドックの大きさやメニューバーに表示するアイコン、Safariの開発者ツールの有効化フラグ、(使用している場合は)サードパーティ製アプリケーションの設定情報なども記録されている。 これらのUser Defaultsの項目は普通、GUI上の設定画面</description>
+<category>macOS</category>
+<category>plist</category>
+</item>
+<item>
+<title>macOSでの各種設定を自動化するdefaultsコマンド</title>
+<link>https://memo.yammer.jp/posts/macos-defaults</link>
+<pubDate>Mon, 13 Apr 2020 12:57:37 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/macos-defaults</guid>
+<description>研究室や就職先などでのコンピュータのセットアップのために、3月頃からdotfilesを構築している。 その流れでdefaultsコマンドを知ったので、その記録と使い方、調べ方を残しておく。。 defaultsコマンドとは macOSにおける環境設定や各アプリケーションの設定は.plist拡張子のプロパティリストと言われるファイルに記録される。 このプロパティリストを読み書きするためにmacOSに標準で搭載されているのがdefaultsコマンドである。 (詳細は$ man defaultsしてください。) これを利用して、OS全体の環境設定やアプリケーションの設定を自動化するスクリプトをつくって</description>
+<category>macOS</category>
+<category>Shell</category>
+<category>dotfiles</category>
+<category>plist</category>
+</item>
+<item>
+<title>vim-lspを使った、Vim上でのTypeScript(JavaScript)の補完の実現</title>
+<link>https://memo.yammer.jp/posts/vim-lsp-init</link>
+<pubDate>Wed, 01 Apr 2020 08:37:46 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/vim-lsp-init</guid>
+<description>LSPとは LSP(Language Server Protocol)とは、IDEと言語サーバとの通信用プロトコル。 IDEやテキストエディタが補完やコードジャンプなどの様々な機能を実現するために、以前はIDEやエディタのプラグイン内に内包されていた機能を、言語ごとにLanguage Serverとして切り出す。 これにより言語補完部分の製作はLanguage Serverさえ作ってしまえばたくさんのIDE(エディタ)に対応できるし、IDE(エディタ)開発側も、LSPにさえ対応してしまえば各言語への対応を独自実装しなくて済む。 2016年6月にMicrosoftが発表したらしい。 参考: la</description>
+<category>Vim</category>
+<category>LSP</category>
+<category>TypeScript</category>
+<category>JavaScript</category>
+</item>
+<item>
+<title>今日欲しい物(2020/3/30)</title>
+<link>https://memo.yammer.jp/posts/20200330</link>
+<pubDate>Mon, 30 Mar 2020 01:06:22 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/20200330</guid>
+<description>欲しい物 ほしいと思ったものの記録。 docomo系MVNOのSIM 60%の自作キーボード ヘッドホン docomo系のMVNOのSIM 昨年macを買ったのに合わせて初めてiphoneを購入し、それ以降iphone7を使い続けているが、そろそろandroidに戻りたい気持ちが強くなってきた。 ビッグローブの3GB音声通話有りのプランは、半年間400円で使えて2500円キャッシュバックが有るらしい。 iphone7に挿しているsimは最近UQmobileに乗り換えたばかりだし、UQmobileの回線速度は素晴らしいので、乗り換えるのは早計かなと思っている。 しかしUQmobileのsimが使</description>
+<category>日記</category>
+<category>欲しい物</category>
+</item>
+<item>
+<title>すぐやる人に変わる方法</title>
+<link>https://memo.yammer.jp/posts/book-memo-do-now</link>
+<pubDate>Sat, 28 Mar 2020 02:52:38 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/book-memo-do-now</guid>
+<description>2017年11月頃のメモを移動。以下、 先送りせずにすぐやる人に変わる方法 (中経の文庫)を読んだ際のメモだと思われる。 優先度を比較する「前」にやってしまう 「快楽を捨てること」と「苦痛を選択する」ということの2つのことを一度にやろうとしてはダメ まず「快楽を捨てる」ことだけに、全神経を集中 すぐに実行できるところまで分解する どんどん分解する癖がつけば自然と「すぐやる」人になれる 誘導タスクを設定する メールは「下書き」をしておく いまの状況を正直に伝える .. そういうときは、ざっと目を通して、簡単な感想を概ねポジティブに書いて出す 以下軽く目を通して考えてから採用すること すぐやる人は</description>
+<category>本</category>
+</item>
+<item>
+<title>仮想化</title>
+<link>https://memo.yammer.jp/posts/virtualization</link>
+<pubDate>Sat, 28 Mar 2020 02:48:13 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/virtualization</guid>
+<description>過去の自分向けメモを移動。以下、2019/4/27頃のメモである。 最近大学でOSの授業が始まった。 OSの基本的な役割として挙げられるのが、計算資源の管理とハードウェアの仮想化だそうな。 仮想化と聞くとVirtual Machineを使ったサーバー仮想化などあるが、それよりももっと前から仮想化という概念は存在していて。 CPUのハイパースレッディングテクノロジーなんかはCPUの仮想化。 デバイスドライバを介した入出力機器の仮想化。ファイルシステムによりデータを抽象的に操作できるハードディスクの仮想化。アドレスを意識する必要のないメモリの仮想化。 仮想化といわれると、以前はエミュレータなんかに</description>
+<category>仮想化</category>
+<category>お気持ち</category>
+</item>
+<item>
+<title>さくらのVPSとdocker環境構築 </title>
+<link>https://memo.yammer.jp/posts/sakura-vps-docker</link>
+<pubDate>Fri, 27 Mar 2020 18:10:34 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/sakura-vps-docker</guid>
+<description>PCを整理していて発見したメモを移動して公開する。ファイルのタイムスタンプは2017/12/19。 windows10のPCから、さくらVPSでCentOS7のサーバでdockerを使えるようにする記録。 windows10にはあらかじめputty,WinSCPがインストールされていることを想定。 さくらVPS初期設定 OSインストール さくらVPS管理画面にて、&gt; サーバ一覧 &gt; (設定したいサーバ) &gt; 各種設定 &gt; OSインストール OSインストール形式の選択: 標準OS インストールするOSを選んでください: CentOS7 x86_64 rootパスワード: 適当に設定 スタートアッ</description>
+<category>さくらのVPS</category>
+<category>Linux</category>
+<category>CentOS</category>
+<category>Docker</category>
+</item>
+<item>
+<title>お名前.comで取得したドメインをさくらVPSで使う。</title>
+<link>https://memo.yammer.jp/posts/sakura-vps-dns</link>
+<pubDate>Fri, 27 Mar 2020 18:03:08 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/sakura-vps-dns</guid>
+<description>PCを整理していて発見したメモを移動して公開する。ファイルのタイムスタンプは2017/12/19。 お名前.comで取得したドメインをさくらVPSで使う。DNSサーバーはさくらのものを利用する。 お名前.com側の設定 &gt; ドメイン &gt; ドメイン設定 &gt; ネームサーバーの設定 &gt; ネームサーバーの変更 目的のドメイン名にチェックを入れて 登録情報は正しいので、手続きを進める をクリック。 他のネームサーバーを利用 のタブにして 1プライマリネームサーバー(必須) :	ns1.dns.ne.jp 2セカンダリネームサーバー(必須) :	ns2.dns.ne.jp として確認画面へ進み、設定を適用</description>
+<category>さくらのVPS</category>
+<category>ドメイン</category>
+<category>DNS</category>
+</item>
+<item>
+<title>androidの架電アプリによる各種制御プログラムの起動</title>
+<link>https://memo.yammer.jp/posts/android-phone-call-command</link>
+<pubDate>Fri, 27 Mar 2020 17:45:25 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/android-phone-call-command</guid>
+<description>まえがき PC内のデータを整理していたら過去に自分向けに書いていたメモが出てきたので、ここ記す形で移動する。 タイムスタンプをみるに、2017/11/22頃に書かれたものだ。 androidでは、端末の細かい挙動の設定を変更する際、電話アプリで以下に有るようなコマンドを打ち込むと行えることがある。 過去のメモなので、どの機種、環境だと利用できるのか確認していないが、少なくとも SOL26で利用できそうである。 メモ Open Android Mobile Programs Using Commend      Commands               Usages    *#06# = I</description>
+<category>android</category>
+</item>
+<item>
+<title>shellでhistoryを使う</title>
+<link>https://memo.yammer.jp/posts/sh-history</link>
+<pubDate>Wed, 25 Mar 2020 15:13:29 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/sh-history</guid>
+<description>過去に実行したコマンドを再度実行する history ... unix系OSでshellに存在する組み込みコマンドだ。 過去に実行したコマンドを表示できる。 historyコマンドで表示されたコマンドの番号を!と合わせて入力すると、そのコマンドを実行できる。 $ history   1  ls   2  pwd   3  cd /etc $ !1 ls hogedir/    fugafile 以下のようにして全履歴を表示できる。 出力した後はgrepで煮るなり焼くなりするのが良いかと。 $ history -E 1 # 履歴を全て表示する .zshrcでの設定 .zshrcでhistoryに</description>
+<category>zsh</category>
+<category>Shell</category>
+</item>
+<item>
+<title>Ubuntuをダウンロードしてインストールする</title>
+<link>https://memo.yammer.jp/posts/download-ubuntu</link>
+<pubDate>Sat, 21 Mar 2020 14:18:47 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/download-ubuntu</guid>
+<description>Download Ubuntu Desktop 日本語 Remixをダウンロードする Torrentを利用するために、uTorrent classicを使用した。 ただし、catalinaがサポート外と書かれていたのでもしかしたら32bitアプリケーションかもしれない。 Torrentについては別途要検討 Check macでは次のようにしてmd5ハッシュを確認できる ダウンロードページのhashと比較して、ダウンロードが正しく行われたことを確認する $ md5 -q path/to/file # manによると、-qオプションはQuiet modeらしい。md5ハッシュのみ出力する。 # の</description>
+<category>Linux</category>
+<category>Ubuntu</category>
+</item>
+<item>
+<title>dein.vimの導入</title>
+<link>https://memo.yammer.jp/posts/install-dein-vim</link>
+<pubDate>Mon, 16 Mar 2020 15:13:35 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/install-dein-vim</guid>
+<description>dotfiles環境下でvimのプラグイン管理にdein.vimを導入する。 前提 ~/dotfilesで.vimrcを管理している dein.vimも~/dotfilesで管理する 下準備 $ cd ~/dotfiles $ mkdir dein $ touch dein/load.vim .vimrcに追記 ~/dotfiles/.vimrcの先頭に次を記載 &quot; .vimrc &quot;===== dein.vim ===== if filereadable(expand(&apos;dein/load.vim&apos;))     source dein/load.vim endif load.vimに記述 ~/</description>
+<category>Vim</category>
+<category>dotfiles</category>
+</item>
+<item>
+<title>Shell Scriptにおける、カレントディレクトリの固定</title>
+<link>https://memo.yammer.jp/posts/shell-pwd</link>
+<pubDate>Mon, 16 Mar 2020 13:23:27 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/shell-pwd</guid>
+<description>前提 shell script内では、shell scriptを起動する前のカレントディレクトリが引き継がれる。 例えば、次のようなpwd.shを実行する。 #!/bin/sh pwd 次のように、shell scriptを呼び出す際のカレントディレクトリにより、shell scriptの挙動が変化する。 $ pwd /Users/hoge $ ls -F pwd.sh*   dir/ $ sh pwd.sh  /Users/hoge $ cd dir $ sh ../pwd.sh /Users/hoge/dir 解決策 shell scriptの前方に、2行追加する。 #!/bin/sh #</description>
+<category>Shell</category>
+<category>Linux</category>
+<category>macOS</category>
+</item>
+<item>
+<title>hexoによる静的サイトの構築</title>
+<link>https://memo.yammer.jp/posts/hexo</link>
+<pubDate>Mon, 16 Mar 2020 00:09:00 GMT</pubDate>
+<guid>https://memo.yammer.jp/posts/hexo</guid>
+<description>Hexoによる静的サイトの構築 Hexoは、node.jsを使った静的サイトジェネレータ。 markdown形式の記事を静的サイトに簡単に公開できる。 Hexoの導入 $ npm install hexo-cli $ npx hexo init ../memo.yammer.jp  $ cd ../memo.yammer.jp $ npm install $ hexo server # ローカルでサイトの確認 Hexoの設定について 設定は基本的に_config.ymlに書き込む。 例えば、このサイトの_config.ymlが一例。 テーマの導入 Hexoはサードパーティで公開された様々なテー</description>
+<category>hexo</category>
+<category>JavaScript</category>
+<category>ブログ</category>
+</item>
+</channel>
+</rss>

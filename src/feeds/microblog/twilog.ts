@@ -1,7 +1,5 @@
 import { chromium } from "playwright";
 import { JSDOM } from "jsdom";
-import type { FeedItem } from "../lib/types.js";
-import { guessYear } from "../lib/date.js";
 
 export interface Tweet {
   id: string;
@@ -9,6 +7,25 @@ export interface Tweet {
   date: string;
   time: string;
   url: string;
+}
+
+export interface FeedItem {
+  id: string;
+  url: string;
+  content_text?: string;
+  date_published?: string;
+  tags?: string[];
+}
+
+export function guessYear(month: number, day: number): number {
+  const now = new Date();
+  const currentYear = now.getFullYear();
+  const currentMonth = now.getMonth() + 1;
+  const currentDay = now.getDate();
+  if (month > currentMonth || (month === currentMonth && day > currentDay)) {
+    return currentYear - 1;
+  }
+  return currentYear;
 }
 
 export function parseTwilogDateTime(

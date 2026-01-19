@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ja-JP" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:qiita.com,2005:/yammerjp/feed</id>
+  <link rel="alternate" type="text/html" href="https://qiita.com"/>
+  <link rel="self" type="application/atom+xml" href="https://qiita.com/yammerjp/feed"/>
+  <title>yammerjpの記事 - Qiita</title>
+  <description>Qiitaでユーザーyammerjpによる最近の記事</description>
+  <updated>2020-06-14T22:40:42+09:00</updated>
+  <link>https://qiita.com/yammerjp</link>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/1244365</id>
+    <published>2020-06-14T22:40:42+09:00</published>
+    <updated>2021-05-11T02:11:52+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/yammerjp/items/1a38857f6bafb20f065d"/>
+    <url>https://qiita.com/yammerjp/items/1a38857f6bafb20f065d</url>
+    <title>gimonfu で、はてなブログの記事を GitHub と同期する</title>
+    <content type="text">ブログ記事を Markdown で書きたい、さらにgitでバージョン管理したいと思うことはないだろうか？
+私は上記のようなモチベーションで、はてなブログの記事を管理する CLI 「gimonfu」を作成した。
+gimonfuは、はてなブログの記事をMarkdownファイルと...</content>
+    <author>
+      <name>yammerjp</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:qiita.com,2005:PublicArticle/1233230</id>
+    <published>2020-05-30T02:00:50+09:00</published>
+    <updated>2020-05-30T02:00:50+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://qiita.com/yammerjp/items/b1c96de727a53c4b4698"/>
+    <url>https://qiita.com/yammerjp/items/b1c96de727a53c4b4698</url>
+    <title>非同期のまえに同期処理を通してPromiseとasync/awaitを理解する</title>
+    <content type="text">JavaScript といえば非同期処理はつきものだが、非同期や Promise に苦手意識を持つ人も多いのではないだろうか。
+これらの最初の理解のハードルは結構高いと思う。私も理解できずに悶絶した。C言語のポインタよりむずくないか？。。。
+この記事の前半では一旦非同期のこ...</content>
+    <author>
+      <name>yammerjp</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,1346 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+  <title>やんまーのはてなブログ</title>
+  
+  <subtitle>Webアプリケーションを開発したい人</subtitle>
+  
+  <link href="https://basd4g.hatenablog.com/"/>
+  <updated>2020-12-02T12:40:40+09:00</updated>
+  <author>
+    <name>basd4g</name>
+  </author>
+  <generator uri="https://blog.hatena.ne.jp/" version="ce040fcbad0d42a5e1cae88990dad0">Hatena::Blog</generator>
+  <id>hatenablog://blog/17680117127083832352</id>
+
+  
+    
+    
+    <entry>
+        <title>人生で初めて1ヶ月続いた日記の感想</title>
+        <link href="https://basd4g.hatenablog.com/entry/2020/12/02/124040"/>
+        <id>hatenablog://entry/26006613659336943</id>
+        <published>2020-12-02T12:40:40+09:00</published>
+        <updated>2020-12-02T12:40:40+09:00</updated>        <summary type="html">10月はじめから日記を始めた。 今日はその日記について。 きっかけ 春から家から一歩も出ず変化のない日が続くことが多く、次第に時間感覚が失われていき、一昨日にやったことと2週間前にやったことの区別がつかなくなるくらいまで達したことに気づいたのがきっかけ。 これはまずいと思い、自分が食べたもの、やったこと、行った場所、感じたことを記録することにした。 日記を書くことで自分のやったことを振り返られるようにして、家にいても一日一日の変化を感じようと思った。 内容 一日目の一部を抜粋すると次のような内容だった。 朝食 卵かけご飯、インスタント味噌汁 昼食 和風パスタ 夕食 惣菜の寿司と豚の生姜焼き? …</summary>
+        <content type="html">&lt;p&gt;10月はじめから日記を始めた。
+今日はその日記について。&lt;/p&gt;
+
+&lt;h2&gt;きっかけ&lt;/h2&gt;
+
+&lt;p&gt;春から家から一歩も出ず変化のない日が続くことが多く、次第に時間感覚が失われていき、一昨日にやったことと2週間前にやったことの区別がつかなくなるくらいまで達したことに気づいたのがきっかけ。&lt;/p&gt;
+
+&lt;p&gt;これはまずいと思い、自分が食べたもの、やったこと、行った場所、感じたことを記録することにした。
+日記を書くことで自分のやったことを振り返られるようにして、家にいても一日一日の変化を感じようと思った。&lt;/p&gt;
+
+&lt;h2&gt;内容&lt;/h2&gt;
+
+&lt;p&gt;一日目の一部を抜粋すると次のような内容だった。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt; &lt;/th&gt;
+&lt;th style=&quot;text-align:left;&quot;&gt; &lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt; 朝食 &lt;/td&gt;
+&lt;td style=&quot;text-align:left;&quot;&gt; 卵かけご飯、インスタント味噌汁 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; 昼食 &lt;/td&gt;
+&lt;td style=&quot;text-align:left;&quot;&gt; 和風パスタ &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; 夕食 &lt;/td&gt;
+&lt;td style=&quot;text-align:left;&quot;&gt; 惣菜の寿司と豚の生姜焼き? 春菊のおひたし ご飯 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;p&gt;日々誰にも合わず家からも出ない日が続くので、何かを残したい気持ちになり、日記をはじめてみる。
+過去に日記を続けられたことはないのだが、今回こそ。強制ではないけどなるべく毎日、内容の濃さよりも継続することを大事にしていきたい。&lt;/p&gt;
+
+&lt;p&gt;今日は日曜日で、10時前くらいに起きた。&lt;/p&gt;
+
+&lt;p&gt;午前中はだらだら&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%D6%A5%E9%A5%A6%A5%B8%A5%F3%A5%B0&quot;&gt;ブラウジング&lt;/a&gt;して、午後は &lt;a href=&quot;https://memo.basd4g.net&quot;&gt;memo.basd4g.net&lt;/a&gt; のデザインを調整したり、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/favicon&quot;&gt;favicon&lt;/a&gt; をつけたり、Hugoの設定を変えたり。
+あとずっと放置していた大学の研究倫理eラーニングとやらをやった。Webサーバのレスポンスが遅くて離脱しそうになった。&lt;/p&gt;
+
+&lt;p&gt;卒業研究の準備を進める日にしようと思っていたのだけど、これに取り組んだのは結局夜になってから。
+数日前に教授に頂いた資料を読みながらテーマを考える。明日はゼミと面談があるので、どんな内容を面談で話すかざっくり決めておいた。&lt;/p&gt;
+
+&lt;p&gt;義務感で何かをやるのは苦手で、卒業研究も自分の興味が一定あるのに「やらねば」と思うほど手が出なくなる。悪い癖だ。
+やり始めてしまえば多少は手を動かして進むので、「辞めてもいいから5分だけやろう」みたいな自分へのルールを課していかないとだめだな。&lt;/p&gt;
+
+&lt;p&gt;これを書いている時間は既に10/05 1:32だが、寝る前までは10/04カウントとする。今後も寝る前までは日付を超えても前日扱いで日記を書いていこう。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;こんな感じでその日食べたものと日記を書いた時間は毎日書いて、あとは自由に書いていた。&lt;/p&gt;
+
+&lt;p&gt;実家に住んでいるので母の作った料理を食べることが多いが、いざ毎日何を食べたかを記録しようとすると結構考える。
+出てきたものをなんと表記するか、素材はなにか、味付けはなにか、見た目と自分の味覚で判断してから聞いて答え合わせをするのが&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%C6%FC%B2%DD&quot;&gt;日課&lt;/a&gt;になった。&lt;/p&gt;
+
+&lt;p&gt;日記を書いていた時間はいつも寝る前だった。&lt;/p&gt;
+
+&lt;h2&gt;結果&lt;/h2&gt;
+
+&lt;p&gt;日記を始めた日から昨日まで2020/10/04 - 2020/11/30 までの 58日間で集計したら以下のようになった。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;書いた合計日数: 45日 (58日中)&lt;/li&gt;
+&lt;li&gt;連続して書いた日数: 41日 (10/04-11/13)&lt;/li&gt;
+&lt;li&gt;最も長かった文字数: 1943文字 (10/08)&lt;/li&gt;
+&lt;li&gt;最も短かった文字数: 100文字 (11/26)&lt;/li&gt;
+&lt;li&gt;一日の平均文字数: 692文字 (31181文字/45日)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;11月中旬までは毎日書いていて、それ以降はあまり書いていない。 (正確にはあとからその日のことを振り返って書いている日が数日ある。)
+量は書かなくてもいいから毎日続ける当初の目論見は一ヶ月以上続いたし、一日の分量もわりと書いていた。
+明らかに日記を書くのがちょっと楽しかったのだろう。自分への義務感でこの数字にはならない。&lt;/p&gt;
+
+&lt;h2&gt;よかったこと&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;時間を有効に使えた感触を味わえる&lt;/li&gt;
+&lt;li&gt;自分の感情を文章で&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%B8%C0%B8%EC%B2%BD&quot;&gt;言語化&lt;/a&gt;する練習&lt;/li&gt;
+&lt;li&gt;(毎食メモしていたので)自分で作る食事の献立の参考になる&lt;/li&gt;
+&lt;li&gt;(起床/就寝時間をメモしていたので) 生活リズムの可視化&lt;/li&gt;
+&lt;li&gt;(寝る前に書く習慣ができていたので) 寝落ちではなく自分の意志でベッドに入るようになった&lt;/li&gt;
+&lt;li&gt;就寝前の内服薬を忘れずに飲むことができた&lt;/li&gt;
+&lt;li&gt;継続することの実績&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;当初の狙い通り、毎日を振り返ることで「気づいたら一日/一週間/一ヶ月が終わっていた」と時間を無駄にした感を感じることがなくなった。
+これは結構大きな成果で、意識してみると何もやっていないようで何かをこなしていたりしているし、逆に本当に何もやっていない日も自覚できる。&lt;/p&gt;
+
+&lt;p&gt;それまでの感覚だけでなんとなくダラダラしていると罪悪感を感じて微妙な気持ちになるのとは違って、何もしていないから日記に多少書けるようになにかやろうと思えたり、最近活動的だったし今日はダラダラするか、と心の整理がつくことが増えた、気がする。&lt;/p&gt;
+
+&lt;h2&gt;改善したいこと&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;夜型の生活リズムを改善できなかった&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A5%DB&quot;&gt;スマホ&lt;/a&gt;から書く手段を用意していなかったので書くのが億劫になることがあった&lt;/li&gt;
+&lt;li&gt;すべて非公開を前提としていた記事&lt;/li&gt;
+&lt;li&gt;見返しづらいフォーマット&lt;/li&gt;
+&lt;li&gt;さらに長い期間続ける&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;まず１つ目は生活リズム。日記を書いたら寝る、という習慣がついていたのでそれを利用して早く日記を書いて早く寝るようにすべきだった。&lt;/p&gt;
+
+&lt;p&gt;次に公開について。
+毎日書くとプライベートな内容が多くなること、公開する文章を書くのはハードルが上がることから非公開前提で書いていたけれど、日記を続けているうちに&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Twitter&quot;&gt;Twitter&lt;/a&gt;上で毎日公開するログを書いている人を数人観測した。
+すごいなぁ。公開前提で書くのもありだったかもしれない。&lt;/p&gt;
+
+&lt;p&gt;あとは日記のフォーマットについて。
+Webアプリを作って見返せるようにしていたけど、見通しがあまり良くなかった。
+1000字くらいある記事が並んでいると、ぱっと見で何をしたかを振り返れないので、箇条書きの項や目次欄をつくるなどの見返しやすいフォーマットでかけるようなテンプレートを用意すればよかった。
+当初予想していたよりも長めの文章を書いていた日がそこそこあったのも一因。&lt;/p&gt;
+
+&lt;p&gt;&lt;figure class=&quot;figure-image figure-image-fotolife&quot; title=&quot;日記を閲覧するために作っていたWeb Appのkeepa&quot;&gt;&lt;span itemscope itemtype=&quot;http://schema.org/Photograph&quot;&gt;&lt;img src=&quot;https://cdn-ak.f.st-hatena.com/images/fotolife/b/basd4g/20201202/20201202041346.png&quot; alt=&quot;f:id:basd4g:20201202041346p:plain&quot; title=&quot;&quot; class=&quot;hatena-fotolife&quot; itemprop=&quot;image&quot;&gt;&lt;/span&gt;&lt;figcaption&gt;日記を閲覧するために作っていたWeb Appのkeepa&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2&gt;最後に&lt;/h2&gt;
+
+&lt;p&gt;(ブログではない、純粋な)日記を書いてみる試みは総じて良かった。
+自分の行動に自覚的になれるし、案外楽しい。&lt;/p&gt;
+
+&lt;p&gt;夏休みの1行日記なんかはまとめて書くタイプだったし、今まで継続的に日記を書けたことはなかったが、やってみると思ったより続いて(一ヶ月だが)自分で驚いた。&lt;/p&gt;
+
+&lt;p&gt;他人に公開しないものは今回の日記の続きとして、特に公開して問題ないものはブログとして、一日の記録を気軽に書く感じで無理なく続けていきたい。&lt;/p&gt;
+</content>        
+        <link rel="enclosure" href="https://cdn.image.st-hatena.com/image/scale/e4c56896845fb764799b94df87699368d33d995e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbasd4g%2F20201202%2F20201202041346.png" type="image/png" length="0" />
+
+        <author>
+            <name>basd4g</name>
+        </author>
+    </entry>
+    
+  
+    
+    
+    <entry>
+        <title>はてなブログに乗り換えた</title>
+        <link href="https://basd4g.hatenablog.com/entry/firebase2hatenablog"/>
+        <id>hatenablog://entry/26006613585136739</id>
+        <published>2020-06-14T21:26:00+09:00</published>
+        <updated>2020-06-14T22:48:42+09:00</updated>        <summary type="html">昨年に作ったブログの公開場所をはてなブログに変え、名前も「やんまーのブログ」と改名した。 以前は Firebase Hosting 上に、 Nuxt.js の Generate モードで生成した HTML ファイルを公開していた。 移行するにあたって次のことを行った。 はてなブログCLI gimonfu による記事管理 Zeit Nowを使った旧ドメインの転送処理 1. gimonfu による記事管理 はてなブログは Markdown で記事を作成でき、これが乗り換える後押しになった。 Markdown の記事は、以前のブログでも GitHub 上で記事を管理していたので、今回も同じことを行い…</summary>
+        <content type="html">&lt;p&gt;昨年に作ったブログの公開場所を&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;に変え、名前も「やんまーのブログ」と改名した。&lt;/p&gt;
+
+&lt;p&gt;以前は Firebase Hosting 上に、 Nuxt.js の Generate モードで生成した HTML ファイルを公開していた。&lt;/p&gt;
+
+&lt;p&gt;移行するにあたって次のことを行った。&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/CLI&quot;&gt;CLI&lt;/a&gt; gimonfu による記事管理&lt;/li&gt;
+&lt;li&gt;Zeit Nowを使った旧&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ドメイン&lt;/a&gt;の転送処理&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2&gt;1. &lt;a href=&quot;https://github.com/basd4g/gimonfu&quot;&gt;gimonfu&lt;/a&gt; による記事管理&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;は &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Markdown&quot;&gt;Markdown&lt;/a&gt; で記事を作成でき、これが乗り換える後押しになった。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Markdown&quot;&gt;Markdown&lt;/a&gt; の記事は、以前のブログでも &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt; 上で記事を管理していたので、今回も同じことを行いたいと思っていた。&lt;/p&gt;
+
+&lt;p&gt;そこで&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;の &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/CLI&quot;&gt;CLI&lt;/a&gt; を作り、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt;上の&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA&quot;&gt;リポジトリ&lt;/a&gt;と同期するようにした。&lt;br /&gt;
+&lt;a href=&quot;http://developer.hatena.ne.jp/ja/documents/blog/apis/atom&quot;&gt;はてなブログはAPIを公開しており&lt;/a&gt;、これを使って &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Markdown&quot;&gt;Markdown&lt;/a&gt; ファイルをアップロード、ダウンロードしている。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;の &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/CLI&quot;&gt;CLI&lt;/a&gt; には、既に &lt;a href=&quot;https://github.com/x-motemen/blogsync&quot;&gt;blogsync&lt;/a&gt; というソフトウェアがある。&lt;br /&gt;
+当初はこのソフトウェアを使おうと思っていたのだが、新規記事投稿の部分が自分の思うように行かず、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/API&quot;&gt;API&lt;/a&gt;を触っているうちに、全部作ったほうがいいのでは？という気持ちになり &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/CLI&quot;&gt;CLI&lt;/a&gt; が出来上がってしまった。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/x-motemen/blogsync&quot;&gt;blogsync&lt;/a&gt; と &lt;a href=&quot;https://github.com/basd4g/gimonfu&quot;&gt;gimonfu&lt;/a&gt; はどちらも1記事につき、1ファイルで、ファイル先頭に &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/YAML&quot;&gt;YAML&lt;/a&gt; Front matter といわれる &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/YAML&quot;&gt;YAML&lt;/a&gt; 形式の記事情報を含む。
+またURLの構造が記事ファイルの&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%C7%A5%A3%A5%EC%A5%AF%A5%C8&quot;&gt;ディレクト&lt;/a&gt;リ構造となる点も同じだ。&lt;/p&gt;
+
+&lt;p&gt;一方で、記事の投稿に関しては異なる点がある。&lt;br /&gt;
+blogsync では、記事本文のみを標準入力で &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/CLI&quot;&gt;CLI&lt;/a&gt; に渡すが、 gimonfu では、対象&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%C7%A5%A3%A5%EC%A5%AF%A5%C8&quot;&gt;ディレクト&lt;/a&gt;リ内にある新しいファイルを新規記事として認識し投稿する。&lt;/p&gt;
+
+&lt;p&gt;こうすると、CIを組み合わせれば、新規投稿時にも &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/CLI&quot;&gt;CLI&lt;/a&gt; を直&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%C0%DC%BF%A8&quot;&gt;接触&lt;/a&gt;らずに運用できる。&lt;/p&gt;
+
+&lt;p&gt;現にこのブログも、新規投稿時にファイルを追加して &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt; に push すれば、自動的に&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;も更新されるようにしてある。 (逆に&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;が更新されたら&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt; にも反映されるワークフローも設定している。)&lt;/p&gt;
+
+&lt;p&gt;gimonfu の使い方の詳細は &lt;a href=&quot;https://github.com/basd4g/gimonfu&quot;&gt;README&lt;/a&gt; に譲るが、&lt;a href=&quot;https://github.com/basd4g/basd4g.hatenablog.com/tree/master/.github/workflows&quot;&gt;このブログのワークフロー&lt;/a&gt;と同じものを &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt; Actions に指定すれば、記事管理がとても捗ると思うので是非活用して欲しい。
+(なお、&lt;a href=&quot;https://qiita.com/basd4g/items/1a38857f6bafb20f065d&quot;&gt;ワークフローの設定記事をQiitaに投稿した&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2&gt;2. Zeit now を使った旧&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ドメイン&lt;/a&gt;の転送処理&lt;/h2&gt;
+
+&lt;p&gt;旧&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ドメイン&lt;/a&gt;の記事を公開していた URL は全て、express.js を使って、今の記事に 301 リダイレクトするように設定した。(&lt;a href=&quot;https://memo.basd4g.net/posts/zeit-now/&quot;&gt;設定した内容&lt;/a&gt;)&lt;br /&gt;
+Now を初めて使ったが、とても簡単にアプリケーションを公開できるので、さくっと作ったときなどに活用していきたい。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;というわけで、これから&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;で更新していきます。
+よろしくお願いします。&lt;/p&gt;
+</content>        
+        <link rel="enclosure" href="https://ogimage.blog.st-hatena.com/17680117127083832352/26006613585136739/1592142859" type="image/png" length="0" />
+
+        <author>
+            <name>basd4g</name>
+        </author>
+    </entry>
+    
+  
+    
+    
+    <entry>
+        <title>VirtualBoxでUSB機器を認識させる</title>
+        <link href="https://basd4g.hatenablog.com/entry/virtualBoxUSB"/>
+        <id>hatenablog://entry/26006613576772429</id>
+        <published>2020-03-12T17:08:00+09:00</published>
+        <updated>2024-04-22T23:09:14+09:00</updated>        <summary type="html">前提 VirtualBoxは、ホストマシンにつながったUSB機器をゲストOSで利用できる。 また、ホスト側でドライバを用意しなくても、ゲストOS側でドライバを導入すれば利用できる。 ただし、以下の手順を踏んでUSBデバイスを有効化する必要がある。 ここでは、USBシリアル変換ケーブルを使ったシリアル通信機器を認識させることを目的として作業する。 ホストOS: macOS Mojave 10.14.6 VirtualBox: 6.0.14 r133895 (Qt5.6.3) ゲストOS: bento/ubuntu-18.04 作業 1. Extension Packの導入 (2020/03/24…</summary>
+        <content type="html">&lt;h2 id=&quot;前提&quot;&gt;前提&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VirtualBox&quot;&gt;VirtualBox&lt;/a&gt;は、ホストマシンにつながったUSB機器をゲストOSで利用できる。
+また、ホスト側でドライバを用意しなくても、ゲストOS側でドライバを導入すれば利用できる。&lt;/p&gt;
+
+&lt;p&gt;ただし、以下の手順を踏んでUSBデ&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%D0%A5%A4%A5%B9&quot;&gt;バイス&lt;/a&gt;を有効化する必要がある。&lt;/p&gt;
+
+&lt;p&gt;ここでは、&lt;a href=&quot;https://www.amazon.co.jp/gp/product/B007SI18VW/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;USBシリアル変換ケーブル&lt;/a&gt;を使ったシリアル通信機器を認識させることを目的として作業する。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ホストOS: &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/macOS&quot;&gt;macOS&lt;/a&gt; Mojave 10.14.6&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VirtualBox&quot;&gt;VirtualBox&lt;/a&gt;: 6.0.14 r133895 (Qt5.6.3)&lt;/li&gt;
+&lt;li&gt;ゲストOS: &lt;a href=&quot;https://app.vagrantup.com/bento/boxes/ubuntu-18.04&quot;&gt;bento/ubuntu-18.04&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 id=&quot;作業&quot;&gt;作業&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-Extension-Packの導入&quot;&gt;1. Extension Packの導入&lt;/h3&gt;
+
+&lt;p&gt;(2020/03/24追記: homebrew caskにて導入できることを確認しました。&lt;code&gt;$ brew cask install virtualbox-extension-pack&lt;/code&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.virtualbox.org/wiki/Downloads&quot;&gt;Download VirtualBox&lt;/a&gt;から&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/Oracle&quot;&gt;Oracle&lt;/a&gt; &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VM&quot;&gt;VM&lt;/a&gt; &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VirtualBox&quot;&gt;VirtualBox&lt;/a&gt; Extension Packをダウンロードする。&lt;/p&gt;
+
+&lt;p&gt;最新版は、&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VirtualBox&quot;&gt;VirtualBox&lt;/a&gt; x.x.x &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/Oracle&quot;&gt;Oracle&lt;/a&gt; &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VM&quot;&gt;VM&lt;/a&gt; &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VirtualBox&quot;&gt;VirtualBox&lt;/a&gt; Extension Packの1行下のAll supported platformsがリンクになっている。
+バージョンは自分のPCにインストールされている&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VirtualBox&quot;&gt;VirtualBox&lt;/a&gt;に合わせること。
+違うバージョンのものはインストールに失敗する。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.virtualbox.org/wiki/Download_Old_Builds_6_0&quot;&gt;VirtualBox6.0のDownloadページ&lt;/a&gt;や&lt;a href=&quot;https://www.virtualbox.org/wiki/Download_Old_Builds_5_2&quot;&gt;VirtualBox5.2のDownloadページ&lt;/a&gt;から、各バージョンのExtension Packがダウンロードできる。
+今回は6.0.14用のExtension Packをダウンロードした。&lt;/p&gt;
+
+&lt;p&gt;ダウンロードしたファイルをダブルクリックすると、&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VirtualBox&quot;&gt;VirtualBox&lt;/a&gt;のウィンドウが立ち上がりインストールが始まる。&lt;/p&gt;
+
+&lt;h3 id=&quot;2-USBデバイスフィルターに機器を追加&quot;&gt;2. USBデ&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%D0%A5%A4%A5%B9&quot;&gt;バイス&lt;/a&gt;フィルターに機器を追加&lt;/h3&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/Oracle&quot;&gt;Oracle&lt;/a&gt; &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VM&quot;&gt;VM&lt;/a&gt; &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VirtualBox&quot;&gt;VirtualBox&lt;/a&gt;マネージャーを開き、目的の&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VM&quot;&gt;VM&lt;/a&gt;にカーソルを合わせて右クリック -&gt; 設定 を開く。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/oracle-vm-virtualbox-manager.png&quot; alt=&quot;Oracle VM VirtualBoxマネージャー&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ポート -&gt; USB を開く&lt;/p&gt;
+
+&lt;p&gt;USBコントローラを有効化にチェックを入れる。&lt;/p&gt;
+
+&lt;p&gt;USBデ&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%D0%A5%A4%A5%B9&quot;&gt;バイス&lt;/a&gt;フィルター -&gt; 右横の+アイコンをクリック -&gt; 目的のデ&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%D0%A5%A4%A5%B9&quot;&gt;バイス&lt;/a&gt;を選択する。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;usb-device-filter.png&quot; alt=&quot;USBデバイスフィルター&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-VMを起動再起動する&quot;&gt;3. &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VM&quot;&gt;VM&lt;/a&gt;を起動(再起動)する&lt;/h3&gt;
+</content>        
+        <link rel="enclosure" href="https://cdn.image.st-hatena.com/image/scale/ef481985095fe1af8993b531e62f3270a669afda/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fblob.yammer.jp%2Foracle-vm-virtualbox-manager.png" type="image/png" length="0" />
+
+        <author>
+            <name>basd4g</name>
+        </author>
+    </entry>
+    
+  
+    
+    
+    <entry>
+        <title>Javascriptにおける、forとforEachの比較</title>
+        <link href="https://basd4g.hatenablog.com/entry/forAndForEachWithJavascript"/>
+        <id>hatenablog://entry/26006613576772421</id>
+        <published>2020-01-14T18:23:00+09:00</published>
+        <updated>2020-05-31T01:26:01+09:00</updated>        <summary type="html">知人に質問された内容への回答を兼ねて、Javascriptにおける繰り返し文の記法を振り返る。 この記事では、同じ結果を出力する繰り返し文を、次の２つの文法で記述し比較する。 - for文 - forEach()メソッド 他の記法には言及しない。 配列の要素を出力する for文と同様に、forEach()メソッドも繰り返し処理をすることができる。 しかし記述方法は異なり、forEach()は配列のメソッドである。 引数にはコールバック関数(今回はitemを引数とするアロー関数)を渡す。 渡されたコールバック関数を配列の各要素に対し実行することで、繰り返し処理が実現できる。 // for文で要素…</summary>
+        <content type="html">&lt;p&gt;知人に質問された内容への回答を兼ねて、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Javascript&quot;&gt;Javascript&lt;/a&gt;における繰り返し文の記法を振り返る。&lt;/p&gt;
+
+&lt;p&gt;この記事では、同じ結果を出力する繰り返し文を、次の２つの文法で記述し比較する。
+- &lt;a href=&quot;https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Statements/for&quot;&gt;for文&lt;/a&gt;
+- &lt;a href=&quot;https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach&quot;&gt;forEach()メソッド&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;他の記法には言及しない。&lt;/p&gt;
+
+&lt;h2&gt;配列の要素を出力する&lt;/h2&gt;
+
+&lt;p&gt;for文と同様に、forEach()メソッドも繰り返し処理をすることができる。&lt;/p&gt;
+
+&lt;p&gt;しかし記述方法は異なり、forEach()は配列のメソッドである。
+引数にはコールバック関数(今回はitemを引数とするアロー関数)を渡す。&lt;/p&gt;
+
+&lt;p&gt;渡されたコールバック関数を配列の各要素に対し実行することで、繰り返し処理が実現できる。&lt;/p&gt;
+
+&lt;pre class=&quot;code js&quot; data-lang=&quot;js&quot; data-unlink&gt;// for文で要素を羅列
+const items = [ &amp;#34;hello&amp;#34;, 32, true ];
+
+for( let i=0; i&amp;lt; items.length; i++ ){
+  console.log( items[i] );
+}&lt;/pre&gt;
+
+
+
+
+&lt;pre class=&quot;code js&quot; data-lang=&quot;js&quot; data-unlink&gt;// forEach()メソッドで要素を羅列
+const items = [ &amp;#34;hello&amp;#34;, 32, true ];
+
+items.forEach( item =&amp;gt; {
+  console.log(item);
+});&lt;/pre&gt;
+
+
+&lt;p&gt;上記２つの実行結果は一致し、以下を出力する。&lt;/p&gt;
+
+&lt;pre class=&quot;code&quot; data-lang=&quot;&quot; data-unlink&gt;hello
+32
+true&lt;/pre&gt;
+
+
+&lt;h2&gt;配列の添字と配列の要素を出力する&lt;/h2&gt;
+
+&lt;p&gt;forEach()メソッドにわたすコールバック関数で、配列の要素だけでなく添字も受け取る方法を示す。&lt;/p&gt;
+
+&lt;pre class=&quot;code js&quot; data-lang=&quot;js&quot; data-unlink&gt;const items = [ &amp;#34;hello&amp;#34;, 32, true ];
+
+for( let i=0; i&amp;lt;items.length; i++ ){
+  console.log(`${i} : ${items[i]}`);
+}&lt;/pre&gt;
+
+
+
+
+&lt;pre class=&quot;code js&quot; data-lang=&quot;js&quot; data-unlink&gt;const items = [ &amp;#34;hello&amp;#34;, 32, true ];
+
+items.forEach( (item, index) =&amp;gt; {
+  console.log(`${index} : ${item}`);
+})&lt;/pre&gt;
+
+
+&lt;p&gt;上記２つの実行結果は一致し、以下を出力する。&lt;/p&gt;
+
+&lt;pre class=&quot;code&quot; data-lang=&quot;&quot; data-unlink&gt;0 : hello
+1 : 32
+2 : true&lt;/pre&gt;
+
+
+&lt;p&gt;上記のように、forEach()メソッドに渡すコールバック関数の、第一引数は配列の要素、第二引数は配列の添字を受け取るようになっている。&lt;/p&gt;
+
+&lt;p&gt;補足: console.log内で定義している文字列は&lt;a href=&quot;https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/template_strings&quot;&gt;テンプレートリテラル&lt;/a&gt;を利用し、変数の値を埋め込んだ文字列をつくっている。&lt;/p&gt;
+
+&lt;h2&gt;まとめ&lt;/h2&gt;
+
+&lt;p&gt;for文もforEach()メソッドも繰り返し処理を表記できるが、forEach()メソッドのほうが簡潔に表記できるので、ES6が認められる環境であれば、forEach()メソッドを使うのが好ましい。&lt;/p&gt;
+
+&lt;p&gt;ちなみに、forEach()メソッドだけでなく、filter()メソッドやfind()メソッド、map()メソッド等が使える場合は、こちらのほうが更に簡潔に書けるため好ましい。&lt;/p&gt;
+
+&lt;p&gt;その他、&lt;a href=&quot;https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Statements/for...in&quot;&gt;for...in&lt;/a&gt;文や&lt;a href=&quot;https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Statements/for...of&quot;&gt;for...of&lt;/a&gt;文もあるが、ここでは言及しない。&lt;/p&gt;
+
+&lt;h2&gt;参照&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%BD%A1%BC%A5%B9%A5%B3%A1%BC%A5%C9&quot;&gt;ソースコード&lt;/a&gt;をおいてあるgist&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA&quot;&gt;リポジトリ&lt;/a&gt;: &lt;a href=&quot;https://gist.github.com/basd4g/546dd9e378f93f6c24b8c8abab6fe187&quot;&gt;https://gist.github.com/basd4g/546dd9e378f93f6c24b8c8abab6fe187&lt;/a&gt;&lt;/p&gt;
+</content>        
+        <category term="javascript" label="javascript" />
+        
+        <category term="es6" label="es6" />
+        
+        <link rel="enclosure" href="https://ogimage.blog.st-hatena.com/17680117127083832352/26006613576772421/1590855961" type="image/png" length="0" />
+
+        <author>
+            <name>basd4g</name>
+        </author>
+    </entry>
+    
+  
+    
+    
+    <entry>
+        <title>mixi git challenge 12に参加した</title>
+        <link href="https://basd4g.hatenablog.com/entry/mixiGitChallenge"/>
+        <id>hatenablog://entry/26006613576772426</id>
+        <published>2019-11-20T19:40:00+09:00</published>
+        <updated>2020-05-31T01:26:01+09:00</updated>        <summary type="html">2019/10/26、株式会社ミクシィの主催する mixi git challenge #12 に参加した。 株式会社ミクシイ 皆さんご存知、SNSのmixiやモンストを提供しているインターネット企業。 「コミュニケーション」を軸に様々な事業を展開している。 mixi git challenge 株式会社ミクシィが主催する、学生向けのgitを使ったコンテスト。 当日出会った人と2人でチームを組み、gitに関する問題を解く。 3時間半ほどの競技時間の中で、問題を起こしたリポジトリの数々が提供され、それを調査、復旧する。 問題を解くと難易度に応じたポイントを獲得でき、時間内に最も多くポイントを獲得…</summary>
+        <content type="html">&lt;p&gt;2019/10/26、株式会社&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%DF%A5%AF%A5%B7%A5%A3&quot;&gt;ミクシィ&lt;/a&gt;の主催する &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/mixi&quot;&gt;mixi&lt;/a&gt; git challenge #12 に参加した。&lt;/p&gt;
+
+&lt;h2&gt;株式会社ミクシイ&lt;/h2&gt;
+
+&lt;p&gt;皆さんご存知、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/SNS&quot;&gt;SNS&lt;/a&gt;の&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/mixi&quot;&gt;mixi&lt;/a&gt;やモンストを提供しているインターネット企業。
+「コミュニケーション」を軸に様々な事業を展開している。&lt;/p&gt;
+
+&lt;h2&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/mixi&quot;&gt;mixi&lt;/a&gt; git challenge&lt;/h2&gt;
+
+&lt;p&gt;株式会社&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%DF%A5%AF%A5%B7%A5%A3&quot;&gt;ミクシィ&lt;/a&gt;が主催する、学生向けのgitを使ったコンテスト。
+当日出会った人と2人でチームを組み、gitに関する問題を解く。&lt;/p&gt;
+
+&lt;p&gt;3時間半ほどの競技時間の中で、問題を起こした&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA&quot;&gt;リポジトリ&lt;/a&gt;の数々が提供され、それを調査、復旧する。
+問題を解くと難易度に応じたポイントを獲得でき、時間内に最も多くポイントを獲得することを競う。&lt;/p&gt;
+
+&lt;p&gt;2015年から開催しているようで、今回で第12回であった。&lt;/p&gt;
+
+&lt;h2&gt;当日の流れ&lt;/h2&gt;
+
+&lt;p&gt;午前中は&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/mixi-git-challenge/git-challenge-tutorial&quot;&gt;git challenge チュートリアル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%DF%A5%AF%A5%B7%A5%A3&quot;&gt;ミクシィ&lt;/a&gt;社員さんからのLT2本(gitクライアントの&lt;a href=&quot;https://github.com/jonas/tig&quot;&gt;Tig&lt;/a&gt;について)(社内のモバイルチームでのCI/CD活用)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;だった。&lt;/p&gt;
+
+&lt;p&gt;お昼を挟んで競技開始。競技内容は公開できないが、過去問題が公開されているのでどんなことをするのかは以下が参考になる。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://alpha.mixi.co.jp/entry/2015/11/24/083300&quot;&gt;第1回git challengeの出題内容を一部公開します&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/mixi-git-challenge/git-challenge-is-order-an-adding&quot;&gt;問題: なぜか新しいファイルを追加できないリポジトリ（難易度: EASY）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/mixi-git-challenge/git-challenge-minesweeper&quot;&gt;問題: Minesweeper（難易度: NORMAL）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;難易度ごとの問題を簡単なものから解いていった。チームメンバーと一緒に考えたり、分担したりを適宜組み合わせて進めた。&lt;br /&gt;
+前半はそこそこのペースで進めたものの、競技後半は得点が伸びず勝利することは出来なかった。&lt;/p&gt;
+
+&lt;p&gt;3.5-4時間ほどの競技時間の後、解説、&lt;a href=&quot;https://github.com/shumon84/GitQuiz&quot;&gt;gitに関するクイズ&lt;/a&gt;、そして懇親会が行われた。
+疲れたあとのご飯は美味しい(小並感)。&lt;/p&gt;
+
+&lt;h2&gt;参加しての感想&lt;/h2&gt;
+
+&lt;p&gt;gitはとても奥が深い。
+今までgitの一部分しか使っていなかったことを痛感した。沢山の学びを得ることが出来たので、これからもっとgitを知ろうと思う。&lt;/p&gt;
+
+&lt;p&gt;ちなみに、翌日自分の&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA&quot;&gt;リポジトリ&lt;/a&gt;で、git challengeで学んだコマンドを用いてdangling commitを復旧しなければならない事態が訪れた。早速バリューが出ている。(自分が悪い)&lt;/p&gt;
+
+&lt;h2&gt;学び&lt;/h2&gt;
+
+&lt;p&gt;(問題の公開を避けるため詳細は省くが、)問題からgitを使った様々なトラブルの対処や便利な使い方を知ることが出来た。&lt;/p&gt;
+
+&lt;p&gt;Pro Gitという書籍の翻訳版が無料で公開されており、gitについての理解が深まると思うので、これから参加する方は是非参考にしてほしい。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://git-scm.com/book/ja/v2&quot;&gt;Pro Git book&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;参考&lt;/h2&gt;
+
+&lt;p&gt;他参加者のブログ&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.koffein.dev/git-challenge-12/&quot;&gt;git challenge #12に参加しました - カフェイン中毒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://chouxcreams.hatenablog.com/entry/2019/10/29/011636&quot;&gt;git challenge#12に参加してきた - chouxcreamsのブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://dionomusuko.hatenablog.com/entry/2019/11/03/022344&quot;&gt;mixi git challenge #12 に参加してきました。 - dionomusukoのブログ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>        
+        <category term="mixi" label="mixi" />
+        
+        <category term="git" label="git" />
+        
+        <link rel="enclosure" href="https://ogimage.blog.st-hatena.com/17680117127083832352/26006613576772426/1590855961" type="image/png" length="0" />
+
+        <author>
+            <name>basd4g</name>
+        </author>
+    </entry>
+    
+  
+    
+    
+    <entry>
+        <title>TypeScriptでprivate methodを外部から呼ぶ</title>
+        <link href="https://basd4g.hatenablog.com/entry/privateMethodTest"/>
+        <id>hatenablog://entry/26006613576772420</id>
+        <published>2019-10-17T11:50:00+09:00</published>
+        <updated>2020-05-31T01:26:01+09:00</updated>        <summary type="html">題名通りの話。 TypeScriptにてprivate methodを単体テストするとき、直接呼べないので困ることがある。 private methodを外部から呼べないのは正しいふるまいだが、テストプログラム側からも呼べないのは不便だ。裏技的ではあるが、TypeScriptの制限を回避して呼ぶ方法があるので紹介する。 前提 TypeScriptのprivate JavaScript(ES6~)では、class記法が使える。 TypeScriptではclass記法で書かれたmethodにprivate修飾子をつけることが出来る。 private修飾子をつけると、同じクラス内からしかmethod…</summary>
+        <content type="html">&lt;p&gt;題名通りの話。&lt;/p&gt;
+
+&lt;p&gt;TypeScriptにてprivate methodを&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%C3%B1%C2%CE%A5%C6%A5%B9%A5%C8&quot;&gt;単体テスト&lt;/a&gt;するとき、直接呼べないので困ることがある。
+private methodを外部から呼べないのは正しいふるまいだが、テストプログラム側からも呼べないのは不便だ。裏技的ではあるが、TypeScriptの制限を回避して呼ぶ方法があるので紹介する。&lt;/p&gt;
+
+&lt;h2&gt;前提 TypeScriptのprivate&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/JavaScript&quot;&gt;JavaScript&lt;/a&gt;(ES6~)では、class記法が使える。&lt;br /&gt;
+TypeScriptではclass記法で書かれたmethodにprivate修飾子をつけることが出来る。
+private修飾子をつけると、同じクラス内&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%AB%A4%E9%A4%B7&quot;&gt;からし&lt;/a&gt;かmethodを呼べない。&lt;/p&gt;
+
+&lt;p&gt;具体的な記法は下の例を参照のこと。&lt;/p&gt;
+
+&lt;h2&gt;解決策&lt;/h2&gt;
+
+&lt;p&gt;TypeScriptのprivate修飾子によるアクセス制限を回避する方法は2つある。&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;hogeClass.privateMethod()&lt;/code&gt;だと呼べないときを例に取ると&lt;/p&gt;
+
+&lt;h3&gt;1. &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/brackets&quot;&gt;brackets&lt;/a&gt;記法&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;hogeClass[&#39;privateMethod&#39;]()&lt;/code&gt;と呼ぶ。&lt;/p&gt;
+
+&lt;h3&gt;2. クラスをanyでキャストする&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;;(hogeClass as any).privateMethod()&lt;/code&gt;と呼ぶ。&lt;/p&gt;
+
+&lt;p&gt;前文との間に&lt;code&gt;;&lt;/code&gt;を入れないとエラーを出すので注意。&lt;/p&gt;
+
+&lt;h2&gt;例&lt;/h2&gt;
+
+&lt;pre class=&quot;code ts&quot; data-lang=&quot;ts&quot; data-unlink&gt;// TypeScript v3.5.3
+
+class HogeClass {
+
+  private privateMethod (): void {
+    console.log(&amp;#34;private method&amp;#34;)
+  }
+
+  public publicMethod ():void {
+    console.log(&amp;#39;public method&amp;#39;)
+
+    //呼べる
+    this.privateMethod()
+  }
+}
+
+const hogeClass = new HogeClass()
+
+// 呼べる
+hogeClass.publicMethod()
+
+// 呼べない コンパイルエラー
+// hogeClass.privateMethod()
+
+// 呼べる
+hogeClass[&amp;#39;privateMethod&amp;#39;]()
+
+// 呼べる セミコロンが必要
+;(hogeClass as any).publicMethod()&lt;/pre&gt;
+
+
+&lt;h2&gt;注意&lt;/h2&gt;
+
+&lt;p&gt;TypeScriptの制限をすり抜けるということは、methodが存在するかどうか評価されないので、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/typo&quot;&gt;typo&lt;/a&gt;したり存在しないmethodを呼ぶ危険性がある。&lt;/p&gt;
+
+&lt;p&gt;テストで使うのは仕方ないかもしれないけれど、基本はあまり使うべきではなさそう。&lt;/p&gt;
+
+&lt;h2&gt;感想&lt;/h2&gt;
+
+&lt;p&gt;anyでキャストして呼べるのはまだいいとして、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/brackets&quot;&gt;brackets&lt;/a&gt;記法で呼べてしまうのは裏技感がすごい。
+最近TypeScriptに入門したが、型があるのはありがたいといっても、意外と実行時にこのような抜けがあると感じてしまうことがあったり。&lt;/p&gt;
+
+&lt;p&gt;まぁjsやからな。&lt;/p&gt;
+
+&lt;h2&gt;参考&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;qiita.com/hitochan777/items/f68e77f13becd24e2691&quot;&gt;Typescriptでprivateメソッドをテストする&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>        
+        <category term="TypeScript" label="TypeScript" />
+        
+        <category term="JavaScript" label="JavaScript" />
+        
+        <category term="テスト" label="テスト" />
+        
+        <link rel="enclosure" href="https://ogimage.blog.st-hatena.com/17680117127083832352/26006613576772420/1590855961" type="image/png" length="0" />
+
+        <author>
+            <name>basd4g</name>
+        </author>
+    </entry>
+    
+  
+    
+    
+    <entry>
+        <title>GMOペパボのインターンシップに参加した</title>
+        <link href="https://basd4g.hatenablog.com/entry/GMOpepaboInternship"/>
+        <id>hatenablog://entry/26006613576772423</id>
+        <published>2019-10-16T10:51:00+09:00</published>
+        <updated>2024-04-22T23:09:14+09:00</updated>        <summary type="html">GMOペパボ株式会社(以下ペパボと表記させていただく) 福岡オフィスの2019年 夏インターンシップに参加した。 2019/8/21から2019/8/30の平日8日間、ムームードメインチームのフロントエンドエンジニアとして開発させていただいたので、その記録である。 ↑オフィスの入口。 インターンシップ最終日にパートナーさん1の前で成果発表会をしたのだが、話しきれなかった部分もあるのでそれを消化する意味もある。 長文失礼したい。 ペパボとムームードメイン ペパボとは GMOペパボ株式会社は東京・福岡・鹿児島にオフィスを構えるGMOグループの企業の一つ。「インターネットで可能性をつなげる、ひろげる…</summary>
+        <content type="html">&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/GMO%A5%DA%A5%D1%A5%DC&quot;&gt;GMOペパボ&lt;/a&gt;株式会社(以下ペパボと表記させていただく) 福岡オフィスの2019年 夏&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;に参加した。&lt;br/&gt;
+2019/8/21から2019/8/30の平日8日間、&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%E0%A1%BC%A5%E0%A1%BC%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ムームードメイン&lt;/a&gt;チームのフロントエンドエンジニアとして開発させていただいたので、その記録である。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/pepabo-intern6.jpg&quot; alt=&quot;ペパボ福岡オフィスの入り口&quot; /&gt;
+↑オフィスの入口。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;最終日にパートナーさん&lt;a id=&quot;annotation-from-1&quot; href=&quot;#annotation-to-1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;の前で成果発表会をしたのだが、話しきれなかった部分もあるのでそれを消化する意味もある。
+長文失礼したい。&lt;/p&gt;
+
+&lt;h2 id=&quot;ペパボとムームードメイン&quot;&gt;ペパボと&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%E0%A1%BC%A5%E0%A1%BC%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ムームードメイン&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;ペパボとは&quot;&gt;ペパボとは&lt;/h3&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/GMO%A5%DA%A5%D1%A5%DC&quot;&gt;GMOペパボ&lt;/a&gt;株式会社は東京・福岡・鹿児島にオフィスを構える&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/GMO&quot;&gt;GMO&lt;/a&gt;グループの企業の一つ。「インターネットで可能性をつなげる、ひろげる」をミッションに、インターネットで個人の表現活動をする人を支援するサービスを展開している。
+&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%EC%A5%F3%A5%BF%A5%EB%A5%B5%A1%BC%A5%D0&quot;&gt;レンタルサーバ&lt;/a&gt;ー「&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%ED%A5%EA%A5%DD%A5%C3%A5%D7&quot;&gt;ロリポップ&lt;/a&gt;」、ハンドメイドマーケット「minne」等のサービスがある。&lt;/p&gt;
+
+&lt;p&gt;丁度&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;期間中に企業紹介動画&lt;a id=&quot;annotation-from-2&quot; href=&quot;#annotation-to-2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;が公開された。( &lt;a href=&quot;https://twitter.com/achamixx/status/1167253538595954688&quot;&gt;別ver&lt;/a&gt;もある。)&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ANXs_ZdQtt4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;ちなみに私は&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;でDiscover New Something&lt;a id=&quot;annotation-from-3&quot; href=&quot;#annotation-to-3&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;した。&lt;/p&gt;
+
+&lt;p&gt;福岡オフィスでは&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%DB%A5%B9%A5%C6%A5%A3%A5%F3%A5%B0&quot;&gt;ホスティング&lt;/a&gt;系サービスの開発を行っていて、今回はその中の&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%E0%A1%BC%A5%E0%A1%BC%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ムームードメイン&lt;/a&gt;チームに参加させていただいた。&lt;/p&gt;
+
+&lt;h3 id=&quot;ムームードメインとは&quot;&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%E0%A1%BC%A5%E0%A1%BC%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ムームードメイン&lt;/a&gt;とは&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://muumuu-domain.com&quot;&gt;ムームードメイン&lt;/a&gt;とは、インターネットの&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%C6%C8%BC%AB%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;独自ドメイン&lt;/a&gt;取得サービスとしてペパボの中でも古くから続いているサービスの一つ。私も利用している。&lt;/p&gt;
+
+&lt;h2 id=&quot;インターンシップでしたこと&quot;&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;でしたこと&lt;/h2&gt;
+
+&lt;p&gt;Nuxt.jsで作られているページへの機能追加を行った。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://muumuu-domain.com/domain/price&quot;&gt;ドメインの価格一覧ページ&lt;/a&gt;に価格によるソート機能を追加した。
+&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ドメイン&lt;/a&gt;一覧表のヘッダ箇所にボタンが追加され、昇順・降順ソートが出来るようになった。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;価格一覧の&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ドメイン&lt;/a&gt;を新規取得、更新、移管の価格順に並び替えることができるようになりました。ご予算に合った&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ドメイン&lt;/a&gt;を見つけやすくなります。&lt;a href=&quot;https://t.co/QL670SQXx0&quot;&gt;https://t.co/QL670SQXx0&lt;/a&gt; &lt;a href=&quot;https://t.co/wLcWnas2Cm&quot;&gt;pic.twitter.com/wLcWnas2Cm&lt;/a&gt;&lt;/p&gt;&amp;mdash; &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%E0%A1%BC%A5%E0%A1%BC%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ムームードメイン&lt;/a&gt; (@muumuu_domain) &lt;a href=&quot;https://twitter.com/muumuu_domain/status/1169492805137256449?ref_src=twsrc%5Etfw&quot;&gt;September 5, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+&lt;p&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;他の&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3&quot;&gt;インターン&lt;/a&gt;参加者は次のようなことをやっていたようだ。各々のスキルに合わせて、チームに配属され実際の業務に加わる形式で&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;が進む。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;研究所でデータ解析&lt;/li&gt;
+&lt;li&gt;CIツール周りをごにょごにょ&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/Web%A5%B5%A1%BC%A5%D3%A5%B9&quot;&gt;Webサービス&lt;/a&gt;に機能追加&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/API&quot;&gt;API&lt;/a&gt;を書く&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 id=&quot;学んだこと---技術の話&quot;&gt;学んだこと - 技術の話&lt;/h2&gt;
+
+&lt;h3 id=&quot;コードリーディング&quot;&gt;コードリーディング&lt;/h3&gt;
+
+&lt;p&gt;今回の&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;では新たなページの追加ではなく既存ページへの機能追加を行ったことから、既に完成している&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ドメイン&lt;/a&gt;の価格を表示するロジックに手を加えることになった。
+既存の実装の意図を汲みながら、他ページへの影響を与えないよう設計することに注意した。&lt;/p&gt;
+
+&lt;p&gt;コードを呼んでロジックとデータの流れを追うことは、経験が少なかったので新鮮だった。コードを読むのは面白かったが、実装の意図を汲むのは結構難しかった。似たような機能を持つ&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/OSS&quot;&gt;OSS&lt;/a&gt;ライブラリも見てみたりしながら設計を固めた。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/pepabo-intern7.jpg&quot; alt=&quot;名言&quot; /&gt;
+↑かの有名なお言葉。&lt;/p&gt;
+
+&lt;h3 id=&quot;実際に動いているサービス&quot;&gt;実際に動いているサービス&lt;/h3&gt;
+
+&lt;p&gt;サービスの規模感、エンジニアや関わる人の人数、サーバーの構成や使用されている技術スタックを知れた。1つのサービスを俯瞰して、どのように動いているのかを学べたのは貴重な経験である。&lt;/p&gt;
+
+&lt;p&gt;またデザイナーさんとの分業の仕方やディレクターさんとの仕様の確認など、チームとしてサービスを支えている姿をみることができ、&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;の中で経験することもできた。&lt;/p&gt;
+
+&lt;h3 id=&quot;issueとPullRequest&quot;&gt;issueとPullRequest&lt;/h3&gt;
+
+&lt;p&gt;恥ずかしながらチーム開発を今夏まで経験してこなかったので、&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt;のissueとPullreqを使う機会がなかった。
+ソフトウェアの実装に関する相談やまとめ、記録としても非常に有用で期間中たくさんお世話になった。&lt;/p&gt;
+
+&lt;p&gt;コードレビューは学ぶことがとても多く、これからの私のコードにたくさん取り入れていきたい。(既に恩恵を享受している。)&lt;/p&gt;
+
+&lt;p&gt;PullRequestを出す際に参考にしたいのがこちら↓。私が出したプルリクがこれにどこまで沿えていたかはおいておいて(笑)、自戒の念としても今後の参考のためにも残しておく。
+特に私のようなプルリク歴の浅い方にお勧めしたい。&lt;/p&gt;
+
+&lt;script async class=&quot;speakerdeck-embed&quot; data-id=&quot;5ea4a551f0334f888cbb13ab81b8f860&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;
+&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%BB%B2%BE%C8%B8%B5&quot;&gt;参照元&lt;/a&gt;: &lt;a href=&quot;https://kimromi.github.io/2017-08-31/pull-request.html&quot;&gt;ぼくのかんがえたさいきょうのPullRequest&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;テスト&quot;&gt;テスト&lt;/h3&gt;
+
+&lt;p&gt;個人で開発しているとテストを書くという発想に至らず、今までテストを書いてこなかった。そのため、今回の&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;でテストを書いたのもとても良い経験だった。
+Vue&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%B3%A5%F3%A5%DD%A1%BC%A5%CD%A5%F3%A5%C8&quot;&gt;コンポーネント&lt;/a&gt;を自在に手のひらで転がせるよう、転がれ転がれと念じながら過ごした(嘘)。&lt;/p&gt;
+
+&lt;p&gt;テストを書くといいことが沢山ある。他人のためになるだけでなく、既存の実装や構造を振り返るいい機会にもなるし、自分がのちに実装するときに恩恵(正しい動作を保証できる&lt;a id=&quot;annotation-from-4&quot; href=&quot;#annotation-to-4&quot;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;)を享受できる(した)。&lt;/p&gt;
+
+&lt;h2 id=&quot;感じたこと---ペパボの話&quot;&gt;感じたこと - ペパボの話&lt;/h2&gt;
+
+&lt;p&gt;ペパボは次の&lt;a href=&quot;https://recruit.pepabo.com/info/important/&quot;&gt;「わたしたちが大切にしている3つのこと」&lt;/a&gt;を掲げている。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;みんなと仲良くすること&lt;/li&gt;
+&lt;li&gt;ファンを増やすこと&lt;/li&gt;
+&lt;li&gt;アウトプットすること&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;パートナー皆さんにこれが浸透していて、日々実践されているのを感じた。&lt;/p&gt;
+
+&lt;h3 id=&quot;みんなと仲良くすること&quot;&gt;みんなと仲良くすること&lt;/h3&gt;
+
+&lt;p&gt;まずパートナーさんが優しい。&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3&quot;&gt;インターン&lt;/a&gt;生に対してだけでなく、職種やチームの壁を超えてそれぞれが仲が良い、(いい距離感だ)と感じた。
+&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;期間中、私を&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3&quot;&gt;インターン&lt;/a&gt;生と知らないパートナーさんが声をかけてくださってお話したり、社内のシニアエンジニアの方に実装について聞いたり、いろんなパートナーさんと接する機会があったがどの方も親切だった。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/pepabo-intern2.jpg&quot; alt=&quot;づっきーさんと私&quot; /&gt;&lt;br/&gt;
+↑サポーターのづっきーさんに助けられている姿。づっきーさんにも沢山仲良くしていただいた。そして沢山助けけていただいた。&lt;/p&gt;
+
+&lt;h3 id=&quot;ファンを増やすこと&quot;&gt;ファンを増やすこと&lt;/h3&gt;
+
+&lt;p&gt;会社やサービスを好きな人が多い。(観測範囲において。) しかし会社に魅力があるだけでなく、パートナーさんにファンになってしまうような惹きつける力がある。これこそ「ファンを増やすこと」を実践されている姿だと感じた。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/pepabo-intern4.jpg&quot; alt=&quot;スリスリくん&quot; /&gt;&lt;br/&gt;
+↑&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3&quot;&gt;インターン&lt;/a&gt;生が貰えるsuzuri&lt;a id=&quot;annotation-from-5&quot; href=&quot;#annotation-to-5&quot;&gt;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt;のキャ&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%E9%A5%AF&quot;&gt;ラク&lt;/a&gt;ター「スリスリくん」のぬいぐるみ。非売品でパートナーさんも簡単には手に入れられないらしい。&lt;/p&gt;
+
+&lt;h3 id=&quot;アウトプットすること&quot;&gt;アウトプットすること&lt;/h3&gt;
+
+&lt;p&gt;開発で&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt; Enterpriseを利用しており、issueやPullreqもアウトプットの形だと思う。
+そこに過去の経緯が残されていることで、今回も開発の資料としてとても参考になった。&lt;/p&gt;
+
+&lt;p&gt;その他&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;中に紹介された参考資料がパートナーさんが社外に公開したスライドであったことや(&lt;a href=&quot;#issue%E3%81%A8PullRequest&quot;&gt;先程のさいきょうのPullReq&lt;/a&gt;もその一つ)、パートナーの方が登壇する技術イベントに参加させていただいたこと等、アウトプットされているのを肌に感じた。&lt;/p&gt;
+
+&lt;p&gt;LT経験の浅い私のためにLTの機会を増やして頂き、&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;期間中に合わせて3回発表をした。issueもPullreqも書いたし、私もパートナーさんを見習ってもっとアウトプットしていきたい。&lt;/p&gt;
+
+&lt;h2 id=&quot;感じたこと---福岡の話&quot;&gt;感じたこと - 福岡の話&lt;/h2&gt;
+
+&lt;p&gt;人生初の九州上陸だったが、福岡は住みやすそうな街だった。&lt;/p&gt;
+
+&lt;h3 id=&quot;コンパクトシティ&quot;&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%B3%A5%F3%A5%D1%A5%AF%A5%C8%A5%B7%A5%C6%A5%A3&quot;&gt;コンパクトシティ&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;空港から街が近い、というよりも街に空港があるので移動が楽。(成田空港、お前のことだぞ。&lt;a id=&quot;annotation-from-6&quot; href=&quot;#annotation-to-6&quot;&gt;&lt;sup&gt;6&lt;/sup&gt;&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3 id=&quot;食べ物が美味しい&quot;&gt;食べ物が美味しい&lt;/h3&gt;
+
+&lt;p&gt;ペパボの福岡&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;で、日報にご飯が美味かったと書かれるのはあるあるらしい。もちろん私も書いた。
+一つ一つ紹介しているとそれだけで記事になってしまうので、写真でまとめて振り返る。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/pepabo-intern5.jpg&quot; alt=&quot;福岡で食べたおいしいもの&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;帰りに空港でお土産をみて、明太子とごまさばを食べそびれたことに気づいた。&lt;/p&gt;
+
+&lt;h2 id=&quot;まとめ&quot;&gt;まとめ&lt;/h2&gt;
+
+&lt;p&gt;上述の通り、技術を学ぶことと会社を知ることの2側面ともに得るものが多かった。&lt;/p&gt;
+
+&lt;p&gt;実は応募前は私の技術力が通用するのか不安だった。しかし、ペパボの皆さんに本当に優しく丁寧にフォローしていただいて、&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;期間内に機能をリリースできた。&lt;/p&gt;
+
+&lt;p&gt;また同じ期間に他チームへ配属されていた&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3&quot;&gt;インターン&lt;/a&gt;生にもよい刺激を受けた。特に私が新しい技術分野に触れていくモチベーションに繋がった。同年代の強い人すごい、みんなすごい(小並感)。&lt;/p&gt;
+
+&lt;p&gt;次は冬にも同様の就業型&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;を予定しているそうなので、この業界を考えてる人にぜひ勧めたい。&lt;/p&gt;
+
+&lt;h2 id=&quot;おわりに&quot;&gt;おわりに&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;中に関わらせていただいたた皆さんにとてもお世話になりました。
+特にサポーターのづっきーさんには技術面で沢山サポートしていただきました。初日緊張してパスワードを永遠に&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/typo&quot;&gt;typo&lt;/a&gt;していたのが懐かしいです。&lt;br/&gt;
+本当にありがとうございました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/pepabo-intern1.jpg&quot; alt=&quot;集合写真&quot; /&gt;
+↑パートナーさんと我々&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3&quot;&gt;インターン&lt;/a&gt;生。最高の夏。&lt;/p&gt;
+
+&lt;hr class=&quot;gt-article-annotation-horizontalrule&quot;/&gt;
+
+
+
+
+&lt;ul class=&quot;gt-article-annotation-list&quot;&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-1&quot; href=&quot;#annotation-from-1&quot;&gt;^1&lt;/a&gt;: ペパボで働く人のこと&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-2&quot; href=&quot;#annotation-from-2&quot;&gt;^2&lt;/a&gt;: 正確にはペパボ協賛の技術イベント&lt;a href=&quot;https://builderscon.io&quot;&gt;builderscon2019&lt;/a&gt;の幕割CM&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-3&quot; href=&quot;#annotation-from-3&quot;&gt;^3&lt;/a&gt;: 記事中の&lt;a href=&quot;https://www.youtube.com/watch?v=ANXs_ZdQtt4&quot;&gt;動画&lt;/a&gt;を参照。buildersconのコンセプトらしい。(&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;とbuildersconに直接の関係はない。)&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-4&quot; href=&quot;#annotation-from-4&quot;&gt;^4&lt;/a&gt;: もちろん、テストはテストコードとして書かれた動作しか保証できないので、ある程度正しい動作を保証できるようなテストを書くこと、テストで何が保証されているのかを理解しておくことが必要がある。&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-5&quot; href=&quot;#annotation-from-5&quot;&gt;^5&lt;/a&gt;: ペパボが運営するオリジナルグッズの作成・販売サービス。&lt;a href=&quot;https://suzuri.jp&quot;&gt;suzuri&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-6&quot; href=&quot;#annotation-from-6&quot;&gt;^6&lt;/a&gt;: さいたまに住んでいると羽田も遠い。&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>        
+        <category term="internship" label="internship" />
+        
+        <category term="ペパボ" label="ペパボ" />
+        
+        <link rel="enclosure" href="https://cdn.image.st-hatena.com/image/scale/0c2e667745d35de63aa699d1f852f2601ddf8461/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fblob.yammer.jp%2Fpepabo-intern6.jpg" type="image/jpeg" length="0" />
+
+        <author>
+            <name>basd4g</name>
+        </author>
+    </entry>
+    
+  
+    
+    
+    <entry>
+        <title>セレスのインターンシップ(ハッカソン)に参加した</title>
+        <link href="https://basd4g.hatenablog.com/entry/ceresHackathon"/>
+        <id>hatenablog://entry/26006613576772422</id>
+        <published>2019-10-15T12:15:00+09:00</published>
+        <updated>2024-04-22T23:09:14+09:00</updated>        <summary type="html">2019/8/7-2019/8/9の3日間、株式会社セレスの開催するインターンシップに参加した。 インターンシップの内容はWebサービス開発のハッカソン。お題に合わせて3日間で企画からプレゼンまでを行った。 セレスとは 株式会社セレスは東京の用賀にオフィスを構えるインターネットメディア企業。「インターネットマーケティングを通じて豊かな世界を実現する」を経営理念に掲げ、多数のサービスを展開している。 国内最大級のポイントサイト「モッピー」をはじめとするモバイルサービス事業の他に、仮想通貨に関するフィナンシャルサービス事業も手掛ける。 作ったもの 今回のハッカソンのお題は「ユーザーが楽しくなるWe…</summary>
+        <content type="html">&lt;p&gt;2019/8/7-2019/8/9の3日間、株式会社セレスの開催する&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;に参加した。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;の内容は&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/Web%A5%B5%A1%BC%A5%D3%A5%B9&quot;&gt;Webサービス&lt;/a&gt;開発の&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%AB%A5%BD%A5%F3&quot;&gt;ハッカソン&lt;/a&gt;。お題に合わせて3日間で企画からプレゼンまでを行った。&lt;/p&gt;
+
+&lt;h2 id=&quot;セレスとは&quot;&gt;セレスとは&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ceres-inc.jp&quot;&gt;株式会社セレス&lt;/a&gt;は東京の用賀にオフィスを構えるインターネットメディア企業。「インターネット&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0&quot;&gt;マーケティング&lt;/a&gt;を通じて豊かな世界を実現する」を経営理念に掲げ、多数のサービスを展開している。&lt;/p&gt;
+
+&lt;p&gt;国内最大級のポイントサイト「&lt;a href=&quot;pc.moppy.jp&quot;&gt;モッピー&lt;/a&gt;」をはじめとする&lt;a href=&quot;https://ceres-inc.jp/business/mobile/&quot;&gt;モバイルサービス事業&lt;/a&gt;の他に、仮想通貨に関する&lt;a href=&quot;https://ceres-inc.jp/business/financial/&quot;&gt;フィナンシャルサービス事業&lt;/a&gt;も手掛ける。&lt;/p&gt;
+
+&lt;h2 id=&quot;作ったもの&quot;&gt;作ったもの&lt;/h2&gt;
+
+&lt;p&gt;今回の&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%AB%A5%BD%A5%F3&quot;&gt;ハッカソン&lt;/a&gt;のお題は「ユーザーが楽しくなる&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/Web%A5%B5%A1%BC%A5%D3%A5%B9&quot;&gt;Webサービス&lt;/a&gt;をつくる」。
+それに合わせて&lt;a href=&quot;#%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%BD%E3%83%B3%E3%81%A8%E8%A8%AD%E8%A8%88&quot;&gt;後述のアイデアソン&lt;/a&gt;を通して生まれたのが「お酒酒め」。&lt;/p&gt;
+
+&lt;p&gt;「お酒酒め」(おしゅしゅめ)とは、お酒に詳しくない人に向けて、新しいお酒に出会うことを支援する&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/Web%A5%B5%A1%BC%A5%D3%A5%B9&quot;&gt;Webサービス&lt;/a&gt;。お酒をお勧め(お酒酒め)してくれることから名付けた。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/oshushume.png&quot; alt=&quot;お酒酒めスクリーンショット&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;開発の流れ&quot;&gt;開発の流れ&lt;/h2&gt;
+
+&lt;p&gt;3daysのうち、1日目はア&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%C7%A5%A2&quot;&gt;イデア&lt;/a&gt;ソン、2,3日目は&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%AB%A5%BD%A5%F3&quot;&gt;ハッカソン&lt;/a&gt;を行った。&lt;/p&gt;
+
+&lt;p&gt;チームメンバーは自分を含め4人。フロントエンド、デザイン、データベース、バックエンドを区切りとして役割分割した。自分はフロントエンドとバックエンドを中心に作業した。&lt;/p&gt;
+
+&lt;h3 id=&quot;アイデアソンと設計&quot;&gt;ア&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%C7%A5%A2&quot;&gt;イデア&lt;/a&gt;ソンと設計&lt;/h3&gt;
+
+&lt;p&gt;シチュエーションゲーム&lt;a id=&quot;annotation-from-1&quot; href=&quot;#annotation-to-1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;を元に突飛な文章から「楽しく感じる状況」を探していき、&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%D6%A5%EC%A5%A4%A5%F3%A5%B9%A5%C8%A1%BC%A5%DF%A5%F3%A5%B0&quot;&gt;ブレインストーミング&lt;/a&gt;&lt;a id=&quot;annotation-from-2&quot; href=&quot;#annotation-to-2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;を使ってア&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%C7%A5%A2&quot;&gt;イデア&lt;/a&gt;を膨らませた。その後お題に合わせてターゲットを定めて具体化した。1日目終盤は時間があったのでアプリケーションの設計まで行った。&lt;/p&gt;
+
+&lt;p&gt;設計の際、機能が盛り沢山なことに気づく。もっともコアな機能(お酒を勧める)を残してバッサリと削除することにした。削った機能はお酒の記録や好みの絞り込み等の機能である。この選択にあとで助けられる。&lt;/p&gt;
+
+&lt;h3 id=&quot;ハッカソン---開発&quot;&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%AB%A5%BD%A5%F3&quot;&gt;ハッカソン&lt;/a&gt; - 開発&lt;/h3&gt;
+
+&lt;p&gt;用意されたアプリケーションの土台を基に、2日間で前日に固めたア&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%C7%A5%A2&quot;&gt;イデア&lt;/a&gt;を実装していく。
+2日目に「ユーザーにお酒をおすすめする」ロジックとページ構成の大枠を制作、3日目は細かい所の修正とデザインを詰めた。&lt;/p&gt;
+
+&lt;h3 id=&quot;発表&quot;&gt;発表&lt;/h3&gt;
+
+&lt;p&gt;ア&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%C7%A5%A2&quot;&gt;イデア&lt;/a&gt;とビジネスデザイン、制作したアプリケーションを社員の方の前で発表した。お褒めの言葉をいただくことも、鋭い指摘をいただくこともあった。発表の準備に時間をとることができないながら、発表はそれなりにアプリケーションのことを説明できたと思う。&lt;/p&gt;
+
+&lt;p&gt;他チームの成果発表も聞くことができた。あるチームはページ数の多い構成に果敢に挑んでいたり、あるチームはコンセプトが奇抜だったりWebRTCで映像通信していたりしていた。すごい。盛り上がったなぁ。&lt;/p&gt;
+
+&lt;h2 id=&quot;振り返り&quot;&gt;振り返り&lt;/h2&gt;
+
+&lt;p&gt;結果的に勝つことが出来たのだが、勝因は1日目に機能を絞ったことにあると思う。&lt;/p&gt;
+
+&lt;p&gt;3日間で出来ることは限られている。完成したサービスの機能としては他チームよりもシンプルだったが、機能の豊富さではなく制作した画面の完成度を高めることに注力した。デザインに手をかけたことや、UIの不具合を無くし動作の細かいところ詰めたことなど、この姿勢を評価していただけたようである。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/echoShow5.jpg&quot; alt=&quot;Amazon Echo Show5&quot; /&gt;
+景品で頂いたEcho Show5。&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A1%BC%A5%C8%A5%B9%A5%D4%A1%BC%A5%AB%A1%BC&quot;&gt;スマートスピーカー&lt;/a&gt;を買うタイミングを失っていたのでありがたい。&lt;/p&gt;
+
+&lt;h2 id=&quot;感じたこと&quot;&gt;感じたこと&lt;/h2&gt;
+
+&lt;h3 id=&quot;忙しい&quot;&gt;忙しい&lt;/h3&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%AB%A5%BD%A5%F3&quot;&gt;ハッカソン&lt;/a&gt;は忙しい。時間がない。アプリケーションを短い時間で形にするのは結構大変だった。必要なタスクを絞り込み、限られた時間をどう使うかがとても重要になる。&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%AB%A5%BD%A5%F3&quot;&gt;ハッカソン&lt;/a&gt;=ハック+マ&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%E9%A5%BD%A5%F3&quot;&gt;ラソン&lt;/a&gt;らしいけれど、どちらかというと&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%C3%BB%B5%F7%CE%A5%C1%F6&quot;&gt;短距離走&lt;/a&gt;ではないか？と思った。&lt;/p&gt;
+
+&lt;h3 id=&quot;設計共通認識のポイントを抑える&quot;&gt;設計(共通認識)のポイントを抑える&lt;/h3&gt;
+
+&lt;p&gt;チームで開発する上で、個人で作るときと違い明確にしておかなければならないポイントがいくつかあった。例えば通信仕様や、ページUI等である。今回は常に隣で作業していたから良かったものの、違う環境であったら更に大変であっただろう。実装に没頭していると認識がずれがちなので、時間を区切って進捗報告や相談、認識合わせを挟むことを意識した。&lt;/p&gt;
+
+&lt;h3 id=&quot;チーム開発の良さ&quot;&gt;チーム開発の良さ&lt;/h3&gt;
+
+&lt;p&gt;自分がコード書いてないのに、新しいページが追加されて動いてる。すごい。(小並感)&lt;/p&gt;
+
+&lt;p&gt;並行して作業を行えるだけでなく、設計方針や実装方法で詰まったときにすぐに相談できた。お互いの強みを出しあって開発することで、一人では詰まって時間が取られていただろうポイントをすぐ乗り越えられた気がした。&lt;/p&gt;
+
+&lt;h2 id=&quot;おわりに&quot;&gt;おわりに&lt;/h2&gt;
+
+&lt;p&gt;メンバーとともに議論をしながらアプリケーションをつくるのは、面白いとともに刺激になる機会でした。チームのみんな、ありがとう。&lt;/p&gt;
+
+&lt;p&gt;そしてこのような機会を設けてくださり、開発をフォローしてくださった株式会社セレスの社員の方々、3日間とてもお世話になりました。ありがとうございました。&lt;/p&gt;
+
+&lt;hr class=&quot;gt-article-annotation-horizontalrule&quot;/&gt;
+
+
+
+
+&lt;ul class=&quot;gt-article-annotation-list&quot;&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-1&quot; href=&quot;#annotation-from-1&quot;&gt;^1&lt;/a&gt;: 「いつ」「誰が」「どこで」「何をした」をそれぞれカードに書き、他人のものと混ぜて新しい文章を作るゲームのこと。&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-2&quot; href=&quot;#annotation-from-2&quot;&gt;^2&lt;/a&gt;: チームで沢山のア&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%C7%A5%A2&quot;&gt;イデア&lt;/a&gt;を出す手法。(&lt;a href=&quot;https://ja.wikipedia.org/wiki/ブレインストーミング&quot;&gt;wikipedia&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>        
+        <category term="Internship" label="Internship" />
+        
+        <category term="セレス" label="セレス" />
+        
+        <category term="ハッカソン" label="ハッカソン" />
+        
+        <link rel="enclosure" href="https://cdn.image.st-hatena.com/image/scale/8fbf1a4e5def17eb92bab0cf6912cf4f6c138fd5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fblob.yammer.jp%2Foshushume.png" type="image/png" length="0" />
+
+        <author>
+            <name>basd4g</name>
+        </author>
+    </entry>
+    
+  
+    
+    
+    <entry>
+        <title>Nuxt.js(v2.9.2)とTypeScriptの開発環境を作る。</title>
+        <link href="https://basd4g.hatenablog.com/entry/NuxtTsV292"/>
+        <id>hatenablog://entry/26006613576772418</id>
+        <published>2019-09-27T12:30:00+09:00</published>
+        <updated>2020-05-31T01:26:01+09:00</updated>        <summary type="html">Nuxt.jsとTypeScriptで開発環境を作るときのまとめ。(2019/9/5時点) お急ぎの方は、 記事中の作業を行ったものをnuxt.ts-templateとしてGitHubのリポジトリに上げたので、cloneないしForkして使ってほしい。 目指すもの create nuxt-app したときと同じ環境で、下記のものが使えること。 すぐにNuxt.jsとTypeScriptを用いて開発を始められる環境を構築する。 Nuxt.js v2.9.2 TypeScript ESLint nuxt-property-decorator nuxt-property-decorator (vue…</summary>
+        <content type="html">&lt;p&gt;Nuxt.jsとTypeScriptで開発環境を作るときのまとめ。(2019/9/5時点)&lt;/p&gt;
+
+&lt;p&gt;お急ぎの方は、
+記事中の作業を行ったものを&lt;a href=&quot;https://github.com/basd4g/nuxt.ts-template&quot;&gt;nuxt.ts-template&lt;/a&gt;として&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt;の&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA&quot;&gt;リポジトリ&lt;/a&gt;に上げたので、cloneないしForkして使ってほしい。&lt;/p&gt;
+
+&lt;h2&gt;目指すもの&lt;/h2&gt;
+
+&lt;p&gt;create nuxt-app したときと同じ環境で、下記のものが使えること。
+すぐにNuxt.jsとTypeScriptを用いて開発を始められる環境を構築する。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nuxt.js v2.9.2&lt;/li&gt;
+&lt;li&gt;TypeScript&lt;/li&gt;
+&lt;li&gt;ESLint&lt;/li&gt;
+&lt;li&gt;nuxt-property-decorator&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;nuxt-property-decorator (vue-property-decorator)&lt;/h3&gt;
+
+&lt;p&gt;Nuxt.jsとTypeScriptを組み合わせるときは、nuxt-property-decorator(vue-property-decorator)の利用が推奨されている。&lt;a id=&quot;annotation-from-1&quot; href=&quot;#annotation-to-1&quot;&gt;^1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;もともとのNuxt.jsとは書き方が変わる。参考文献にいくつか載せてあるので、もともとの書き方と比較しながら慣れると良さそう。&lt;a id=&quot;annotation-from-2&quot; href=&quot;#annotation-to-2&quot;&gt;^2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;今回は最後にインストールするので、一つ前の&lt;a href=&quot;#3-eslint&quot;&gt;ESLint&lt;/a&gt;までで止まればこれを使わない環境も構築できる。&lt;/p&gt;
+
+&lt;h2&gt;手順&lt;/h2&gt;
+
+&lt;p&gt;大まかには次の流れで進む。
+いくつかハマりどころがあったので、私の環境でうまく行った手順を残しておく。&lt;/p&gt;
+
+&lt;p&gt;(特にESLintに文句を言われることが多く、最初いきあたりばったりで進めていたら沢山のパッケージをインストールしてしまった。
+この記事は、その後不要なものがあまり入らないようにやり直した内容の記録である。)&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;yarn create nuxt-app&lt;/li&gt;
+&lt;li&gt;TypeScriptを入れる&lt;/li&gt;
+&lt;li&gt;vue-property-decoratorを入れる&lt;/li&gt;
+&lt;li&gt;ESLintを入れる&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;1. create nuxt-app&lt;/h3&gt;
+
+&lt;p&gt;Nuxt.jsで環境構築するときにお決まりのcreate-nuxt-app。
+yarnだと、 &lt;code&gt;$ yarn create nuxt-app hogehoge&lt;/code&gt; とする。&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-sh&quot; data-lang=&quot;sh&quot; data-unlink&gt;$ yarn create nuxt-app nuxt.ts-template
+&lt;span class=&quot;synComment&quot;&gt;# yarn create v1.17.3&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# create-nuxt-app v2.10.1&lt;/span&gt;
+
+&lt;span class=&quot;synComment&quot;&gt;# 今回は次のように設定した&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# Project name, Project description, Author name は適宜&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# package manager : Yarn&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# UI framework : None&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# custom server framework : None (Recommended)&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# Nuxt.js modules :&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# test framework : None&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# rendering mode : Universal (SSR)&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# development tools :&lt;/span&gt;
+
+$ &lt;span class=&quot;synStatement&quot;&gt;cd&lt;/span&gt; nuxt.ts-template/
+&lt;span class=&quot;synComment&quot;&gt;# 以下全てカレントディレクトリは移動しない。編集するファイル名もnuxt.ts-template/をカレントディレクトリとして表記する。&lt;/span&gt;
+
+$ yarn dev
+&lt;span class=&quot;synComment&quot;&gt;# 起動できることを確認。ブラウザからNuxt.jsのロゴが見えればオーケー。(以下の起動確認も同様。)&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;2. Install TypeScript&lt;/h3&gt;
+
+&lt;p&gt;まず、TypeScriptに関するパッケージをインストールする。&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-sh&quot; data-lang=&quot;sh&quot; data-unlink&gt;$ yarn add &lt;span class=&quot;synSpecial&quot;&gt;-D&lt;/span&gt; @nuxt/typescript-build
+$ yarn add @nuxt/typescript-runtime @nuxt/types
+$ &lt;span class=&quot;synStatement&quot;&gt;mv&lt;/span&gt; nuxt.config.js nuxt.config.ts
+$ &lt;span class=&quot;synStatement&quot;&gt;touch&lt;/span&gt; tsconfig.json
+&lt;/pre&gt;
+
+
+&lt;p&gt;TypeScriptに合わせて以下の設定ファイルを2つ、ソースを3つ書き換える。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;package.json&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;tsconfig.json&lt;/code&gt; (新たに作成)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;nuxt.config.ts&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;index.vue&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Logo.vue&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;code&gt;./package.json&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-diff&quot; data-lang=&quot;diff&quot; data-unlink&gt;...
+   &amp;quot;scripts&amp;quot;: {
+&lt;span class=&quot;synSpecial&quot;&gt;-    &amp;quot;dev&amp;quot;: &amp;quot;nuxt&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;synSpecial&quot;&gt;-    &amp;quot;build&amp;quot;: &amp;quot;nuxt build&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;synSpecial&quot;&gt;-    &amp;quot;start&amp;quot;: &amp;quot;nuxt start&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;synSpecial&quot;&gt;-    &amp;quot;generate&amp;quot;: &amp;quot;nuxt generate&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+    &amp;quot;dev&amp;quot;: &amp;quot;nuxt-ts&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+    &amp;quot;build&amp;quot;: &amp;quot;nuxt-ts build&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+    &amp;quot;start&amp;quot;: &amp;quot;nuxt-ts start&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+    &amp;quot;generate&amp;quot;: &amp;quot;nuxt-ts generate&amp;quot;&lt;/span&gt;
+   },
+...
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;code&gt;./tsconfig.json&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-json&quot; data-lang=&quot;json&quot; data-unlink&gt;&lt;span class=&quot;synSpecial&quot;&gt;{&lt;/span&gt;
+  &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;compilerOptions&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synSpecial&quot;&gt;{&lt;/span&gt;
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;target&lt;/span&gt;&amp;quot;: &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;esnext&lt;/span&gt;&amp;quot;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;module&lt;/span&gt;&amp;quot;: &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;esnext&lt;/span&gt;&amp;quot;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;moduleResolution&lt;/span&gt;&amp;quot;: &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;node&lt;/span&gt;&amp;quot;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;lib&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synSpecial&quot;&gt;[&lt;/span&gt;
+      &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;esnext&lt;/span&gt;&amp;quot;,
+      &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;esnext.asynciterable&lt;/span&gt;&amp;quot;,
+      &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;dom&lt;/span&gt;&amp;quot;
+    &lt;span class=&quot;synSpecial&quot;&gt;]&lt;/span&gt;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;esModuleInterop&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synConstant&quot;&gt;true&lt;/span&gt;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;allowJs&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synConstant&quot;&gt;true&lt;/span&gt;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;sourceMap&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synConstant&quot;&gt;true&lt;/span&gt;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;strict&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synConstant&quot;&gt;true&lt;/span&gt;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;noEmit&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synConstant&quot;&gt;true&lt;/span&gt;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;baseUrl&lt;/span&gt;&amp;quot;: &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;.&lt;/span&gt;&amp;quot;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;paths&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synSpecial&quot;&gt;{&lt;/span&gt;
+      &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;~/*&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synSpecial&quot;&gt;[&lt;/span&gt;
+        &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;./*&lt;/span&gt;&amp;quot;
+      &lt;span class=&quot;synSpecial&quot;&gt;]&lt;/span&gt;,
+      &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;@/*&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synSpecial&quot;&gt;[&lt;/span&gt;
+        &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;./*&lt;/span&gt;&amp;quot;
+      &lt;span class=&quot;synSpecial&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;synSpecial&quot;&gt;}&lt;/span&gt;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;types&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synSpecial&quot;&gt;[&lt;/span&gt;
+      &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;@types/node&lt;/span&gt;&amp;quot;,
+      &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;@nuxt/types&lt;/span&gt;&amp;quot;
+    &lt;span class=&quot;synSpecial&quot;&gt;]&lt;/span&gt;
+  &lt;span class=&quot;synSpecial&quot;&gt;}&lt;/span&gt;,
+  &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;exclude&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synSpecial&quot;&gt;[&lt;/span&gt;
+    &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;node_modules&lt;/span&gt;&amp;quot;
+  &lt;span class=&quot;synSpecial&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;synSpecial&quot;&gt;}&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;code&gt;./nuxt.config.ts&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-diff&quot; data-lang=&quot;diff&quot; data-unlink&gt;&lt;span class=&quot;synIdentifier&quot;&gt;+import {Configuration} from &#39;@nuxt/types&#39;&lt;/span&gt;
+
+&lt;span class=&quot;synSpecial&quot;&gt;-export default {&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+const nuxtConfig: Configuration = {&lt;/span&gt;
+...
+  buildModules: [
+&lt;span class=&quot;synIdentifier&quot;&gt;+      &#39;@nuxt/typescript-build&#39;&lt;/span&gt;
+  ],
+...
+}
+&lt;span class=&quot;synIdentifier&quot;&gt;+module.exports = nuxtConfig&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;code&gt;./pages/index.vue&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-diff&quot; data-lang=&quot;diff&quot; data-unlink&gt;&lt;span class=&quot;synSpecial&quot;&gt;-&amp;lt;script&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+&amp;lt;script lang=&amp;quot;ts&amp;quot;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;code&gt;./components/Logo.vue&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-diff&quot; data-lang=&quot;diff&quot; data-unlink&gt;...
+&lt;span class=&quot;synSpecial&quot;&gt;&amp;lt;/template&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+&amp;lt;script lang=&amp;quot;ts&amp;quot;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+import Vue from &#39;vue&#39;&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+export default Vue.extend({  &lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+})&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+&lt;/span&gt;
+&lt;span class=&quot;synSpecial&quot;&gt;&amp;lt;style&amp;gt;&lt;/span&gt;
+...
+&lt;/pre&gt;
+
+
+
+
+&lt;pre class=&quot;code lang-sh&quot; data-lang=&quot;sh&quot; data-unlink&gt;$ yarn dev
+&lt;span class=&quot;synComment&quot;&gt;# TypeScriptで動くことを確認。&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;3. ESlint&lt;/h3&gt;
+
+&lt;p&gt;ESLintと関連パッケージをインストールする。(今回はcreate nuxt-appでESLintをインストールしていないのでESLint自体もここでインストールする。)&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-sh&quot; data-lang=&quot;sh&quot; data-unlink&gt;$ yarn add eslint-config eslint
+$ yarn add &lt;span class=&quot;synSpecial&quot;&gt;-D&lt;/span&gt; @typescript-eslint/eslint-plugin @typescript-eslint/parser @nuxtjs/eslint-config-typescript
+$ &lt;span class=&quot;synStatement&quot;&gt;touch&lt;/span&gt; .eslintrc.js
+&lt;/pre&gt;
+
+
+&lt;p&gt;ESLintの設定を以下の3ファイルに記述する。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;package.json&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;nuxt.config.ts&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;.eslintrc.js&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;code&gt;package.json&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-diff&quot; data-lang=&quot;diff&quot; data-unlink&gt;...
+  &amp;quot;scripts&amp;quot;: {
+    &amp;quot;dev&amp;quot;: &amp;quot;nuxt-ts&amp;quot;,
+    &amp;quot;build&amp;quot;: &amp;quot;nuxt-ts build&amp;quot;,
+    &amp;quot;start&amp;quot;: &amp;quot;nuxt-ts start&amp;quot;,
+&lt;span class=&quot;synSpecial&quot;&gt;-    &amp;quot;generate&amp;quot;: &amp;quot;nuxt-ts generate&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+    &amp;quot;generate&amp;quot;: &amp;quot;nuxt-ts generate&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+    &amp;quot;lint&amp;quot;: &amp;quot;eslint --ext .ts,.js,.vue --ignore-path .gitignore .&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+    &amp;quot;lint:fix&amp;quot;: &amp;quot;eslint --ext .ts,.js,.vue --ignore-path .gitignore . --fix&amp;quot;&lt;/span&gt;
+  },
+...
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;code&gt;nuxt.config.ts&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-diff&quot; data-lang=&quot;diff&quot; data-unlink&gt;...
+  build: {
+    /*
+    ** You can extend webpack config here
+    */
+&lt;span class=&quot;synIdentifier&quot;&gt;+    /*&lt;/span&gt;
+    extend (config, ctx) {
+    }
+&lt;span class=&quot;synIdentifier&quot;&gt;+   */&lt;/span&gt;
+...
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;code&gt;.eslintrc.js&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code js&quot; data-lang=&quot;js&quot; data-unlink&gt;module.exports = {
+  plugins: [&amp;#39;@typescript-eslint&amp;#39;],
+  parserOptions: {
+    parser: &amp;#39;@typescript-eslint/parser&amp;#39;
+  },
+  extends: [
+    &amp;#39;@nuxtjs/eslint-config-typescript&amp;#39;
+  ],
+  rules: {
+    &amp;#39;@typescript-eslint/no-unused-vars&amp;#39;: &amp;#39;error&amp;#39;
+  }
+}&lt;/pre&gt;
+
+
+
+
+&lt;pre class=&quot;code lang-sh&quot; data-lang=&quot;sh&quot; data-unlink&gt;$ yarn lint:fix
+$ yarn dev
+&lt;span class=&quot;synComment&quot;&gt;# Lintが動いていることと、変わらず起動できることを確認。&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;4.nuxt-property-decorator&lt;/h3&gt;
+
+&lt;p&gt;nuxt-property-decoratorをインストールする。(vue-property-decoratorでも良いかもしれない。)&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-sh&quot; data-lang=&quot;sh&quot; data-unlink&gt;$ yarn add nuxt-property-decorator
+&lt;/pre&gt;
+
+
+&lt;p&gt;nuxt-property-decoratorに合わせて2ファイルを変更する。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;tsconfig.json&lt;/code&gt; (デコレータの使用を宣言する。)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;index.vue&lt;/code&gt; (デコレータを使った書き方に修正する。)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;code&gt;./tsconfig.json&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-diff&quot; data-lang=&quot;diff&quot; data-unlink&gt;...
+    &amp;quot;compilerOptions&amp;quot;: {
+...
+      &amp;quot;types&amp;quot;: [
+        &amp;quot;@types/node&amp;quot;,
+        &amp;quot;@nuxt/types&amp;quot;
+&lt;span class=&quot;synSpecial&quot;&gt;-      ]&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+      ],&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+      &amp;quot;experimentalDecorators&amp;quot;: true&lt;/span&gt;
+    },
+...
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;code&gt;./pages/index.vue&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-diff&quot; data-lang=&quot;diff&quot; data-unlink&gt;...
+&lt;span class=&quot;synSpecial&quot;&gt;&amp;lt;script lang=&amp;quot;ts&amp;quot;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+import { Component, Vue } from &#39;vue-property-decorator&#39;&lt;/span&gt;
+import Logo from &#39;~/components/Logo.vue&#39;
+
+&lt;span class=&quot;synSpecial&quot;&gt;-export default {&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+@Component({&lt;/span&gt;
+  components: {
+    Logo
+  }
+&lt;span class=&quot;synSpecial&quot;&gt;-}&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+})&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+export default class Index extends Vue {&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+}&lt;/span&gt;
+&lt;span class=&quot;synSpecial&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+...
+&lt;/pre&gt;
+
+
+
+
+&lt;pre class=&quot;code lang-sh&quot; data-lang=&quot;sh&quot; data-unlink&gt;$ yarn dev
+&lt;span class=&quot;synComment&quot;&gt;# デコレータを使った表記での起動を確認。&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;お疲れさまでした。&lt;/p&gt;
+
+&lt;h2&gt;参考&lt;/h2&gt;
+
+&lt;p&gt;重要参考文献&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/iwata@github/items/a94c6d116a3e84911628&quot;&gt;Qiita Nuxt.js 2.9でのTypeScript対応&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;typescript.nuxtjs.org/guide/setup.html#installation&quot;&gt;Nuxt TypeScript Setup&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;その他の参考文献&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.nuxtjs.org/guide/installation/&quot;&gt;Nuxt.js インストール&lt;/a&gt; ... yarn create nuxt-app について&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/nuxt/eslint-config&quot;&gt;GitHub eslint-config&lt;/a&gt; ... eslint-configのセットアップ&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://js.studio-kingdom.com/typescript/handbook/decorators&quot;&gt;デコレータ | TypeScript 日本語ハンドブック | js STUDIO&lt;/a&gt; ... &lt;code&gt;experimentalDecorators&lt;/code&gt;について&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/hako1912/items/8d9968d07748d20825f8&quot;&gt;TypeScriptではじめるVueコンポーネント（vue-class-component）&lt;/a&gt;... vue-property-decorator(nuxt-property-decorator)を使った&lt;code&gt;@Component&lt;/code&gt;デコレータの書き方&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://crieit.net/posts/Nuxt-js-Express-TypeScript&quot;&gt;Nuxt.js+ExpressのプロジェクトをTypeScript化する&lt;/a&gt; ... nuxt-property-decoratorを使った&lt;code&gt;@Component&lt;/code&gt;デコレータの書き方&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/simochee/items/e5b77af4aa36bd0f32e5&quot;&gt;はじめてのvue-property-decorator&lt;/a&gt; ... vue-property-decorator(nuxt-property-decorator)を使ったデコレータの書き方&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;hr class=&quot;gt-article-annotation-horizontalrule&quot;/&gt;
+
+
+
+
+&lt;ul class=&quot;gt-article-annotation-list&quot;&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-1&quot; href=&quot;#annotation-from-1&quot;&gt;^1&lt;/a&gt;: &lt;a href=&quot;https://ja.nuxtjs.org/guide/typescript/&quot;&gt;Nuxt.js TypeScriptサポート&lt;/a&gt;に書かれている。(Nuxt.js v2.8までの記述のため、このページの内容のとおりではv2.9.2ではうまく行かない)&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-2&quot; href=&quot;#annotation-from-2&quot;&gt;^2&lt;/a&gt;: &lt;a href=&quot;https://github.com/kaorun343/vue-property-decorator&quot;&gt;GitHub vue-property-decorator&lt;/a&gt;に記載がある。&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>        
+        <category term="Nuxt.js" label="Nuxt.js" />
+        
+        <category term="TypeScript" label="TypeScript" />
+        
+        <link rel="enclosure" href="https://ogimage.blog.st-hatena.com/17680117127083832352/26006613576772418/1590855961" type="image/png" length="0" />
+
+        <author>
+            <name>basd4g</name>
+        </author>
+    </entry>
+    
+  
+    
+    
+    <entry>
+        <title>About me</title>
+        <link href="https://basd4g.hatenablog.com/entry/aboutMe"/>
+        <id>hatenablog://entry/26006613576772424</id>
+        <published>2019-09-18T21:50:00+09:00</published>
+        <updated>2020-05-31T01:26:01+09:00</updated>        <summary type="html">自己紹介 HN: やんまー Twitter @basd4g GitHub @basd4g 大学の情報系学科に所属。 Webに興味があり、主にフロントエンド(Vue.js等)を趣味で触ってる。 PCに関係ない趣味はスキューバダイビングで、海が好き。 今まで作ったもの Play Queue (音楽再生Webアプリ) 音楽の連続再生を目的とした、Youtube再生プレイヤー。 Vue.jsをフロントエンドとして、Youtube data v3 API, Youtube Player APIを利用してYoutubeを再生する事ができる。 アプリケーション内に動的変更に向く独自の再生リストをもち、動画を…</summary>
+        <content type="html">&lt;h2&gt;自己紹介&lt;/h2&gt;
+
+&lt;p&gt;HN: やんまー&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Twitter&quot;&gt;Twitter&lt;/a&gt; &lt;a href=&quot;https://twitter.com/basd4g&quot;&gt;@basd4g&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt; &lt;a href=&quot;https://github.com/basd4g&quot;&gt;@basd4g&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;大学の情報系学科に所属。
+Webに興味があり、主にフロントエンド(Vue.js等)を趣味で触ってる。&lt;/p&gt;
+
+&lt;p&gt;PCに関係ない趣味はス&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%AD%A5%E5%A1%BC%A5%D0&quot;&gt;キューバ&lt;/a&gt;ダイビングで、海が好き。&lt;/p&gt;
+
+&lt;h2&gt;今まで作ったもの&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://basd4g.github.io/PlayQueue&quot;&gt;Play Queue&lt;/a&gt; (音楽再生Webアプリ)&lt;/h3&gt;
+
+&lt;p&gt;音楽の連続再生を目的とした、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Youtube&quot;&gt;Youtube&lt;/a&gt;再生プレイヤー。&lt;/p&gt;
+
+&lt;p&gt;Vue.jsをフロントエンドとして、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Youtube&quot;&gt;Youtube&lt;/a&gt; data v3 &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/API&quot;&gt;API&lt;/a&gt;, &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Youtube&quot;&gt;Youtube&lt;/a&gt; Player &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/API&quot;&gt;API&lt;/a&gt;を利用して&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Youtube&quot;&gt;Youtube&lt;/a&gt;を再生する事ができる。
+アプリケーション内に動的変更に向く独自の再生リストをもち、動画を再生しながらリストを編集できる。&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://github.com/basd4g/text2pdf&quot;&gt;Text2PDF&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;テキストファイルを基にPDFを生成する&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/CUI&quot;&gt;CUI&lt;/a&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%B3%A5%DE%A5%F3%A5%C9%A5%E9%A5%A4%A5%F3&quot;&gt;コマンドライン&lt;/a&gt;ツール。
+Node.jsの標準ライブラリのみを用いてPDFを生成する。&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://fudemoji.me&quot;&gt;筆文字ジェネレータ&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;入力した文字から毛筆で書いたような画像を生成するWebアプリケーション。
+HTML &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Canvas&quot;&gt;Canvas&lt;/a&gt;で動いているのが大部分。 &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/PHP&quot;&gt;PHP&lt;/a&gt;が裏で動いている。&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://github.com/basd4g/green-turtle&quot;&gt;green-turtle&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;このブログに使っている静的サイトジェネレータ。
+Nuxt.jsのgenerateモードを利用して動いている。
+Gitで記事管理が可能な環境を構築した。&lt;/p&gt;
+
+&lt;h2&gt;ブログで書くこと&lt;/h2&gt;
+
+&lt;p&gt;以上の通り&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/JavaScript&quot;&gt;JavaScript&lt;/a&gt;をよく書くので、これに関する内容の記事が多くなると思う。&lt;/p&gt;
+</content>        
+        <link rel="enclosure" href="https://ogimage.blog.st-hatena.com/17680117127083832352/26006613576772424/1590855961" type="image/png" length="0" />
+
+        <author>
+            <name>basd4g</name>
+        </author>
+    </entry>
+    
+  
+</feed>
