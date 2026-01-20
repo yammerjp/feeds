@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>8-4-4 勝利</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mcstqvgo2c2j</link>
+      <description>8-4-4 勝利</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcstqvgo2c2j</guid>
+      <pubDate>Mon, 19 Jan 2026 23:55:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>10両4-4 あたり</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mcqffhwb5s2j</link>
       <description>10両4-4 あたり</description>
@@ -1485,14 +1493,6 @@ github.com/pepabo/plusplu…</description>
       <guid>1914985121838776383</guid>
       <pubDate>Wed, 23 Apr 2025 10:10:06 GMT</pubDate>
       <source>twitter</source>
-    </item>
-    <item>
-      <title>境界は自然とできてくるものだ、という @kenchankunsan.com の言葉をきいて「境界を収穫する」という言葉を思いついた。この先はまだないので、うまくメタファーがはまるその日にまた思い出すこ</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3lmgbfoucoc25</link>
-      <description>境界は自然とできてくるものだ、という @kenchankunsan.com の言葉をきいて「境界を収穫する」という言葉を思いついた。この先はまだないので、うまくメタファーがはまるその日にまた思い出すことにしよう</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lmgbfoucoc25</guid>
-      <pubDate>Thu, 10 Apr 2025 00:41:00 GMT</pubDate>
-      <source>bluesky</source>
     </item>
   </channel>
 </rss>
