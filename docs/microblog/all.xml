@@ -5,6 +5,22 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>ちょっと寒すぎるんじゃないですかね</title>
+      <link>https://usememos.yammer.jp/m/3XbBzJG798uisz3rSegt9r</link>
+      <description>ちょっと寒すぎるんじゃないですかね</description>
+      <guid>https://usememos.yammer.jp/m/3XbBzJG798uisz3rSegt9r</guid>
+      <pubDate>Tue, 20 Jan 2026 15:33:18 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>awkblogで使っているDockerイメージ、GDもビルドするようにした https://github.com/yammerjp/gawk-pgsql-docker</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mcsy5eu7jk2h</link>
+      <description>awkblogで使っているDockerイメージ、GDもビルドするようにした https://github.com/yammerjp/gawk-pgsql-docker</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcsy5eu7jk2h</guid>
+      <pubDate>Tue, 20 Jan 2026 01:14:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>8-4-4 勝利</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mcstqvgo2c2j</link>
       <description>8-4-4 勝利</description>
@@ -1235,14 +1251,6 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <source>bluesky</source>
     </item>
     <item>
-      <title>clicksが届いたので使い始めた。まだ慣れないが...</title>
-      <link>https://usememos.yammer.jp/m/WyHksaYmq8oBuLKeSwXA5b</link>
-      <description>clicksが届いたので使い始めた。まだ慣れないが...</description>
-      <guid>https://usememos.yammer.jp/m/WyHksaYmq8oBuLKeSwXA5b</guid>
-      <pubDate>Wed, 02 Jul 2025 16:07:31 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
       <title>電波のないところを求め、2ヶ月で7座登っていた。次の山、どこにすっかな</title>
       <link>https://bsky.app/profile/yammer.jp/post/3lsyblbgwks25</link>
       <description>電波のないところを求め、2ヶ月で7座登っていた。次の山、どこにすっかな</description>
@@ -1365,14 +1373,6 @@ fortee.jp/phpcon-2025/pr…
       <guid>1933163212918403524</guid>
       <pubDate>Thu, 12 Jun 2025 14:03:21 GMT</pubDate>
       <source>twitter</source>
-    </item>
-    <item>
-      <title>役所、行ったり来たり反復横跳び</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3lqemqka5bs2c</link>
-      <description>役所、行ったり来たり反復横跳び</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lqemqka5bs2c</guid>
-      <pubDate>Fri, 30 May 2025 06:39:00 GMT</pubDate>
-      <source>bluesky</source>
     </item>
     <item>
       <title>とりあえず課金せずにやっているが、すでに半分ぐらい課金するかの気持ちになっている</title>
