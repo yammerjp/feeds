@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>今日は3-4が正解だったっぽいが、3-4はずすよりも4-4で外す方が快適</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mcvfy6vppk2z</link>
+      <description>今日は3-4が正解だったっぽいが、3-4はずすよりも4-4で外す方が快適</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcvfy6vppk2z</guid>
+      <pubDate>Wed, 21 Jan 2026 00:27:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>ちょっと寒すぎるんじゃないですかね</title>
       <link>https://usememos.yammer.jp/m/3XbBzJG798uisz3rSegt9r</link>
       <description>ちょっと寒すぎるんじゃないですかね</description>
@@ -1248,14 +1256,6 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <description>Clicks、今のところはまだ慣れてないなぁ</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lszhlud76c2g</guid>
       <pubDate>Thu, 03 Jul 2025 00:23:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>電波のないところを求め、2ヶ月で7座登っていた。次の山、どこにすっかな</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3lsyblbgwks25</link>
-      <description>電波のないところを求め、2ヶ月で7座登っていた。次の山、どこにすっかな</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lsyblbgwks25</guid>
-      <pubDate>Wed, 02 Jul 2025 13:03:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
     <item>

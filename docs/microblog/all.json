@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcvfy6vppk2z",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mcvfy6vppk2z",
+      "content_text": "今日は3-4が正解だったっぽいが、3-4はずすよりも4-4で外す方が快適",
+      "date_published": "2026-01-21T00:27:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/3XbBzJG798uisz3rSegt9r",
       "url": "https://usememos.yammer.jp/m/3XbBzJG798uisz3rSegt9r",
       "content_text": "ちょっと寒すぎるんじゃないですかね",
@@ -921,12 +927,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3lszhlud76c2g",
       "content_text": "Clicks、今のところはまだ慣れてないなぁ",
       "date_published": "2025-07-03T00:23:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lsyblbgwks25",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lsyblbgwks25",
-      "content_text": "電波のないところを求め、2ヶ月で7座登っていた。次の山、どこにすっかな",
-      "date_published": "2025-07-02T13:03:00.000Z"
     },
     {
       "id": "1938869814321385549",
