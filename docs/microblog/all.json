@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/j3MA3qsFoK5vMs3MTp2jgQ",
+      "url": "https://usememos.yammer.jp/m/j3MA3qsFoK5vMs3MTp2jgQ",
+      "content_text": "腹痛",
+      "date_published": "2026-01-24T23:59:14.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcvfy6vppk2z",
       "url": "https://bsky.app/profile/yammer.jp/post/3mcvfy6vppk2z",
       "content_text": "今日は3-4が正解だったっぽいが、3-4はずすよりも4-4で外す方が快適",
@@ -885,12 +891,6 @@
       "url": "https://usememos.yammer.jp/m/mfKHheHLxXTPbrbmYxovT5",
       "content_text": "長い1日の終わり",
       "date_published": "2025-07-07T13:27:47.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/5vBVJZNszMsVmNn3MmNcfV",
-      "url": "https://usememos.yammer.jp/m/5vBVJZNszMsVmNn3MmNcfV",
-      "content_text": "Clicks、1週間持たずにやめてしまった。qwertyもソフトウェアキーボードのほうが全然早くて、Blinkの修飾キー支援があればソフトウェアキーボードなら片手で打てていたということに気づいてしまい...",
-      "date_published": "2025-07-06T22:46:04.000Z"
     },
     {
       "id": "1941157135704027235",
