@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>MySQL 8.4、 mysql_native_password が廃止か</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mdatvalqwc2x</link>
+      <description>MySQL 8.4、 mysql_native_password が廃止か</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mdatvalqwc2x</guid>
+      <pubDate>Sun, 25 Jan 2026 13:35:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>腹痛</title>
       <link>https://usememos.yammer.jp/m/j3MA3qsFoK5vMs3MTp2jgQ</link>
       <description>腹痛</description>
@@ -1249,14 +1257,6 @@ Claude Code + git worktree をうまく使えるような開発環境が求め�
       <guid>1940656216910582144</guid>
       <pubDate>Thu, 03 Jul 2025 06:17:52 GMT</pubDate>
       <source>twitter</source>
-    </item>
-    <item>
-      <title>Clicks、今のところはまだ慣れてないなぁ</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3lszhlud76c2g</link>
-      <description>Clicks、今のところはまだ慣れてないなぁ</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lszhlud76c2g</guid>
-      <pubDate>Thu, 03 Jul 2025 00:23:00 GMT</pubDate>
-      <source>bluesky</source>
     </item>
     <item>
       <title>php.net/manual/ja/func…

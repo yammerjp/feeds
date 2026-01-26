@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mdatvalqwc2x",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mdatvalqwc2x",
+      "content_text": "MySQL 8.4、 mysql_native_password が廃止か",
+      "date_published": "2026-01-25T13:35:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/j3MA3qsFoK5vMs3MTp2jgQ",
       "url": "https://usememos.yammer.jp/m/j3MA3qsFoK5vMs3MTp2jgQ",
       "content_text": "腹痛",
@@ -921,12 +927,6 @@
       "url": "https://x.com/yammerjp/status/1940656216910582144",
       "content_text": "docker composeを並列起動できるよう、overrideするyamlを作って起動する gopose というのが社内で便利に使われているっぽく、面白アイデアなので真似したい\ngithub.com/harakeishi/gop…\n\nClaude Code + git worktree をうまく使えるような開発環境が求められている",
       "date_published": "2025-07-03T15:17:52+09:00"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3lszhlud76c2g",
-      "url": "https://bsky.app/profile/yammer.jp/post/3lszhlud76c2g",
-      "content_text": "Clicks、今のところはまだ慣れてないなぁ",
-      "date_published": "2025-07-03T00:23:00.000Z"
     },
     {
       "id": "1938869814321385549",
