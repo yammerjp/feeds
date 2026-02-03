@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>数円しかかかってなかったはずのおうちのGoogle Cloud課金が、気づいたら4000円を超えていたので、全てのCloud Runを消した。一個だけ使い続けていたアプリはDeno Deployに移し</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mdtolob7fs2s</link>
+      <description>数円しかかかってなかったはずのおうちのGoogle Cloud課金が、気づいたら4000円を超えていたので、全てのCloud Runを消した。一個だけ使い続けていたアプリはDeno Deployに移してみた。</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mdtolob7fs2s</guid>
+      <pubDate>Mon, 02 Feb 2026 01:21:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>MySQL 8.4、 mysql_native_password が廃止か</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mdatvalqwc2x</link>
       <description>MySQL 8.4、 mysql_native_password が廃止か</description>
@@ -719,14 +727,6 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <guid>https://usememos.yammer.jp/m/9mLfA9LBZhwbGiKJSquRAE</guid>
       <pubDate>Mon, 13 Oct 2025 10:13:39 GMT</pubDate>
       <source>memos</source>
-    </item>
-    <item>
-      <title>個人でホストしているWebアプリケーション、何か触ろうとしたときにどこにデプロイしたか大抵覚えていなくて、digして出てきたIPをwhoisして、どこのプラットフォームを探すところからいつも始まる</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3m32h3ksw722h</link>
-      <description>個人でホストしているWebアプリケーション、何か触ろうとしたときにどこにデプロイしたか大抵覚えていなくて、digして出てきたIPをwhoisして、どこのプラットフォームを探すところからいつも始まる</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m32h3ksw722h</guid>
-      <pubDate>Mon, 13 Oct 2025 05:08:00 GMT</pubDate>
-      <source>bluesky</source>
     </item>
     <item>
       <title>フレッシュネスバーガー、あんまり店舗を見つけられなかったりタイミングが合わず、記憶の中では初めて食べる。バーガーキングとかよりもフレッシュな感じ (肉以外の味がしっかり感じられる) がよかった</title>

@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mdtolob7fs2s",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mdtolob7fs2s",
+      "content_text": "数円しかかかってなかったはずのおうちのGoogle Cloud課金が、気づいたら4000円を超えていたので、全てのCloud Runを消した。一個だけ使い続けていたアプリはDeno Deployに移してみた。",
+      "date_published": "2026-02-02T01:21:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mdatvalqwc2x",
       "url": "https://bsky.app/profile/yammer.jp/post/3mdatvalqwc2x",
       "content_text": "MySQL 8.4、 mysql_native_password が廃止か",
@@ -531,12 +537,6 @@
       "url": "https://usememos.yammer.jp/m/9mLfA9LBZhwbGiKJSquRAE",
       "content_text": "都バスの前乗り前払い中降り、いまだに慣れない",
       "date_published": "2025-10-13T10:13:39.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m32h3ksw722h",
-      "url": "https://bsky.app/profile/yammer.jp/post/3m32h3ksw722h",
-      "content_text": "個人でホストしているWebアプリケーション、何か触ろうとしたときにどこにデプロイしたか大抵覚えていなくて、digして出てきたIPをwhoisして、どこのプラットフォームを探すところからいつも始まる",
-      "date_published": "2025-10-13T05:08:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/m/LQVjikwBMvjFKiBYJvKzun",
