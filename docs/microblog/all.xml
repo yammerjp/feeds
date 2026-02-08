@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>完全食を信じているんじゃない、あすけんを信じているんだ</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3meclzxxwoc2l</link>
+      <description>完全食を信じているんじゃない、あすけんを信じているんだ</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3meclzxxwoc2l</guid>
+      <pubDate>Sat, 07 Feb 2026 23:45:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>数円しかかかってなかったはずのおうちのGoogle Cloud課金が、気づいたら4000円を超えていたので、全てのCloud Runを消した。一個だけ使い続けていたアプリはDeno Deployに移し</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mdtolob7fs2s</link>
       <description>数円しかかかってなかったはずのおうちのGoogle Cloud課金が、気づいたら4000円を超えていたので、全てのCloud Runを消した。一個だけ使い続けていたアプリはDeno Deployに移してみた。</description>
@@ -557,14 +565,6 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <link>https://bsky.app/profile/yammer.jp/post/3m4he3gpkyc22</link>
       <description>いえのmicroblogがおちている</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m4he3gpkyc22</guid>
-      <pubDate>Fri, 31 Oct 2025 01:44:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>渋谷の壱角屋、きのう店の前まで行ってなくなっていることに気づいた</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3m4he3bql3s22</link>
-      <description>渋谷の壱角屋、きのう店の前まで行ってなくなっていることに気づいた</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m4he3bql3s22</guid>
       <pubDate>Fri, 31 Oct 2025 01:44:00 GMT</pubDate>
       <source>bluesky</source>
     </item>

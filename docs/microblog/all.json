@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3meclzxxwoc2l",
+      "url": "https://bsky.app/profile/yammer.jp/post/3meclzxxwoc2l",
+      "content_text": "完全食を信じているんじゃない、あすけんを信じているんだ",
+      "date_published": "2026-02-07T23:45:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mdtolob7fs2s",
       "url": "https://bsky.app/profile/yammer.jp/post/3mdtolob7fs2s",
       "content_text": "数円しかかかってなかったはずのおうちのGoogle Cloud課金が、気づいたら4000円を超えていたので、全てのCloud Runを消した。一個だけ使い続けていたアプリはDeno Deployに移してみた。",
@@ -410,12 +416,6 @@
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m4he3gpkyc22",
       "url": "https://bsky.app/profile/yammer.jp/post/3m4he3gpkyc22",
       "content_text": "いえのmicroblogがおちている",
-      "date_published": "2025-10-31T01:44:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m4he3bql3s22",
-      "url": "https://bsky.app/profile/yammer.jp/post/3m4he3bql3s22",
-      "content_text": "渋谷の壱角屋、きのう店の前まで行ってなくなっていることに気づいた",
       "date_published": "2025-10-31T01:44:00.000Z"
     },
     {
