@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>ちいかわ、飯テロ危険</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3medrcuaync2d</link>
+      <description>ちいかわ、飯テロ危険</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3medrcuaync2d</guid>
+      <pubDate>Sun, 08 Feb 2026 10:52:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>完全食を信じているんじゃない、あすけんを信じているんだ</title>
       <link>https://bsky.app/profile/yammer.jp/post/3meclzxxwoc2l</link>
       <description>完全食を信じているんじゃない、あすけんを信じているんだ</description>
@@ -559,14 +567,6 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <guid>https://usememos.yammer.jp/m/CDXVUY6cHguBYvCo4rkjG7</guid>
       <pubDate>Fri, 31 Oct 2025 15:27:11 GMT</pubDate>
       <source>memos</source>
-    </item>
-    <item>
-      <title>いえのmicroblogがおちている</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3m4he3gpkyc22</link>
-      <description>いえのmicroblogがおちている</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m4he3gpkyc22</guid>
-      <pubDate>Fri, 31 Oct 2025 01:44:00 GMT</pubDate>
-      <source>bluesky</source>
     </item>
     <item>
       <title>これからつくるOpenAPIスキーマは全てRFC9457にしよう！</title>
