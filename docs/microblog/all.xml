@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>電車で変なおっさんに絡まれて一回休み</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3meodstnk5s24</link>
+      <description>電車で変なおっさんに絡まれて一回休み</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3meodstnk5s24</guid>
+      <pubDate>Thu, 12 Feb 2026 15:50:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>ちいかわ、飯テロ危険</title>
       <link>https://bsky.app/profile/yammer.jp/post/3medrcuaync2d</link>
       <description>ちいかわ、飯テロ危険</description>
@@ -455,14 +463,6 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <guid>https://usememos.yammer.jp/m/XB6MbV4kxXAvSU4Uad48qM</guid>
       <pubDate>Fri, 05 Dec 2025 00:50:53 GMT</pubDate>
       <source>memos</source>
-    </item>
-    <item>
-      <title>ふん、Bun というのかい。贅沢な名だね。今からお前の名前はブンだ。いいかい、ブンだよ</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3m777whb7j22g</link>
-      <description>ふん、Bun というのかい。贅沢な名だね。今からお前の名前はブンだ。いいかい、ブンだよ</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3m777whb7j22g</guid>
-      <pubDate>Fri, 05 Dec 2025 00:24:00 GMT</pubDate>
-      <source>bluesky</source>
     </item>
     <item>
       <title>食糧難！</title>
