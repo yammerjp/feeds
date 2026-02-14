@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mequafibck2d",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mequafibck2d",
+      "content_text": "IIJのクレカ支払いまた失敗している、そうなった時の支払いが大変すぎてこまる",
+      "date_published": "2026-02-13T15:49:00.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3meqqjiljic2d",
+      "url": "https://bsky.app/profile/yammer.jp/post/3meqqjiljic2d",
+      "content_text": "ランニングが火曜で途切れてしまったので取り返さねば",
+      "date_published": "2026-02-13T14:42:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3meodstnk5s24",
       "url": "https://bsky.app/profile/yammer.jp/post/3meodstnk5s24",
       "content_text": "電車で変なおっさんに絡まれて一回休み",
@@ -297,18 +309,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mb4ubj7a7227",
       "content_text": "東横線1時間以上各停の旅。これも年末だからなんでもよいということで楽しめる",
       "date_published": "2025-12-29T12:41:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb3vxjsek22g",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mb3vxjsek22g",
-      "content_text": "iCloudを使うアプリを作ろうとすると、公開するかに関わらずApple Developer Programが必要っぽい。ものは試しで申し込んでみた。\n\nいまは本人確認でのパスポート撮影をやって審査待ち。macOSのApple Developerアプリからやると上下左右が認識できないのか何度もやり直しになったが、iPhoneにApple Developerアプリを入れるとすんなりと先に進んだ。",
-      "date_published": "2025-12-29T03:38:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb3pggmg4s2g",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mb3pggmg4s2g",
-      "content_text": "さいきんはiOSよりもAndroidのほうが、個人開発者としてアプリ出すのむずかしいのか。なにも知らなかった。住所の公開とクローズドテストのハードルを超えるのに、バーチャルオフィスを契約して個人事業主になるのがお手軽(ほんまか？)ぽい。",
-      "date_published": "2025-12-29T01:41:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/m/EXsbtfqz83CroshdHN38D3",
