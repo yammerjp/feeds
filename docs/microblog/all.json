@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/BNLaxk73DZztWSqF54gyEz",
+      "url": "https://usememos.yammer.jp/m/BNLaxk73DZztWSqF54gyEz",
+      "content_text": "fastcgi_finish_request しらなかった、超便利じゃん！",
+      "date_published": "2026-02-19T15:19:47.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/7zSu3cJNbm4BXdZYqZCevf",
+      "url": "https://usememos.yammer.jp/m/7zSu3cJNbm4BXdZYqZCevf",
+      "content_text": "この電車に乗ったらもうラーメン確定。カロリー1000kmオーバー！",
+      "date_published": "2026-02-19T15:19:31.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mequafibck2d",
       "url": "https://bsky.app/profile/yammer.jp/post/3mequafibck2d",
       "content_text": "IIJのクレカ支払いまた失敗している、そうなった時の支払いが大変すぎてこまる",
@@ -885,18 +897,6 @@
       "url": "https://usememos.yammer.jp/m/aWRJCeMKdQ3379bQEuVBFb",
       "content_text": "なんかよくわからんが目が覚めてしまったので走る",
       "date_published": "2025-07-07T21:21:48.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/gT7yA7vTXdxYgwnd84apqZ",
-      "url": "https://usememos.yammer.jp/m/gT7yA7vTXdxYgwnd84apqZ",
-      "content_text": "5:30に起きてランニングすると、流石に夜は眠い。眠いのはよいこと",
-      "date_published": "2025-07-07T13:28:16.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/mfKHheHLxXTPbrbmYxovT5",
-      "url": "https://usememos.yammer.jp/m/mfKHheHLxXTPbrbmYxovT5",
-      "content_text": "長い1日の終わり",
-      "date_published": "2025-07-07T13:27:47.000Z"
     },
     {
       "id": "1941157135704027235",
