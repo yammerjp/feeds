@@ -5,6 +5,30 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/5rUFq2PWwnt2BfaLbkNd6F",
+      "url": "https://usememos.yammer.jp/m/5rUFq2PWwnt2BfaLbkNd6F",
+      "content_text": "Claude MAXプラン以外で使うLLMコスト、正直高すぎる、OpenClawを飼い始めたが、一瞬で1000円ぐらい飛んでいってしまった",
+      "date_published": "2026-02-23T13:14:01.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/dCQRQsPxDznzYuwhdkDP4F",
+      "url": "https://usememos.yammer.jp/m/dCQRQsPxDznzYuwhdkDP4F",
+      "content_text": "花粉症、無事終わってきた",
+      "date_published": "2026-02-23T10:06:23.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfjfdaeqqs2u",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mfjfdaeqqs2u",
+      "content_text": "食事さえAIに決めてもらう時代。あすけんのスクショを送ったら残りでバランスを整えてくれる",
+      "date_published": "2026-02-23T09:59:00.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfj74nmyvc24",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mfj74nmyvc24",
+      "content_text": "Keyball44を久々に使ってみたがトラックボールの滑りが悪い。ここで活躍！ SUPERクレポリメイトSTRONG",
+      "date_published": "2026-02-23T08:08:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/TDay6ef6JRFe9wzHxFEgKP",
       "url": "https://usememos.yammer.jp/m/TDay6ef6JRFe9wzHxFEgKP",
       "content_text": "picoclawのセットアップをClaude Codeにやらせるという、なんというディストピア",
@@ -315,18 +339,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mb6pqdkwl226",
       "content_text": "天気が良すぎる、この天気活かしたい！回転寿司行く以外で活かしたい",
       "date_published": "2025-12-30T06:25:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb4x7wwk7227",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mb4x7wwk7227",
-      "content_text": "日記のアプリをReact Nativeに作り始めたのだが、端末間同期とストレージがなやましい。\n\nながくデータをもち続けることを考えると、最終的にGitリポジトリに取り込みたい。ただ、conflictの解消などの複雑な概念は持ち込みたくない。単にlinerで過去のものが残っていて戻せれば十分なので、そんなにセンシティブにならなくても良いのだけど。\n\n履歴の管理といえば、Simple NoteのUIが非常によくできていてとても好き。でもCLIやAPIがなくて、結局データが閉じ込められてしまうのが結構困るので使うのをやめてしまっている。ノートアプリも日記アプリも、安住の地はどこへやら。",
-      "date_published": "2025-12-29T13:34:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb4ubj7a7227",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mb4ubj7a7227",
-      "content_text": "東横線1時間以上各停の旅。これも年末だからなんでもよいということで楽しめる",
-      "date_published": "2025-12-29T12:41:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/m/EXsbtfqz83CroshdHN38D3",
@@ -885,18 +897,6 @@
       "url": "https://usememos.yammer.jp/m/RJRUMj3baqTYhmTAHW6iyJ",
       "content_text": "Claude CodeがRubyのREPLを使いこなす姿と、https://techracho.bpsinc.jp/hachi8833/2025_03_07/148685 をみて安心した。AIが来ても、レールにのればいいだけのものを再発明して保守するのがいいということには別にならなくい",
       "date_published": "2025-07-15T01:12:16.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/nKFwEhCtmJ3WAQjCcRJMJV",
-      "url": "https://usememos.yammer.jp/m/nKFwEhCtmJ3WAQjCcRJMJV",
-      "content_text": "claude code、sedやgrepだけじゃなくて、RubyではREPLを結構使いこなして構造とかを確認していて、普通に普段Rubyのコードを書くソフトウェアエンジニアがやる感じで進めていて、これも時代が進んだ感がある。",
-      "date_published": "2025-07-09T16:50:23.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/hTa8nJFkbUotEDdYaZjV5t",
-      "url": "https://usememos.yammer.jp/m/hTa8nJFkbUotEDdYaZjV5t",
-      "content_text": "AI、ダサいからRailsの中でAPIクライアントをかかせたら、何もないのにすぐapp/servicesというディレクトリを切り出した。",
-      "date_published": "2025-07-09T15:55:03.000Z"
     },
     {
       "id": "1941157135704027235",

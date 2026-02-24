@@ -5,6 +5,38 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>Claude MAXプラン以外で使うLLMコスト、正直高すぎる、OpenClawを飼い始めたが、一瞬で1000円ぐらい飛んでいってしまった</title>
+      <link>https://usememos.yammer.jp/m/5rUFq2PWwnt2BfaLbkNd6F</link>
+      <description>Claude MAXプラン以外で使うLLMコスト、正直高すぎる、OpenClawを飼い始めたが、一瞬で1000円ぐらい飛んでいってしまった</description>
+      <guid>https://usememos.yammer.jp/m/5rUFq2PWwnt2BfaLbkNd6F</guid>
+      <pubDate>Mon, 23 Feb 2026 13:14:01 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>花粉症、無事終わってきた</title>
+      <link>https://usememos.yammer.jp/m/dCQRQsPxDznzYuwhdkDP4F</link>
+      <description>花粉症、無事終わってきた</description>
+      <guid>https://usememos.yammer.jp/m/dCQRQsPxDznzYuwhdkDP4F</guid>
+      <pubDate>Mon, 23 Feb 2026 10:06:23 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>食事さえAIに決めてもらう時代。あすけんのスクショを送ったら残りでバランスを整えてくれる</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mfjfdaeqqs2u</link>
+      <description>食事さえAIに決めてもらう時代。あすけんのスクショを送ったら残りでバランスを整えてくれる</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfjfdaeqqs2u</guid>
+      <pubDate>Mon, 23 Feb 2026 09:59:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
+      <title>Keyball44を久々に使ってみたがトラックボールの滑りが悪い。ここで活躍！ SUPERクレポリメイトSTRONG</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mfj74nmyvc24</link>
+      <description>Keyball44を久々に使ってみたがトラックボールの滑りが悪い。ここで活躍！ SUPERクレポリメイトSTRONG</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfj74nmyvc24</guid>
+      <pubDate>Mon, 23 Feb 2026 08:08:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>picoclawのセットアップをClaude Codeにやらせるという、なんというディストピア</title>
       <link>https://usememos.yammer.jp/m/TDay6ef6JRFe9wzHxFEgKP</link>
       <description>picoclawのセットアップをClaude Codeにやらせるという、なんというディストピア</description>
@@ -420,28 +452,6 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>天気が良すぎる、この天気活かしたい！回転寿司行く以外で活かしたい</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb6pqdkwl226</guid>
       <pubDate>Tue, 30 Dec 2025 06:25:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>日記のアプリをReact Nativeに作り始めたのだが、端末間同期とストレージがなやましい。
-
-ながくデータをもち続けることを考えると、最終的にGitリポジトリに取り込みたい。ただ、conflict</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mb4x7wwk7227</link>
-      <description>日記のアプリをReact Nativeに作り始めたのだが、端末間同期とストレージがなやましい。
-
-ながくデータをもち続けることを考えると、最終的にGitリポジトリに取り込みたい。ただ、conflictの解消などの複雑な概念は持ち込みたくない。単にlinerで過去のものが残っていて戻せれば十分なので、そんなにセンシティブにならなくても良いのだけど。
-
-履歴の管理といえば、Simple NoteのUIが非常によくできていてとても好き。でもCLIやAPIがなくて、結局データが閉じ込められてしまうのが結構困るので使うのをやめてしまっている。ノートアプリも日記アプリも、安住の地はどこへやら。</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb4x7wwk7227</guid>
-      <pubDate>Mon, 29 Dec 2025 13:34:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>東横線1時間以上各停の旅。これも年末だからなんでもよいということで楽しめる</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mb4ubj7a7227</link>
-      <description>東横線1時間以上各停の旅。これも年末だからなんでもよいということで楽しめる</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb4ubj7a7227</guid>
-      <pubDate>Mon, 29 Dec 2025 12:41:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
     <item>
@@ -1192,22 +1202,6 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>Claude CodeがRubyのREPLを使いこなす姿と、https://techracho.bpsinc.jp/hachi8833/2025_03_07/148685 をみて安心した。AIが来ても、レールにのればいいだけのものを再発明して保守するのがいいということには別にならなくい</description>
       <guid>https://usememos.yammer.jp/m/RJRUMj3baqTYhmTAHW6iyJ</guid>
       <pubDate>Tue, 15 Jul 2025 01:12:16 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>claude code、sedやgrepだけじゃなくて、RubyではREPLを結構使いこなして構造とかを確認していて、普通に普段Rubyのコードを書くソフトウェアエンジニアがやる感じで進めていて、これ</title>
-      <link>https://usememos.yammer.jp/m/nKFwEhCtmJ3WAQjCcRJMJV</link>
-      <description>claude code、sedやgrepだけじゃなくて、RubyではREPLを結構使いこなして構造とかを確認していて、普通に普段Rubyのコードを書くソフトウェアエンジニアがやる感じで進めていて、これも時代が進んだ感がある。</description>
-      <guid>https://usememos.yammer.jp/m/nKFwEhCtmJ3WAQjCcRJMJV</guid>
-      <pubDate>Wed, 09 Jul 2025 16:50:23 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>AI、ダサいからRailsの中でAPIクライアントをかかせたら、何もないのにすぐapp/servicesというディレクトリを切り出した。</title>
-      <link>https://usememos.yammer.jp/m/hTa8nJFkbUotEDdYaZjV5t</link>
-      <description>AI、ダサいからRailsの中でAPIクライアントをかかせたら、何もないのにすぐapp/servicesというディレクトリを切り出した。</description>
-      <guid>https://usememos.yammer.jp/m/hTa8nJFkbUotEDdYaZjV5t</guid>
-      <pubDate>Wed, 09 Jul 2025 15:55:03 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
