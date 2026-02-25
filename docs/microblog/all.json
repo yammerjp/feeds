@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/aeY7GQ2fJ4Viip9iVfb8nn",
+      "url": "https://usememos.yammer.jp/m/aeY7GQ2fJ4Viip9iVfb8nn",
+      "content_text": "セキュリティと技術者倫理もセットでバイブスを効かせていく必要がある。",
+      "date_published": "2026-02-24T15:26:19.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfkw7czouk2u",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mfkw7czouk2u",
+      "content_text": "Face ID、きっと花粉症でない人が作ったのだろうな",
+      "date_published": "2026-02-24T00:33:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/5rUFq2PWwnt2BfaLbkNd6F",
       "url": "https://usememos.yammer.jp/m/5rUFq2PWwnt2BfaLbkNd6F",
       "content_text": "Claude MAXプラン以外で使うLLMコスト、正直高すぎる、OpenClawを飼い始めたが、一瞬で1000円ぐらい飛んでいってしまった",
@@ -333,12 +345,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mbbhah442k23",
       "content_text": "起きてすぐ外に出ないと面倒で夜になってしまう、せっかく今日は昼間ランニング日和だったのに",
       "date_published": "2025-12-31T08:31:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mb6pqdkwl226",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mb6pqdkwl226",
-      "content_text": "天気が良すぎる、この天気活かしたい！回転寿司行く以外で活かしたい",
-      "date_published": "2025-12-30T06:25:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/m/EXsbtfqz83CroshdHN38D3",
@@ -891,12 +897,6 @@
       "url": "https://x.com/yammerjp/status/1945491908362694669",
       "content_text": "AIが非常に長いコミットメッセージを書く中、たまに混ざる「fix」「wip」「add [一語]」などしかかないので、人間が積んだかどうかが大変わかりやすい",
       "date_published": "2025-07-16T23:33:11+09:00"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/RJRUMj3baqTYhmTAHW6iyJ",
-      "url": "https://usememos.yammer.jp/m/RJRUMj3baqTYhmTAHW6iyJ",
-      "content_text": "Claude CodeがRubyのREPLを使いこなす姿と、https://techracho.bpsinc.jp/hachi8833/2025_03_07/148685 をみて安心した。AIが来ても、レールにのればいいだけのものを再発明して保守するのがいいということには別にならなくい",
-      "date_published": "2025-07-15T01:12:16.000Z"
     },
     {
       "id": "1941157135704027235",
