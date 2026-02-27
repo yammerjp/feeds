@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/3VCS9oxe2g2mBdhPxbHHyf",
+      "url": "https://usememos.yammer.jp/m/3VCS9oxe2g2mBdhPxbHHyf",
+      "content_text": "OpenClaw生活のためにまたChatGPT Plusに加入",
+      "date_published": "2026-02-26T01:22:08.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/aeY7GQ2fJ4Viip9iVfb8nn",
       "url": "https://usememos.yammer.jp/m/aeY7GQ2fJ4Viip9iVfb8nn",
       "content_text": "セキュリティと技術者倫理もセットでバイブスを効かせていく必要がある。",
@@ -867,12 +873,6 @@
       "url": "https://usememos.yammer.jp/m/hjrhCrkHxjoc2XCYvFGfVv",
       "content_text": "80,15,5",
       "date_published": "2025-07-27T08:32:19.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/EQyUdY9RoP4Xv2icYxkpA2",
-      "url": "https://usememos.yammer.jp/m/EQyUdY9RoP4Xv2icYxkpA2",
-      "content_text": "Claude CodeのUsage Limit、人間的な生活をするために残してくれた最後の余白、優しさを感じる",
-      "date_published": "2025-07-21T08:59:29.000Z"
     },
     {
       "id": "1946609916946591863",
