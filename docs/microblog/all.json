@@ -5,6 +5,24 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/B99aaUYtdKpW4VCVHNtwi2",
+      "url": "https://usememos.yammer.jp/m/B99aaUYtdKpW4VCVHNtwi2",
+      "content_text": "楽しみなもの: DNS-PERSIST-01",
+      "date_published": "2026-02-27T16:12:48.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/3bTPm9qCY4QwyvLRtRerWM",
+      "url": "https://usememos.yammer.jp/m/3bTPm9qCY4QwyvLRtRerWM",
+      "content_text": "我が家のOpenClawさんの様子",
+      "date_published": "2026-02-27T13:42:54.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/Y98KpFkVpqkoMDBZWqkp5z",
+      "url": "https://usememos.yammer.jp/m/Y98KpFkVpqkoMDBZWqkp5z",
+      "content_text": "LLMによって、ソフトウェアエンジニアリングにおける特殊性を求められていた領域がだんだん狭まって、ビジネスパーソンぽさのある仕事がふえてくるのかなあ、どうだろうか",
+      "date_published": "2026-02-27T13:42:34.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/3VCS9oxe2g2mBdhPxbHHyf",
       "url": "https://usememos.yammer.jp/m/3VCS9oxe2g2mBdhPxbHHyf",
       "content_text": "OpenClaw生活のためにまたChatGPT Plusに加入",
@@ -855,24 +873,6 @@
       "url": "https://usememos.yammer.jp/m/aVNv9Y32bDzbc3vSMeUs63",
       "content_text": "AIにコードを出力させるVibe Codingは子供にクレカを使わせるものだ、という比喩いままでクレカを使いにくい環境でも使えるようになったともいえるだろう。https://blog.val.town/vibe-code",
       "date_published": "2025-07-31T15:00:21.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/3VKXaP7FP6TzyAojQMpwJC",
-      "url": "https://usememos.yammer.jp/m/3VKXaP7FP6TzyAojQMpwJC",
-      "content_text": "やっぱ言語が統一されていることが大事？rubyばっか書いてたらTypescriptのシンタックスが出てこなくて、Webアプリケーション作るならフロントエンドは捨てられないからhogefuga... と思ったけど、言語が分かれている方がAIにとってコンテキストが明確に分かれていて混同されることがないからいいのかな",
-      "date_published": "2025-07-31T14:39:39.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/Q8UkiCwoq448cb94FGAqbq",
-      "url": "https://usememos.yammer.jp/m/Q8UkiCwoq448cb94FGAqbq",
-      "content_text": "ホワイトボードでロジックを考えて疑似コードにするぐらいまで頑張ったら、あとはClaude Codeがなんとかしてくれるだろうという安心感",
-      "date_published": "2025-07-31T14:37:43.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/hjrhCrkHxjoc2XCYvFGfVv",
-      "url": "https://usememos.yammer.jp/m/hjrhCrkHxjoc2XCYvFGfVv",
-      "content_text": "80,15,5",
-      "date_published": "2025-07-27T08:32:19.000Z"
     },
     {
       "id": "1946609916946591863",
