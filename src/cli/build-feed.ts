@@ -221,6 +221,14 @@ async function main() {
       feedUrl: `${CONFIG.baseUrl}/posts/all.json`,
     })
   );
+  writeFileSync(
+    `${postsDir}/all.xml`,
+    buildRss(sortedPosts, {
+      title: "yammer's blog posts",
+      link: "https://yammer.jp",
+      description: "Keisuke Nakayama RSS Feed",
+    })
+  );
   console.log(`Saved blog feeds (${sortedPosts.length} items)`);
 
   // 6. Podcast

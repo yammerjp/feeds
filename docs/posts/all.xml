@@ -1,0 +1,2632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>yammer&apos;s blog posts</title>
+    <link>https://yammer.jp</link>
+    <description>Keisuke Nakayama RSS Feed</description>
+    <item>
+      <title>2026年2月のキーマップ for Keyball 44 </title>
+      <link>https://awkblog.net/@yammerjp/posts/37</link>
+      <description>
+&lt;p&gt;2020年の夏に自作キーボードを作ってから気づけば5年以上経つが、いくつかのキーボードを跨いでも配列はあまり変わっていない。 &lt;/p&gt;
+&lt;p&gt;過去の配列: &lt;a href=&quot;https://memo.yammer.jp/posts/keymap-202009&quot;&gt;2020年9月のキーマップ for lily58&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近はPlank Keyboardばかり使っていたが、身体の姿勢が気になったので久々に分割キーボードに戻ろうと、押し入れから眠っていたKeyball 44を引っ張ってきた。&lt;/p&gt;
+&lt;p&gt;このキーボードは買った後にあまり馴染めずに使えていなかったのだけど、今日から使っていくことにする。 馴染めなかった理由の一つは親指近くのキーの数。トラックボールが親指の近くにあるのは素晴らしいのだが、それと引き換えに親指周りのキー数がどうしても少なくなってしまう。他キーボードで慣れた配列が使えなくて、馴染めないままになってしまっていた。&lt;/p&gt;
+&lt;p&gt;私の配列は代替40%ぐらいで、どのキーボードでも以下のようにしている&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+左手の親指周りに、Shift&amp;amp;Spaceと、記号や数字が入ったレイヤーへのModifierキーを置く
+&lt;/li&gt;&lt;li&gt;
+右手の親指周りに、Ctrl&amp;amp;Enterと、矢印キーが入ったレイヤーへのModifierキー、そしてBackspaceを置く
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;つまり右親指で3キー必要なのだ。&lt;/p&gt;
+&lt;p&gt;今日からは、実験的にModifierキーとBackspaceキーを同じ場所に配置してみた。今のところはうまく動かせている気がするが、親指で押す一番内側のキーが結構遠くて手が疲れるかも知れず、続くかどうかしばらく試してみないとわからない。&lt;/p&gt;
+&lt;p&gt;AI時代で音声入力も結構いい感じになってきて、コードも直接書かずに抽象的な指示を出す時代になってきた。プログラマーの仕事道具であるキーボードはいつまで共にあるのかよくわからない。けれども、Keyballさんにはまだまだしばらくこれからお世話になります。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://blob-v2.awkblog.net/img/29299532/1771833350ycojohdg.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;</description>
+      <guid>https://awkblog.net/@yammerjp/posts/37</guid>
+      <pubDate>Mon, 23 Feb 2026 07:57:02 GMT</pubDate>
+      <source>awkblog</source>
+    </item>
+    <item>
+      <title>開発環境現状確認 2026</title>
+      <link>https://awkblog.net/@yammerjp/posts/36</link>
+      <description>
+&lt;p&gt;&lt;a href=&quot;https://b.hatena.ne.jp/q/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E7%8F%BE%E7%8A%B6%E7%A2%BA%E8%AA%8D?target=text&amp;amp;sort=recent&amp;amp;users=1&amp;amp;safe=on&quot;&gt;開発環境現状確認2026&lt;/a&gt;が流行っているので、私も現状確認。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OS&lt;/strong&gt;: 仕事もプライベートも気付けばmacOSだらけになってしまった。ハードウェアとGUIが大変よくできていて結局そればっかりになってしまった。　といっても開発は結局Linux VMのなかだったり家に建てたLinuxマシンにsshしたりもする。Linuxディストリビューションは大体Ubuntu。楽なので..。手元で触るマシンには大体Tailscaleが入っていて、iPhoneやiPadなどからも含めて家のmac miniを踏み台におうちの環境に繋ぐなどしている。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;エディタ&lt;/strong&gt;: NeovimにAstroNvimを入れてそれ以外はほぼ素のまま使っている。そんな手の込んだことはしていなくて、基本的なVimコマンドでほれほれとコードを書いてる。Claude Codeにしてからエディタの機能をたくさんつかって読んだり書いたりするよりもAIを介して読み書きすることが増えたので、会社でも十分Neovimでやっていけるようになった。ターミナルの中に帰ってくるようになって出る必要がないのが楽。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ターミナル&lt;/strong&gt;: Alacrittyの起動シェルをtmuxにして使ってる。もともとクロスプラットフォームで統一できて設定をテキストでかけて速いからということで選んだ。もっぱらmacOSでしか使わなくなったのでGhosttyが少し気になっているが、現状何も困っていない。はやいし。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;シェル&lt;/strong&gt;: ずっとzsh。viキーバインドを辞めたいと何年か思っているが辞められない。適当なマシンに入ってbashのemacsキーバインドになると途端に操作が遅くなる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AIツール&lt;/strong&gt;: 何をするにもClaude Code Max だけでやっている。&lt;a href=&quot;https://awkblog.net/@yammerjp/posts/35&quot;&gt;別の記事&lt;/a&gt;に書いた通り、それ以外は使わなくなってしまった。これに合わせて家ではAIチャットもClaudeになった。前はChatGPTのProやPlusも使ってたけどClaudeのWeb版もこなれてきて特に困らない感じになった気がする。会社ではGoogle WorkspaceなのもあってGemini。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ブラウザ&lt;/strong&gt;: 家ではFirefox、会社ではChrome。会社のマシンで個人のアカウントに入る時とかはFirefoxを使うことにしてもろもろ同期されるようにしている。Mozillaを使って応援！Pocketがなくなってしまって残念。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ランチャー&lt;/strong&gt;: macOS標準のやつしか使っていない。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;フォント&lt;/strong&gt;: HackGenを個々何年も使っている。| パイプが二つに切れていたりなどの感じが手放せない。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;環境構築&lt;/strong&gt;: 会社、個人、個人(非公開)のそれぞれでリポジトリを作って、yadmで同期するというのを一気に流すスクリプトを書いているが、最近セットアップしてないな。chezmoiが流行っているが、サブコマンドがGitに完全に一致している (というか中身がGit) という理由で、どっちも使った上でyadmが手に馴染んでしまった。リポジトリごとに違うコマンドをエイリアスに割り当てていて、どこからでもdotfilesを更新できるようにしている。最近メンテできていないが。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;パッケージマネージャ&lt;/strong&gt;: brewとapt&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;バージョン管理&lt;/strong&gt;: 開発用の言語ランタイムはmiseでいれることにしている&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;キーボード&lt;/strong&gt;: &lt;a href=&quot;https://memo.yammer.jp/posts/planck-keyboard&quot;&gt;Planck Keyboard&lt;/a&gt;が手に馴染んでしまい手放せない。マネジメントラインに進むことになってからミーティングのための移動が増えたので、矯正したらふつうにMacbookのキーボードにも帰ってこれたので、どっちかで書いてる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;日本語入力&lt;/strong&gt;: 変換精度に満足いかないままmacOS標準&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Git関連&lt;/strong&gt;: なんじゃろ、worktreeとかは薄いシェル関数を書いたりしているが、Git操作は基本そのままCLIを叩くことにしているのでそれ以外は特に使っていない。LazyGitとかもなじまなくて、ふつうに手で打てばいいやとなっている。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FizzyFinder&lt;/strong&gt;: fzfをつかっています。プレビューオプションをうまく使えたら便利だしテンションあがる。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;よく使う言語&lt;/strong&gt;: 仕事ではPHP, Ruby, TypeScriptがだいたい。テキストをごにょるときはawk、JSONを変換したいときはNode.js、少し長めのスクリプトならRuby、四則計算はirb、XMLを何かしたりDBに繋ぐときはPHP、AIに書かせるのはPython、CLIつくるならGoという感じでこだわりがないことがこだわりなのかもしれない。awkはちょくちょく手で書いてしまっている。特にAIに直接渡しづらいテキストの整形などで。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DBクライアント&lt;/strong&gt;: 仕事でMySQLをつかうのでSequel Aceが入っているが久しく使っていないことに今気づいた。開発環境はそのままAIに触らせた方が早いし、それ以外の環境ではなんか別のWeb管理画面のある何かで触ることが多い。&lt;/p&gt;
+&lt;p&gt;というわけでこだわりがあるのだがないのだかよくわからない感じになってしまったが、最近はなるべくデフォルトの状態に身体を合わせるというのが多くなって気がする。そうじゃないやつは手癖。そろそろ腰を入れて新しいこだわりでも探しにいこうか。&lt;/p&gt;</description>
+      <guid>https://awkblog.net/@yammerjp/posts/36</guid>
+      <pubDate>Mon, 19 Jan 2026 15:27:18 GMT</pubDate>
+      <source>awkblog</source>
+    </item>
+    <item>
+      <title>2025年、Claude Codeの年</title>
+      <link>https://awkblog.net/@yammerjp/posts/35</link>
+      <description>
+&lt;p&gt;今年は、Claude Codeの年だったといえよう。コードを書く体験もすっかり変わってしまった。このやすみはReact Nativeで自分がつかう日記アプリを作ってみているが、まったく作ったことがないのにそれなりに動くものをひとことふたこと言えば書いてくれてしまう。&lt;/p&gt;
+&lt;p&gt;というわけで、今年のAI体験を雑多に書き出してみる。&lt;/p&gt;
+&lt;p&gt;今年のはじめはまだCursorで生活していた。 yoloモードが出てきて、年の初めごろに https://github.com/yammerjp/optruck を作らせていた記憶がある。CLIツールは、コマンドラインオプションを何にするかを考えることで、結構思考をまとめられる。UsageをAIに書かせてひたすらレビューしてから作り始めるというので、バンバン書いてくれたコードを割と採用できるというのに驚いていたと思う。&lt;/p&gt;
+&lt;p&gt;発言を振り返ると、そのあと2月末にclineのauto approveでお金が溶ける感覚を味わっていた。Anthoropicに少しばかりお金をチャージして遊んでいたっぽい。&lt;/p&gt;
+&lt;p&gt;コードをかく話ではないが、部長とマネージャ陣でCharGPTのProが話題になって、2月から3ヶ月くらいProを契約していたのも今年だった。Deep Research、いままでは見つけられなかったOSSだったりをさらさらとみつけてくれるのが結構インパクトがあったな。&lt;/p&gt;
+&lt;p&gt;Claude CodeのMaxプランを契約したのは、記録をふりかえると6月ごろっぽい。6/6にProを、6/11にMaxを契約している。こんなに日々に溶け込んで使っているのにまだ半年ぐらいしか経っていないのは、少し驚きである。つかいはじめてすぐ、CursorもGitHub Copilotも解約してしまって、ChatGPTのPlusも解約してしまって、とにかくClaude Max x20で生きていくぞというふうにして、そこからは、それ無しの生活が考えられなくらいそればかり使っていた。このあたりから、ターミナルとブラウザだけでやっていけるようにもなった。会社のでかいコードベースを触るのは、なんだかんだ職業プログラマを始めてからずっとVScode (もしくはCursor)を使っていて、(Neo)Vimは家か、仕事でもちょいと直すときだけしか使っていなかったのだが、Claude Codeが書いてくれるので、(Neo)Vimだけでやっていけるようになった。&lt;/p&gt;
+&lt;p&gt;ChatGPT、6月時点ではClaudeのWeb版の使い勝手があんまりでChatGPTはあとでPlusを契約し直したのだけど、流石にそろそろいいかとなって、最近は解約して、チャットもClaudeを使うことにしてみている。会社ではGoogle WorkspaceなこともあってGeminiを結構使っているかなあ。&lt;/p&gt;
+&lt;p&gt;Claude Codeを使い始めて以降、Claude Code自体の変化というのもたくさんあったが、あんまりそういうのを深く意識せずに使っているだけでいい感じになったり、性能が悪いように感じる時期があったり、どんどん変化していっていたと思う。ここでは自分が使っての感想を述べたいので深追いはしないが、ツールとしての一年を振り返るのは https://zenn.dev/oikon/articles/claude-code-2025 がとてもいい記事だった。&lt;/p&gt;
+&lt;p&gt;7月の中頃に新規サービスの立ち上げの話があって、最初のあてを作り始めた頃から、git worktreeでひたすら回し始めるかたちで本格的にガッツリ使うようになっていった。まだ事業の確度が読めていないことも、要求が素早く変化していくというのもあって、チームにお願いするんじゃなくて自分が握ってひとりでわたわたコードを書いていた。Rubyは型がないからAIが苦手なんていうような巷での言説を無視して、Production Readyなアプリケーションをガシガシ作って、ガシガシ壊して進めたのは、Claude Codeがあったからだったと思う。&lt;/p&gt;
+&lt;p&gt;ガードレールを結構色々整備しながら進んでいった。AIだけで動作確認できるよう、外部のサービスは全てモック可能にし、モデルが太るように、テストを書くように、機能を作って形を作っていくにつれてガードレールもどんどん整備しないとすぐ脱線する感じがあった。&lt;/p&gt;
+&lt;p&gt;そのアプリは、最初はRails wayを最大限生かそうとMPAにしていたが、けっこうやることがあるぞと気づいてVue.jsのSPAに切り出した。その判断は良かったと思うのだが、今考えても悩ましいのは、フロントエンドのガードレール。整備が甘くて、微妙なコードが結構出てきてしまったり、Playeright MCPとの噛み合わせでうまくデバッグできずにスタックしてしまったり。ひたすらE2Eを書いていたけどフレーキーになりすぎてほとんど捨てたりもした。フロントエンドを作るにあたりうまくAIをガイドできなかったのは、大量に出てくるコードに対する直感が甘いというか、どうやって作っていったらいいかの方針があまり持てていなかったというのが大きな要因だったと思う。作り手の認識や守備範囲がそのまま出来るものにきっかりと反映されているという様子である。&lt;/p&gt;
+&lt;p&gt;現時点では、AIがでてきたからこそ細部への理解がAIへの的確なガイドとして必要という状況だろう。今後どうなるかはわからないけど、複雑な実環境をシンプルに表現し続けるのにはプログラマーの腕が求められている。&lt;/p&gt;
+&lt;p&gt;既存のコードベースをAIでどうやって変化させていくかの劇的にインパクトのある方法は、いまのところすくなくともまだ私やその身の回りでは答えが見えていないように思う。人間の認知にボトルネックが移っていくことは明白だけれど、私が関わっているプロダクトでもやりたいことは無限にあるから、AIでうまく実現できるようになっていきたい。&lt;/p&gt;
+&lt;p&gt;来年末どんな姿になっているか、全く想像もつかない。それまでの数年と比較しても、いちばん、プログラマの仕事にようやく本当にAIによる変化が大きくやってきはじめた一年だったと思う。&lt;/p&gt;
+&lt;p&gt;コンピュータオタクとしてコードを書いたりソフトウェアをつくるのを現時点で仕事にできているのは、大変幸せなことである。いまとはある程度違う形かもしれないが今後もなんらかの専門性が求められ続けられるだろう、その変化は、大きな波であっても今年のように連続的にやってくる(と願いたい)。変化をポジティブに受け止めて、波に乗ってやっていきたい。&lt;/p&gt;</description>
+      <guid>https://awkblog.net/@yammerjp/posts/35</guid>
+      <pubDate>Wed, 31 Dec 2025 15:00:30 GMT</pubDate>
+      <source>awkblog</source>
+    </item>
+    <item>
+      <title>トイカメラで、写真の荒さを楽しむ</title>
+      <link>https://memo.yammer.jp/posts/20251215</link>
+      <description>2025年も残り2週間、いかがお過ごしでしょうか？ 最近私はトイカメラを買いました。 トイカメラを買った トイカメラとは安価な素材で作られた簡素なカメラを指し、チープな見た目やうつり具合を楽しむもののようです。 スマホで高画質な写真が撮れる昨今、細かいところまで綺麗に映るのはありがたいものの、いいと感じる写真を撮るには素人にはどうも腕が足りず、イマイチだなあと感じてしまう機会も多くあります。 そこで、あえて逆張りで荒い解像度でトイカメラで撮るなら、細かいことを気にせず写真を楽しく撮れるのではないかと思い、、買って試してみることにしました。 買ったのはImpress Watchの記事でも紹介され</description>
+      <guid>https://memo.yammer.jp/posts/20251215</guid>
+      <pubDate>Tue, 16 Dec 2025 00:10:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>寝袋を買った / 御池登山口のブラシが最高 2025/10/19</title>
+      <link>https://awkblog.net/@yammerjp/posts/34</link>
+      <description>
+&lt;p&gt;登山をはじめてから2年くらい経ち、そろそろテント泊が気になってきて道具を調べているが、調べれば調べるほど沼な感じがある。&lt;/p&gt;
+&lt;p&gt;ひとまず寝袋だけ買ってみた。買ったのはモンベル シームレスダウンハガー800 #3。登山前の車中泊に初めて使ってみたが、軽いけど暖かいし、マミー型シュラフに昔から憧れていたので使うのが楽しい。&lt;/p&gt;
+&lt;p&gt;車中泊して登ったのは尾瀬の燧ヶ岳。御池登山口からの往復で登ったが、早朝に雨が降ったからか登山道は川の様になっていた。降りてくる頃には過去一番に靴がドロドロになってしまったけれど、登山口に洗い場があって助かった。しかも、ブラシに水道のホースが繋がっていて中から水が出てくる。素晴らしい！ドロドロを流して帰れたので、気分も爽快。 &lt;img src=&quot;https://yammer20230923.s3.amazonaws.com/img/29299532/1760935151lljr5z3z.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;</description>
+      <guid>https://awkblog.net/@yammerjp/posts/34</guid>
+      <pubDate>Mon, 20 Oct 2025 04:39:31 GMT</pubDate>
+      <source>awkblog</source>
+    </item>
+    <item>
+      <title>完全に秋 - 日記 2025/10/13</title>
+      <link>https://awkblog.net/@yammerjp/posts/33</link>
+      <description>
+&lt;p&gt;10月も半ばにさしかかり、やっと半袖以外で過ごしても良いと思えるようになって、季節は秋に移ってきた。&lt;/p&gt;
+&lt;p&gt;今週末は3連休で、土曜日は所沢に買い物に行き、好きなカフェに寄って夜ご飯を食べた。前住んでいたところの近くにあるお店で、引っ越して遠くなってしまったのが惜しくて、所沢にきたら毎度行っている気がする。ユニクロで長袖とズボンを買った。乾燥できる服で毎日同じものをまわすというのを今年の夏にやってみて快適だったので、4着ずつ同じ服を買った。&lt;/p&gt;
+&lt;p&gt;夜から移動して松本で一泊し、日曜は北アルプスの焼岳に登る。新中ノ湯登山口に車を止めて、頂上経由で上高地に降りる縦走ルートをとった。行きは紅葉で帰りは岩陵帯という違う楽しみがあるときいて、実際にコースは面白かったものの、帰りの上高地が大混雑。バスもタクシーも大混雑で、タクシーは180人ぐらい並んでいて乗れないかもと言われ、結局1時間20分ぐらい並んでようやく乗れて登山口に戻ることができ、中央道は混んでいて関越道経由で家に着いたのは11時半ごろ。でも、6時間を超える山行にしては慣れてきたのか道がよかったからか案外元気なままだったので、気落ちせずに帰れた気がする。&lt;/p&gt;
+&lt;p&gt;上高地に降りなければもっと楽に帰れた気がするが、綺麗な川と、登ってきた焼岳をみて元気が出た。奥穂高岳と西穂高岳を目の前にして、いつか登ってみたい気持ちとこれから始めるテント泊へのやる気も出てきた。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://yammer20230923.s3.amazonaws.com/img/29299532/1760358467z5kpw4ua.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://yammer20230923.s3.amazonaws.com/img/29299532/176035848715cs9l52.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;今日はいちにち予定がなく、そして一人だったので家でダラダラしながらawkblogがしばらく落ちていたのを治す。なおすといってもclaude codeに丸投げで、根本の原因も突き止めずにひとまず動く状態に戻しただけという為体であるが。&lt;/p&gt;
+&lt;p&gt;なにかする気も起きずに家から出ないまま一日が終わりそうだったので、夜になってから電車で外出し、新宿で夜ご飯を食べた。雑司ヶ谷にあるお店に行きたかったのだけど、そちらは行ってみてやっていなかったのでまた今度いくこととしたい。&lt;/p&gt;</description>
+      <guid>https://awkblog.net/@yammerjp/posts/33</guid>
+      <pubDate>Mon, 13 Oct 2025 12:31:10 GMT</pubDate>
+      <source>awkblog</source>
+    </item>
+    <item>
+      <title>死活監視</title>
+      <link>https://awkblog.net/@yammerjp/posts/32</link>
+      <description>
+&lt;p&gt;このアプリが2,3週ぐらい止まっていてゆるい(ひどい)ホビープログラミング姿を見せていたわけですが、先ほど復旧しました。 RSSを載せている yammer.jp も一緒にこけていて、勤務先でのパートナーのブログ投稿通知がこけているのが実質的な監視 (1日一回) ということで気づいたのだけど、忙しさにかまけてしばらく放置してしまっていた。&lt;/p&gt;
+&lt;p&gt;原因はマイグレーション失敗でコンテナが起動できなくなっていたこと。コンテナ起動時に自動でsqldefを使って自動でマイグレーションされるようにしていたのだが、いつからかデプロイ先のNeon + psqldef の組み合わせで &lt;code&gt;DROP EXTENSION  &quot;pg_session_jwt&quot;&lt;/code&gt; を実行しようとしてしまい、拒否されることで起動が失敗していたということだった。&lt;/p&gt;
+&lt;p&gt;3つ並列でコンテナを立てているわけだし、起動時に毎回マイグレーションする必要もないので、手動でかけることにしてスキップして回避している。(それ以上は詳しく見ていない...)&lt;/p&gt;
+&lt;p&gt;Fly.ioで256MBのコンテナ3つ + PostgreSQL互換のNeonを使って無料で運用できていてありがたい。awkblogは1プロセスで同時に処理できるリクエスト数が1となっていて、AWKBLOG&lt;em&gt;WORKERSという環境変数をベースにプロセスを立てることで並列に処理できる構成にしているのだが、以前いくつにしていたかすっかり忘れてしまった。Claude Codeに「残りメモリでどれくらい立てれる？」と聞いたら6〜8と教えてもらったので7に設定。&lt;/p&gt;
+&lt;p&gt;このアプリは多分全てのコードを人間が書いて作っていたのだが、気づけばすっかり世界が変わってしまっている。AIが勝手にコードを書いてくれる時代になったので、管理画面のフロントエンドでも少し手を入れてみるか。&lt;/p&gt;</description>
+      <guid>https://awkblog.net/@yammerjp/posts/32</guid>
+      <pubDate>Mon, 13 Oct 2025 05:06:06 GMT</pubDate>
+      <source>awkblog</source>
+    </item>
+    <item>
+      <title>久々に走る</title>
+      <link>https://awkblog.net/@yammerjp/posts/31</link>
+      <description>
+&lt;p&gt;今年の5月の初め頃から、健康のためにランニングを始めた。5月は12回、6月は3回、となっていて、6月上旬で止まっていたのだが、1ヶ月ぶりくらいに走ってみた。だいぶ暑くなってるが、朝早くだとまだ大丈夫。暖かいから朝でも体が動きやすい気がして、ペースは思ったよりもはやく走っていた。&lt;/p&gt;
+&lt;p&gt;朝早く起きれるかどうかが肝。走れるとスッキリしてよい。 &lt;img src=&quot;https://yammer20230923.s3.amazonaws.com/img/29299532/1751840944ullnr6q3.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;</description>
+      <guid>https://awkblog.net/@yammerjp/posts/31</guid>
+      <pubDate>Sun, 06 Jul 2025 22:29:10 GMT</pubDate>
+      <source>awkblog</source>
+    </item>
+    <item>
+      <title>メール送信者認証技術の整理</title>
+      <link>https://memo.yammer.jp/posts/mail-sender-authentication</link>
+      <description>SPF, DKIM, DMARCをはじめとするメール送信者認証技術のトピックが時々必要になるので、自分用のメモとして書き出しておきます。覚えていないところはRFCを見たりしていますが、記憶の中を書き出しているだけので、間違っているところがあったらご指摘ください。 メール送信者認証技術はなぜ必要なのか？ SMTPで送信元を表すのは、IPアドレス、エンベロープFrom、ヘッダFrom メールは、SMTPというプロトコル上でやり取りされます。この時、送信者側がどのホスト名からの接続か宣言されることとなっており、これがいわゆるエンベロープFromと呼ばれます。SMTPプロトコル上ではメールの内容(メー</description>
+      <guid>https://memo.yammer.jp/posts/mail-sender-authentication</guid>
+      <pubDate>Fri, 04 Jul 2025 18:52:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Drupalに入門する</title>
+      <link>https://zenn.dev/basd4g/scraps/244e05914b2635</link>
+      <description></description>
+      <guid>https://zenn.dev/basd4g/scraps/244e05914b2635</guid>
+      <pubDate>Tue, 03 Jun 2025 14:38:48 GMT</pubDate>
+      <source>zenn</source>
+    </item>
+    <item>
+      <title>PHPカンファレンス小田原2025に参加した</title>
+      <link>https://awkblog.net/@yammerjp/posts/30</link>
+      <description>
+&lt;p&gt;4/12に開催されたPHPカンファレンス小田原2025に個人スポンサーで参加した。&lt;/p&gt;
+&lt;p&gt;小田原の地でカンファレンスが開催されると聞いて、これは行かねばとなっていたが、去年は家の事情で行けず、次の年も開催されるときいて今年こそはとなっていたのだった。&lt;/p&gt;
+&lt;p&gt;カンファレンスのなかではコンテンツが多く作り込まれていて、初めての人とたくさん接点をもって交流することのできる素晴らしいカンファレンスだった。&lt;/p&gt;
+&lt;p&gt;発表とコンテンツの感想を残しておく。&lt;/p&gt;
+&lt;p&gt;キーノートの @takamachi1saki さんの発表は、php-srcのコア開発者として、php-srcの開発状況のいまに関するトピックだった。発表の最後の「自由であるべき」という言葉は、Open Source Softwareに対する態度として、自由という言葉それ自体の意味に根ざした言葉であったなと思う。 自分もソフトウェア開発者の端くれとして、そしてOSSとOSSコミュニティに支えられて生きていられている1人として、自分のできることをやりたいというように思う。&lt;/p&gt;
+&lt;p&gt;「PHPと旅する OSI 7階層」という @cakephper さんの発表は、根気と楽しさに満ちたものだった。車輪を再発明することの楽しさがありありと伝わってきたことと、自分はTCP/IPプロトコルスタックを自作したことがないので、TLSに関するレイヤには疎いのだなということを再認識した。車輪の再発明が自分も好きなので、いまはできなくともTCP/IPプロトコルスタック自作は人生の中でやりたいことの一つにあるが、しかし根気がいりそうだと思う。実用的なトピックでは、phpでバイナリを扱うためにhex2binをしているというのが印象に残った。スクリプト言語上で人間が扱いやすいのはテキストだし、awkにもBIN ODEとあわせてhex2binをやっていけばバイナリを扱う夢があるかもしれない。&lt;/p&gt;
+&lt;p&gt;@higaki_program さんの「古き良きLaravelのシステムは関数型スタイルでリファクタできるのか」のセッションは、生々しさと実直さがよかった。社内の耳の痛い過去を赤裸々に話しつつも、それを一つ一つ、まさにレガシーコード改善ガイドに書かれるような王道のやり方で、テストし、変更し、というのが実直だなと感じた。そしてその公開範囲が、ネガティブに取られかねないトピックも含めてとても絶妙な温度感になっていて、そのあたりも含めて、面白いスポンサーセッションだった。&lt;/p&gt;
+&lt;p&gt;@asumikanさんの「ちいさくPHPUnitをつくってみる」は、テストフレームワークをみじかに感じさせるところがよかった。ふつうのPHPプロジェクトであればPHPUnitが第一選択肢だろうが、言語も含め異なる環境でテストが一見できにくいようなものであっても、かんたんな仕組みでもいいからテストを用意するといいというように自分は考えていて、テストフレームワークのやっているようなことを自分でも出来る、と思うことは結構大事な事に思う。&lt;/p&gt;
+&lt;p&gt; @ogi&lt;em&gt;chotdake&lt;/em&gt;se さんの「100行で書けるPSR-11」も、使うものの中を素朴に作ってみて知る、という車輪の再発明のいい側面を感じれる発表だった。自分が好きというのもあるけど、車輪の再発明のトピックが上から感想が続いている。 PSRについて云々というのはあれど、フレームワークの上に綺麗に乗ったもの以外も広く使われているPHPにおいて、いざとなったら作れたり (ちゃんとしたDIコンテナはアレだけど)、適切に選べたりするとよい機会はときどきあって、それをうまくやることでプロジェクトをうまく漸進的に改善できることもあると思う。あと、名前として単純に DIYContainerという名前が洒落が効いていて素敵でした。自分はあまり詳しくないのですが元ネタがあるのですかね。&lt;/p&gt;
+&lt;p&gt;ランチマッチングとぺちおだ大合戦は、どちらも初めて会うソフトウェア開発者の方と知り合い、お話をするとても良い機会だった。とても楽しく参加することができました。特にぺちおだ合戦は運営の準備も大変だろうと用意に想像がつくようなものだったが、こういうのもアリなのかと、独自のカンファレンス世界観がおもしろかった。&lt;/p&gt;
+&lt;p&gt;1日を通して、楽しい時間を過ごすことができました。関わられた皆さん、本当にありがとうございました。&lt;/p&gt;
+&lt;p&gt;写真はゆるキャラの梅丸。いままで全然知らなかったよ、今もあの曲が頭に流れています。 &lt;img src=&quot;https://yammer20230923.s3.amazonaws.com/img/29299532/1744464966yhjg2vx3.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;</description>
+      <guid>https://awkblog.net/@yammerjp/posts/30</guid>
+      <pubDate>Sat, 12 Apr 2025 13:40:01 GMT</pubDate>
+      <source>awkblog</source>
+    </item>
+    <item>
+      <title>GMO Developers Day 2024に登壇した</title>
+      <link>https://memo.yammer.jp/posts/gmo-developers-day-2024</link>
+      <description>昨日、11/29, 30に開催されたGMO Developers Day 2024の「EC決済 開発責任者対談」というセッションに登壇した。 Developers Dayの登壇は昨年に続き2回目で、前回に引き続きGMOグループとして力入れてるなというのを感じる。 今年も、去年私が登壇した枠と似たようなパネルディスカッションに近い形式で、 @inamoly によるモデレータ+3人での対談を行った。事前の打ち合わせで何を話すか多少擦り合わせていたが、そのときに出てない話も本番では話していたり、対談の臨場感が現れた発表になったと思う。 対談形式の発表は特定のメッセージを強く伝えるようなものではないが</description>
+      <guid>https://memo.yammer.jp/posts/gmo-developers-day-2024</guid>
+      <pubDate>Sun, 01 Dec 2024 14:59:05 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>GMOペパボ EC事業部CTOに就任しました</title>
+      <link>https://memo.yammer.jp/posts/cto-in-ec-div</link>
+      <description>2024年10月1日付で、GMOペパボ株式会社 EC事業部CTOに就任しました。 事業部CTOとは 事業部CTOは、ペパボのエンジニアリングマネジメントラインのなかで、部門の技術領域の責任者として設けられていたSEL(シニアエンジニアリングリード)1を、2024年2月に再定義2した役職です。 部門ごとに異なる事業を運営するペパボは、事業部門のなかに開発組織を含む様々な職種のパートナーがおり、それぞれ様々なサービスを提供しています。事業部CTOという役職は、技術と技術組織の責任者として部門を成長に導くという点は以前のSELと変わらず、部門をひとつの会社として見立てたときのCTOの果たすべき役割を</description>
+      <guid>https://memo.yammer.jp/posts/cto-in-ec-div</guid>
+      <pubDate>Mon, 07 Oct 2024 02:00:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>YAPC::Hakodate 2024に参加した</title>
+      <link>https://awkblog.net/@yammerjp/posts/29</link>
+      <description>
+&lt;p&gt;2024/10/05に開催されたYAPC::Hakodate 2024に参加するために、週末は初めて函館に行っていた。 すごく楽しかったし、聞いたセッションのどれも学びになり、良い時間を過ごすことができました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://yammer20230923.s3.amazonaws.com/img/29299532/1728265585k1f2wlwi.jpg&quot; alt=&quot;公立はこだて未来大学&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;KeyNote&lt;/h2&gt;
+&lt;p&gt;Keynoteのなかで、量は質に転化する、フィードバックを待つ前につくりまくるという話が印象的だった。(全体の仕組みとしてフィードバックループを短くするのは大事だが) それを気にせずとにかく作るというのはフロー効率があがる面白い話だと思った。&lt;/p&gt;
+&lt;p&gt;手数が早いからこそできることでもあり、手数を早めるためには数をやることであり、個人のマインドセットとして量をやることの大事さを思い直した。&lt;/p&gt;
+&lt;h2&gt;セッションの感想&lt;/h2&gt;
+&lt;p&gt;見た発表のなかでの感想をいくつかメモ。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&quot;https://fortee.jp/yapc-hakodate-2024/proposal/cb8ad2ef-3499-443f-b0af-48a9daf4793b&quot;&gt;今日から始める大規模言語モデルのプロダクト活用&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;発表の中で X as a Codeとの組み合わせとしてyamlなど、サービスに合わせたDSLを生成させるという話をされていて、サービスがユーザに合わせるための方法として、興味深く印象に残った。WebのUIに拘束されずに操作できることが価値になるという点では、全部をWeb APIにするというのと近い話かも。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&quot;https://fortee.jp/yapc-hakodate-2024/proposal/5cebc76a-e430-4472-a718-5b4e376feaea&quot;&gt;perl for shell, awk, sed programmers&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;awk programmerホイホイの発表だった。awkを書いていると「これは厳しい」と思うタイミングはよくあって、それはperlが生まれて流行った所以でもあるだろう。テキストを扱って処理したいというのはなんだかんだまだまだ必要なタイミングがあるだろうということと、単純に書いていて手馴染みのいい道具を、自分の道具箱に入れておくことの大切さを改めて感じた。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&quot;https://fortee.jp/yapc-hakodate-2024/proposal/47532d1b-fa34-441b-bbcf-2b9b85e702b8&quot;&gt;誰になんと言われても「いい開発環境」を作りたくて頑張っている話&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;dev container + codespacesで5分で環境構築という話をされていて、環境をすぐ作れるというのはすぐ捨てれるという意味でもあって、その点が魅力的なのでもうちょいやってかないとと思うなどした。&lt;/p&gt;
+&lt;p&gt;GitHubふくめいくつかの例をみるけれど、一つのコンテナにすると本番環境での複数のWebアプリケーションの連携に関する構成について、本番環境ととの差分が大きくなったりしない？ というのが気になっていて、各社どうしているのか(特に困っていないのか) もうちょい詳しい運用が気になる。&lt;/p&gt;
+&lt;h2&gt;函館観光&lt;/h2&gt;
+&lt;p&gt;到着初日は同僚の &lt;a href=&quot;https://twitter.com/UVB_76&quot;&gt;@UVB_76&lt;/a&gt; が函館出身ということで、ラッキーピエロや函館山に連れて行っていただいて、日曜日は1人で五稜郭を回るなどした&lt;/p&gt;
+&lt;p&gt;ラッキーピエロは量に敗北してしまったのでまたの機会にリベンジしたい。夜景は前から気になっていて、はじめての函館だったので無事見ることができてよかった。五稜郭は、でかい！&lt;/p&gt;
+&lt;p&gt; というわけで、素晴らしい函館の時間をありがとうございました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://yammer20230923.s3.amazonaws.com/img/29299532/1728265526ev5fsull.jpg&quot; alt=&quot;image&quot; /&gt; &lt;img src=&quot;https://yammer20230923.s3.amazonaws.com/img/29299532/172826556223p1pvkk.jpg&quot; alt=&quot;image&quot; /&gt; &lt;img src=&quot;https://yammer20230923.s3.amazonaws.com/img/29299532/17282656845tw3xxf5.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;</description>
+      <guid>https://awkblog.net/@yammerjp/posts/29</guid>
+      <pubDate>Mon, 07 Oct 2024 01:48:14 GMT</pubDate>
+      <source>awkblog</source>
+    </item>
+    <item>
+      <title>財務3表一体理解法を読んだ(2024年8月)</title>
+      <link>https://memo.yammer.jp/posts/2024-08-pl-bs-cf-introduction</link>
+      <description>8月に読んだ本のメモが下書きのまま眠っていたので投稿しておく。また当方は会計の専門家ではないので、この感想にツッコミどころがあったらこっそり教えてください。 はじめに 企業における会計のことを少しはわかっていなくてはと思い、友人に薦められた財務3表一体理解法という本を読んだ。 学生時代も入社してからも会計のことを学んでおらず、PL (Profit and Loss Statement / 損益計算書) やBS (Balance Sheet / 貸借対照表)、CF (Cash Flow Statement / キャッシュフロー計算書) というのを名前は知っていても実態は正直わかっていないという状</description>
+      <guid>https://memo.yammer.jp/posts/2024-08-pl-bs-cf-introduction</guid>
+      <pubDate>Sun, 22 Sep 2024 14:44:08 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>洗車デビュー</title>
+      <link>https://awkblog.net/@yammerjp/posts/28</link>
+      <description>
+&lt;p&gt;4月に納車した初のマイカーを、先週末に洗車してきた。&lt;/p&gt;
+&lt;p&gt;いわゆるドライブスルー洗車というやつで、ブーンと入っていって、待つだけで綺麗になる便利システム。 洗車した後は拭き上げしたほうがいいというのを読んだので、置いてあったタオルで拭いたのだけど、(タダだからあるだけありがたいが)あんまり綺麗ではないのと、車の表面をゴシゴシ拭いている感じがあったので、マイタオルが欲しくなった。&lt;/p&gt;
+&lt;p&gt;駐車しているところに屋根がないからか、黄砂なのか一瞬で車が汚れて悲しくなっていたが、綺麗になるので洗車は素晴らしい。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://yammer20230923.s3.amazonaws.com/img/29299532/17144844791t6p1sxa.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;まだそんなに乗れていないのだけど、せっかく車を買ったのでたくさん出かけたい。とくに遠出したい。&lt;/p&gt;</description>
+      <guid>https://awkblog.net/@yammerjp/posts/28</guid>
+      <pubDate>Tue, 30 Apr 2024 13:54:07 GMT</pubDate>
+      <source>awkblog</source>
+    </item>
+    <item>
+      <title>月曜日</title>
+      <link>https://awkblog.net/@yammerjp/posts/27</link>
+      <description>
+&lt;p&gt;月曜日は体力が回復したことを生かして無駄に力を使って疲れてしまいがちな気がしているので、もうちょっと一週間全体をみて毎日を過ごしていけるようにしたい！ですね！&lt;/p&gt;</description>
+      <guid>https://awkblog.net/@yammerjp/posts/27</guid>
+      <pubDate>Mon, 04 Mar 2024 13:39:45 GMT</pubDate>
+      <source>awkblog</source>
+    </item>
+    <item>
+      <title>YAPC::Hiroshima 2024で、awkの話をしてきた</title>
+      <link>https://awkblog.net/@yammerjp/posts/26</link>
+      <description>
+&lt;p&gt;YAPC::Hiroshima 2024の感想2本目は、自分が登壇した背景や感想を書いてみることにする。&lt;/p&gt;
+&lt;p&gt;発表資料はこちら:  &lt;a href=&quot;https://speakerdeck.com/yammerjp/web-application-implementation-in-awk&quot;&gt;awkでつくってわかる、Webアプリケーション&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;セッションを聴いた感想はこちら: &lt;a href=&quot;https://awkblog.net/@yammerjp/posts/25&quot;&gt;YAPC::Hiroshima 2024のセッションが面白かった&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;経緯: awkblogを作っていた時にYAPCを教えてもらった&lt;/h2&gt;
+&lt;p&gt;最初にawkblogを作り始めたのは、2022年の秋冬ごろに「できそうだけど前例が見当たらないな」と思ったところからだった。 gawkでHTTPサーバをつくれたり、PostgreSQLを使えるということを知ったが、それらを組み合わせている例を見つけられず、Webアプリケーションエンジニアとしていっちょ試してみるか、という気持ちだった。&lt;/p&gt;
+&lt;p&gt;やってみるとまあまあ楽しくて、一通り動くものを作って1人で楽しんでいたのだった。&lt;/p&gt;
+&lt;p&gt;プロポーザルを出すきっかけは、社内で声をかけてもらったからだった。2023年の前半に、社内でawkblogを作っていて、どうせならカンファレンスとかで話すと面白そうと言っていたとき、その年のYAPC:Kyoto 2023で&lt;a href=&quot;https://tech.pepabo.com/2023/03/24/yapc-kyoto-2023/&quot;&gt;ぶつかり稽古&lt;/a&gt;をしていた&lt;a href=&quot;https://twitter.com/kenchan&quot;&gt;@kenchan&lt;/a&gt;くんさんから「YAPCだったら面白いと思ってくれる人が結構いるんじゃない？」というようなことを声をかけてもらったのだった。&lt;/p&gt;
+&lt;p&gt;そのあとプロポーザルの募集が始まるまで半年くらいは、趣味で開発しつつ、募集が始まったあとはテーマが「what you like?」でピッタリじゃん、となり応募。&lt;/p&gt;
+&lt;p&gt;応募した後もawkblogの開発は続けて幾つかの機能を実装したのだが、発表では全然話しきれず、まだまだawkblogの面白いところはまだまだあると思っている。&lt;/p&gt;
+&lt;h2&gt;発表資料の作成は声日記から初めて、最後はとにかく字を大きくした&lt;/h2&gt;
+&lt;p&gt;年が明けて登壇資料の準備が進んでいないけどなにか始めないとなと思い始めたのが&lt;a href=&quot;https://listen.style/p/yammer&quot;&gt;listen.styleの声日記&lt;/a&gt;だった。 awkblogについては7回くらい話していて、登壇で話せなかったことがめちゃくちゃあるという感じではある。&lt;/p&gt;
+&lt;p&gt;今回の発表は1年以上前から実装を温めていたので、話すことに困るということはなくて、基本的にはストーリーの組み立てと「何を話さないか」ということにフォーカスしていたからうまく行った面もあるけど、登壇資料を考える時の思考整理として、音声コンテンツは結構ありなのではないかなとも思う。&lt;/p&gt;
+&lt;p&gt;登壇資料をつくっていたときに意識していたのは、とにかく「文字を大きく」ということだった。今回は48ptや64ptの文字も結構出てくる、一定読みやすいスライドになったのではなかろうか。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.rubycolor.org/takahashi/&quot;&gt;高橋メソッド&lt;/a&gt;を参考にしたところがあるのだけど、さすがにあそこまでは簡潔にできなかった。&lt;/p&gt;
+&lt;h2&gt;デモ環境の準備でfly.ioとneon.tech便利〜となった&lt;/h2&gt;
+&lt;p&gt;デモ環境は結局新幹線の中で建てていたRDSの繋ぎこみがまにあわず、neon.techに課金したのだけど、非常に使いやすくて気軽だなあと感じた。&lt;/p&gt;
+&lt;p&gt;一方で、DBを自分で飼わないとわからないことも多数あるので、これは自分でホストしてみてUSER管理などをやっておかないとなという気持ちになった。、&lt;/p&gt;
+&lt;h2&gt;発表練習の効果が大きい&lt;/h2&gt;
+&lt;p&gt;発表練習は、事前に友人の&lt;a href=&quot;https://x.com/kotomin_m&quot;&gt;@kotomin_m&lt;/a&gt;と&lt;a href=&quot;https://twitter.com/_mamemame98&quot;&gt;@_mamemame98&lt;/a&gt;に付き合ってもらった。実は過去のPHPerKaigiのLTなどもお世話になっていて、発表の前に他の人に話すとフィードバックをもらえるし、そのうえ自分で「これじゃダメだな」というところをみつけて当日までに直せるので随分とクオリティが上がる。PHPerKaigiのときも今回も、リハーサルの時のクオリティは結構ダメダメだったと思っていて、そこで練習したおかげで結構準備が進んだ気がする。PHPconのときは社内でそれをやっていたが、発表前に誰かに聞いてもらうというのは結構強力な方法だと思うので、今後もやっていきたい。というか練習に付き合ってくれていつもありがとうございます&lt;/p&gt;
+&lt;p&gt;もし発表練習に付き合って欲しいという人がいたら、都合が合えばも引き受けるので気軽に声をかけてください。&lt;/p&gt;
+&lt;h2&gt;本番は字の大きさに助けられた&lt;/h2&gt;
+&lt;p&gt;練習の甲斐もあって、それなりには話せたのではないかと思う。字を大きくしてスライド1枚の情報量を減らすと、話すことに迷いが減るので、本番の構成をコントロールする意味でも字が大きいのは助かった。&lt;/p&gt;
+&lt;h2&gt;今後も続けていきたいawkblog&lt;/h2&gt;
+&lt;p&gt;awkを書く趣味は気ままに続けたいなと思っている。例えば以下のことをやりたい。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+gawkのリクエストの読み込みの謎の解明
+&lt;/li&gt;&lt;li&gt;
+awkの処理系の自作, 言語処理系に関するツールチェインの開発
+&lt;/li&gt;&lt;li&gt;
+awkblogのさらなる作り込み。特に管理画面のモダンフロントエンドツールチェインを使った作り直しなど
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;とはいえ急いでやっても仕方ないし、飽きたらしばらくやめたりしながらやるだろう。&lt;/p&gt;
+&lt;p&gt;とにかくしばらくここに記事を書くということをやってみることにする。&lt;/p&gt;
+&lt;h2&gt;おわりに&lt;/h2&gt;
+&lt;p&gt;思ったよりもたくさんの方に反響をいただけて、アホなことをやっているのを暖かく見守っていただけてありがたい、という気持ちです。YAPCという場で「お好み」を話したり聴いたりして、とても楽しく過ごすことができました。ありがとうございました。&lt;/p&gt;</description>
+      <guid>https://awkblog.net/@yammerjp/posts/26</guid>
+      <pubDate>Tue, 20 Feb 2024 14:50:48 GMT</pubDate>
+      <source>awkblog</source>
+    </item>
+    <item>
+      <title>YAPC::Hiroshima 2024のセッションが面白かった</title>
+      <link>https://awkblog.net/@yammerjp/posts/25</link>
+      <description>
+&lt;p&gt;2024/02/10に開催された、YAPC::Hiroshima 2024にて「&lt;a href=&quot;https://speakerdeck.com/yammerjp/web-application-implementation-in-awk&quot;&gt;awkでつくってわかる、Webアプリケーション&lt;/a&gt;」というタイトルで発表してきた。&lt;/p&gt;
+&lt;p&gt;今回が初めてのYAPCだったが、とても楽しく学びのある時間だった。せっかくなので、感想を記しておきたい。書いていたら結構なボリュームになってしまったので、今回はセッションを聴いた感想だけ書いて、発表した感想はまた別に書くことにする。&lt;/p&gt;
+&lt;p&gt;セッションを聴いた感想はこちら:  &lt;a href=&quot;https://awkblog.net/@yammerjp/posts/26&quot;&gt;YAPC::Hiroshima 2024で、awkの話をしてきた&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://speakerdeck.com/ryuichi1208/ru-men-eoldui-ying&quot;&gt;入門EOL対応&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;同僚の&lt;a href=&quot;https://twitter.com/ryuichi1208&quot;&gt;@ryuichi1208&lt;/a&gt;さんの、EOL対応についての発表。&lt;/p&gt;
+&lt;p&gt;EOL対応という少しニッチなトピックについて、体系的に整理して説明していて、ただ単に手を動かすというところだけではなく、なぜやるのか、どのような選択肢があるのかということが丁寧に説明されていたのがよかった。&lt;/p&gt;
+&lt;p&gt;ところで、ちょうどとあるEOL対応を一緒にやっているので、このセッションを聞いた上で、無事成功させたいという気持ちを新たにした。&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://speakerdeck.com/fujiwara3/yapc-hiroshima-2024&quot;&gt;Amazon ECSで好きなだけ検証環境を起動できるOSSの設計・実装・運用&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;ecspressoの作者の&lt;a href=&quot;https://twitter.com/fujiwara&quot;&gt;@fujiwara&lt;/a&gt;さんの発表。&lt;/p&gt;
+&lt;p&gt;聞いていて、開発環境に関するツールを、OSSとして作っていることの良さがあるなというふうに思った。SaaSとしてのみ提供されるWebアプリケーションは、デプロイ先が限定されることから、そのような環境に依存するコードが生まれてしまう場合を見かける。The Twelve-Factor Appを守ってくれよ (それはそう) といわれたらその通りだが、既にそうじゃない状況のアプリケーションをそうすることへのモチベーションの一つとして、環境に依存しない開発環境ツールの上でホストするというのが生まれてきそうだなと聞いていて思った。&lt;/p&gt;
+&lt;p&gt;発表されていたツールの課題とはズレるが、既存の開発環境に対するいくつかの悩みがあったので、それをツールを作って解決するというアプローチとともに、他の会社/環境でどのように問題を解決しているのかというのを知れて、とても勉強になった。&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://junkyard.song.mu/slides/yapc-hiroshima-2024&quot;&gt;Blogを作り、育み、慈しむ ~ Blog Hacks 2024&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/songmu&quot;&gt;@songmu&lt;/a&gt;さんの、個人ブログに対する考えを話していた発表。&lt;/p&gt;
+&lt;p&gt;個人ブログに関するツールを作ることの良さ、個人ブログを書くことの良さ、こだわりが知れて、個人サイトが好きな身として、共感しながら聞いていた。&lt;/p&gt;
+&lt;p&gt;発表の中に出てきていた&lt;a href=&quot;https://indieweb.org/principles&quot;&gt;indieweb.org/principles&lt;/a&gt;を自分は知らなくて、発表のあとに初めて読んだのだが、とても整理されていて、自分がこだわりたいものがなんであるかを認識するのにとてもよかった。&lt;/p&gt;
+&lt;p&gt;私の個人ブログ&lt;a href=&quot;https://memo.yammer.jp&quot;&gt;memo.yammer.jp&lt;/a&gt;や、個人サイト&lt;a href=&quot;https://yammer.jp&quot;&gt;yammer.jp&lt;/a&gt;はもちろんのこと、この記事が投稿される&lt;a href=&quot;https://awkblog.net&quot;&gt;awkblog&lt;/a&gt;も、最初はお遊びで作ったはずだがこうやってコンテンツをホストしているので 、せっかくだからしばらく自分で使いながらメンテして育てていきたい。&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://speakerdeck.com/konboi/yapc-hiroshima-2024&quot;&gt;非同期開発体制を支えるドキュメント文化 / YAPC::Hiroshima 2024&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;登壇者の&lt;a href=&quot;https://x.com/konboi&quot;&gt;@konboi&lt;/a&gt;さんが働かれているLaunchableで、どのようなドキュメント運用がなされているかについての発表。&lt;/p&gt;
+&lt;p&gt;プロジェクトを始めるときに書かれる「Project Proposal」というドキュメントが、開発する方向性や、その内容、意思決定者が明確になっているのがよかった。&lt;/p&gt;
+&lt;p&gt;私の会社では、ポストモーテムと呼ばれるドキュメントはわりと形式が定まって運用されているが、それ以外の、例えばプロジェクトの概要などのドキュメントについても、「箱」(どこに書くのか)や「型」(どのような形式で書くのか)が用意されているのがいい。&lt;/p&gt;
+&lt;p&gt;発表の中で、ミーティングなどで議論が白熱したときに「One Page書いて整理してみましょうか」などと発言されることがよくあり、ドキュメントに一度書き起こすことで情報が整理されるということを話されていて、便利そうなので自分も明日から困ったときに試してみたいと思う。&lt;/p&gt;
+&lt;p&gt;発表を聞く中で、ドキュメントやドキュメンテーションに関する課題感(詳細は略) を思い出しながら聞いていて、やれることは色々あるぞという気持ちになった。&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://speakerdeck.com/azumakuniyuki/gu-iji-shu-nituite-smtpxian-dai-shi-qing-tumamishi-i&quot;&gt;古い技術について—SMTP現代事情つまみ食い— &lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;バウンスメールに関するOSSであるsisimaiの開発者である&lt;a href=&quot;https://twitter.com/azumakuniyuki&quot;&gt;@azumakuniyuki&lt;/a&gt; さんの発表。&lt;/p&gt;
+&lt;p&gt;Gmailガイドラインに関する対応のためにちょうど最近メールに関する諸技術をキャッチアップしていたところで、とてもホットな話題だった。すごく簡潔にまとまっていて、自分の知識の再整理に役立った。(数ヶ月前にこの資料を送ってやりたい)&lt;/p&gt;
+&lt;p&gt;特にSPF,DKIM,SPFアライメント,DKIMアライメントのスライドの図は整理され過ぎていて、何か説明する機会にはこの図を引用するしたい！となった。&lt;/p&gt;
+&lt;p&gt;質疑応答では、メール運用に関する質問が結構飛び交っていて、発表の質疑というよりは完全にメール運用お悩み相談会になっていたのが面白かった。みんな困っているんだなあ。(自分も一つ聞いてみたいことがあったけれど、懇親会などでお会いできなかったのでまたいつか機会があれば!のきもち)&lt;/p&gt;
+&lt;h2&gt;キーノート&lt;/h2&gt;
+&lt;p&gt;とほほさんのキーノートは、まさにまさに「what you like」の伏線回収で、「好きで続けている」を本当に体現しているものだった。「辞めたくてもやめられないようなもの」「飽きたらやめる」といった表現が印象的で、28年の歳月がそれを示しているだろう。自分が目指したい個人サイトのあり方、ひいては生き方のロールモデルだと思った&lt;/p&gt;
+&lt;p&gt;とほほさんの個人サイトを続けるという話以外に、さらっと出てくる様々なエピソードが、凄腕プログラマすぎるし、それを誇示しないところも含めてかっこいいと思った。&lt;/p&gt;
+&lt;h2&gt;このあと&lt;/h2&gt;
+&lt;p&gt;アーカイブを見たい発表がいくつもある。&lt;/p&gt;
+&lt;h3&gt;&lt;a href=&quot;https://speakerdeck.com/ar_tama/yapc-hiroshima-engineering-manager-day1&quot;&gt;新任エンジニアリングマネージャーのための「ぼうけんのしょ」&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;そのうちの一つは、あらたまさんの発表&lt;/p&gt;
+&lt;p&gt;プロポーザルを見て、自分の環境と照らし合わせてこれは聞かねばならないと思っていた。発表資料の中に自分の機嫌は自分でとると書いていて、マネージャとしてそういう当たり前のことを常にやっていかねばならないと改めて認識した。&lt;/p&gt;
+&lt;h3&gt;cpanmの依存関係解決の仕組み ~若者のPerlへの挑戦記~&lt;/h3&gt;
+&lt;p&gt;懇親会のn次会で、登壇されていたよつさんのお話したのだが、今は学生で、 今回の発表にあたってPerlやCPANモジュールについて学んだりキャッチアップしたとお聞きした。そういった馬力が凄すぎるし、自分も負けていられないなあ、頑張っていこうという気持ちになった。&lt;/p&gt;
+&lt;p&gt;内容はみれていないので気になっていて、依存関係解決は結構面倒なトピックであるし、そのあたりをどうやってキャッチアップしたのかが気になっている&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;セッションの感想はこのくらいにして、次回は自分が登壇した感想を書くことにする&lt;/p&gt;</description>
+      <guid>https://awkblog.net/@yammerjp/posts/25</guid>
+      <pubDate>Tue, 20 Feb 2024 14:28:49 GMT</pubDate>
+      <source>awkblog</source>
+    </item>
+    <item>
+      <title>呉で観光してきた</title>
+      <link>https://awkblog.net/@yammerjp/posts/21</link>
+      <description>
+&lt;p&gt;YAPC::Hiroshima 2024で広島に来たので、広島にいる旧友に、呉に連れて行ってもらった。&lt;/p&gt;
+&lt;p&gt;大和ミュージアムに入ってみたり、目の前の海上自衛隊の資料館に行ったり。 大和ミュージアムは会場内の1/10の大和の模型があって、それがメインコンテンツっぽい。1/10でこれ、というのは実物でみると相当でかいだろうなあ。&lt;/p&gt;
+&lt;p&gt;海上自衛隊の資料館では退役した潜水艦の中に入れるのだが、実際に入ってみると閉塞さを感じられて結構いい展示だった。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://yammer20230923.s3.amazonaws.com/img/29299532/1707534989ts103x61.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;</description>
+      <guid>https://awkblog.net/@yammerjp/posts/21</guid>
+      <pubDate>Sat, 10 Feb 2024 03:20:12 GMT</pubDate>
+      <source>awkblog</source>
+    </item>
+    <item>
+      <title>YAPC最高</title>
+      <link>https://awkblog.net/@yammerjp/posts/18</link>
+      <description>
+&lt;h2&gt;h2もかけるよ&lt;/h2&gt;</description>
+      <guid>https://awkblog.net/@yammerjp/posts/18</guid>
+      <pubDate>Sat, 10 Feb 2024 02:47:05 GMT</pubDate>
+      <source>awkblog</source>
+    </item>
+    <item>
+      <title>私と技術カンファレンス 2023 (雑文)</title>
+      <link>https://memo.yammer.jp/posts/tech-conference-2023</link>
+      <description>技術カンファレンス Advent Calendar 2023、11日目の記事をお送りします。今は2023/12/31な訳ですが、今年中に出し切るということで先ほどから書き始めました。推敲していない雑文をお許しください。 私がカンファレンスにはじめてちゃんと参加したのはPHP Conference Japn 2022であった。これはスポンサー枠で登壇したもので、緊張もしたけれど思ったよりもたくさんの方に聞いていただいて嬉しかった。 社内のレビューによってとても良い発表ができたが、いっぽうで会社の代表なので、会社としての取り組みを紹介するというのが主だった。自分でプロポーザルを書いて出して自分のや</description>
+      <guid>https://memo.yammer.jp/posts/tech-conference-2023</guid>
+      <pubDate>Sun, 31 Dec 2023 14:51:18 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>ISUCONに初めて参加した(2023年12月)</title>
+      <link>https://memo.yammer.jp/posts/isucon13</link>
+      <description>(2024/09/22記) 去年のISUCON13に参加したときの記録が下書きのままになっていたので、いまさらですが公開します。 同期の @homirun @yukun と一緒に、ISUCON13に参加しました。 結論はこれ。 https://twitter.com/yammerjp/status/1728340237146112188 最後のスコアは1万点にギリギリ届かず満足できないけれど、何もわからんという感じにはならずやることはたくさん見えていたので、次回(が開催されるならば)ご期待ください！ やったこと 前日まで 夏頃から、毎週1時間くらい業務後にあつまって練習していた。ISUCON本</description>
+      <guid>https://memo.yammer.jp/posts/isucon13</guid>
+      <pubDate>Fri, 08 Dec 2023 14:43:12 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>チームが気付き、変化する</title>
+      <link>https://memo.yammer.jp/posts/team-dynamics-evolving</link>
+      <description>GMOペパボ EC Advent Calenderの2日目は、yammerから、私の所属するチームについての話題を紹介します。 1日目の記事は、@kenchanの『「炭鉱のカナリア」になる』でした。自分が今年、消防車を呼べたとき、呼べなかった時はいつだっただろうか？と思い出しながら読みました。3日目の記事は@tatsumi000の、「開発環境.nvim 2023」です。Vimmerでありながら就業時間中はVSCodeのVimプラグインに甘んじている身として「1週間くらいNeoVimだけで生活してみようかな」と心が揺さぶられるトピックでした。1 私が今いるチームは2023年の年初に発足し、はじま</description>
+      <guid>https://memo.yammer.jp/posts/team-dynamics-evolving</guid>
+      <pubDate>Sun, 03 Dec 2023 10:42:23 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>人月の神話を少し読む</title>
+      <link>https://memo.yammer.jp/posts/the-mythical-man-month-essays-on-software-engineering</link>
+      <description>人月の神話 (Frederick Phillips Brooks, Jr. 著、滝沢徹 訳、牧野祐子 訳、富澤昇 訳、丸善出版 発行)を、いくつかの章は流しながら読んだ。 この本は1975年に初版がでたもので、そろそろ発売から50年になろうとしている。記事の中に書かれている個々の事象は「お、まじか」と驚くような (しかし当時としては妥当であっただろう) How Toも多数ある。50年経つことを前提に置いて、細かい事象にはあまり深入りせずに読むことにしていた。 本の中で語られる「人」と「月」の常に等価交換できないということは、2023年の私の身の回りではありがたいことに当たり前に認識されているよ</description>
+      <guid>https://memo.yammer.jp/posts/the-mythical-man-month-essays-on-software-engineering</guid>
+      <pubDate>Thu, 13 Jul 2023 05:40:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>エンジニアのためのマネジメントキャリアパスを読む</title>
+      <link>https://memo.yammer.jp/posts/the-managers-path</link>
+      <description>書籍「エンジニアのためのマネジメントキャリアパス」(Camille Fournier著、武舎 広幸、武舎 るみ訳、及川 卓也まえがき、オライリージャパン発行)を読んだ。 私は一介のジュニアエンジニアで、今はシニアと呼ばれるような能力を身につけることを目指しており、マネジメントのキャリアを主軸に考えているわけではない。ただ、組織に対する視座や解像度が低いと感じることがあり、将来マネジメントのキャリアを拒んでいるわけではないので、気になってこの本を読んでみた。 この本は、いちメンバーから上級のマネジメント職位に、順を追って話が進む。最初は自分自身が管理される側としてどのようにあるべきか、インターン</description>
+      <guid>https://memo.yammer.jp/posts/the-managers-path</guid>
+      <pubDate>Mon, 10 Jul 2023 23:50:38 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>dotfiles管理の推しツール「yadm」の記事を寄稿しました (Software Design 連載最終回)</title>
+      <link>https://memo.yammer.jp/posts/software-design-202307</link>
+      <description>yadm の紹介記事を、本日発売のSoftware Design 2023年7月号に書きました。昨年12月から続けている連載「開発環境 探究の道」の最終回として、dotfilesの管理をより便利にするための方法を説明しています。 yadmについて / 記事の紹介 yadmは、シェルスクリプトで実装されたdotfiles管理ツールです。可搬性に優れ、dotfiles管理に必要な多数の機能と、gitに準じたコマンド操作体系をもっています。 私も普段からyadmを使っており、容易に導入できて、とても気に入っている1ものであり、ぜひみなさんに知っていただきたいと思って記事にしました。 記事の中では、y</description>
+      <guid>https://memo.yammer.jp/posts/software-design-202307</guid>
+      <pubDate>Fri, 16 Jun 2023 01:45:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>LlamaIndexを使って、gawkプログラミングの相棒を作る</title>
+      <link>https://memo.yammer.jp/posts/gawk-rubber-duck</link>
+      <description>LlamaIndexを使って手を動かしてみようということで、gawkプログラマーが使える、質問回答アプリケーションを作ってみた。 gawk-rubber-duck LlamaIndexとは LlamaIndexという、LLMアプリケーションのためのフレームワークがある。 Pythonで書かれたプログラムで、内部でOpenAI APIを実行するが、その前後の処理なども行ってくれるものである。 LlamaIndexがどのようなものかの説明は、次の記事がわかりやすい。 Llamaindex を用いた社内文書の ChatGPT QA ツールをチューニングする - GMOインターネットグループ グループ</description>
+      <guid>https://memo.yammer.jp/posts/gawk-rubber-duck</guid>
+      <pubDate>Tue, 13 Jun 2023 05:10:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Llama Indexを試す</title>
+      <link>https://zenn.dev/basd4g/scraps/e2eea84da6435d</link>
+      <description></description>
+      <guid>https://zenn.dev/basd4g/scraps/e2eea84da6435d</guid>
+      <pubDate>Sun, 11 Jun 2023 14:24:15 GMT</pubDate>
+      <source>zenn</source>
+    </item>
+    <item>
+      <title>awkで実装するUnion-Findと、ABC177 D</title>
+      <link>https://memo.yammer.jp/posts/union-find</link>
+      <description>最近、業務時間後のオフィスで「競プロもくもくわいわい会」というのをやっている。そこで@purple_jwlさんよりUnion-Findを教えていただいたので、それをawkで実装して、ABC177のD問題を解いてみる。 Union-Findとは ここでは深く解説しないが、Union-Findについては、以下のサイトなどが参考になる。 Union-Find とは - アルゴ式 Union-Find はグループ分けを効率的に管理する、根付き木を用いたデータ構造です。 Union-Find を用いると、次の各クエリ(要求)を高速に処理できます。 N 個の要素 0,1,⋯,N−1 があり、初期状態ではそ</description>
+      <guid>https://memo.yammer.jp/posts/union-find</guid>
+      <pubDate>Mon, 05 Jun 2023 17:15:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>OpenAI API Embeddingsを使った、関連記事の表示・検索</title>
+      <link>https://memo.yammer.jp/posts/embedding-and-vector-similarity-matching</link>
+      <description>このブログに、お試しで2つの機能を追加してみた。 ひとつは、関連記事の表示。もう1つは、検索。 どちらもOpenAI API Embeddingsを使って、記事の文章をベクトル化し、Pineconeを使ってベクトルの類似度の近しいものを得ている。 以下は、これをどのようにして作ったか、どのようにして動いているのかを説明する。 構成 作ったものの全体像は以下の図のとおり。 以下のようなことをやっている。出てくる要素は、「要素技術とロール」の項で後述する。 STEP1: インデックス作成 すべての記事に対して、それぞれ、記事全文をOpenAI API Embediingsに渡してベクトル化し、それ</description>
+      <guid>https://memo.yammer.jp/posts/embedding-and-vector-similarity-matching</guid>
+      <pubDate>Sun, 04 Jun 2023 16:35:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>rtxはじめました</title>
+      <link>https://memo.yammer.jp/posts/rtx</link>
+      <description>ランタイム管理ツールasdfと互換性のある、rtxを使い始めた。 asdfのプラグインエコシステムに乗っかっていて、できることはasdfと基本的には同じのようだが、はやい1などのメリットがある(後述)。 切り替え 切り替えは以下のような手順で進めた。dotfilesの差分はこんな感じ yammerjp/dotfiles 6a6951c。 シェルの設定ファイル(.zshrcなど)に書かれているasdfの読み込みをやめる 私の場合はsheldonのプラグインにしていたので、~/.config/sheldon/plugins.tomlの記述をひとまずコメントアウトした。 rtxをいれる Apple </description>
+      <guid>https://memo.yammer.jp/posts/rtx</guid>
+      <pubDate>Tue, 30 May 2023 17:00:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>エンジニアのためのドキュメントライティングを少し読む</title>
+      <link>https://memo.yammer.jp/posts/docs-for-developers</link>
+      <description>前回に引き続き、全部読まない読書の感想とメモを書いていく。前回記事では1週間で読み切るといいつつ、気づけば2週間経っていることには一旦目を瞑りたい。 2冊目は「エンジニアのためのドキュメントライティング」。 ユーザの問題解決とプロダクトの成功を導く エンジニアのためのドキュメントライティング - Amazon 一週間読書の方法 本の感想に入る前に、どのように一週間読書をやっているかを紹介する。なお、ここで扱う書籍は技術書を中心としたもので、小説などは当てはまらない。 目次から読むところを選ぶ 全部読むことが目的ではなく、短い時間で読みたいところを読むのが目的である。そこで、最初から読み始めない</description>
+      <guid>https://memo.yammer.jp/posts/docs-for-developers</guid>
+      <pubDate>Fri, 21 Apr 2023 00:55:17 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>レガシーコード改善ガイドを少し読む</title>
+      <link>https://memo.yammer.jp/posts/working-effectively-with-legacy-code</link>
+      <description>1週間だけ読む取り組み 一冊の本を一週間で読めるだけ読むというのをやってみる。 買った本は積まれる一方だし、買いたい本のURLもPocketに溜まるばかり。そしていざ本を読み始めると、最初から頑張って全部読みがちである。そういった習慣を変えるために、1週間で読むのをやめて強制的に次の本に行くという方法を試してみる。 一週間やってみて、全然読みきれないと感じた。ゾーンに入ってバーンと読んでしまえば今回の本などは読み切れるのかもしれないが、そうやって気合いを入れるのではなくて、趣味のプログラミングや雑誌の原稿や仕事のキャッチアップなどをする日々に馴染む範囲で日常的にどんどん読んでいきたいので、この</description>
+      <guid>https://memo.yammer.jp/posts/working-effectively-with-legacy-code</guid>
+      <pubDate>Fri, 07 Apr 2023 00:41:21 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>PHPerKaigi2023が最高だった</title>
+      <link>https://memo.yammer.jp/posts/phperkaigi2023-day2</link>
+      <description>昨日のPHPerKaigi2023最終日、自分はLTをしたのですが、登壇以外にもたくさんの体験をして本当に濃い一日でした。 Day1のブログ: PHPerKaigi2023に参加しています - memo.yammer.jp LTで登壇 LTでペンライトを振るのも振られるのも楽しんだり。 登壇した内容は、PHP Conference 2022で出題したクイズの裏話として、当時の問題を振り返りながら、何を考えて作っていたか/作るならどうすべきかでした。 クイズのことを覚えていた方もたくさんいらっしゃったようで、嬉しい限りです。 https://twitter.com/yammerjp/status</description>
+      <guid>https://memo.yammer.jp/posts/phperkaigi2023-day2</guid>
+      <pubDate>Sun, 26 Mar 2023 08:45:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>PHPerKaigi2023に参加しています</title>
+      <link>https://memo.yammer.jp/posts/phperkaigi2023-day1</link>
+      <description>昨日から始まっているPHPerKaigi、昨日はオンライン、今日は物理で参戦しています。 https://twitter.com/yammerjp/status/1639071029611089920?s=61&amp;t=i0aLgTjxKQNCLbbldPH3gA 初めてのPHPerKaigiですが、各発表やLTの独特の空気感がとても新鮮で、とても楽しんで参加できました。 PHPer界隈のTwitterでよく見るぞ、という方の話を聞けたり、なんなら物理的に話すなどできて、カンファレンスよいなあという気持ちに浸っています。 聞いたセッションはこちら。それぞれ細かい感想はフィードバックやまた別の記事で</description>
+      <guid>https://memo.yammer.jp/posts/phperkaigi2023-day1</guid>
+      <pubDate>Fri, 24 Mar 2023 14:23:11 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>ターミナルをカスタマイズする Software Design連載 開発環境 探求の道 第3回</title>
+      <link>https://memo.yammer.jp/posts/software-design-202303</link>
+      <description>本日2/17発売の月刊誌 Software Design 2023年3月号に、連載第3回目の記事を寄稿しました。 今回は「ターミナルをカスタマイズする」と題して、Alactirryとtmuxの基本的な使い方を紹介しています。UnixやLinuxの技術者がふれる時間の長いターミナルを使いこなすことで、快適に作業できることを目指す内容です。 ぜひ書店でお買い求めください。 </description>
+      <guid>https://memo.yammer.jp/posts/software-design-202303</guid>
+      <pubDate>Fri, 17 Feb 2023 02:20:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Smart Keyboard Folio を買った(2023年2月)</title>
+      <link>https://memo.yammer.jp/posts/smart-keyboard-folio</link>
+      <description>(2024/09/22記)2023年2月ごろに、Smarty Keyboard Folioを買って、その感想を書いた記事が下書きに残っていたので公開する。最近はあんまり持ち歩いていないんだけど、一時期はだいたいiPadだけを持ち歩いていて、とても気に入って使っていた。dotfilesの連載記事の寄稿も、何割かはiPad + Smarty Keyboard Folioを使ってsshしてVimで書いていたはず。結構快適だった。 iPad Air 4の機動力を上げたくて、Smart Keyboard Folioを買った。 購入の動機 コンパクトな自作キーボードをiPadと一緒に持ち歩いて作業するとい</description>
+      <guid>https://memo.yammer.jp/posts/smart-keyboard-folio</guid>
+      <pubDate>Wed, 01 Feb 2023 14:43:02 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>シェルをカスタマイズする Software Design連載 開発環境 探求の道 第2回</title>
+      <link>https://memo.yammer.jp/posts/software-design-202302</link>
+      <description>本日発売の月刊誌Software Design 2023年2月号に、連載記事の第2回を寄稿しました。 開発環境 探求の道 連載「開発環境 探求の道」は、UnixやLinux上で、自分好みの開発環境をつくり、探求する道を紹介する連載です。 連載の中では、テキストエディタやシェルやターミナルに関するツールを紹介し、インストールからカスタマイズまで、手元で試せるような記事となっています。 シェルをカスタマイズする 第2回「シェルをカスタマイズする」では、bashとzshの設定ファイルを編集するのが主な内容となっています。 関連してgitのエイリアス機能やfzfにも触れます。 シェルの設定ファイルを編</description>
+      <guid>https://memo.yammer.jp/posts/software-design-202302</guid>
+      <pubDate>Wed, 18 Jan 2023 13:20:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Ubuntu DesktopにAlacrittyをインストールする</title>
+      <link>https://memo.yammer.jp/posts/how-to-install-alacritty</link>
+      <description>Alacrittyは、公式ではLinux向けのバイナリが配布されていないので、どこかから入手するか、自分でビルドする必要があります。 以下では、Ubuntu Desktop 22.04上でビルドし、インストールする方法を紹介します。なお、この記事の内容は2023/01/16時点のものです。また、公式に提供されているインストール用ドキュメントを参考にしています。 簡易的に利用するとき ビルドされた実行ファイルをPATHの通った場所に配置するのみで良い場合は、こちらの方法を実行します。デスクトップのランチャー上にアイコンを表示したり、マニュアルをインストールした場合は、後述の「本格的に利用する」を</description>
+      <guid>https://memo.yammer.jp/posts/how-to-install-alacritty</guid>
+      <pubDate>Sun, 15 Jan 2023 16:54:41 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>連載「最強の開発環境 探求の道」をSoftware Designではじめます</title>
+      <link>https://memo.yammer.jp/posts/software-design-202301</link>
+      <description>本日、12月16日(金)発売のSoftware Design 2023年1月号より、表題のとおり「最強の開発環境 探求の道」という連載をはじめます。 全国の書店やネットで購入いただけますので、よろしければお手にとって読んでいただけると嬉しいです。 連載の内容とねらい 連載では、LinuxやUNIXの環境における、シェル、ターミナル、エディタ、dotfilesなどの使い方やカスタマイズを扱います。 これらに興味がある方におすすめです。 また、コマンドラインの環境に詳しくない/なんとなく使っているが、これから使いこなせるようになりたい方にも読んでいただきたい内容となっています。 記事の中では実際に</description>
+      <guid>https://memo.yammer.jp/posts/software-design-202301</guid>
+      <pubDate>Fri, 16 Dec 2022 00:50:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>日報 インターネット出張公開版</title>
+      <link>https://memo.yammer.jp/posts/20221214</link>
+      <description>GMOペパボ EC Advent Calendar 2022の14日目は、「日報 インターネット出張公開版」です。私やんまーが、12/14の日報を書きます。 13日目はよぴさんの「半分営業半分コンサルみたいな職種からEC業界に転職して感じたこと　〜よぴ的営業マインド語りも添えて〜」でした。 記事の中に出てきた「お客さんの理想とサービスでできることの限界の中間地点を一緒に模索する」という表現が印象的で、営業という仕事に対するよぴさんの熱さを感じました！ さて、14日目アドベントカレンダーは、日報についてです。 私の勤めるGMOペパボ社内では、書きたい人々が思い思いに日報を書く文化があります。 社</description>
+      <guid>https://memo.yammer.jp/posts/20221214</guid>
+      <pubDate>Thu, 15 Dec 2022 01:00:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>jpro: JavaScriptで書くJSON processor</title>
+      <link>https://memo.yammer.jp/posts/jpro</link>
+      <description>この記事は、🎅GMOペパボエンジニア Advent Calendar 2022の2日目のものです。 みなさんは、JSON processorを使っていますか？ええ、jqのようなツールのことです。世は大JSON時代、値を抽出したり、変換したりする機会も多いことでしょう。 ところで、jqの抽出クエリやコマンドラインオプション、さらっと書けますか？私はあんまり得意じゃないです。そこで、JavaScriptで書けるJSON processor「jpro」 をつくりました。 使ってみる 実際に使ってみましょう。Node.jsとnpmが使える環境ならば、事前のインストールなしに、「npx jpro」で実</description>
+      <guid>https://memo.yammer.jp/posts/jpro</guid>
+      <pubDate>Fri, 02 Dec 2022 00:18:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Asahi Linuxを使う</title>
+      <link>https://memo.yammer.jp/posts/asahi-linux</link>
+      <description>Apple Silicon搭載のPC上でLinuxをブートするという魅力的なプロジェクト、Asahi Linuxを手元のMacBook (2020, M1, 256GB SSD, 16GB Memory) で動かしてみた。 MacBookはハードウェアとしてすごく良く出来ていると思うが、ときどきLinux Desktopだったらもっといいなと感じることもあり、Asahi Linuxのことが気になっていた。 現在リリースされているのはα版。 一部のハードウェアが動かなかったりするものの、自己責任の範囲で、手軽にデュアルブート環境を構築できる。 感想 FirefoxとAlacrittyが動くことが</description>
+      <guid>https://memo.yammer.jp/posts/asahi-linux</guid>
+      <pubDate>Mon, 14 Nov 2022 16:55:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Fitbit Charge 5を買った</title>
+      <link>https://memo.yammer.jp/posts/fitbit-charge-5</link>
+      <description>スマホをFelica非搭載のものに乗り換えるために、Suicaを使える機器が欲しくてFitbit Charge 5を買った。 決済ができれば十分という条件で、なるべく安いスマートウォッチ(スマートバンド)を探して、この機種に帰着した。 買ってから2週間くらい経ったので感想を書いてみる。 🤔決済 まず、Suicaについて。 腕につける端末でSuicaを使えるのは体験がよい。 改札だったり、お店だったりで支払うとき、とても楽だし、スムーズでいい感じ。 ただし、気になるポイントもいくつかある。 一つは、オートチャージできないのが残念 (これは事前にわかっていた)。もともとオートチャージを使っていな</description>
+      <guid>https://memo.yammer.jp/posts/fitbit-charge-5</guid>
+      <pubDate>Mon, 14 Nov 2022 16:54:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Python実践機械学習システム100本ノックの準備</title>
+      <link>https://memo.yammer.jp/posts/python-ml-100-knocks-setup</link>
+      <description>Python実践機械学習システム100本ノックを手元で動かしながら読んでみている。 Docker環境でJupyter Notebookを動かすサンプルコードがダウンロードできるが、そのままではビルドに失敗するので、requirements.txtにあるバージョンを書き換えるなどして動くように整えた。 jupyter==1.0.0 numpy==1.21.0 pandas==1.5.1 openpyxl==3.0.4 scikit-learn==1.1.3 matplotlib==3.3.2 japanize-matplotlib==1.1.2 seaborn==0.11.0 ipywidget</description>
+      <guid>https://memo.yammer.jp/posts/python-ml-100-knocks-setup</guid>
+      <pubDate>Mon, 14 Nov 2022 16:53:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>印象に残った仕事の話をきく話</title>
+      <link>https://memo.yammer.jp/posts/talking-about-your-own-impressive-work</link>
+      <description>とある飲み会で、下のツイートにある質問の「(今まで携わった|最近やった)仕事の中で、印象に残ったもの」というテーマの話を、とある方が振ってくれて、聞いたり話したりしていた。 https://twitter.com/n_book_/status/1591101355162497024 この質問がめちゃくちゃよかった。 周りの人がどんな仕事をしているか、というのを把握する機会はあれど、それをどういう印象で受け止めているのかや、仕事の中でのおもしろポイント、その人が価値に感じていることを知れる機会というのは案外少ないかもしれない。 同じ仕事の内容でも人によって捉え方が違うだろうし、仕事の内容を知るだ</description>
+      <guid>https://memo.yammer.jp/posts/talking-about-your-own-impressive-work</guid>
+      <pubDate>Mon, 14 Nov 2022 16:52:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>HerokuからCloud Run + Litestreamへ移行した</title>
+      <link>https://memo.yammer.jp/posts/cloud-run-litestream</link>
+      <description>はじめに Herokuの無料枠が終了することにあわせて、個人で動かしているRailsアプリケーションを他の場所へ移行する。 いままで無料で使わせていただいたこと感謝しつつも、月千円ほど払うほどのアプリケーションでもないので、ほぼ無料で移行できそうな場所を探すことにした。1 コンテナをホスティングできるGoogle Cloud Runは従量課金制だが、個人で使う分にはほぼ無料なので、これを選ぶことにする。 Cloud Runで使うRDBは一般にはGoogle Cloud SQLが推奨されていそうだが、ここでは安さのためにSQLite3 + Litestream + Google Cloud St</description>
+      <guid>https://memo.yammer.jp/posts/cloud-run-litestream</guid>
+      <pubDate>Wed, 12 Oct 2022 01:15:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>CloudFront Functionsで指定したURLにリダイレクトさせる</title>
+      <link>https://memo.yammer.jp/posts/cloudfront-functions-redirect</link>
+      <description>CloudFront Functionsというサービスがあり、軽量のJavaScriptコードをデプロイしてCloudFrontディストリビューションに紐づけることができるらしい。 他のサーバレスの実行環境との比較は以下の記事が参考になる。 CloudFront Functions の導入 – 任意の規模において低レイテンシーでコードをエッジで実行 | Amazon Web Services ブログ エッジで爆速コード実行！CloudFront Functionsがリリースされました！ | DevelopersIO ちょうどdotfilesリポジトリのセットアップ用スクリプトを取得できるエンド</description>
+      <guid>https://memo.yammer.jp/posts/cloudfront-functions-redirect</guid>
+      <pubDate>Sat, 08 Oct 2022 01:25:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Alacrittyを使っていく</title>
+      <link>https://memo.yammer.jp/posts/alacritty</link>
+      <description>Alacritty とは Alacrittyはクロスプラットフォームなターミナルエミュレーター。 yamlで設定を記述できること、クロスプラットフォームであること、動作が早いことが特徴である。 IMEのインラインサポート https://twitter.com/Ket0104/status/1566430771702665216 AlacrittyにIMEで入力した時に未確定な文字列を表示する対応が入ったらしい。 対応されたのが嬉しかったので、早速ビルド1して手元のMacBook Airで使うことにした。 実は以前、この変換前文字列の表示がサポートされていないことを理由に使うのをやめてしまって</description>
+      <guid>https://memo.yammer.jp/posts/alacritty</guid>
+      <pubDate>Tue, 06 Sep 2022 15:22:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>プログラマのための文字コード技術入門を読んだ(2022年9月)</title>
+      <link>https://memo.yammer.jp/posts/introduction-of-character-code-for-programmer</link>
+      <description>(2024/09/22記) 2022年の9月に読んだ本の記事が、下書きとして残っていたままだったので公開します。 業務で文字コードに触れる機会があったのですがそもそも文字コードというものに詳しくないので「改定新版 プログラマのための文字コード技術入門」という本を読みました。 本を読む前は文字コードにはいくつかの規格があることを知っている程度の理解であったので、なによりもまず勉強になりました。また後述するいくつかの概念は背景とともに説明があって知っておかないと規格を理解しづらいので、本を買ってよかったという気持ちになりました。 それだけでなく、この本を結構読むのが楽しく、平日の数日間で勢いで読み</description>
+      <guid>https://memo.yammer.jp/posts/introduction-of-character-code-for-programmer</guid>
+      <pubDate>Thu, 01 Sep 2022 14:42:09 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Clean Architectureを読んだ</title>
+      <link>https://memo.yammer.jp/posts/clean-architecture</link>
+      <description>書籍「Clean Architecture」を読みました。 副題は「達人に学ぶソフトウェアの構造と設計」となっており、ソフトウェアの構造や設計について見識をあまり持たない私は、この副題のとおり達人に学ぼうという気持ちで読みました。 本書で学べたこと (印象に残ったこと) 本書を読むことで、&quot;依存の方向&quot;と&quot;境界の決定&quot;に関する考え方を学びました。 これらをはじめとする、本書で学んだ考え方を以下に紹介します。 なおこの記事では、書籍のタイトルや内容に反して、クリーンアーキテクチャとは何かやクリーンアーキテクチャの図に関する話はほとんど出てきません。それを構成する考え方に重きをおいて紹介します。 </description>
+      <guid>https://memo.yammer.jp/posts/clean-architecture</guid>
+      <pubDate>Tue, 23 Aug 2022 14:30:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>WiresharkでHTTP通信の内容を確認する</title>
+      <link>https://memo.yammer.jp/posts/wireshark</link>
+      <description>Wiresharkはネットワークプロトコルアナライザとよばれるソフトウェアで、通信の内容を確認することができる。 以下では簡単な使い方として、curlコマンドを使って手元のPCからインターネット上のサーバへHTTP通信した場合のパケットの内容を、tcpdumpでキャプチャし、最後にWiresharkのGUI画面上で確認する手順を示す。 なお、実行したPCは macOS 11.6 BigSur (Apple M1) だが、他の環境でも同様の手順で実行できると思われる。 パケットのキャプチャ まずはじめに、キャプチャするパケットを絞り込めるよう、事前に通信先のIPアドレスを調べておく。 次に、tc</description>
+      <guid>https://memo.yammer.jp/posts/wireshark</guid>
+      <pubDate>Tue, 23 Aug 2022 13:32:06 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>abbrはじめました。</title>
+      <link>https://memo.yammer.jp/posts/zsh-abbr</link>
+      <description>同僚に教えてもらった zsh-abbrを導入しました。 zsh-abbrとは abbr は abbreviation の略で、おそらくもともとfish shellに組み込まれた機能とコマンド名を指しているようです。fishのabbrコマンドは、短いコマンド名を展開するalias コマンドに似た働きをするものです。 aliasコマンドとの違いは以下のようなところにあります 実行前にプロンプト上で短いコマンド名を展開してから実行される historyには展開された結果が記録に残る 短いコマンド名を入力したあとスペースキーを入力しても、プロンプト上で展開される zsh-abbrはfishのabbrコ</description>
+      <guid>https://memo.yammer.jp/posts/zsh-abbr</guid>
+      <pubDate>Thu, 04 Aug 2022 01:26:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Software Designへ寄稿しました (2022年6月号 第1特集 Appendix dotfilesのススメ)</title>
+      <link>https://memo.yammer.jp/posts/software-design-202206</link>
+      <description>技術評論社のSoftware Design 2022年6月号 第1特集 Appendix へ「dotfilesのススメ」という記事を寄稿させていただきました。 本日5/18発売で、全国の書店やWebでお買い求めいただけます。 「dotfilesのススメ」は、UnixやLinuxなどでツールの設定を記述するファイルであるdotfilesの管理構成をつくるハンズオン記事になっています。 GitHub上にdotfilesリポジトリをつくることを通してdotfilesに入門できます。 .bashrcや.zshrcや.gitconfigに何書いてるかよくわからない方、dotfilesをあまり知らない方、</description>
+      <guid>https://memo.yammer.jp/posts/software-design-202206</guid>
+      <pubDate>Wed, 18 May 2022 02:00:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>cocot46を組み立てた(Build Log)</title>
+      <link>https://memo.yammer.jp/posts/cocot46</link>
+      <description>トラックボールとロータリーエンコーダを搭載したキーボード、cocot46を組み立てました。 40%でColumn staggeredな配列が魅力的なキーボードです。 経緯 購入のきっかけはcocot46の作者の@aki27kbdさんが再販予定をツイートされているのを見かけたことでした。 https://twitter.com/aki27kbd/status/1515311831375843335 トラックボール一体型のキーボードが気になっていたものの、1Uのトラックボールユニットは終売となっていて手に入れるのが難しそうだと思っていた時だったので、ツイートをみかけて嬉しくなりました。 このあとは</description>
+      <guid>https://memo.yammer.jp/posts/cocot46</guid>
+      <pubDate>Mon, 16 May 2022 17:30:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>歳をとった</title>
+      <link>https://memo.yammer.jp/posts/24-years-old</link>
+      <description>先月誕生日を迎えて歳をとりました。 干芋で祝ってくださった同期の方々、ありがとうございました！ 送っていただいてから少し時間が経ってしまっているものもありますが、感謝をこめて紹介します。 ちいさめの水筒。社の食堂でのみものを入れるのに重宝します。蓋がしっかりついているので変にこぼしたりする不安もなくてとてもよいです。 レンジでパスタ。4人前まで一気に茹でられる大きいもので、パスタを茹でる時に鍋を使わなくていいのがよいです！パスタは簡単に素早くつくれるので、リモートワークのお昼になりがちです。 2個あるので8人までいけます！(そんなには茹でない) 人に頼む技術。こういうことができるようになると、</description>
+      <guid>https://memo.yammer.jp/posts/24-years-old</guid>
+      <pubDate>Mon, 16 May 2022 17:25:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>秘匿情報を含む.bashrcを分割する</title>
+      <link>https://memo.yammer.jp/posts/devide-bashrc</link>
+      <description>dotfiles(ドットで始まる設定ファイル)の管理のために、Gitリポジトリを作成しGitHubにdotfilesという名前で公開するときに注意すべきこととして秘匿情報の扱いが挙げられます。 秘匿情報が .bashrc に含まれているとき、それをそのままGit管理してGitHubに公開することには問題があります。 ここでいう秘匿情報とはGitHubのパーソナルアクセストークンやAWSのアクセス用シークレットキーなどの認証時のパスワードの代替となるようなものをはじめとする、他の人に見せてはいけない情報のことです。 こういった内容を含む.bashrcは分割し、秘匿情報の含まない部分のみGit管理</description>
+      <guid>https://memo.yammer.jp/posts/devide-bashrc</guid>
+      <pubDate>Sun, 10 Apr 2022 19:52:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>神奈川県民から埼玉県人へ</title>
+      <link>https://memo.yammer.jp/posts/moving-to-saitama</link>
+      <description>2年ほど実家に戻っていましたが改めて引っ越し、神奈川県民から埼玉県人になりました。 ちなみに神奈川では県&quot;民&quot;と言うけれど埼玉では県&quot;人&quot;と言う気がします。なんででしょうね？ 会社への通勤時間はおよそ1時間といったところで、引越し前と比べたらだいぶ近くなったので時々通うのにちょうどよい距離かなと思っています。 🎉 単なる引っ越しにお祝いを頂いてしまいました。ありがとうございました🙏この場を借りて感謝をお伝えします。 タオル。タオル研究所というところのものらしく同期の欲しい物リストで見つけて気になっていたもの。結構ふわふわで良さげです。最近はバスタオルをやめて家のタオルをすべてフェイスタオル</description>
+      <guid>https://memo.yammer.jp/posts/moving-to-saitama</guid>
+      <pubDate>Thu, 31 Mar 2022 14:13:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Web Components (ShadowDOM) でもページ内リンクをしたい</title>
+      <link>https://memo.yammer.jp/posts/shadow-dom-internal-link</link>
+      <description>HTMLではページ内リンクができる。 id属性ないしname属性で指定した文字列を # 1 の後ろにつけてリンク先のパスとして指定すると、当該の要素が画面上部に来るようにスクロールする。 &lt;p id=&quot;content&quot;&gt;   hello! &lt;/p&gt; &lt;p style=&quot;height: 2000px; background-color: red;&quot;&gt;   blank &lt;/p&gt; &lt;a href=&quot;#content&quot;&gt;   「hello!」へ飛ぶ &lt;/a&gt; このページ内リンクをShadowDOM内の要素からShadowDOM内にむけて行いたいとき、そのままではできない。 同じような動きを実現する方法</description>
+      <guid>https://memo.yammer.jp/posts/shadow-dom-internal-link</guid>
+      <pubDate>Thu, 31 Mar 2022 04:01:55 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>リバースSSHトンネルでVPSを介していつでも自宅のPCに繋ぐ</title>
+      <link>https://memo.yammer.jp/posts/ssh-to-home</link>
+      <description>外出先で手元のラップトップ (MacBook Air) からポートを公開していない自宅のサーバ1 (Ubuntu) へsshしたいときの記録。 数ヶ月くらい前から安価なVPSを借りて、そこを中継地点として外出先からいつでも自宅のサーバにsshできるようにしている。 ひとまず繋ぐ 以下の接続ができるようにしておく。 ラップトップの公開鍵を自宅サーバとVPSに、自宅サーバの公開鍵をVPSに登録 (~/.ssh/authorized_keys に追記) して、sshできることを確認する。 自宅のラップトップ -&gt; 自宅のサーバ 自宅のラップトップ -&gt; VPS 自宅のサーバ -&gt; VPS ~/.ss</description>
+      <guid>https://memo.yammer.jp/posts/ssh-to-home</guid>
+      <pubDate>Thu, 24 Feb 2022 13:15:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Ruby製のCLIを作ってgemにしてみる</title>
+      <link>https://memo.yammer.jp/posts/file_charset_validator</link>
+      <description>会社に入ってからRubyを触る機会がちょこちょこあるが、Rubyのことをあんまりわかっていないという感覚があるので機会をみつけてRubyで何かをつくるというのをやっていきたい。 今日はその中でファイルの文字コードを確認する処理をCLIとして実装してみた話。 作ったもの 実装するものは比較的シンプルで、渡されたファイルが指定された文字コードで解釈できるか否かを判定する。1 Rubyのワンライナーで書くこともできる規模感のものだ。 $ find path/to/dir -type f | ruby -e &apos;STDIN.reject{|path| IO.binread(path.chomp).for</description>
+      <guid>https://memo.yammer.jp/posts/file_charset_validator</guid>
+      <pubDate>Wed, 09 Feb 2022 13:20:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>graspad - iPad用の握れるキーボード</title>
+      <link>https://memo.yammer.jp/posts/graspad</link>
+      <description>昨年秋1に3Dプリンタを買って作りたかったのがiPad用のキーボード。 iPadケースの背面にキーボードがくっついていて、iPadを横から握ったまま物理キーボードを打てる。 左右の2パーツから成っていて、iPadの左右から差し込み、2つをつなぐ配線とiPadのType-Cをつなぐことで使える。 キー数は42キーで、3x6のキーが背面の左右に、親指で押す用の側面のキーが3つずつ左右にある。 本記事では、この少し変わったキーボードの製作過程を記す。 設計 着想 iPadに物理キーボードを使いたいと思っていたのだが、普通のキーボードを繋ぐだけでは安定した机の上でしか使えないし、それならMacbook</description>
+      <guid>https://memo.yammer.jp/posts/graspad</guid>
+      <pubDate>Wed, 26 Jan 2022 14:41:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>2021年に3Dプリンタに入門した - Anycubic Mega S</title>
+      <link>https://memo.yammer.jp/posts/anycubic-mega-s</link>
+      <description>昨年の秋に3Dプリンタを買ったので、その経緯と3Dプリンタに入門して学んだことを記します。 https://twitter.com/yammerjp/status/1439779993307942916 作りたいものがあって、3Dプリンタの印刷サービスを検討していたが高すぎたのが事の発端です。 作りたいものの寸法が大きかったため依頼すると2万円くらいするとわかり、更に安価な3Dプリンタ本体が2-3万円くらいで入手できることがわかり、これは試してみてもいいのではという気持ちになりました。1 3Dプリンタを選ぶ 家庭用3Dプリンタには光造形方式と熱積層方式があり、今回は熱積層方式のものを購入しまし</description>
+      <guid>https://memo.yammer.jp/posts/anycubic-mega-s</guid>
+      <pubDate>Wed, 26 Jan 2022 14:40:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>情報処理技術者試験にはミックスサンド (DBスペシャリスト試験を受けました)</title>
+      <link>https://memo.yammer.jp/posts/database-specialist-examination</link>
+      <description>2021/10/10に令和3年度秋期データベーススペシャリスト試験を受験しました。 情報処理技術者試験は通算4回目、高度情報は2回目 (春にネットワークスペシャリスト落ち)、データベーススペシャリストは今回が初でした。 合格したので、この度晴れてみくりさんと結婚できる権利を得ました。 #逃げ恥 リストラ候補の津崎平匡さんの資格欄「応用情報技術者、データベーススペシャリスト、基本情報技術者」 - togetter 以下、対策したことを記録します。 参考書 いままではインプレスの過去問題集を毎度買っていたのですが、今回は翔泳社の「うかる！データベーススペシャリスト」を購入しました。 結果からいうと</description>
+      <guid>https://memo.yammer.jp/posts/database-specialist-examination</guid>
+      <pubDate>Sun, 19 Dec 2021 08:13:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>ECテックカンファレンスの前と後</title>
+      <link>https://memo.yammer.jp/posts/newcomer-in-development-team-supplement</link>
+      <description>前の記事に書いたとおり先日ペパボECテックカンファレンスに登壇しました。 今日はテックカンファレンスの内容ではなく発表前後に考えていたことと気持ちをいくつか記します。 「新卒」という言葉を使わない 発表に際してひとつ気をつけていたことに「新卒」という言葉をあまり使わないことがあります。 テックカンファレンスの目的や狙いが記載された社内向けのissueを登壇が決まった頃に読んだ記憶があります。 これと今までやってきたこととを照らし合わせ自らの発表を聞いて欲しい人をジュニア層 1 のエンジニアと定めていました。 私は新卒で入社したのでその体験をこれから新卒で入社される方や興味のある方に向けて話す行</description>
+      <guid>https://memo.yammer.jp/posts/newcomer-in-development-team-supplement</guid>
+      <pubDate>Thu, 16 Dec 2021 01:43:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>開発チームの新しいエンジニアメンバーがうまくやるには</title>
+      <link>https://memo.yammer.jp/posts/newcomer-in-development-team</link>
+      <description>こんにちは、2021/12/09に開催されたペパボECテックカンファレンスにて、記事名と同じタイトルで発表をしました。 当日のスライドはSpeaker Deckで公開しています。 今日はその発表の内容を記事として紹介します。 開発チームの新しいエンジニアメンバーがうまくやるには 私は4月に新卒でWebアプリケーションエンジニアとして入社し、今は10人弱のチームに配属となってから3ヶ月ほどが経ちました。 会社のGitHub Enterprise Server上では、配属からこれまでで約60のPull Requestを開き、マージし、デプロイされました。 Pull Requestの数と成果は必ずし</description>
+      <guid>https://memo.yammer.jp/posts/newcomer-in-development-team</guid>
+      <pubDate>Mon, 13 Dec 2021 15:03:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>複数の環境に適応する、階層構造のdotfiles</title>
+      <link>https://memo.yammer.jp/posts/layered-dotfiles</link>
+      <description>こんにちは、やんまーです。 もう師走、早いですね... この記事はGMOペパボアドベントカレンダーの2日目のものです。 昨日はdaikiさんの「社会人エンジニアな僕が研究を続ける理由」でした。 記事の中の研究を通して自己表現をされているという表現が印象的でした。仕事に精を出しながらも、仕事とは異なるところで時間をとって継続的に物事に取り組むということに尊敬の念を持ちます。 私も見習いたいものです。 今日は変わって実践的な内容です。私の開発環境 dotfilesを紹介します。 dotfiles とは Unix / Linux の環境において、~/.bashrc、 ~/.vimrc、 ~/.git</description>
+      <guid>https://memo.yammer.jp/posts/layered-dotfiles</guid>
+      <pubDate>Thu, 02 Dec 2021 05:00:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>master push をしないために</title>
+      <link>https://memo.yammer.jp/posts/restrict-git-master-push</link>
+      <description>昨日、master push をしてしまいましたので懺悔します。 私の会社の開発は、GitHub Enterprise Server上のPull Requestベースで行われており、開発した機能をPull Reqeustにしてレビューを貰ってからマージすることとなっています。 しかしながら昨日の私は、ローカルで作ったcommitをそのままリモートリポジトリのmasterブランチにpushしてしまいました。 masterにマージするだけでは本番にはデプロイされませんが、複数のチームが開発しているリポジトリであり、各方面に迷惑をおかけしました。 私がやらかした後、master pushを防ぐ術を教</description>
+      <guid>https://memo.yammer.jp/posts/restrict-git-master-push</guid>
+      <pubDate>Tue, 09 Nov 2021 01:31:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>ユニコーン企業のひみつを読んだ</title>
+      <link>https://memo.yammer.jp/posts/competing-with-unicorns</link>
+      <description>8月も折り返し、いかがお過ごしでしょうか？8月は夏ですね。夏といえば夏休み、夏休みといえば宿題、読書感想文1。ということで読んだ本の感想を綴ります。読書メモが下書きに溜まってしまっているので消化する試みです。 書籍「ユニコーン企業のひみつ」を読みました。 本書はSpotify をはじめとするテック企業が、スタートアップのような勢いのある価値提供をどうやってスケールさせているかを説明する、ソフトウェア開発企業の組織づくりについて説明されたものです。 今年の4月に日本語訳版が発売され、私の所属する会社の社内で広く読まれているようです。 本書籍内でも言及されるSpotifyモデルと呼ばれる組織体制を</description>
+      <guid>https://memo.yammer.jp/posts/competing-with-unicorns</guid>
+      <pubDate>Wed, 18 Aug 2021 13:28:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>アプリケーションをつくる英語を読んだ</title>
+      <link>https://memo.yammer.jp/posts/english-for-apps</link>
+      <description>会社の先輩に教えていただいた「アプリケーションをつくる英語」を読んだ。 この本はアプリケーション開発においてUIに表示される言葉を中心に、それらを英語でどう表現すればよいかのヒントが書かれている本である。 三部構成で前半の二部は辞書的に単語や表現が紹介され、最後の一部が読み物になっている。 前半の辞書的な部分は、プログラムを書く中で命名に迷ったり、エラーメッセージを書いたりするときに役立ちそうだった。 紹介されている単語や言い回しは比較的厳選されている。 自分の表したいニュアンスの言葉が確実にあるわけではないと思うが、ソフトウェアやUIに関係する言い回しに絞って書かれている。 迷ったときには和</description>
+      <guid>https://memo.yammer.jp/posts/english-for-apps</guid>
+      <pubDate>Wed, 14 Jul 2021 14:54:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>ソフトウェアは幽霊などではない。👻</title>
+      <link>https://memo.yammer.jp/posts/software-is-not-ghost</link>
+      <description>ソフトウェアを開発していると、ときどき幽霊に出会うことがある。正確にはまるで幽霊のしわざかに思えるような謎の挙動に悩まされるときがある。 実際には幽霊などおらずコンピュータは書かれたとおりに動作しているだけで、さらに大抵は自分がプロトコルや仕様を把握していないか誤ったプログラムを書いているのだが。 https://twitter.com/yammerjp/status/1412326675157688326 複数の要因が重なっていたりして挙動の説明がすぐにはつかないとき、原因を追求するためにだいたい次のようなことをする。 原因を考える (現状を整理する、アタリをつける) 挙動を確認するためにプ</description>
+      <guid>https://memo.yammer.jp/posts/software-is-not-ghost</guid>
+      <pubDate>Wed, 07 Jul 2021 00:15:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>初出社、ワクチン接種</title>
+      <link>https://memo.yammer.jp/posts/20210624</link>
+      <description>日記です。雑多なトピックが以下に続きます。 4月に入社した会社に、今日はじめて出社しました。 新型コロナウィルスのワクチン接種が主な理由で、くわえて同期をはじめとして何人かに出会うなどしました。 今日の主なイベントであるワクチン接種ですが、大変スムーズで拍子抜けしました。 受付をして打つのは一瞬、15分経過観察しておわり。 職域接種のためいわゆるモデルナ筋注といわれるものを打って今は9時間ほど、腕が重いですね。 社の方々と会うのはちょっと緊張。 人との接触は抑える必要もあるのであまりたくさん会話できるわけでもなく、会えていない人もたくさんいて、それらは未来の機会に託しました。 新型コロナウィル</description>
+      <guid>https://memo.yammer.jp/posts/20210624</guid>
+      <pubDate>Thu, 24 Jun 2021 14:19:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>curldocというWeb APIの仕様書形式 兼 モックサーバを作っている</title>
+      <link>https://memo.yammer.jp/posts/curldoc-development</link>
+      <description>こんにちは。最近は会社の技術研修を粛々と受けています。 6月に入ってからはRailsチュートリアルを進めていて、ちょうど先週に終わりました。Railsは大変多機能であるとヒシヒシ感じています。 Ruby自体も今まで書いたことがなかったので、私の経験のある言語とは結構毛色が違っていて面白い気分です。 残業も特になく給料をいただきながら勉強している謎の身分ですが、権利をありがたく享受してスーパーエンジニアに成長したいと思います。 そんなこんなとは別で、趣味で最近作り始めたのがcurldocというツールです。 curldoc curldocのcurlはコマンドのcurlから来ています。 平たく言うと</description>
+      <guid>https://memo.yammer.jp/posts/curldoc-development</guid>
+      <pubDate>Mon, 21 Jun 2021 00:40:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>リモートワークの馴染む、4月の新卒研修 (GMOペパボ)</title>
+      <link>https://memo.yammer.jp/posts/pepabo-11th-training</link>
+      <description>2021年4月1日にGMOペパボ株式会社 (以下ペパボ) に入社しました。 これからソフトウェアエンジニアとして成長し活躍することを夢見てやる気に満ち溢れています。 その第一歩として4月9日から4月30日までの約3週間、全職種で取り組むペパボの新卒研修に参加したので感想を記します1。 ええ、それはその、大変楽しい研修期間でした。 リモートワークでうまくやる ペパボは2020年6月にリモートワークを基本とした働き方に移行し、今年の研修は全てオンラインで実施されました。 私自身、入社後にまだ一度も出社していません。 リモートワークの環境で新卒入社することに少なからず不安はありました。 大学のときは</description>
+      <guid>https://memo.yammer.jp/posts/pepabo-11th-training</guid>
+      <pubDate>Tue, 11 May 2021 13:38:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>ブログをNext.jsに置き換える</title>
+      <link>https://memo.yammer.jp/posts/blog-with-nextjs</link>
+      <description>ゴールデンウィーク明けの平日、いかがお過ごしだろうか。 私の場合は新卒研修のブログ記事を書こうと思ったものの、その記事を投稿するためのブログを弄っているうちにゴールデンウィークが終わってしまった。 そんなわけでここ数日は、「そろそろちゃんと触るか〜」と思っていたNext.jsを使ってこのブログを作り変えていた。 見た目は似ているけど中身はイチから作ったので別物である。1 機能追加をしたいことがあったりしたので前々からJavaScriptのフレームワークに載せ替えたいと思っていて、やっと腰が上がった次第。2 本当は1,2日でサクッと終わらせてしまってブログ投稿用のエディタを作ろうと思っていたのだ</description>
+      <guid>https://memo.yammer.jp/posts/blog-with-nextjs</guid>
+      <pubDate>Fri, 07 May 2021 13:07:57 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Vim8からNeoVimに乗り換える、2021GW</title>
+      <link>https://zenn.dev/basd4g/scraps/b183dca16b1314</link>
+      <description></description>
+      <guid>https://zenn.dev/basd4g/scraps/b183dca16b1314</guid>
+      <pubDate>Sat, 01 May 2021 05:27:49 GMT</pubDate>
+      <source>zenn</source>
+    </item>
+    <item>
+      <title>融けるデザインを読んだ</title>
+      <link>https://memo.yammer.jp/posts/tokeru-design</link>
+      <description>このまえ教えてもらった本、「融けるデザイン ―ハード×ソフト×ネット時代の新たな設計論」(著: 渡邊恵太) を読んだ。 以下はその解釈と感想である。 融けるデザイン ―ハード×ソフト×ネット時代の新たな設計論 | 渡邊恵太 |本 | 通販 | Amazon 本書では「自己帰属感」という言葉を通して良いインターフェイスとはどのようなものかを述べている。 自分の与えた動作に伴ってリアルタイムに反応があると自己帰属感が生まれ、自己帰属感が高まると身体が拡張したかのように思いのままに操作できるようになる。 例えばキーボードは、慣れるまではひどく使いにくいが、慣れてしまえば文字を打つときに自然と手が動き</description>
+      <guid>https://memo.yammer.jp/posts/tokeru-design</guid>
+      <pubDate>Thu, 29 Apr 2021 08:01:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>足でマイクのミュートを解除しよう for 在宅勤務</title>
+      <link>https://memo.yammer.jp/posts/foot-switch-mic-mute</link>
+      <description>私はいま、在宅勤務をしている。 特に研修中だからかオンライン通話の機会が多く、通話しながら作業や調べ物をするので、マイクのミュート/ミュート解除に手こずることに悩みを抱えている。 そんな中、ふとしたときに気づいたのである。「足が空いているではないか」と。 家に左クリックが壊れたマウスが有ったのでこれをフットスイッチ代わりにして、押しているときだけミュート解除するようにしてみた。 https://twitter.com/yammerjp/status/1386699716356837380 どのように実現しているかは後半の「つくりかた」に書く。 良いところ 細かくミュート/ミュート解除できる 目</description>
+      <guid>https://memo.yammer.jp/posts/foot-switch-mic-mute</guid>
+      <pubDate>Tue, 27 Apr 2021 00:41:29 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>ロリポップ上に公開された WordPress サイトを、ローカルの docker-compose 上で再現する</title>
+      <link>https://memo.yammer.jp/posts/backup-lolipop-wordpress-with-docker</link>
+      <description>表題の通り、ロリポップ！レンタルサーバ上に公開されている自身のWebサイトをバックアップし、さらに手元のPC上にdocker-composeで動作するように配置する。 前提の環境 ロリポップ！レンタルサーバ上で WordPress を用いた Webサイトを構築している。 macOS 10.15 Catalina Docker Desktop for Mac がインストールされている wget がインストールされている。 (Homebrew を用いて brew install wget でインストール) 手順1: ロリポップ上の情報をダウンロード 1-1: ファイルを抜き出す はじめにロリポップ</description>
+      <guid>https://memo.yammer.jp/posts/backup-lolipop-wordpress-with-docker</guid>
+      <pubDate>Fri, 23 Apr 2021 18:41:20 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>僕の、私の、ストレングス・ファインダー (感想)</title>
+      <link>https://memo.yammer.jp/posts/strengths-finder</link>
+      <description>会社の研修でストレングス・ファインダーを受けたので、結果を過去の経験と照らし合わせて考えてみます。 読書メモみたいなものです。 ストレングス・ファインダーとは 1998年に心理学者のドナルド・O・クリフトンが開発したオンライン心理テスト。 「実行力」「影響力」「人間関係構築力」「戦略的思考力」の4領域に分類される34の資質のうちどれを自分が持っているのかを判断してくれる。 それぞれの資質を知ることで自分の能力をどのように開発していけばよいかの参考になるらしい。 書籍「さあ、才能(じぶん)に目覚めよう 新版 ストレングス・ファインダー2.0」に付属するアクセスコードから受けることができる。 なお</description>
+      <guid>https://memo.yammer.jp/posts/strengths-finder</guid>
+      <pubDate>Mon, 19 Apr 2021 14:45:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>社会人一週目の所感</title>
+      <link>https://memo.yammer.jp/posts/20210408</link>
+      <description>4/1に社会人になり一週間が経った。 職種合同での研修期間中で実際の仕事やエンジニアリングとはまだ少し距離がある。 研修もまだまだこれからだけど、区切りが良い日なので今日の気持ちを記録しようかと。 生活について まず当たり前だが、社会人は結構疲れる。 3月末までは一日中暇で、好きなだけコードを書き好きなだけネット見て好きなだけ寝ていたので差が大きいだけで、毎日朝から夕方まで集中していたら人間誰でも疲れるだろう。 睡眠は本当に大事。 一昨日つい睡眠時間を削ったら昨日は一日中眠くて、仕事終わった直後にベッドで爆睡した。 これができるから在宅勤務は良い。通勤が無くて良い。 慣れてしまったら毎日出社な</description>
+      <guid>https://memo.yammer.jp/posts/20210408</guid>
+      <pubDate>Thu, 08 Apr 2021 15:57:25 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Office365メールやGmailをローカルにバックアップする (macOS)</title>
+      <link>https://memo.yammer.jp/posts/mail-backup-mbox</link>
+      <description>3月で大学を卒業するにあたり、大学のメール (Office365) と研究室のメール (Google Workspace) が使えなくなる。 閲覧もできなくなるのでバックアップを取っておきたいので試してみる。 メールの取得 Gmail 上のすべてのメールを mbox 形式で取得する Google は サービス上の個人データをエクスポートする機能を提供している。 参考: Gmail からデータを書き出す - Gmail ヘルプ 2021/03現在では、次の手順で取得できる。 Gmail を開き、右上の自分のアイコンをクリックして、「Google アカウントを管理」を選択 「データとカスタマイズ」</description>
+      <guid>https://memo.yammer.jp/posts/mail-backup-mbox</guid>
+      <pubDate>Sun, 28 Mar 2021 09:03:06 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>TCP/IP における全レイヤを俯瞰したパケットの構成</title>
+      <link>https://memo.yammer.jp/posts/tcp-packet-layout</link>
+      <description>ふとしたときに TCP/IP でのパケットの各フィールドにどんなものがあったか確認したくなることがあるので、レイヤごとに分けずまとめて書かれた物があると便利。 以下, Ethernet, IPv4, TCP, HTTP を用いたパケットの各フィールドの配置を表した図。 各フィールドの意味は記載しません。 </description>
+      <guid>https://memo.yammer.jp/posts/tcp-packet-layout</guid>
+      <pubDate>Fri, 19 Feb 2021 02:24:44 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>卒業論文の発表を終えた。近況。</title>
+      <link>https://memo.yammer.jp/posts/20210218</link>
+      <description>先週に卒業論文を提出し、今日その内容を学科内で発表した。 無事合格できた旨のメールを先ほど受け取って、これで大学4年間の全ての単位を取得できる見込みになった。 最近は論文執筆に勤しんでいた。 新年の意気込みで早寝早起きと言っておきながら最近はだいぶ夜ふかしをしていたし、本を読む目標もあまり進んでいない。 少し読んだ本もあるが、そんな時間があるなら論文を書きましょうという感じだった。 というわけで駄文でした。 研究が終わったらやりたいことがいくつか溜まっていたので順番に消化していきたい。 気分症なのでいくつか既に昇華してしまったものもあるが、まあよいだろう。 生活リズムも戻します。 ブログもまた</description>
+      <guid>https://memo.yammer.jp/posts/20210218</guid>
+      <pubDate>Thu, 18 Feb 2021 13:44:22 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>ベジェ曲線で画像を丸っぽくくり抜く (CSS clip-path)</title>
+      <link>https://memo.yammer.jp/posts/clip-path</link>
+      <description>  &lt;img     src=&quot;https://blob.yammer.jp/gather_fishes.jpg&quot;     style=&quot;clip-path:url(#bezier-curve-circle); width:300px;&quot;   /&gt;   &lt;svg&gt;     &lt;clipPath id=&quot;bezier-curve-circle&quot; clipPathUnits=&quot;objectBoundingBox&quot;&gt;     &lt;path d=&quot;       M 0 0.5       C 0 0.166, 0.166 0, 0.5 0       S 1 0.166, 1 0.5       S 0.</description>
+      <guid>https://memo.yammer.jp/posts/clip-path</guid>
+      <pubDate>Wed, 27 Jan 2021 02:43:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Planck Keyboard を手に入れた</title>
+      <link>https://memo.yammer.jp/posts/planck-keyboard</link>
+      <description>先月に申し込んだ Planck Keyboard が届いたので組み立てた。 Planck Keyboard とは Drop + OLKB Planck Mechanical Keyboard Kit V6 | Drop いわゆる 40%1 と言われる分類で格子配列2 のキーボードキット。 キー数が少なく(4x12個) コンパクトなキーボードである。 スイッチを取り付ける基盤である PCB と PCB に装着するケースのセットで販売されていて、アメリカの共同購入サイト Drop (Massdrop, Inc.) で購入できる。 いつでも買うことが出来るわけではなく購入希望者が集まってからまとめて</description>
+      <guid>https://memo.yammer.jp/posts/planck-keyboard</guid>
+      <pubDate>Sat, 09 Jan 2021 06:07:39 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>2021年の目標「早寝早起き、本を読む」</title>
+      <link>https://memo.yammer.jp/posts/2021-target</link>
+      <description>今年の目標は「早寝早起き、本を読む」とする。 生活リズムの改善 目標の前半部分「早寝早起き」について。 2020年は大学の講義中心の生活から研究中心の生活に移り、殆ど自宅で過ごしたこともあって夜型の生活が続いた。 寝るのが惜しくて夜ふかしをして、起きるのが遅くなることで更に眠くなる時間が遅くなり、、という悪循環から朝4時頃に寝て昼頃に起きるのが常態化していた。(もっと遅いことも多々) これに対し、今年から社会人になるのでこのままでは良くないと思い12月中頃から生活リズムを改善する試みが始まった。 22歳になって「早寝早起き」という小学生みたいな目標を立てているが、今まで生活リズムを制御すること</description>
+      <guid>https://memo.yammer.jp/posts/2021-target</guid>
+      <pubDate>Sat, 02 Jan 2021 07:08:22 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>リーダブルコードを読んだ感想</title>
+      <link>https://memo.yammer.jp/posts/readable-code</link>
+      <description>2021年最初の読書はリーダブルコード。 今年は本をたくさん読みたいので景気づけも兼ねて元日のうちに読み始め、今日の午前に読み終えたので感想を綴る。 本の概要 リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice) | Dustin Boswell, Trevor Foucher, 須藤 功平, 角 征典 |本 | 通販 | Amazon プログラマーに向けた、読みやすいコードを書くためのバイブルといわれることもある本である。 表紙が楽譜のデザインであり、ソフトウェアにおける「コード」と音楽における「コード」(音楽符号) をかけてい</description>
+      <guid>https://memo.yammer.jp/posts/readable-code</guid>
+      <pubDate>Sat, 02 Jan 2021 06:49:50 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>自分のGitHubリポジトリで振り返る2020年</title>
+      <link>https://memo.yammer.jp/posts/2020-github-repositories</link>
+      <description>今年コミットした GitHub のリポジトリを順にみながら2020年の個人開発を振り返ってみる。 実は去年もやろうとしていた企画1、今年こそ年内に公開するぞ。 リポジトリ一覧の取得 去年の記事では API を curl で取得していた2が、今年は GitHub の公式 CLI である gh を使って取得することとする。 jq と gh をインストールし、 ~/.config/gh/config.yml の aliases キーに、次のような内容を追記する。 aliases:     repos: |         !gh api --paginate graphql -f owner=&quot;$1</description>
+      <guid>https://memo.yammer.jp/posts/2020-github-repositories</guid>
+      <pubDate>Thu, 31 Dec 2020 09:18:37 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>HugoでURLをパーセントエンコード (CloudinaryでOGP画像生成)</title>
+      <link>https://memo.yammer.jp/posts/hugo-url-encode</link>
+      <description>Hugo で Cloudinary1 を用いた OGP 画像生成のため日本語を URL に埋め込みたい。 埋め込みのために文字列をパーセントエンコード2 する方法を記す。 方法 Hugo のテンプレートの中で $string 変数に文字列が格納されているとき、次の表記で変数内の文字列をパーセントエンコードして出力できる。 {{- replace (substr (querify  &quot;a&quot; $string) 2) &quot;+&quot; &quot;%20&quot; -}} 例えば OGP 画像のためURLに日本語文字列を埋め込むのは次のようにして実現できる {{ $title := &quot;埋め込む文字列&quot; }} &lt;meta   p</description>
+      <guid>https://memo.yammer.jp/posts/hugo-url-encode</guid>
+      <pubDate>Sat, 26 Dec 2020 11:52:36 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>MacBookAir 2020 (M1) のセットアップ</title>
+      <link>https://memo.yammer.jp/posts/mba2020-setup</link>
+      <description>Apple Silicon を搭載した MacBook Air を購入したのでセットアップをやっていく。 そのメモ。 https://twitter.com/yammerjp/status/1340576122795266048 2020/12/20現在では「brew bundleしておわり」というわけにはいかない。 できる限りApple Silicon版のバイナリを使いたいので、各種ソフトウェアのビルド方法などを記録することにする。 Tips arch -x86_64 を先頭につけてコマンドを実行すると Rosseta2 上で実行してくれる。 ソフトウェアのインストール以前 macOS の設</description>
+      <guid>https://memo.yammer.jp/posts/mba2020-setup</guid>
+      <pubDate>Tue, 22 Dec 2020 05:24:01 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Pocketにツイートを保存したらリツイートする</title>
+      <link>https://memo.yammer.jp/posts/pocket2retweet</link>
+      <description>題名のスクリプトを作ってcronで定期実行したら便利だった話。 背景 Twitter アカウントがいくつかある。1 情報を浴びるように流しているアカウントだったり、情報の種類別だったり、使っていないものだったり。 PC で Twitter を見るときは大体 TweetDeckを使っておりこれは結構使いやすい。 一方で iOS ではマルチアカウントで満足する Twitter クライアントを見つけられていない。 (今は feather を使っている。) 具体的には次のような機能がほしい。 ユーザを別アカウントでフォローする ツイートを別アカウントでリツイートする 作ったもの 作ったものはこちら: </description>
+      <guid>https://memo.yammer.jp/posts/pocket2retweet</guid>
+      <pubDate>Tue, 15 Dec 2020 09:27:23 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>東芝HDDレコーダRD-S600の動画をmacOSにコピーする (ネットdeダビング)</title>
+      <link>https://memo.yammer.jp/posts/toshiba-dubbing</link>
+      <description>TL;DR: 2006年製の東芝製 HDD レコーダ RD-S600 の動画を, 当該機種に搭載の「ネットdeダビング」機能を使って, LAN 経由で macOS のストレージにコピーする. 背景 8ミリのビデオテープや VHS に記録されたホームビデオをデジタル化するにあたり, 家族が自宅にあった HDD レコーダ RD-S600 の内蔵 HDD に動画を録画していた. これを, HDDの寿命が怖いしブルーレイに焼きたかったりするのでPCに転送したい. RD-S600 は2006年東芝製の HDD レコーダで, 都合のいいことにイーサネットポートがついているため LAN 内で動画を転送できる</description>
+      <guid>https://memo.yammer.jp/posts/toshiba-dubbing</guid>
+      <pubDate>Mon, 14 Dec 2020 14:18:07 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Youtubeライブ「技術文章の書き方」を聞いた内容のメモ(2020年12月)</title>
+      <link>https://memo.yammer.jp/posts/2020-12-how-to-write-technical-texts</link>
+      <description>(2024/09/22記) 2020/12/06に書いていたメモ。当時は学部の4年で卒論を書いていた頃で、卒論をきっかけに技術文章を書くことに興味をもって調べていて見つけた動画をメモしていたのだろう。ブログ記事を書いたり、あとは雑誌の記事を書いたりするときにも参考にしていたもので、まとまった文章を書く必要に迫られたら見返したくなる。 以降は箇条書きであくまでメモなので、詳細は当然動画を見ていただけるとよくて、動画を見返すためのインデックスとして書き出している。 以下は、Youtubeに公開されている動画 (15) 技術文書の書き方 ・ゲスト：Web+DB Press稲尾さん - YouTube</description>
+      <guid>https://memo.yammer.jp/posts/2020-12-how-to-write-technical-texts</guid>
+      <pubDate>Sun, 06 Dec 2020 14:40:12 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>m1のMacbook Airを買った言い訳</title>
+      <link>https://memo.yammer.jp/posts/mba2020-buying</link>
+      <description>https://twitter.com/yammerjp/status/1334697452855705604 買ってしまいました。 Apple Silicon版のm1チップを搭載したMacbook Airは出来が良いと評判なのは皆様ご周知の通り。 私も時代の波に乗ろうと思う。 買う理由 ここから買い替えの言い訳が始まります。 手元のMacが遅い。ブラウザのタブをたくさん開くと遅くなるのでちょっと嫌な気持ちになる。 手元のMacが遅い。メモリ8GBだしこのMacでDockerは重すぎるのでどうせ別のx86 linuxマシンにsshするし、ARMでも問題ないでしょう。 手元のMacの売却額が下が</description>
+      <guid>https://memo.yammer.jp/posts/mba2020-buying</guid>
+      <pubDate>Fri, 04 Dec 2020 03:35:25 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>人生で初めて1ヶ月続いた日記の感想</title>
+      <link>https://basd4g.hatenablog.com/entry/2020/12/02/124040</link>
+      <description>&lt;p&gt;10月はじめから日記を始めた。
+今日はその日記について。&lt;/p&gt;
+
+&lt;h2&gt;きっかけ&lt;/h2&gt;
+
+&lt;p&gt;春から家から一歩も出ず変化のない日が続くことが多く、次第に時間感覚が失われていき、一昨日にやったことと2週間前にやったことの区別がつかなくなるくらいまで達したことに気づいたのがきっかけ。&lt;/p&gt;
+
+&lt;p&gt;これはまずいと思い、自分が食べたもの、やったこと、行った場所、感じたことを記録することにした。
+日記を書くことで自分のやったことを振り返られるようにして、家にいても一日一日の変化を感じようと思った。&lt;/p&gt;
+
+&lt;h2&gt;内容&lt;/h2&gt;
+
+&lt;p&gt;一日目の一部を抜粋すると次のような内容だった。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt; &lt;/th&gt;
+&lt;th style=&quot;text-align:left;&quot;&gt; &lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt; 朝食 &lt;/td&gt;
+&lt;td style=&quot;text-align:left;&quot;&gt; 卵かけご飯、インスタント味噌汁 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; 昼食 &lt;/td&gt;
+&lt;td style=&quot;text-align:left;&quot;&gt; 和風パスタ &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; 夕食 &lt;/td&gt;
+&lt;td style=&quot;text-align:left;&quot;&gt; 惣菜の寿司と豚の生姜焼き? 春菊のおひたし ご飯 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;p&gt;日々誰にも合わず家からも出ない日が続くので、何かを残したい気持ちになり、日記をはじめてみる。
+過去に日記を続けられたことはないのだが、今回こそ。強制ではないけどなるべく毎日、内容の濃さよりも継続することを大事にしていきたい。&lt;/p&gt;
+
+&lt;p&gt;今日は日曜日で、10時前くらいに起きた。&lt;/p&gt;
+
+&lt;p&gt;午前中はだらだら&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%D6%A5%E9%A5%A6%A5%B8%A5%F3%A5%B0&quot;&gt;ブラウジング&lt;/a&gt;して、午後は &lt;a href=&quot;https://memo.basd4g.net&quot;&gt;memo.basd4g.net&lt;/a&gt; のデザインを調整したり、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/favicon&quot;&gt;favicon&lt;/a&gt; をつけたり、Hugoの設定を変えたり。
+あとずっと放置していた大学の研究倫理eラーニングとやらをやった。Webサーバのレスポンスが遅くて離脱しそうになった。&lt;/p&gt;
+
+&lt;p&gt;卒業研究の準備を進める日にしようと思っていたのだけど、これに取り組んだのは結局夜になってから。
+数日前に教授に頂いた資料を読みながらテーマを考える。明日はゼミと面談があるので、どんな内容を面談で話すかざっくり決めておいた。&lt;/p&gt;
+
+&lt;p&gt;義務感で何かをやるのは苦手で、卒業研究も自分の興味が一定あるのに「やらねば」と思うほど手が出なくなる。悪い癖だ。
+やり始めてしまえば多少は手を動かして進むので、「辞めてもいいから5分だけやろう」みたいな自分へのルールを課していかないとだめだな。&lt;/p&gt;
+
+&lt;p&gt;これを書いている時間は既に10/05 1:32だが、寝る前までは10/04カウントとする。今後も寝る前までは日付を超えても前日扱いで日記を書いていこう。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;こんな感じでその日食べたものと日記を書いた時間は毎日書いて、あとは自由に書いていた。&lt;/p&gt;
+
+&lt;p&gt;実家に住んでいるので母の作った料理を食べることが多いが、いざ毎日何を食べたかを記録しようとすると結構考える。
+出てきたものをなんと表記するか、素材はなにか、味付けはなにか、見た目と自分の味覚で判断してから聞いて答え合わせをするのが&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%C6%FC%B2%DD&quot;&gt;日課&lt;/a&gt;になった。&lt;/p&gt;
+
+&lt;p&gt;日記を書いていた時間はいつも寝る前だった。&lt;/p&gt;
+
+&lt;h2&gt;結果&lt;/h2&gt;
+
+&lt;p&gt;日記を始めた日から昨日まで2020/10/04 - 2020/11/30 までの 58日間で集計したら以下のようになった。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;書いた合計日数: 45日 (58日中)&lt;/li&gt;
+&lt;li&gt;連続して書いた日数: 41日 (10/04-11/13)&lt;/li&gt;
+&lt;li&gt;最も長かった文字数: 1943文字 (10/08)&lt;/li&gt;
+&lt;li&gt;最も短かった文字数: 100文字 (11/26)&lt;/li&gt;
+&lt;li&gt;一日の平均文字数: 692文字 (31181文字/45日)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;11月中旬までは毎日書いていて、それ以降はあまり書いていない。 (正確にはあとからその日のことを振り返って書いている日が数日ある。)
+量は書かなくてもいいから毎日続ける当初の目論見は一ヶ月以上続いたし、一日の分量もわりと書いていた。
+明らかに日記を書くのがちょっと楽しかったのだろう。自分への義務感でこの数字にはならない。&lt;/p&gt;
+
+&lt;h2&gt;よかったこと&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;時間を有効に使えた感触を味わえる&lt;/li&gt;
+&lt;li&gt;自分の感情を文章で&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%B8%C0%B8%EC%B2%BD&quot;&gt;言語化&lt;/a&gt;する練習&lt;/li&gt;
+&lt;li&gt;(毎食メモしていたので)自分で作る食事の献立の参考になる&lt;/li&gt;
+&lt;li&gt;(起床/就寝時間をメモしていたので) 生活リズムの可視化&lt;/li&gt;
+&lt;li&gt;(寝る前に書く習慣ができていたので) 寝落ちではなく自分の意志でベッドに入るようになった&lt;/li&gt;
+&lt;li&gt;就寝前の内服薬を忘れずに飲むことができた&lt;/li&gt;
+&lt;li&gt;継続することの実績&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;当初の狙い通り、毎日を振り返ることで「気づいたら一日/一週間/一ヶ月が終わっていた」と時間を無駄にした感を感じることがなくなった。
+これは結構大きな成果で、意識してみると何もやっていないようで何かをこなしていたりしているし、逆に本当に何もやっていない日も自覚できる。&lt;/p&gt;
+
+&lt;p&gt;それまでの感覚だけでなんとなくダラダラしていると罪悪感を感じて微妙な気持ちになるのとは違って、何もしていないから日記に多少書けるようになにかやろうと思えたり、最近活動的だったし今日はダラダラするか、と心の整理がつくことが増えた、気がする。&lt;/p&gt;
+
+&lt;h2&gt;改善したいこと&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;夜型の生活リズムを改善できなかった&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A5%DB&quot;&gt;スマホ&lt;/a&gt;から書く手段を用意していなかったので書くのが億劫になることがあった&lt;/li&gt;
+&lt;li&gt;すべて非公開を前提としていた記事&lt;/li&gt;
+&lt;li&gt;見返しづらいフォーマット&lt;/li&gt;
+&lt;li&gt;さらに長い期間続ける&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;まず１つ目は生活リズム。日記を書いたら寝る、という習慣がついていたのでそれを利用して早く日記を書いて早く寝るようにすべきだった。&lt;/p&gt;
+
+&lt;p&gt;次に公開について。
+毎日書くとプライベートな内容が多くなること、公開する文章を書くのはハードルが上がることから非公開前提で書いていたけれど、日記を続けているうちに&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Twitter&quot;&gt;Twitter&lt;/a&gt;上で毎日公開するログを書いている人を数人観測した。
+すごいなぁ。公開前提で書くのもありだったかもしれない。&lt;/p&gt;
+
+&lt;p&gt;あとは日記のフォーマットについて。
+Webアプリを作って見返せるようにしていたけど、見通しがあまり良くなかった。
+1000字くらいある記事が並んでいると、ぱっと見で何をしたかを振り返れないので、箇条書きの項や目次欄をつくるなどの見返しやすいフォーマットでかけるようなテンプレートを用意すればよかった。
+当初予想していたよりも長めの文章を書いていた日がそこそこあったのも一因。&lt;/p&gt;
+
+&lt;p&gt;&lt;figure class=&quot;figure-image figure-image-fotolife&quot; title=&quot;日記を閲覧するために作っていたWeb Appのkeepa&quot;&gt;&lt;span itemscope itemtype=&quot;http://schema.org/Photograph&quot;&gt;&lt;img src=&quot;https://cdn-ak.f.st-hatena.com/images/fotolife/b/basd4g/20201202/20201202041346.png&quot; alt=&quot;f:id:basd4g:20201202041346p:plain&quot; title=&quot;&quot; class=&quot;hatena-fotolife&quot; itemprop=&quot;image&quot;&gt;&lt;/span&gt;&lt;figcaption&gt;日記を閲覧するために作っていたWeb Appのkeepa&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2&gt;最後に&lt;/h2&gt;
+
+&lt;p&gt;(ブログではない、純粋な)日記を書いてみる試みは総じて良かった。
+自分の行動に自覚的になれるし、案外楽しい。&lt;/p&gt;
+
+&lt;p&gt;夏休みの1行日記なんかはまとめて書くタイプだったし、今まで継続的に日記を書けたことはなかったが、やってみると思ったより続いて(一ヶ月だが)自分で驚いた。&lt;/p&gt;
+
+&lt;p&gt;他人に公開しないものは今回の日記の続きとして、特に公開して問題ないものはブログとして、一日の記録を気軽に書く感じで無理なく続けていきたい。&lt;/p&gt;
+</description>
+      <guid>hatenablog://entry/26006613659336943</guid>
+      <pubDate>Wed, 02 Dec 2020 03:40:40 GMT</pubDate>
+      <source>hatena</source>
+    </item>
+    <item>
+      <title>macOS で ssh接続のパスフレーズ入力を2回目以降省略する</title>
+      <link>https://memo.yammer.jp/posts/macos-ssh-agent</link>
+      <description>macOS Catalina にて、ssh接続のパスフレーズ入力を2回目以降省略するには、 ~/.ssh/config の先頭に次を記述する。 # ~/.ssh/config Host *   AddKeysToAgent yes   UseKeychain yes   IdentityFile ~/.ssh/id_rsa ssh接続時に使用した鍵が ssh-agent に自動的に登録される。 また、パスフレーズの入力を行うと、Keychain にパスフレーズがキャッシュされ、2回目以降は聞かれなくなる ちなみに macOS では ssh-agent の起動は ssh-add するタイミングに</description>
+      <guid>https://memo.yammer.jp/posts/macos-ssh-agent</guid>
+      <pubDate>Tue, 01 Dec 2020 12:32:03 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Ubuntu20.04LTS DesktopにmacOSからVNCで接続する</title>
+      <link>https://memo.yammer.jp/posts/ubuntu-vnc-setup</link>
+      <description>Install # VNCでログイン時に実行されるコマンドを設定 $ mkdir ~/.vnc $ vim ~/.vnc/xstartup #!/bin/sh # ~/.vnc/xstartup [ -x /etc/vnc/xstartup ] &amp;&amp; exec /etc/vnc/xstartup [ -r $HOME/.Xresources ] &amp;&amp; xrdb $HOME/.Xresources vncconfig -iconic &amp;\ndbus-launch --exit-with-session gnome-session &amp; # VNCサーバをインストール $ sudo apt-get </description>
+      <guid>https://memo.yammer.jp/posts/ubuntu-vnc-setup</guid>
+      <pubDate>Tue, 01 Dec 2020 09:17:21 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>ブラウザの検索バーから英語サイトに絞って検索出来るようにする (Vivaldi編)</title>
+      <link>https://memo.yammer.jp/posts/vivaldi-search-english</link>
+      <description>コードを書いていると, 英語のサイトに絞ってGoogle検索したいときがままある。 日本語だと文献がみつからなかったり、いかがでしたかブログのような検索結果ばかりが上位に並んだりして、公式のドキュメントだったりに飛ぶには英語で探したほうが早かったりする。 いままでは検索言語を変更する度に、Googleの検索結果ページからオプションを指定できるページに飛んで言語を変更して... とやっていたのだが、結構面倒くさいので楽に出来る方法がないかと考えて思いついたのが以下のやり方。 設定内容 URLのクエリパラメータで検索結果の対象言語(lr=lang_en)と表示言語(hl=en) 1 を指定できるの</description>
+      <guid>https://memo.yammer.jp/posts/vivaldi-search-english</guid>
+      <pubDate>Tue, 17 Nov 2020 17:47:11 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>sudoしたユーザのホームディレクトリが知りたい</title>
+      <link>https://memo.yammer.jp/posts/sudo-user-home-dir</link>
+      <description>TL;DR ... ホームディレクトリはsudoで実行したかにかかわらず, getent passwd ${SUDO_USER:-$USER} | cut -d: -f6 で得られる. 問題と解決策 bash において, ログインユーザ名やホームディレクトリは環境変数から取得できる. $ echo &quot;$USER&quot; yammerjp $ echo &quot;$HOME&quot; /home/yammerjp しかしながら, sudo で実行される場合, これらは root のものとして扱われてしまう. $ echo &apos;echo &quot;$USER&quot;&apos; | sudo bash root $ echo &apos;echo &quot;$H</description>
+      <guid>https://memo.yammer.jp/posts/sudo-user-home-dir</guid>
+      <pubDate>Mon, 02 Nov 2020 16:54:49 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>tmuxに入門する</title>
+      <link>https://memo.yammer.jp/posts/tmux</link>
+      <description>vim を使うようになってから特に複数のターミナルウィンドウを開くことが多くなったので, 便利そうな tmux を使ってみる. 以前から存在は知っていたもののキーバインドが多くて慣れるの大変そうだと敬遠していたが, 自分の時間が出来たので良い機会だろう. tmuxとは GitHub の公式リポジトリでは以下のように説明されている. tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen. tmux m</description>
+      <guid>https://memo.yammer.jp/posts/tmux</guid>
+      <pubDate>Sat, 31 Oct 2020 14:53:54 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>積読本だった&quot;Webを支える技術&quot;を読んだ感想と、本を読むための心がけ</title>
+      <link>https://memo.yammer.jp/posts/webteckbook</link>
+      <description>「Webを支える技術 HTTP, URI, HTML, そしてREST」を改めて読み直した。 年始に買って途中まで読んでいたものだ。 書籍 &quot;Webを支える技術&quot; について 本を選んだ背景と読んだ感想 書籍購入当時はスマホアプリのWeb APIを開発しており、URIの設計の参考にしたくて手にとった。 RESTという考え方やAPI設計についてとても参考になり、 良い設計とは何かを知ることが出来た。 これまでは用意されたWeb APIを使う側で、URI設計について意識することがなく無意識に良くつくられたURIのAPIを使っていた。 一方で設計するためにはまず利用者として当たり前だったことを言語化し</description>
+      <guid>https://memo.yammer.jp/posts/webteckbook</guid>
+      <pubDate>Mon, 28 Sep 2020 18:35:02 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>2020年9月のキーマップ for lily58</title>
+      <link>https://memo.yammer.jp/posts/keymap-202009</link>
+      <description>以前記事に書いたとおり、分割キーボード lily58を使っている。 自作してから1ヶ月以上経つが、何度かキーマップを書き換えており、順調に配列沼にハマっている。 丁度、しばらく使っていてしっくり来ないところを昨日書き換えたばかり。 せっかくなので記録がてら記事に残しておく。 https://twitter.com/yammerjp/status/1309153335530848256 3レイヤーで、最下段の内側から2つめのキーを押している間はレイヤーが切り替わる。 この配列は次のような方針で作られている。 基本はqwertyのUS配列に寄せる ホームポジションとそれに隣接するキーでなるべく完結</description>
+      <guid>https://memo.yammer.jp/posts/keymap-202009</guid>
+      <pubDate>Fri, 25 Sep 2020 03:53:30 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Makefileの中で名前付きパイプ(bash記法)を使いたかった。2つのコマンド実行結果を比較する。</title>
+      <link>https://memo.yammer.jp/posts/makefile-named-pipe</link>
+      <description>今日は小さな Tips。 make は1970年代に生まれ、C言語のビルドなどでよく用いられるビルドツールだ。 Makefileにビルド手順を記述しておき $make で一連の流れを実行できる。 古からあるビルドツールであるから、インデントがタブ文字でないといけないなどの制約があるが、環境に依存しづらいので最近はよく使うようにしている。 Makefile にはシェルスクリプトのように実行するコマンドを記述するが、この中ではbash独自の拡張記法には対応していない。(Makefile独自の記法があったりする) 2つのコマンドの実行結果を比較したい時、bashでは次のように名前付きパイプを使うと簡</description>
+      <guid>https://memo.yammer.jp/posts/makefile-named-pipe</guid>
+      <pubDate>Thu, 17 Sep 2020 07:31:46 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>LoveLabのAPIサーバをAWS EC2上にセットアップする</title>
+      <link>https://memo.yammer.jp/posts/lovelab-ec2</link>
+      <description>以下過去の自分用のメモを移動。 昨冬、チーム開発で ToDo 管理の iPhone アプリ LoveLab を開発していた。 LoveLab API サーバは、docker-composeでまとめられている。 AWS の EC2 上で立ち上げるための手順を以下に示す。 EC2 instance作成後の作業 80番ポートを開放 sshでログイン 関係ソフトウェアをinstall $ sudo yum install -y docker $ sudo service docker start $ sudo usermod -a -G docker ec2-user $ sudo docker in</description>
+      <guid>https://memo.yammer.jp/posts/lovelab-ec2</guid>
+      <pubDate>Fri, 14 Aug 2020 13:55:26 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>LALR(1)構文解析を行いながら、コンパイラの構文解析を学ぶ</title>
+      <link>https://memo.yammer.jp/posts/compiler-lalr1</link>
+      <description>以下、過去の自分向けのメモの移動。 コンパイラの主要な処理に構文解析がある。 前回はLR0文法構文解析を行った。 今回は与えられたLALR(1)文法規則に基づいて構文解析するオートマトンを作り、構文解析の手法について整理する。 問題の文法規則 次のLALR(1)文法規則を受理するオートマトンと構文解析表をつくり、構文解析を行う。 E -&gt; E + T E -&gt; T T -&gt; T * F T -&gt; F F -&gt; i F -&gt; ( E ) First集合 First集合とは First(K) ... Kの還元前の終端記号列において、先頭に来る可能性のある終端記号の集合 First集合の求め方 最初</description>
+      <guid>https://memo.yammer.jp/posts/compiler-lalr1</guid>
+      <pubDate>Fri, 14 Aug 2020 10:13:19 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>LR(0)構文解析を行いながら、コンパイラの構文解析を学ぶ</title>
+      <link>https://memo.yammer.jp/posts/compiler-lr0</link>
+      <description>以下、過去の自分向けのメモの移動。 コンパイラの主要な処理に構文解析がある。 今回は与えられたLR(0)文法規則に基づいて構文解析するオートマトンを作り、構文解析の手法について整理する。 問題 次の文法について、次の問を答えよ S -&gt; ( L )  S -&gt; a L -&gt; L , S L -&gt; S 上から順にR1,R2,R3,R4と呼ぶ。 ただし、SとLは非終端記号、(と)と,とaは終端記号とする。 LR(0)正準集合とオートマトンを求めよ 以下の文字列が示された文法から生成されるかどうか、また構文解析の結果を答えよ LR(0)構文解析の方法 LR(k)構文解析とは 上向き構文解析(下向きは</description>
+      <guid>https://memo.yammer.jp/posts/compiler-lr0</guid>
+      <pubDate>Fri, 14 Aug 2020 10:04:31 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Dockerチートシート プログラマのためのDocker教科書 第2版より</title>
+      <link>https://memo.yammer.jp/posts/docker</link>
+      <description>以下、過去の自分用メモの移動。 dockerに入門するにあたり「プログラマのためのDocker教科書 第2版より」を読んだ。 Dockerfileを書いてコンテナを走らせるための自分向けのまとめをチートシート的に書き記す。 Dockerfileの命令 命令一覧 FROM .. ベースイメージの指定 RUN .. コマンド実行 CMD .. コンテナの実行コマンド LABEL .. ラベルを設定 EXPOSE .. ポートのエクスポート ENV .. 環境変数 ADD .. ファイル/ディレクトリの追加 COPY .. ファイルのコピー ENTRYPOINT .. コンテナの実行コマンド VOL</description>
+      <guid>https://memo.yammer.jp/posts/docker</guid>
+      <pubDate>Fri, 14 Aug 2020 09:59:31 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>GitHubにsshでつなぐ</title>
+      <link>https://memo.yammer.jp/posts/github-ssh</link>
+      <description>以下、過去の自分用メモの移動。 WindowsやMacでは、GitHubのIDとパスワードを安全に記憶して、HTTPS通信で勝手に使ってくれるのだが、Ubuntuではどうもよい方法がなさそうだった。 そこでHTTPSではなくSSHを使ってgithubと通信するようにして、公開鍵認証により安全を担保しようというわけだ。 鍵ペアを作る $ cd ~/.ssh $ ssh-keygen -t rsa -b 4096 -C &quot;mymail@example.com&quot; # 鍵の名前を id_rsa_github とする # パスワードも聞かれるので入力 $ ls -1  id_rsa_github # 秘</description>
+      <guid>https://memo.yammer.jp/posts/github-ssh</guid>
+      <pubDate>Fri, 14 Aug 2020 09:55:39 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Lily58 Pro を Bluetooth 対応し無線化する</title>
+      <link>https://memo.yammer.jp/posts/lily58-pro-ble</link>
+      <description>前回の記事で作った左右分割型の自作キーボード Lily58 Pro を Bluetooth に対応させ、無線で PC に接続できるように改造した。 その作業記録。 この記事では、無線化にあたり次のことを行う。 USBからキーボードへの給電がなくなるので、別途ボタン電池用の電源基板をつなぐ 有線キーボードの制御用マイコンである Pro Micro を、Bluetooth に対応した BLE Micro Pro に交換する BLE Micro Pro にファームウェアを書き込む 必要なもの Lily58 Pro (遊舎工房) Pro Micro 互換の Bluetooth-LowEnergy 対応</description>
+      <guid>https://memo.yammer.jp/posts/lily58-pro-ble</guid>
+      <pubDate>Thu, 13 Aug 2020 17:07:01 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Lily58 を作って自作キーボードに入門した (Lily58 Pro Build Log)</title>
+      <link>https://memo.yammer.jp/posts/lily58-pro-build-log</link>
+      <description>https://twitter.com/yammerjp/status/1284673759593418752 数ヶ月前から、自作キーボードが気になっていたのだが、ついに手を出してしまった。 自作キーボードとは 自作キーボードとは、キースイッチやキーキャップ、基板(PCB)等を購入し、自分で組み立ててキーボードを作ることである。 自分の欲しいキーボードを作ることができるのが魅力。 パーツをはんだ付けしたり、マイコンにファームウェアを書き込んだり、場合によっては基板を設計したりすることでつくる。 今回は既に設計, 基板が製造済みで、組み立てキット形式になっている Lily58 Pro を作ること</description>
+      <guid>https://memo.yammer.jp/posts/lily58-pro-build-log</guid>
+      <pubDate>Thu, 13 Aug 2020 16:55:25 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Ubuntu20.04でトラックボールのボールを転がしてスクロールする</title>
+      <link>https://memo.yammer.jp/posts/ubuntu-m570-scroll</link>
+      <description>最近、Logicool のトラックボール M570 を購入した。 このトラックボールはスクロールホイールがついているが、左右にスクロールする機能はない。 そこで、ボールを転がして上下左右にスクロールを可能にする。 今回は Ubuntu 20.04 をターゲットに設定を行う。 (macOS では、Karabiner Elements と Scroll Reverser というソフト (どちらも brew cask にあり) を使い実現した。詳細は省略) デバイス名を調べる $ xinput list ⎡ Virtual core pointer                    	id=2	</description>
+      <guid>https://memo.yammer.jp/posts/ubuntu-m570-scroll</guid>
+      <pubDate>Thu, 13 Aug 2020 16:20:09 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>自作コンパイラのfor文バグ</title>
+      <link>https://memo.yammer.jp/posts/willani-for-stmt-bug</link>
+      <description>C言語のコンパイラを自作に関する今日の日記。 これまでの記事 「数日前からCコンパイラを書き始めた。」 「自作Cコンパイラの途中経過」 「自作コンパイラのセルフホストに挑戦中」 「C言語の構造体メンバのアライメント (x86_64, Linux (System V ABI))」 今日実装したのは次の2つ。 構造体のアライメント for文バグの修正 ちなみに昨日はastをjsonで吐くコード(git反映前に間違えて切り取って飛ばしてしまい頑張って再実装したが、翌日セルフホスト向けにはバグっていることがわかりお蔵入り)、セルフホスト用のシェルスクリプトなどを実装していた。 構造体のアライメント w</description>
+      <guid>https://memo.yammer.jp/posts/willani-for-stmt-bug</guid>
+      <pubDate>Wed, 08 Jul 2020 17:09:03 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>C言語の構造体メンバのアライメント (x86_64, Linux (System V ABI))</title>
+      <link>https://memo.yammer.jp/posts/willani-struct-alignment</link>
+      <description>System V ABI における構造体メンバのアライメントの方法を記す。 C言語のコンパイラを自作しているときに学んだことの記録で、 これまでの記事 「数日前からCコンパイラを書き始めた。」 「自作Cコンパイラの途中経過」 「自作コンパイラのセルフホストに挑戦中」 に続く記事である。 System V ABI とは？ ABI (Application Binary Interface) とは、バイナリレベルでのコンパイラが満たすべき規約である。 アーキテクチャやOSごとに決まっており、例えば我々が一般的に使うintelのCPUである x86_64 でいえば、 Windows は  Micro</description>
+      <guid>https://memo.yammer.jp/posts/willani-struct-alignment</guid>
+      <pubDate>Wed, 08 Jul 2020 15:59:59 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>自作コンパイラのセルフホストに挑戦中</title>
+      <link>https://memo.yammer.jp/posts/willani-try-selfhost</link>
+      <description>以前の記事「数日前からCコンパイラを書き始めた。」「自作Cコンパイラの途中経過」に続く記事。 これは日記であって、知見が書かれた文章ではない。 経過報告 気づけば2020年も半分が終わり、梅雨に入って雨が続き、今日もジメジメと蒸し暑い。 大学の研究室は相変わらずリモートで、新型コロナウィルスの東京都の感染者数も100人を超える日が続き、収束の気配がない。 世間は春から夏へ季節が変わろうとしているし、世界的にウィルスとの戦いを繰り広げている昨今だが、私のやっていることは相変わらずCコンパイラ「willani」の制作。もう6週目になるだろうか。 昨日あたりからセルフホストに向けて、やっとコンパイラ</description>
+      <guid>https://memo.yammer.jp/posts/willani-try-selfhost</guid>
+      <pubDate>Mon, 06 Jul 2020 16:54:10 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Mares Puck Pro 電池交換の手順(2020年7月)</title>
+      <link>https://memo.yammer.jp/posts/mares-pack-pro-battery-replacement</link>
+      <description>(2024/09/22)さてさて、このブログのドメインは「memo.yammer.jp」としていて自分のメモ書きのために用意した場所で、それをブログという体裁で公開しています。ただし大した量のないメモや書き途中の文章がどうにもブログの下書きとしてたまってしまい、かつあとで自分で見返すときに下書きにあると見つけづらくて困るという問題があるので、ここから何本か下書きのものを最低限の体裁だけ整えて、公開しているリポジトリに写していきます。 ふだんダイビングでMaresのPuck Proというダイビングコンピュータを使っている。これはボタンが一つだけでシンプルな操作感と、大きな画面でとても見やすく気に</description>
+      <guid>https://memo.yammer.jp/posts/mares-pack-pro-battery-replacement</guid>
+      <pubDate>Wed, 01 Jul 2020 14:40:07 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>gimonfu で、はてなブログの記事を GitHub と同期する</title>
+      <link>https://qiita.com/yammerjp/items/1a38857f6bafb20f065d</link>
+      <description>ブログ記事を Markdown で書きたい、さらにgitでバージョン管理したいと思うことはないだろうか？
+私は上記のようなモチベーションで、はてなブログの記事を管理する CLI 「gimonfu」を作成した。
+gimonfuは、はてなブログの記事をMarkdownファイルと...</description>
+      <guid>tag:qiita.com,2005:PublicArticle/1244365</guid>
+      <pubDate>Sun, 14 Jun 2020 13:40:42 GMT</pubDate>
+      <source>qiita</source>
+    </item>
+    <item>
+      <title>はてなブログに乗り換えた</title>
+      <link>https://memo.yammer.jp/posts/firebase2hatenablog</link>
+      <description>昨年に作ったブログの公開場所をはてなブログに変え、名前も「やんまーのブログ」と改名した。 以前は Firebase Hosting 上に、 Nuxt.js の Generate モードで生成した HTML ファイルを公開していた。 移行するにあたって次のことを行った。 はてなブログCLI gimonfu による記事管理 Zeit Nowを使った旧ドメインの転送処理 1. gimonfu による記事管理 はてなブログは Markdown で記事を作成でき、これが乗り換える後押しになった。 Markdown の記事は、以前のブログでも GitHub 上で記事を管理していたので、今回も同じことを行い</description>
+      <guid>https://memo.yammer.jp/posts/firebase2hatenablog</guid>
+      <pubDate>Sun, 14 Jun 2020 12:26:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>はてなブログに乗り換えた</title>
+      <link>https://basd4g.hatenablog.com/entry/firebase2hatenablog</link>
+      <description>&lt;p&gt;昨年に作ったブログの公開場所を&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;に変え、名前も「やんまーのブログ」と改名した。&lt;/p&gt;
+
+&lt;p&gt;以前は Firebase Hosting 上に、 Nuxt.js の Generate モードで生成した HTML ファイルを公開していた。&lt;/p&gt;
+
+&lt;p&gt;移行するにあたって次のことを行った。&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/CLI&quot;&gt;CLI&lt;/a&gt; gimonfu による記事管理&lt;/li&gt;
+&lt;li&gt;Zeit Nowを使った旧&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ドメイン&lt;/a&gt;の転送処理&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2&gt;1. &lt;a href=&quot;https://github.com/basd4g/gimonfu&quot;&gt;gimonfu&lt;/a&gt; による記事管理&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;は &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Markdown&quot;&gt;Markdown&lt;/a&gt; で記事を作成でき、これが乗り換える後押しになった。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Markdown&quot;&gt;Markdown&lt;/a&gt; の記事は、以前のブログでも &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt; 上で記事を管理していたので、今回も同じことを行いたいと思っていた。&lt;/p&gt;
+
+&lt;p&gt;そこで&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;の &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/CLI&quot;&gt;CLI&lt;/a&gt; を作り、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt;上の&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA&quot;&gt;リポジトリ&lt;/a&gt;と同期するようにした。&lt;br /&gt;
+&lt;a href=&quot;http://developer.hatena.ne.jp/ja/documents/blog/apis/atom&quot;&gt;はてなブログはAPIを公開しており&lt;/a&gt;、これを使って &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Markdown&quot;&gt;Markdown&lt;/a&gt; ファイルをアップロード、ダウンロードしている。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;の &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/CLI&quot;&gt;CLI&lt;/a&gt; には、既に &lt;a href=&quot;https://github.com/x-motemen/blogsync&quot;&gt;blogsync&lt;/a&gt; というソフトウェアがある。&lt;br /&gt;
+当初はこのソフトウェアを使おうと思っていたのだが、新規記事投稿の部分が自分の思うように行かず、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/API&quot;&gt;API&lt;/a&gt;を触っているうちに、全部作ったほうがいいのでは？という気持ちになり &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/CLI&quot;&gt;CLI&lt;/a&gt; が出来上がってしまった。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/x-motemen/blogsync&quot;&gt;blogsync&lt;/a&gt; と &lt;a href=&quot;https://github.com/basd4g/gimonfu&quot;&gt;gimonfu&lt;/a&gt; はどちらも1記事につき、1ファイルで、ファイル先頭に &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/YAML&quot;&gt;YAML&lt;/a&gt; Front matter といわれる &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/YAML&quot;&gt;YAML&lt;/a&gt; 形式の記事情報を含む。
+またURLの構造が記事ファイルの&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%C7%A5%A3%A5%EC%A5%AF%A5%C8&quot;&gt;ディレクト&lt;/a&gt;リ構造となる点も同じだ。&lt;/p&gt;
+
+&lt;p&gt;一方で、記事の投稿に関しては異なる点がある。&lt;br /&gt;
+blogsync では、記事本文のみを標準入力で &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/CLI&quot;&gt;CLI&lt;/a&gt; に渡すが、 gimonfu では、対象&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%C7%A5%A3%A5%EC%A5%AF%A5%C8&quot;&gt;ディレクト&lt;/a&gt;リ内にある新しいファイルを新規記事として認識し投稿する。&lt;/p&gt;
+
+&lt;p&gt;こうすると、CIを組み合わせれば、新規投稿時にも &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/CLI&quot;&gt;CLI&lt;/a&gt; を直&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%C0%DC%BF%A8&quot;&gt;接触&lt;/a&gt;らずに運用できる。&lt;/p&gt;
+
+&lt;p&gt;現にこのブログも、新規投稿時にファイルを追加して &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt; に push すれば、自動的に&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;も更新されるようにしてある。 (逆に&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;が更新されたら&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt; にも反映されるワークフローも設定している。)&lt;/p&gt;
+
+&lt;p&gt;gimonfu の使い方の詳細は &lt;a href=&quot;https://github.com/basd4g/gimonfu&quot;&gt;README&lt;/a&gt; に譲るが、&lt;a href=&quot;https://github.com/basd4g/basd4g.hatenablog.com/tree/master/.github/workflows&quot;&gt;このブログのワークフロー&lt;/a&gt;と同じものを &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt; Actions に指定すれば、記事管理がとても捗ると思うので是非活用して欲しい。
+(なお、&lt;a href=&quot;https://qiita.com/basd4g/items/1a38857f6bafb20f065d&quot;&gt;ワークフローの設定記事をQiitaに投稿した&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2&gt;2. Zeit now を使った旧&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ドメイン&lt;/a&gt;の転送処理&lt;/h2&gt;
+
+&lt;p&gt;旧&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ドメイン&lt;/a&gt;の記事を公開していた URL は全て、express.js を使って、今の記事に 301 リダイレクトするように設定した。(&lt;a href=&quot;https://memo.basd4g.net/posts/zeit-now/&quot;&gt;設定した内容&lt;/a&gt;)&lt;br /&gt;
+Now を初めて使ったが、とても簡単にアプリケーションを公開できるので、さくっと作ったときなどに活用していきたい。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;というわけで、これから&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;で更新していきます。
+よろしくお願いします。&lt;/p&gt;
+</description>
+      <guid>hatenablog://entry/26006613585136739</guid>
+      <pubDate>Sun, 14 Jun 2020 12:26:00 GMT</pubDate>
+      <source>hatena</source>
+    </item>
+    <item>
+      <title>gimonfu で、はてなブログの記事を GitHub と同期する</title>
+      <link>https://memo.yammer.jp/posts/gimonfu</link>
+      <description>ブログをはてなブログに移行するにあたり、記事を管理する CLI 「gimonfu」を作成した。 本記事では、gimonfu と GitHub Actions を使って、GitHub のリポジトリとはてなブログを連携し、記事を git で管理できるように設定を行う。 記事の内容を設定すれば、Markdown ファイルを GitHub のリポジトリにプッシュするとはてなブログに記事を公開できたり、はてなの Web ページで記事を編集すると、GitHub のリポジトリに自動で反映されてバックアップを取ることができる。 最終的な GitHub Actions の設定は、私のブログの記事リポジトリにある</description>
+      <guid>https://memo.yammer.jp/posts/gimonfu</guid>
+      <pubDate>Sun, 14 Jun 2020 12:23:06 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>自作Cコンパイラの途中経過</title>
+      <link>https://memo.yammer.jp/posts/willani-compliperbook-finished</link>
+      <description>Cコンパイラ自作の進捗 以前の記事に書いたとおり、C言語のコンパイラを自作している。 セルフホストには至ってないが、教科書であるオンラインブック「低レイヤを知りたい人のためのCコンパイラ作成入門」の内容が一通り実装し終わったので経過報告をする。 裏で最初は毎日記録をつけていたのだが、だんだん面倒くさくなってやめたので、コミット履歴を見ながら振り返る。 最初のコミットは19日前(5/21)なので、そろそろ三週間経ったところだ。 5/28-30の三日間以外は何かしらコミットしているので、継続的に開発できている。もっともバイトや授業に遮られることがなく、時間がたくさんあるのでできることであるが。 こ</description>
+      <guid>https://memo.yammer.jp/posts/willani-compliperbook-finished</guid>
+      <pubDate>Tue, 09 Jun 2020 08:00:06 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Zeit Now を使って、express.jsで書かれたアプリケーションを独自ドメインで公開する</title>
+      <link>https://memo.yammer.jp/posts/zeit-now</link>
+      <description>now という PaaS がある。 Node.js で書かれたアプリケーションを、無料で3つまでホスティングできるらしい。 heroku を無料プランで使うと、dyno の立ち上げに30秒くらいかかるので、Web サーバとしては致命的に遅い。 一方 zeit はそのような待ち時間は発生しない。(どこかに、AWS Lambda を中で使っていると書いてあった気がする) 今回はシンプルな express.js のアプリケーションを now でホスティングする手順。 インストール $ mkdir now-app $ cd now-app $ yarn init $ yarn global add n</description>
+      <guid>https://memo.yammer.jp/posts/zeit-now</guid>
+      <pubDate>Sun, 31 May 2020 07:44:33 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>TCP と UDP</title>
+      <link>https://memo.yammer.jp/posts/tcp-udp</link>
+      <description>今日のインターネットの根幹をなすTCP/IPプロトコルスタックのうち、トランスポート層のプロトコルであるTCPとUDPについての基本的な知識を説明する。 本記事は研究室の輪講で「マスタリングTCP/IP 入門編」を読んだことがきっかけの第2回。 前回はTCP/IPプロトコルスタック全体についての概要を書いた。 参考文献: マスタリングTCP/IP入門編 第6章 pp219-246 もくじ トランスポートプロトコルの役割 ポート番号 TCP と UDP TCP の様々な制御 トランスポートプロトコルの役割 トランスポート層の役割は主に3つある。 End-to-End の通信を実現すること。 アプ</description>
+      <guid>https://memo.yammer.jp/posts/tcp-udp</guid>
+      <pubDate>Sat, 30 May 2020 05:05:53 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>デスクトップLinuxでCPUの状況を確認する</title>
+      <link>https://memo.yammer.jp/posts/linux-cpu</link>
+      <description>$ cat /proc/cpuinfo # CPUの各スレッドごとの情報を含んだファイルを表示する $ nproc # CPUのスレッド数(プロセッサの数)を表示する $ top # CPU使用率の高い順にプロセスを表示する。定期的に内容は再描画される。 参考: CPU and Linux -  Youtube Satoru Takeuchi</description>
+      <guid>https://memo.yammer.jp/posts/linux-cpu</guid>
+      <pubDate>Sat, 30 May 2020 02:46:49 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>非同期のまえに同期処理を通してPromiseとasync/awaitを理解する</title>
+      <link>https://qiita.com/yammerjp/items/b1c96de727a53c4b4698</link>
+      <description>JavaScript といえば非同期処理はつきものだが、非同期や Promise に苦手意識を持つ人も多いのではないだろうか。
+これらの最初の理解のハードルは結構高いと思う。私も理解できずに悶絶した。C言語のポインタよりむずくないか？。。。
+この記事の前半では一旦非同期のこ...</description>
+      <guid>tag:qiita.com,2005:PublicArticle/1233230</guid>
+      <pubDate>Fri, 29 May 2020 17:00:50 GMT</pubDate>
+      <source>qiita</source>
+    </item>
+    <item>
+      <title>数日前からCコンパイラを書き始めた。</title>
+      <link>https://memo.yammer.jp/posts/willani-start</link>
+      <description>数日前からCコンパイラを書き始めた。(GitHub) 植山類さんのオンラインブック、低レイヤを知りたい人のためのCコンパイラ作成入門を読みながら、概ね本の内容に沿って進めている。 自分の書いたコンパイラで自身をコンパイルするセルフホストを目指している。 コンパイラというのはある言語で書かれたプログラムを別の言語に変換するプログラムだ。 ここではC言語をアセンブリに変換するものを指している。 いきなりC言語をコンパイルするのは無理なので、徐々に複雑な入力を受け付けるように改良し、最終的にC言語を受け付けるようにする(したい)。 最初は入力をそのまま出力することから始まり、四則演算ができるようにな</description>
+      <guid>https://memo.yammer.jp/posts/willani-start</guid>
+      <pubDate>Sun, 24 May 2020 16:02:52 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>npm publishの手順</title>
+      <link>https://memo.yammer.jp/posts/npm-publish</link>
+      <description>npm (Node Package Manager) とは、Node.js におけるパッケージ管理ツールである。 npm が GitHub に買収されたり、deno が正式リリースされたりしているこのご時世であるが、初めて npm にパッケージを公開したので手順と注意点を振り返る。 ちなみ公開したのは、はてなブログ記事管理ツールの gimonfu。 全体の流れ $ npm publishする作業をよしなにしてくれる CLI ツール np などもあるようだ。 今回は必要な作業を知る意味を込めて手動で行った。 私がやったのは以下の通り。細かくはこれから述べる。 npm に登録する 内容を確認する </description>
+      <guid>https://memo.yammer.jp/posts/npm-publish</guid>
+      <pubDate>Thu, 21 May 2020 06:40:14 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>コンピュータの有名なエッセイ</title>
+      <link>https://memo.yammer.jp/posts/computer-essay</link>
+      <description>コンピュータの専門家を志すものとして、近いうちに読んでおきたい(読み直したい)エッセイ。 インターネット上に公開されているものも多く、日本語訳のリンクをつけている。 著者、訳者に感謝。 自分の今後の人生など知る由もないが、仕事になろうとそうでなかろうと、コンピューテーションが楽しいものだということを忘れずに、いや今よりもそう思えるような人間でありたい。 ハッカーと画家(Hackers &amp; Painters) ポール・グレアム著。 エッセイ集。 いくつかの章は読んだ。強い表現のところもあったりしてクセのある、他方魅力的な文章。 どうしてオタクはモテないか ハッカーと画家 口にできないこと もうひ</description>
+      <guid>https://memo.yammer.jp/posts/computer-essay</guid>
+      <pubDate>Wed, 20 May 2020 05:23:23 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>リポジトリで振り返る2019年</title>
+      <link>https://memo.yammer.jp/posts/2019-github-repositories</link>
+      <description>2020年も中頃だが、2019年末〜2020年正月に書きかけた記事が出てきた。 捨てるのも何なのでここに放出。 以下。年末に1年を振り返るという記事の趣旨から各リポジトリにリンクをつけた以外は原文のまま。 リンク以外の追記部分はその旨を記述している。 なにをするか あけましておめでとうございます。 年越ししてしまいましたが、まだ正月なので昨年を振り返って今年に向けて身を引き締めたい。 今回はGitHubのリポジトリを総ざらいして自分がどんな開発をしたか振り返る。 準備:GitHubのリポジトリ一覧を取得する githubのAPIを用いて、curlでリポジトリ情報を取得する。 $ curl -u</description>
+      <guid>https://memo.yammer.jp/posts/2019-github-repositories</guid>
+      <pubDate>Tue, 19 May 2020 12:44:57 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>非同期のまえに同期処理を通してPromiseとasync/awaitを理解する</title>
+      <link>https://memo.yammer.jp/posts/promise</link>
+      <description>JavaScript といえば非同期処理はつきものだが、非同期や Promise に苦手意識を持つ人も多いのではないだろうか。 これらの最初の理解のハードルは結構高いと思う。私も理解できずに悶絶した。C言語のポインタよりむずくないか？。。。 この記事の前半では一旦非同期のことは忘れる。 まず記事前半は、同期処理をテーマに、コールバック, Promise, async/await について説明する。 記事の後半は、これらを非同期処理を交えて説明する。 Promise はよくわからないという方や、一度挫折した方などにぜひ読んでもらいたい。 (2020/05/30補足: Qiita投稿に合わせて全体</description>
+      <guid>https://memo.yammer.jp/posts/promise</guid>
+      <pubDate>Tue, 19 May 2020 07:50:47 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Promiseのthenメソッドには第二引数がある</title>
+      <link>https://memo.yammer.jp/posts/promise-then-arg2</link>
+      <description>この記事は以下のツイートについて。 https://twitter.com/yammerjp/status/1262637541028585475 きっかけはMDN web docsのPromiseについてのページを見ていたことに始まる。 以前、私がPromiseとaync/awaitを理解するときにとても役にたった記事があった。 Qiitaにあった記事で同期処理でPromiseをしてみて理解しようと試みる記事だったのだが、いま探しても見つからない。 需要がありそうなので自分で書いているのだが、そんな中でMDNを見ていてthenメソッドに関する発見があった。 const promise = n</description>
+      <guid>https://memo.yammer.jp/posts/promise-then-arg2</guid>
+      <pubDate>Tue, 19 May 2020 06:57:35 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Raspberry Pi Zeroをモニタレスで使うためのSetup</title>
+      <link>https://memo.yammer.jp/posts/raspberry-pi-zero-setup</link>
+      <description>2020/3/4のメモ。 Raspberry pi Zero を、購入後一切モニタにつなぐことなく無線LAN経由でSSHできるようセットアップする手順。 母艦は MacOS X で行っているが、SDカードへの書き込みができればなんでもよい。 肝となるのは、OSを書き込んだSDカードに次のように手を加えておくことだ。 事前に無線LANのSSIDとパスワードを記述したファイルをおく SSHを有効化する 起動前 micro SD cardのフォーマット SD Association公式サイトより、SDカードフォーマッターをダウンロードする。 ダウンロードしたSDカードフォーマッターでSDカードをフォ</description>
+      <guid>https://memo.yammer.jp/posts/raspberry-pi-zero-setup</guid>
+      <pubDate>Fri, 15 May 2020 16:21:46 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Vimに入門したときの覚書</title>
+      <link>https://memo.yammer.jp/posts/vim-intro</link>
+      <description>昨年、Vimを使える人間になりたいという気持ちからVimに入門した。 まずvimtutorをやり、またVim以外のエディタを使うことを禁止して慣れるようにした。 vimtuorのあとは実践Vimを読んだりしながら日常使いの中でVimに慣れていった。 また基本的にプラグインを追加することを禁止し、不用意な.vimrcの編集も禁止して、素の状態のVimに慣れるように気を配っていた。 そんなこんなでVimに慣れようとしていたわけだが、最初期vimtutorをやるだけではなかなかキーバインドが覚えられず、とても編集速度が遅かったので、同時にメモに書き出すことで覚えていたようである。 このときのメモをこ</description>
+      <guid>https://memo.yammer.jp/posts/vim-intro</guid>
+      <pubDate>Fri, 15 May 2020 16:07:44 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>TypeScriptでプロジェクト内独自の型定義をまとめたファイルを読み込ませる方法。</title>
+      <link>https://memo.yammer.jp/posts/my-type-of-typescript</link>
+      <description>TypeScriptでプロジェクト内の型定義をするときのための過去のメモをここに供養する。 日付は2020/1/10。 やりたいこと TypeScriptで、独自の型定義をプロジェクト内の複数のファイルで利用したい。 src/types/index.d.tsで定義する型DayOfWeekをはじめとして、src/typesディレクトリ以下のファイルにある型定義をTypeScriptコンパイラに読み込ませて、プロジェクト内の任意のファイルで利用できるようにする。 // src/types/index.d.ts type DayOfWeek = &quot;Sunday&quot; | &quot;Monday&quot; | &quot;Tues</description>
+      <guid>https://memo.yammer.jp/posts/my-type-of-typescript</guid>
+      <pubDate>Fri, 15 May 2020 16:01:45 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>TELNETでHTTP通信する</title>
+      <link>https://memo.yammer.jp/posts/telnet-http</link>
+      <description>TELNETでHTTP通信するだけの記事である。 すぐ終わる。 相手ホストやポート番号、手書きのHTTPヘッダを渡せば、 TELNET で HTTP 通信ができる。 $ telnet memo.yammer.jp 80 Trying 2400:6180:0:d1::4df:d001... Connected to memo-basd4g-net.netlify.com. Escape character is &apos;^]&apos;. GET / HTTP/1.1 Host: memo.yammer.jp Connection: close HTTP/1.1 301 Moved Permanently Ca</description>
+      <guid>https://memo.yammer.jp/posts/telnet-http</guid>
+      <pubDate>Fri, 15 May 2020 15:43:55 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>インターネットとTCP/IP</title>
+      <link>https://memo.yammer.jp/posts/internet-tcpip</link>
+      <description>今日のインターネットの根幹をなすTCP/IPについての基本的な知識を説明する。 研究室の輪講で「マスタリングTCP/IP 入門編」を読んだことがきっかけ。 参考文献: マスタリングTCP/IP入門編 第二章 pp60-80 インターネット 今この文章もインターネットに公開され、インターネットを介して見ていることと思うが、インターネットとはそもそも何を指すのか。 Internet / The Internet とは、TCP/IPにより全世界を接続しているコンピュータネットワーク、ただ一つのことを指す。 語源は「複数のネットワークを結ぶ」ことを表す internet。 現在ではこの意味は inte</description>
+      <guid>https://memo.yammer.jp/posts/internet-tcpip</guid>
+      <pubDate>Fri, 15 May 2020 14:37:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>就活を終えて半年経って思うこと。</title>
+      <link>https://memo.yammer.jp/posts/job-hunting-6-month-ago</link>
+      <description>進路を迷っている知人に就活のことを聞かれ、自分が何を考えて決めたのかを、主に次の視点で綴ったので、ここにも記します。 就職先の決め手 なぜエンジニアとして働くのか なぜ大学院に進学しなかったのか 就職先の決め手 就活時に重視していたところはつぎのようなことがあります。 文化 技術的な成長 会社のサービスに自分が貢献したいと思えるか 会社を決めた理由は、ざっくりまとめると「自分が最も成長できそうだから」でしょうか。 就職予定の会社は、独特の企業文化が特徴です。これが自分が働くモチベーション高く保つことにつながると考えました。 技術が身につく環境でも、自分に合わない環境で働くのは長続きしないでしょ</description>
+      <guid>https://memo.yammer.jp/posts/job-hunting-6-month-ago</guid>
+      <pubDate>Wed, 13 May 2020 14:54:22 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>(余談) User Defaultsとproperty list(plist)</title>
+      <link>https://memo.yammer.jp/posts/plist</link>
+      <description>Mac OS XのUser Defaultsを変更するためのシェルスクリプトを作るツール pdefを制作した。(解説記事: Macの設定を自動化するdefaultsコマンドと、それを助けるpdef) これを作る際にProperty listについて学んだことを記す。 User Defaults User Defaultsは、MacOSXやiOSにおける各アプリケーションが設定などを保持するためのデータベースである。 User Defaultsは、各アプリケーション(正確にはアプリケーションの持つドメイン)ごとにProperty listとして記録される。 普段は各アプリケーションを通して読み書</description>
+      <guid>https://memo.yammer.jp/posts/plist</guid>
+      <pubDate>Sat, 02 May 2020 07:26:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Macの設定を自動化するdefaultsコマンドと、それを助けるpdef</title>
+      <link>https://memo.yammer.jp/posts/pdef</link>
+      <description>tl;dr Mac OS XのUser Defaultsの差分をdefaultsコマンドの形式に変換するコマンドラインツール、&quot;pdef&quot;を作った。 本題(pdefでシェルスクリプトを作る)まで飛ばす defaultsコマンドでMacの設定を自動化する Macには、OSや各アプリの設定を保存するUser Defaultsというデータベースがある。 例えばドックの大きさやメニューバーに表示するアイコン、Safariの開発者ツールの有効化フラグ、(使用している場合は)サードパーティ製アプリケーションの設定情報なども記録されている。 これらのUser Defaultsの項目は普通、GUI上の設定画面</description>
+      <guid>https://memo.yammer.jp/posts/pdef</guid>
+      <pubDate>Thu, 30 Apr 2020 15:52:47 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>macOSでの各種設定を自動化するdefaultsコマンド</title>
+      <link>https://memo.yammer.jp/posts/macos-defaults</link>
+      <description>研究室や就職先などでのコンピュータのセットアップのために、3月頃からdotfilesを構築している。 その流れでdefaultsコマンドを知ったので、その記録と使い方、調べ方を残しておく。。 defaultsコマンドとは macOSにおける環境設定や各アプリケーションの設定は.plist拡張子のプロパティリストと言われるファイルに記録される。 このプロパティリストを読み書きするためにmacOSに標準で搭載されているのがdefaultsコマンドである。 (詳細は$ man defaultsしてください。) これを利用して、OS全体の環境設定やアプリケーションの設定を自動化するスクリプトをつくって</description>
+      <guid>https://memo.yammer.jp/posts/macos-defaults</guid>
+      <pubDate>Mon, 13 Apr 2020 12:57:37 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>vim-lspを使った、Vim上でのTypeScript(JavaScript)の補完の実現</title>
+      <link>https://memo.yammer.jp/posts/vim-lsp-init</link>
+      <description>LSPとは LSP(Language Server Protocol)とは、IDEと言語サーバとの通信用プロトコル。 IDEやテキストエディタが補完やコードジャンプなどの様々な機能を実現するために、以前はIDEやエディタのプラグイン内に内包されていた機能を、言語ごとにLanguage Serverとして切り出す。 これにより言語補完部分の製作はLanguage Serverさえ作ってしまえばたくさんのIDE(エディタ)に対応できるし、IDE(エディタ)開発側も、LSPにさえ対応してしまえば各言語への対応を独自実装しなくて済む。 2016年6月にMicrosoftが発表したらしい。 参考: la</description>
+      <guid>https://memo.yammer.jp/posts/vim-lsp-init</guid>
+      <pubDate>Wed, 01 Apr 2020 08:37:46 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>今日欲しい物(2020/3/30)</title>
+      <link>https://memo.yammer.jp/posts/20200330</link>
+      <description>欲しい物 ほしいと思ったものの記録。 docomo系MVNOのSIM 60%の自作キーボード ヘッドホン docomo系のMVNOのSIM 昨年macを買ったのに合わせて初めてiphoneを購入し、それ以降iphone7を使い続けているが、そろそろandroidに戻りたい気持ちが強くなってきた。 ビッグローブの3GB音声通話有りのプランは、半年間400円で使えて2500円キャッシュバックが有るらしい。 iphone7に挿しているsimは最近UQmobileに乗り換えたばかりだし、UQmobileの回線速度は素晴らしいので、乗り換えるのは早計かなと思っている。 しかしUQmobileのsimが使</description>
+      <guid>https://memo.yammer.jp/posts/20200330</guid>
+      <pubDate>Mon, 30 Mar 2020 01:06:22 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>すぐやる人に変わる方法</title>
+      <link>https://memo.yammer.jp/posts/book-memo-do-now</link>
+      <description>2017年11月頃のメモを移動。以下、 先送りせずにすぐやる人に変わる方法 (中経の文庫)を読んだ際のメモだと思われる。 優先度を比較する「前」にやってしまう 「快楽を捨てること」と「苦痛を選択する」ということの2つのことを一度にやろうとしてはダメ まず「快楽を捨てる」ことだけに、全神経を集中 すぐに実行できるところまで分解する どんどん分解する癖がつけば自然と「すぐやる」人になれる 誘導タスクを設定する メールは「下書き」をしておく いまの状況を正直に伝える .. そういうときは、ざっと目を通して、簡単な感想を概ねポジティブに書いて出す 以下軽く目を通して考えてから採用すること すぐやる人は</description>
+      <guid>https://memo.yammer.jp/posts/book-memo-do-now</guid>
+      <pubDate>Sat, 28 Mar 2020 02:52:38 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>仮想化</title>
+      <link>https://memo.yammer.jp/posts/virtualization</link>
+      <description>過去の自分向けメモを移動。以下、2019/4/27頃のメモである。 最近大学でOSの授業が始まった。 OSの基本的な役割として挙げられるのが、計算資源の管理とハードウェアの仮想化だそうな。 仮想化と聞くとVirtual Machineを使ったサーバー仮想化などあるが、それよりももっと前から仮想化という概念は存在していて。 CPUのハイパースレッディングテクノロジーなんかはCPUの仮想化。 デバイスドライバを介した入出力機器の仮想化。ファイルシステムによりデータを抽象的に操作できるハードディスクの仮想化。アドレスを意識する必要のないメモリの仮想化。 仮想化といわれると、以前はエミュレータなんかに</description>
+      <guid>https://memo.yammer.jp/posts/virtualization</guid>
+      <pubDate>Sat, 28 Mar 2020 02:48:13 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>さくらのVPSとdocker環境構築 </title>
+      <link>https://memo.yammer.jp/posts/sakura-vps-docker</link>
+      <description>PCを整理していて発見したメモを移動して公開する。ファイルのタイムスタンプは2017/12/19。 windows10のPCから、さくらVPSでCentOS7のサーバでdockerを使えるようにする記録。 windows10にはあらかじめputty,WinSCPがインストールされていることを想定。 さくらVPS初期設定 OSインストール さくらVPS管理画面にて、&gt; サーバ一覧 &gt; (設定したいサーバ) &gt; 各種設定 &gt; OSインストール OSインストール形式の選択: 標準OS インストールするOSを選んでください: CentOS7 x86_64 rootパスワード: 適当に設定 スタートアッ</description>
+      <guid>https://memo.yammer.jp/posts/sakura-vps-docker</guid>
+      <pubDate>Fri, 27 Mar 2020 18:10:34 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>お名前.comで取得したドメインをさくらVPSで使う。</title>
+      <link>https://memo.yammer.jp/posts/sakura-vps-dns</link>
+      <description>PCを整理していて発見したメモを移動して公開する。ファイルのタイムスタンプは2017/12/19。 お名前.comで取得したドメインをさくらVPSで使う。DNSサーバーはさくらのものを利用する。 お名前.com側の設定 &gt; ドメイン &gt; ドメイン設定 &gt; ネームサーバーの設定 &gt; ネームサーバーの変更 目的のドメイン名にチェックを入れて 登録情報は正しいので、手続きを進める をクリック。 他のネームサーバーを利用 のタブにして 1プライマリネームサーバー(必須) :	ns1.dns.ne.jp 2セカンダリネームサーバー(必須) :	ns2.dns.ne.jp として確認画面へ進み、設定を適用</description>
+      <guid>https://memo.yammer.jp/posts/sakura-vps-dns</guid>
+      <pubDate>Fri, 27 Mar 2020 18:03:08 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>androidの架電アプリによる各種制御プログラムの起動</title>
+      <link>https://memo.yammer.jp/posts/android-phone-call-command</link>
+      <description>まえがき PC内のデータを整理していたら過去に自分向けに書いていたメモが出てきたので、ここ記す形で移動する。 タイムスタンプをみるに、2017/11/22頃に書かれたものだ。 androidでは、端末の細かい挙動の設定を変更する際、電話アプリで以下に有るようなコマンドを打ち込むと行えることがある。 過去のメモなので、どの機種、環境だと利用できるのか確認していないが、少なくとも SOL26で利用できそうである。 メモ Open Android Mobile Programs Using Commend      Commands               Usages    *#06# = I</description>
+      <guid>https://memo.yammer.jp/posts/android-phone-call-command</guid>
+      <pubDate>Fri, 27 Mar 2020 17:45:25 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>shellでhistoryを使う</title>
+      <link>https://memo.yammer.jp/posts/sh-history</link>
+      <description>過去に実行したコマンドを再度実行する history ... unix系OSでshellに存在する組み込みコマンドだ。 過去に実行したコマンドを表示できる。 historyコマンドで表示されたコマンドの番号を!と合わせて入力すると、そのコマンドを実行できる。 $ history   1  ls   2  pwd   3  cd /etc $ !1 ls hogedir/    fugafile 以下のようにして全履歴を表示できる。 出力した後はgrepで煮るなり焼くなりするのが良いかと。 $ history -E 1 # 履歴を全て表示する .zshrcでの設定 .zshrcでhistoryに</description>
+      <guid>https://memo.yammer.jp/posts/sh-history</guid>
+      <pubDate>Wed, 25 Mar 2020 15:13:29 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Ubuntuをダウンロードしてインストールする</title>
+      <link>https://memo.yammer.jp/posts/download-ubuntu</link>
+      <description>Download Ubuntu Desktop 日本語 Remixをダウンロードする Torrentを利用するために、uTorrent classicを使用した。 ただし、catalinaがサポート外と書かれていたのでもしかしたら32bitアプリケーションかもしれない。 Torrentについては別途要検討 Check macでは次のようにしてmd5ハッシュを確認できる ダウンロードページのhashと比較して、ダウンロードが正しく行われたことを確認する $ md5 -q path/to/file # manによると、-qオプションはQuiet modeらしい。md5ハッシュのみ出力する。 # の</description>
+      <guid>https://memo.yammer.jp/posts/download-ubuntu</guid>
+      <pubDate>Sat, 21 Mar 2020 14:18:47 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>dein.vimの導入</title>
+      <link>https://memo.yammer.jp/posts/install-dein-vim</link>
+      <description>dotfiles環境下でvimのプラグイン管理にdein.vimを導入する。 前提 ~/dotfilesで.vimrcを管理している dein.vimも~/dotfilesで管理する 下準備 $ cd ~/dotfiles $ mkdir dein $ touch dein/load.vim .vimrcに追記 ~/dotfiles/.vimrcの先頭に次を記載 &quot; .vimrc &quot;===== dein.vim ===== if filereadable(expand(&apos;dein/load.vim&apos;))     source dein/load.vim endif load.vimに記述 ~/</description>
+      <guid>https://memo.yammer.jp/posts/install-dein-vim</guid>
+      <pubDate>Mon, 16 Mar 2020 15:13:35 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>Shell Scriptにおける、カレントディレクトリの固定</title>
+      <link>https://memo.yammer.jp/posts/shell-pwd</link>
+      <description>前提 shell script内では、shell scriptを起動する前のカレントディレクトリが引き継がれる。 例えば、次のようなpwd.shを実行する。 #!/bin/sh pwd 次のように、shell scriptを呼び出す際のカレントディレクトリにより、shell scriptの挙動が変化する。 $ pwd /Users/hoge $ ls -F pwd.sh*   dir/ $ sh pwd.sh  /Users/hoge $ cd dir $ sh ../pwd.sh /Users/hoge/dir 解決策 shell scriptの前方に、2行追加する。 #!/bin/sh #</description>
+      <guid>https://memo.yammer.jp/posts/shell-pwd</guid>
+      <pubDate>Mon, 16 Mar 2020 13:23:27 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>hexoによる静的サイトの構築</title>
+      <link>https://memo.yammer.jp/posts/hexo</link>
+      <description>Hexoによる静的サイトの構築 Hexoは、node.jsを使った静的サイトジェネレータ。 markdown形式の記事を静的サイトに簡単に公開できる。 Hexoの導入 $ npm install hexo-cli $ npx hexo init ../memo.yammer.jp  $ cd ../memo.yammer.jp $ npm install $ hexo server # ローカルでサイトの確認 Hexoの設定について 設定は基本的に_config.ymlに書き込む。 例えば、このサイトの_config.ymlが一例。 テーマの導入 Hexoはサードパーティで公開された様々なテー</description>
+      <guid>https://memo.yammer.jp/posts/hexo</guid>
+      <pubDate>Mon, 16 Mar 2020 00:09:00 GMT</pubDate>
+      <source>memo</source>
+    </item>
+    <item>
+      <title>VirtualBoxでUSB機器を認識させる</title>
+      <link>https://basd4g.hatenablog.com/entry/virtualBoxUSB</link>
+      <description>&lt;h2 id=&quot;前提&quot;&gt;前提&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VirtualBox&quot;&gt;VirtualBox&lt;/a&gt;は、ホストマシンにつながったUSB機器をゲストOSで利用できる。
+また、ホスト側でドライバを用意しなくても、ゲストOS側でドライバを導入すれば利用できる。&lt;/p&gt;
+
+&lt;p&gt;ただし、以下の手順を踏んでUSBデ&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%D0%A5%A4%A5%B9&quot;&gt;バイス&lt;/a&gt;を有効化する必要がある。&lt;/p&gt;
+
+&lt;p&gt;ここでは、&lt;a href=&quot;https://www.amazon.co.jp/gp/product/B007SI18VW/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;USBシリアル変換ケーブル&lt;/a&gt;を使ったシリアル通信機器を認識させることを目的として作業する。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ホストOS: &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/macOS&quot;&gt;macOS&lt;/a&gt; Mojave 10.14.6&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VirtualBox&quot;&gt;VirtualBox&lt;/a&gt;: 6.0.14 r133895 (Qt5.6.3)&lt;/li&gt;
+&lt;li&gt;ゲストOS: &lt;a href=&quot;https://app.vagrantup.com/bento/boxes/ubuntu-18.04&quot;&gt;bento/ubuntu-18.04&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 id=&quot;作業&quot;&gt;作業&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-Extension-Packの導入&quot;&gt;1. Extension Packの導入&lt;/h3&gt;
+
+&lt;p&gt;(2020/03/24追記: homebrew caskにて導入できることを確認しました。&lt;code&gt;$ brew cask install virtualbox-extension-pack&lt;/code&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.virtualbox.org/wiki/Downloads&quot;&gt;Download VirtualBox&lt;/a&gt;から&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/Oracle&quot;&gt;Oracle&lt;/a&gt; &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VM&quot;&gt;VM&lt;/a&gt; &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VirtualBox&quot;&gt;VirtualBox&lt;/a&gt; Extension Packをダウンロードする。&lt;/p&gt;
+
+&lt;p&gt;最新版は、&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VirtualBox&quot;&gt;VirtualBox&lt;/a&gt; x.x.x &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/Oracle&quot;&gt;Oracle&lt;/a&gt; &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VM&quot;&gt;VM&lt;/a&gt; &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VirtualBox&quot;&gt;VirtualBox&lt;/a&gt; Extension Packの1行下のAll supported platformsがリンクになっている。
+バージョンは自分のPCにインストールされている&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VirtualBox&quot;&gt;VirtualBox&lt;/a&gt;に合わせること。
+違うバージョンのものはインストールに失敗する。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.virtualbox.org/wiki/Download_Old_Builds_6_0&quot;&gt;VirtualBox6.0のDownloadページ&lt;/a&gt;や&lt;a href=&quot;https://www.virtualbox.org/wiki/Download_Old_Builds_5_2&quot;&gt;VirtualBox5.2のDownloadページ&lt;/a&gt;から、各バージョンのExtension Packがダウンロードできる。
+今回は6.0.14用のExtension Packをダウンロードした。&lt;/p&gt;
+
+&lt;p&gt;ダウンロードしたファイルをダブルクリックすると、&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VirtualBox&quot;&gt;VirtualBox&lt;/a&gt;のウィンドウが立ち上がりインストールが始まる。&lt;/p&gt;
+
+&lt;h3 id=&quot;2-USBデバイスフィルターに機器を追加&quot;&gt;2. USBデ&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%D0%A5%A4%A5%B9&quot;&gt;バイス&lt;/a&gt;フィルターに機器を追加&lt;/h3&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/Oracle&quot;&gt;Oracle&lt;/a&gt; &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VM&quot;&gt;VM&lt;/a&gt; &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VirtualBox&quot;&gt;VirtualBox&lt;/a&gt;マネージャーを開き、目的の&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VM&quot;&gt;VM&lt;/a&gt;にカーソルを合わせて右クリック -&gt; 設定 を開く。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/oracle-vm-virtualbox-manager.png&quot; alt=&quot;Oracle VM VirtualBoxマネージャー&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ポート -&gt; USB を開く&lt;/p&gt;
+
+&lt;p&gt;USBコントローラを有効化にチェックを入れる。&lt;/p&gt;
+
+&lt;p&gt;USBデ&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%D0%A5%A4%A5%B9&quot;&gt;バイス&lt;/a&gt;フィルター -&gt; 右横の+アイコンをクリック -&gt; 目的のデ&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%D0%A5%A4%A5%B9&quot;&gt;バイス&lt;/a&gt;を選択する。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;usb-device-filter.png&quot; alt=&quot;USBデバイスフィルター&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-VMを起動再起動する&quot;&gt;3. &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/VM&quot;&gt;VM&lt;/a&gt;を起動(再起動)する&lt;/h3&gt;
+</description>
+      <guid>hatenablog://entry/26006613576772429</guid>
+      <pubDate>Thu, 12 Mar 2020 08:08:00 GMT</pubDate>
+      <source>hatena</source>
+    </item>
+    <item>
+      <title>Javascriptにおける、forとforEachの比較</title>
+      <link>https://basd4g.hatenablog.com/entry/forAndForEachWithJavascript</link>
+      <description>&lt;p&gt;知人に質問された内容への回答を兼ねて、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Javascript&quot;&gt;Javascript&lt;/a&gt;における繰り返し文の記法を振り返る。&lt;/p&gt;
+
+&lt;p&gt;この記事では、同じ結果を出力する繰り返し文を、次の２つの文法で記述し比較する。
+- &lt;a href=&quot;https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Statements/for&quot;&gt;for文&lt;/a&gt;
+- &lt;a href=&quot;https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach&quot;&gt;forEach()メソッド&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;他の記法には言及しない。&lt;/p&gt;
+
+&lt;h2&gt;配列の要素を出力する&lt;/h2&gt;
+
+&lt;p&gt;for文と同様に、forEach()メソッドも繰り返し処理をすることができる。&lt;/p&gt;
+
+&lt;p&gt;しかし記述方法は異なり、forEach()は配列のメソッドである。
+引数にはコールバック関数(今回はitemを引数とするアロー関数)を渡す。&lt;/p&gt;
+
+&lt;p&gt;渡されたコールバック関数を配列の各要素に対し実行することで、繰り返し処理が実現できる。&lt;/p&gt;
+
+&lt;pre class=&quot;code js&quot; data-lang=&quot;js&quot; data-unlink&gt;// for文で要素を羅列
+const items = [ &amp;#34;hello&amp;#34;, 32, true ];
+
+for( let i=0; i&amp;lt; items.length; i++ ){
+  console.log( items[i] );
+}&lt;/pre&gt;
+
+
+
+
+&lt;pre class=&quot;code js&quot; data-lang=&quot;js&quot; data-unlink&gt;// forEach()メソッドで要素を羅列
+const items = [ &amp;#34;hello&amp;#34;, 32, true ];
+
+items.forEach( item =&amp;gt; {
+  console.log(item);
+});&lt;/pre&gt;
+
+
+&lt;p&gt;上記２つの実行結果は一致し、以下を出力する。&lt;/p&gt;
+
+&lt;pre class=&quot;code&quot; data-lang=&quot;&quot; data-unlink&gt;hello
+32
+true&lt;/pre&gt;
+
+
+&lt;h2&gt;配列の添字と配列の要素を出力する&lt;/h2&gt;
+
+&lt;p&gt;forEach()メソッドにわたすコールバック関数で、配列の要素だけでなく添字も受け取る方法を示す。&lt;/p&gt;
+
+&lt;pre class=&quot;code js&quot; data-lang=&quot;js&quot; data-unlink&gt;const items = [ &amp;#34;hello&amp;#34;, 32, true ];
+
+for( let i=0; i&amp;lt;items.length; i++ ){
+  console.log(`${i} : ${items[i]}`);
+}&lt;/pre&gt;
+
+
+
+
+&lt;pre class=&quot;code js&quot; data-lang=&quot;js&quot; data-unlink&gt;const items = [ &amp;#34;hello&amp;#34;, 32, true ];
+
+items.forEach( (item, index) =&amp;gt; {
+  console.log(`${index} : ${item}`);
+})&lt;/pre&gt;
+
+
+&lt;p&gt;上記２つの実行結果は一致し、以下を出力する。&lt;/p&gt;
+
+&lt;pre class=&quot;code&quot; data-lang=&quot;&quot; data-unlink&gt;0 : hello
+1 : 32
+2 : true&lt;/pre&gt;
+
+
+&lt;p&gt;上記のように、forEach()メソッドに渡すコールバック関数の、第一引数は配列の要素、第二引数は配列の添字を受け取るようになっている。&lt;/p&gt;
+
+&lt;p&gt;補足: console.log内で定義している文字列は&lt;a href=&quot;https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/template_strings&quot;&gt;テンプレートリテラル&lt;/a&gt;を利用し、変数の値を埋め込んだ文字列をつくっている。&lt;/p&gt;
+
+&lt;h2&gt;まとめ&lt;/h2&gt;
+
+&lt;p&gt;for文もforEach()メソッドも繰り返し処理を表記できるが、forEach()メソッドのほうが簡潔に表記できるので、ES6が認められる環境であれば、forEach()メソッドを使うのが好ましい。&lt;/p&gt;
+
+&lt;p&gt;ちなみに、forEach()メソッドだけでなく、filter()メソッドやfind()メソッド、map()メソッド等が使える場合は、こちらのほうが更に簡潔に書けるため好ましい。&lt;/p&gt;
+
+&lt;p&gt;その他、&lt;a href=&quot;https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Statements/for...in&quot;&gt;for...in&lt;/a&gt;文や&lt;a href=&quot;https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Statements/for...of&quot;&gt;for...of&lt;/a&gt;文もあるが、ここでは言及しない。&lt;/p&gt;
+
+&lt;h2&gt;参照&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%BD%A1%BC%A5%B9%A5%B3%A1%BC%A5%C9&quot;&gt;ソースコード&lt;/a&gt;をおいてあるgist&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA&quot;&gt;リポジトリ&lt;/a&gt;: &lt;a href=&quot;https://gist.github.com/basd4g/546dd9e378f93f6c24b8c8abab6fe187&quot;&gt;https://gist.github.com/basd4g/546dd9e378f93f6c24b8c8abab6fe187&lt;/a&gt;&lt;/p&gt;
+</description>
+      <guid>hatenablog://entry/26006613576772421</guid>
+      <pubDate>Tue, 14 Jan 2020 09:23:00 GMT</pubDate>
+      <source>hatena</source>
+    </item>
+    <item>
+      <title>mixi git challenge 12に参加した</title>
+      <link>https://basd4g.hatenablog.com/entry/mixiGitChallenge</link>
+      <description>&lt;p&gt;2019/10/26、株式会社&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%DF%A5%AF%A5%B7%A5%A3&quot;&gt;ミクシィ&lt;/a&gt;の主催する &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/mixi&quot;&gt;mixi&lt;/a&gt; git challenge #12 に参加した。&lt;/p&gt;
+
+&lt;h2&gt;株式会社ミクシイ&lt;/h2&gt;
+
+&lt;p&gt;皆さんご存知、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/SNS&quot;&gt;SNS&lt;/a&gt;の&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/mixi&quot;&gt;mixi&lt;/a&gt;やモンストを提供しているインターネット企業。
+「コミュニケーション」を軸に様々な事業を展開している。&lt;/p&gt;
+
+&lt;h2&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/mixi&quot;&gt;mixi&lt;/a&gt; git challenge&lt;/h2&gt;
+
+&lt;p&gt;株式会社&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%DF%A5%AF%A5%B7%A5%A3&quot;&gt;ミクシィ&lt;/a&gt;が主催する、学生向けのgitを使ったコンテスト。
+当日出会った人と2人でチームを組み、gitに関する問題を解く。&lt;/p&gt;
+
+&lt;p&gt;3時間半ほどの競技時間の中で、問題を起こした&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA&quot;&gt;リポジトリ&lt;/a&gt;の数々が提供され、それを調査、復旧する。
+問題を解くと難易度に応じたポイントを獲得でき、時間内に最も多くポイントを獲得することを競う。&lt;/p&gt;
+
+&lt;p&gt;2015年から開催しているようで、今回で第12回であった。&lt;/p&gt;
+
+&lt;h2&gt;当日の流れ&lt;/h2&gt;
+
+&lt;p&gt;午前中は&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/mixi-git-challenge/git-challenge-tutorial&quot;&gt;git challenge チュートリアル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%DF%A5%AF%A5%B7%A5%A3&quot;&gt;ミクシィ&lt;/a&gt;社員さんからのLT2本(gitクライアントの&lt;a href=&quot;https://github.com/jonas/tig&quot;&gt;Tig&lt;/a&gt;について)(社内のモバイルチームでのCI/CD活用)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;だった。&lt;/p&gt;
+
+&lt;p&gt;お昼を挟んで競技開始。競技内容は公開できないが、過去問題が公開されているのでどんなことをするのかは以下が参考になる。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://alpha.mixi.co.jp/entry/2015/11/24/083300&quot;&gt;第1回git challengeの出題内容を一部公開します&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/mixi-git-challenge/git-challenge-is-order-an-adding&quot;&gt;問題: なぜか新しいファイルを追加できないリポジトリ（難易度: EASY）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/mixi-git-challenge/git-challenge-minesweeper&quot;&gt;問題: Minesweeper（難易度: NORMAL）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;難易度ごとの問題を簡単なものから解いていった。チームメンバーと一緒に考えたり、分担したりを適宜組み合わせて進めた。&lt;br /&gt;
+前半はそこそこのペースで進めたものの、競技後半は得点が伸びず勝利することは出来なかった。&lt;/p&gt;
+
+&lt;p&gt;3.5-4時間ほどの競技時間の後、解説、&lt;a href=&quot;https://github.com/shumon84/GitQuiz&quot;&gt;gitに関するクイズ&lt;/a&gt;、そして懇親会が行われた。
+疲れたあとのご飯は美味しい(小並感)。&lt;/p&gt;
+
+&lt;h2&gt;参加しての感想&lt;/h2&gt;
+
+&lt;p&gt;gitはとても奥が深い。
+今までgitの一部分しか使っていなかったことを痛感した。沢山の学びを得ることが出来たので、これからもっとgitを知ろうと思う。&lt;/p&gt;
+
+&lt;p&gt;ちなみに、翌日自分の&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA&quot;&gt;リポジトリ&lt;/a&gt;で、git challengeで学んだコマンドを用いてdangling commitを復旧しなければならない事態が訪れた。早速バリューが出ている。(自分が悪い)&lt;/p&gt;
+
+&lt;h2&gt;学び&lt;/h2&gt;
+
+&lt;p&gt;(問題の公開を避けるため詳細は省くが、)問題からgitを使った様々なトラブルの対処や便利な使い方を知ることが出来た。&lt;/p&gt;
+
+&lt;p&gt;Pro Gitという書籍の翻訳版が無料で公開されており、gitについての理解が深まると思うので、これから参加する方は是非参考にしてほしい。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://git-scm.com/book/ja/v2&quot;&gt;Pro Git book&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;参考&lt;/h2&gt;
+
+&lt;p&gt;他参加者のブログ&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.koffein.dev/git-challenge-12/&quot;&gt;git challenge #12に参加しました - カフェイン中毒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://chouxcreams.hatenablog.com/entry/2019/10/29/011636&quot;&gt;git challenge#12に参加してきた - chouxcreamsのブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://dionomusuko.hatenablog.com/entry/2019/11/03/022344&quot;&gt;mixi git challenge #12 に参加してきました。 - dionomusukoのブログ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <guid>hatenablog://entry/26006613576772426</guid>
+      <pubDate>Wed, 20 Nov 2019 10:40:00 GMT</pubDate>
+      <source>hatena</source>
+    </item>
+    <item>
+      <title>TypeScriptでprivate methodを外部から呼ぶ</title>
+      <link>https://basd4g.hatenablog.com/entry/privateMethodTest</link>
+      <description>&lt;p&gt;題名通りの話。&lt;/p&gt;
+
+&lt;p&gt;TypeScriptにてprivate methodを&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%C3%B1%C2%CE%A5%C6%A5%B9%A5%C8&quot;&gt;単体テスト&lt;/a&gt;するとき、直接呼べないので困ることがある。
+private methodを外部から呼べないのは正しいふるまいだが、テストプログラム側からも呼べないのは不便だ。裏技的ではあるが、TypeScriptの制限を回避して呼ぶ方法があるので紹介する。&lt;/p&gt;
+
+&lt;h2&gt;前提 TypeScriptのprivate&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/JavaScript&quot;&gt;JavaScript&lt;/a&gt;(ES6~)では、class記法が使える。&lt;br /&gt;
+TypeScriptではclass記法で書かれたmethodにprivate修飾子をつけることが出来る。
+private修飾子をつけると、同じクラス内&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%AB%A4%E9%A4%B7&quot;&gt;からし&lt;/a&gt;かmethodを呼べない。&lt;/p&gt;
+
+&lt;p&gt;具体的な記法は下の例を参照のこと。&lt;/p&gt;
+
+&lt;h2&gt;解決策&lt;/h2&gt;
+
+&lt;p&gt;TypeScriptのprivate修飾子によるアクセス制限を回避する方法は2つある。&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;hogeClass.privateMethod()&lt;/code&gt;だと呼べないときを例に取ると&lt;/p&gt;
+
+&lt;h3&gt;1. &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/brackets&quot;&gt;brackets&lt;/a&gt;記法&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;hogeClass[&apos;privateMethod&apos;]()&lt;/code&gt;と呼ぶ。&lt;/p&gt;
+
+&lt;h3&gt;2. クラスをanyでキャストする&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;;(hogeClass as any).privateMethod()&lt;/code&gt;と呼ぶ。&lt;/p&gt;
+
+&lt;p&gt;前文との間に&lt;code&gt;;&lt;/code&gt;を入れないとエラーを出すので注意。&lt;/p&gt;
+
+&lt;h2&gt;例&lt;/h2&gt;
+
+&lt;pre class=&quot;code ts&quot; data-lang=&quot;ts&quot; data-unlink&gt;// TypeScript v3.5.3
+
+class HogeClass {
+
+  private privateMethod (): void {
+    console.log(&amp;#34;private method&amp;#34;)
+  }
+
+  public publicMethod ():void {
+    console.log(&amp;#39;public method&amp;#39;)
+
+    //呼べる
+    this.privateMethod()
+  }
+}
+
+const hogeClass = new HogeClass()
+
+// 呼べる
+hogeClass.publicMethod()
+
+// 呼べない コンパイルエラー
+// hogeClass.privateMethod()
+
+// 呼べる
+hogeClass[&amp;#39;privateMethod&amp;#39;]()
+
+// 呼べる セミコロンが必要
+;(hogeClass as any).publicMethod()&lt;/pre&gt;
+
+
+&lt;h2&gt;注意&lt;/h2&gt;
+
+&lt;p&gt;TypeScriptの制限をすり抜けるということは、methodが存在するかどうか評価されないので、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/typo&quot;&gt;typo&lt;/a&gt;したり存在しないmethodを呼ぶ危険性がある。&lt;/p&gt;
+
+&lt;p&gt;テストで使うのは仕方ないかもしれないけれど、基本はあまり使うべきではなさそう。&lt;/p&gt;
+
+&lt;h2&gt;感想&lt;/h2&gt;
+
+&lt;p&gt;anyでキャストして呼べるのはまだいいとして、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/brackets&quot;&gt;brackets&lt;/a&gt;記法で呼べてしまうのは裏技感がすごい。
+最近TypeScriptに入門したが、型があるのはありがたいといっても、意外と実行時にこのような抜けがあると感じてしまうことがあったり。&lt;/p&gt;
+
+&lt;p&gt;まぁjsやからな。&lt;/p&gt;
+
+&lt;h2&gt;参考&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;qiita.com/hitochan777/items/f68e77f13becd24e2691&quot;&gt;Typescriptでprivateメソッドをテストする&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <guid>hatenablog://entry/26006613576772420</guid>
+      <pubDate>Thu, 17 Oct 2019 02:50:00 GMT</pubDate>
+      <source>hatena</source>
+    </item>
+    <item>
+      <title>GMOペパボのインターンシップに参加した</title>
+      <link>https://basd4g.hatenablog.com/entry/GMOpepaboInternship</link>
+      <description>&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/GMO%A5%DA%A5%D1%A5%DC&quot;&gt;GMOペパボ&lt;/a&gt;株式会社(以下ペパボと表記させていただく) 福岡オフィスの2019年 夏&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;に参加した。&lt;br/&gt;
+2019/8/21から2019/8/30の平日8日間、&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%E0%A1%BC%A5%E0%A1%BC%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ムームードメイン&lt;/a&gt;チームのフロントエンドエンジニアとして開発させていただいたので、その記録である。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/pepabo-intern6.jpg&quot; alt=&quot;ペパボ福岡オフィスの入り口&quot; /&gt;
+↑オフィスの入口。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;最終日にパートナーさん&lt;a id=&quot;annotation-from-1&quot; href=&quot;#annotation-to-1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;の前で成果発表会をしたのだが、話しきれなかった部分もあるのでそれを消化する意味もある。
+長文失礼したい。&lt;/p&gt;
+
+&lt;h2 id=&quot;ペパボとムームードメイン&quot;&gt;ペパボと&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%E0%A1%BC%A5%E0%A1%BC%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ムームードメイン&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;ペパボとは&quot;&gt;ペパボとは&lt;/h3&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/GMO%A5%DA%A5%D1%A5%DC&quot;&gt;GMOペパボ&lt;/a&gt;株式会社は東京・福岡・鹿児島にオフィスを構える&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/GMO&quot;&gt;GMO&lt;/a&gt;グループの企業の一つ。「インターネットで可能性をつなげる、ひろげる」をミッションに、インターネットで個人の表現活動をする人を支援するサービスを展開している。
+&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%EC%A5%F3%A5%BF%A5%EB%A5%B5%A1%BC%A5%D0&quot;&gt;レンタルサーバ&lt;/a&gt;ー「&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%ED%A5%EA%A5%DD%A5%C3%A5%D7&quot;&gt;ロリポップ&lt;/a&gt;」、ハンドメイドマーケット「minne」等のサービスがある。&lt;/p&gt;
+
+&lt;p&gt;丁度&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;期間中に企業紹介動画&lt;a id=&quot;annotation-from-2&quot; href=&quot;#annotation-to-2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;が公開された。( &lt;a href=&quot;https://twitter.com/achamixx/status/1167253538595954688&quot;&gt;別ver&lt;/a&gt;もある。)&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ANXs_ZdQtt4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;ちなみに私は&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;でDiscover New Something&lt;a id=&quot;annotation-from-3&quot; href=&quot;#annotation-to-3&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;した。&lt;/p&gt;
+
+&lt;p&gt;福岡オフィスでは&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%DB%A5%B9%A5%C6%A5%A3%A5%F3%A5%B0&quot;&gt;ホスティング&lt;/a&gt;系サービスの開発を行っていて、今回はその中の&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%E0%A1%BC%A5%E0%A1%BC%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ムームードメイン&lt;/a&gt;チームに参加させていただいた。&lt;/p&gt;
+
+&lt;h3 id=&quot;ムームードメインとは&quot;&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%E0%A1%BC%A5%E0%A1%BC%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ムームードメイン&lt;/a&gt;とは&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://muumuu-domain.com&quot;&gt;ムームードメイン&lt;/a&gt;とは、インターネットの&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%C6%C8%BC%AB%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;独自ドメイン&lt;/a&gt;取得サービスとしてペパボの中でも古くから続いているサービスの一つ。私も利用している。&lt;/p&gt;
+
+&lt;h2 id=&quot;インターンシップでしたこと&quot;&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;でしたこと&lt;/h2&gt;
+
+&lt;p&gt;Nuxt.jsで作られているページへの機能追加を行った。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://muumuu-domain.com/domain/price&quot;&gt;ドメインの価格一覧ページ&lt;/a&gt;に価格によるソート機能を追加した。
+&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ドメイン&lt;/a&gt;一覧表のヘッダ箇所にボタンが追加され、昇順・降順ソートが出来るようになった。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;価格一覧の&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ドメイン&lt;/a&gt;を新規取得、更新、移管の価格順に並び替えることができるようになりました。ご予算に合った&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ドメイン&lt;/a&gt;を見つけやすくなります。&lt;a href=&quot;https://t.co/QL670SQXx0&quot;&gt;https://t.co/QL670SQXx0&lt;/a&gt; &lt;a href=&quot;https://t.co/wLcWnas2Cm&quot;&gt;pic.twitter.com/wLcWnas2Cm&lt;/a&gt;&lt;/p&gt;&amp;mdash; &lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%E0%A1%BC%A5%E0%A1%BC%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ムームードメイン&lt;/a&gt; (@muumuu_domain) &lt;a href=&quot;https://twitter.com/muumuu_domain/status/1169492805137256449?ref_src=twsrc%5Etfw&quot;&gt;September 5, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+&lt;p&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;他の&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3&quot;&gt;インターン&lt;/a&gt;参加者は次のようなことをやっていたようだ。各々のスキルに合わせて、チームに配属され実際の業務に加わる形式で&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;が進む。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;研究所でデータ解析&lt;/li&gt;
+&lt;li&gt;CIツール周りをごにょごにょ&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/Web%A5%B5%A1%BC%A5%D3%A5%B9&quot;&gt;Webサービス&lt;/a&gt;に機能追加&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/API&quot;&gt;API&lt;/a&gt;を書く&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 id=&quot;学んだこと---技術の話&quot;&gt;学んだこと - 技術の話&lt;/h2&gt;
+
+&lt;h3 id=&quot;コードリーディング&quot;&gt;コードリーディング&lt;/h3&gt;
+
+&lt;p&gt;今回の&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;では新たなページの追加ではなく既存ページへの機能追加を行ったことから、既に完成している&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%C9%A5%E1%A5%A4%A5%F3&quot;&gt;ドメイン&lt;/a&gt;の価格を表示するロジックに手を加えることになった。
+既存の実装の意図を汲みながら、他ページへの影響を与えないよう設計することに注意した。&lt;/p&gt;
+
+&lt;p&gt;コードを呼んでロジックとデータの流れを追うことは、経験が少なかったので新鮮だった。コードを読むのは面白かったが、実装の意図を汲むのは結構難しかった。似たような機能を持つ&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/OSS&quot;&gt;OSS&lt;/a&gt;ライブラリも見てみたりしながら設計を固めた。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/pepabo-intern7.jpg&quot; alt=&quot;名言&quot; /&gt;
+↑かの有名なお言葉。&lt;/p&gt;
+
+&lt;h3 id=&quot;実際に動いているサービス&quot;&gt;実際に動いているサービス&lt;/h3&gt;
+
+&lt;p&gt;サービスの規模感、エンジニアや関わる人の人数、サーバーの構成や使用されている技術スタックを知れた。1つのサービスを俯瞰して、どのように動いているのかを学べたのは貴重な経験である。&lt;/p&gt;
+
+&lt;p&gt;またデザイナーさんとの分業の仕方やディレクターさんとの仕様の確認など、チームとしてサービスを支えている姿をみることができ、&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;の中で経験することもできた。&lt;/p&gt;
+
+&lt;h3 id=&quot;issueとPullRequest&quot;&gt;issueとPullRequest&lt;/h3&gt;
+
+&lt;p&gt;恥ずかしながらチーム開発を今夏まで経験してこなかったので、&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt;のissueとPullreqを使う機会がなかった。
+ソフトウェアの実装に関する相談やまとめ、記録としても非常に有用で期間中たくさんお世話になった。&lt;/p&gt;
+
+&lt;p&gt;コードレビューは学ぶことがとても多く、これからの私のコードにたくさん取り入れていきたい。(既に恩恵を享受している。)&lt;/p&gt;
+
+&lt;p&gt;PullRequestを出す際に参考にしたいのがこちら↓。私が出したプルリクがこれにどこまで沿えていたかはおいておいて(笑)、自戒の念としても今後の参考のためにも残しておく。
+特に私のようなプルリク歴の浅い方にお勧めしたい。&lt;/p&gt;
+
+&lt;script async class=&quot;speakerdeck-embed&quot; data-id=&quot;5ea4a551f0334f888cbb13ab81b8f860&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;
+&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%BB%B2%BE%C8%B8%B5&quot;&gt;参照元&lt;/a&gt;: &lt;a href=&quot;https://kimromi.github.io/2017-08-31/pull-request.html&quot;&gt;ぼくのかんがえたさいきょうのPullRequest&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;テスト&quot;&gt;テスト&lt;/h3&gt;
+
+&lt;p&gt;個人で開発しているとテストを書くという発想に至らず、今までテストを書いてこなかった。そのため、今回の&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;でテストを書いたのもとても良い経験だった。
+Vue&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%B3%A5%F3%A5%DD%A1%BC%A5%CD%A5%F3%A5%C8&quot;&gt;コンポーネント&lt;/a&gt;を自在に手のひらで転がせるよう、転がれ転がれと念じながら過ごした(嘘)。&lt;/p&gt;
+
+&lt;p&gt;テストを書くといいことが沢山ある。他人のためになるだけでなく、既存の実装や構造を振り返るいい機会にもなるし、自分がのちに実装するときに恩恵(正しい動作を保証できる&lt;a id=&quot;annotation-from-4&quot; href=&quot;#annotation-to-4&quot;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;)を享受できる(した)。&lt;/p&gt;
+
+&lt;h2 id=&quot;感じたこと---ペパボの話&quot;&gt;感じたこと - ペパボの話&lt;/h2&gt;
+
+&lt;p&gt;ペパボは次の&lt;a href=&quot;https://recruit.pepabo.com/info/important/&quot;&gt;「わたしたちが大切にしている3つのこと」&lt;/a&gt;を掲げている。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;みんなと仲良くすること&lt;/li&gt;
+&lt;li&gt;ファンを増やすこと&lt;/li&gt;
+&lt;li&gt;アウトプットすること&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;パートナー皆さんにこれが浸透していて、日々実践されているのを感じた。&lt;/p&gt;
+
+&lt;h3 id=&quot;みんなと仲良くすること&quot;&gt;みんなと仲良くすること&lt;/h3&gt;
+
+&lt;p&gt;まずパートナーさんが優しい。&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3&quot;&gt;インターン&lt;/a&gt;生に対してだけでなく、職種やチームの壁を超えてそれぞれが仲が良い、(いい距離感だ)と感じた。
+&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;期間中、私を&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3&quot;&gt;インターン&lt;/a&gt;生と知らないパートナーさんが声をかけてくださってお話したり、社内のシニアエンジニアの方に実装について聞いたり、いろんなパートナーさんと接する機会があったがどの方も親切だった。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/pepabo-intern2.jpg&quot; alt=&quot;づっきーさんと私&quot; /&gt;&lt;br/&gt;
+↑サポーターのづっきーさんに助けられている姿。づっきーさんにも沢山仲良くしていただいた。そして沢山助けけていただいた。&lt;/p&gt;
+
+&lt;h3 id=&quot;ファンを増やすこと&quot;&gt;ファンを増やすこと&lt;/h3&gt;
+
+&lt;p&gt;会社やサービスを好きな人が多い。(観測範囲において。) しかし会社に魅力があるだけでなく、パートナーさんにファンになってしまうような惹きつける力がある。これこそ「ファンを増やすこと」を実践されている姿だと感じた。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/pepabo-intern4.jpg&quot; alt=&quot;スリスリくん&quot; /&gt;&lt;br/&gt;
+↑&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3&quot;&gt;インターン&lt;/a&gt;生が貰えるsuzuri&lt;a id=&quot;annotation-from-5&quot; href=&quot;#annotation-to-5&quot;&gt;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt;のキャ&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%E9%A5%AF&quot;&gt;ラク&lt;/a&gt;ター「スリスリくん」のぬいぐるみ。非売品でパートナーさんも簡単には手に入れられないらしい。&lt;/p&gt;
+
+&lt;h3 id=&quot;アウトプットすること&quot;&gt;アウトプットすること&lt;/h3&gt;
+
+&lt;p&gt;開発で&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt; Enterpriseを利用しており、issueやPullreqもアウトプットの形だと思う。
+そこに過去の経緯が残されていることで、今回も開発の資料としてとても参考になった。&lt;/p&gt;
+
+&lt;p&gt;その他&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;中に紹介された参考資料がパートナーさんが社外に公開したスライドであったことや(&lt;a href=&quot;#issue%E3%81%A8PullRequest&quot;&gt;先程のさいきょうのPullReq&lt;/a&gt;もその一つ)、パートナーの方が登壇する技術イベントに参加させていただいたこと等、アウトプットされているのを肌に感じた。&lt;/p&gt;
+
+&lt;p&gt;LT経験の浅い私のためにLTの機会を増やして頂き、&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;期間中に合わせて3回発表をした。issueもPullreqも書いたし、私もパートナーさんを見習ってもっとアウトプットしていきたい。&lt;/p&gt;
+
+&lt;h2 id=&quot;感じたこと---福岡の話&quot;&gt;感じたこと - 福岡の話&lt;/h2&gt;
+
+&lt;p&gt;人生初の九州上陸だったが、福岡は住みやすそうな街だった。&lt;/p&gt;
+
+&lt;h3 id=&quot;コンパクトシティ&quot;&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%B3%A5%F3%A5%D1%A5%AF%A5%C8%A5%B7%A5%C6%A5%A3&quot;&gt;コンパクトシティ&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;空港から街が近い、というよりも街に空港があるので移動が楽。(成田空港、お前のことだぞ。&lt;a id=&quot;annotation-from-6&quot; href=&quot;#annotation-to-6&quot;&gt;&lt;sup&gt;6&lt;/sup&gt;&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3 id=&quot;食べ物が美味しい&quot;&gt;食べ物が美味しい&lt;/h3&gt;
+
+&lt;p&gt;ペパボの福岡&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;で、日報にご飯が美味かったと書かれるのはあるあるらしい。もちろん私も書いた。
+一つ一つ紹介しているとそれだけで記事になってしまうので、写真でまとめて振り返る。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/pepabo-intern5.jpg&quot; alt=&quot;福岡で食べたおいしいもの&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;帰りに空港でお土産をみて、明太子とごまさばを食べそびれたことに気づいた。&lt;/p&gt;
+
+&lt;h2 id=&quot;まとめ&quot;&gt;まとめ&lt;/h2&gt;
+
+&lt;p&gt;上述の通り、技術を学ぶことと会社を知ることの2側面ともに得るものが多かった。&lt;/p&gt;
+
+&lt;p&gt;実は応募前は私の技術力が通用するのか不安だった。しかし、ペパボの皆さんに本当に優しく丁寧にフォローしていただいて、&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;期間内に機能をリリースできた。&lt;/p&gt;
+
+&lt;p&gt;また同じ期間に他チームへ配属されていた&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3&quot;&gt;インターン&lt;/a&gt;生にもよい刺激を受けた。特に私が新しい技術分野に触れていくモチベーションに繋がった。同年代の強い人すごい、みんなすごい(小並感)。&lt;/p&gt;
+
+&lt;p&gt;次は冬にも同様の就業型&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;を予定しているそうなので、この業界を考えてる人にぜひ勧めたい。&lt;/p&gt;
+
+&lt;h2 id=&quot;おわりに&quot;&gt;おわりに&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;中に関わらせていただいたた皆さんにとてもお世話になりました。
+特にサポーターのづっきーさんには技術面で沢山サポートしていただきました。初日緊張してパスワードを永遠に&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/typo&quot;&gt;typo&lt;/a&gt;していたのが懐かしいです。&lt;br/&gt;
+本当にありがとうございました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/pepabo-intern1.jpg&quot; alt=&quot;集合写真&quot; /&gt;
+↑パートナーさんと我々&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3&quot;&gt;インターン&lt;/a&gt;生。最高の夏。&lt;/p&gt;
+
+&lt;hr class=&quot;gt-article-annotation-horizontalrule&quot;/&gt;
+
+
+
+
+&lt;ul class=&quot;gt-article-annotation-list&quot;&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-1&quot; href=&quot;#annotation-from-1&quot;&gt;^1&lt;/a&gt;: ペパボで働く人のこと&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-2&quot; href=&quot;#annotation-from-2&quot;&gt;^2&lt;/a&gt;: 正確にはペパボ協賛の技術イベント&lt;a href=&quot;https://builderscon.io&quot;&gt;builderscon2019&lt;/a&gt;の幕割CM&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-3&quot; href=&quot;#annotation-from-3&quot;&gt;^3&lt;/a&gt;: 記事中の&lt;a href=&quot;https://www.youtube.com/watch?v=ANXs_ZdQtt4&quot;&gt;動画&lt;/a&gt;を参照。buildersconのコンセプトらしい。(&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;とbuildersconに直接の関係はない。)&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-4&quot; href=&quot;#annotation-from-4&quot;&gt;^4&lt;/a&gt;: もちろん、テストはテストコードとして書かれた動作しか保証できないので、ある程度正しい動作を保証できるようなテストを書くこと、テストで何が保証されているのかを理解しておくことが必要がある。&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-5&quot; href=&quot;#annotation-from-5&quot;&gt;^5&lt;/a&gt;: ペパボが運営するオリジナルグッズの作成・販売サービス。&lt;a href=&quot;https://suzuri.jp&quot;&gt;suzuri&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-6&quot; href=&quot;#annotation-from-6&quot;&gt;^6&lt;/a&gt;: さいたまに住んでいると羽田も遠い。&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <guid>hatenablog://entry/26006613576772423</guid>
+      <pubDate>Wed, 16 Oct 2019 01:51:00 GMT</pubDate>
+      <source>hatena</source>
+    </item>
+    <item>
+      <title>セレスのインターンシップ(ハッカソン)に参加した</title>
+      <link>https://basd4g.hatenablog.com/entry/ceresHackathon</link>
+      <description>&lt;p&gt;2019/8/7-2019/8/9の3日間、株式会社セレスの開催する&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;に参加した。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BF%A1%BC%A5%F3%A5%B7%A5%C3%A5%D7&quot;&gt;インターンシップ&lt;/a&gt;の内容は&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/Web%A5%B5%A1%BC%A5%D3%A5%B9&quot;&gt;Webサービス&lt;/a&gt;開発の&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%AB%A5%BD%A5%F3&quot;&gt;ハッカソン&lt;/a&gt;。お題に合わせて3日間で企画からプレゼンまでを行った。&lt;/p&gt;
+
+&lt;h2 id=&quot;セレスとは&quot;&gt;セレスとは&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ceres-inc.jp&quot;&gt;株式会社セレス&lt;/a&gt;は東京の用賀にオフィスを構えるインターネットメディア企業。「インターネット&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0&quot;&gt;マーケティング&lt;/a&gt;を通じて豊かな世界を実現する」を経営理念に掲げ、多数のサービスを展開している。&lt;/p&gt;
+
+&lt;p&gt;国内最大級のポイントサイト「&lt;a href=&quot;pc.moppy.jp&quot;&gt;モッピー&lt;/a&gt;」をはじめとする&lt;a href=&quot;https://ceres-inc.jp/business/mobile/&quot;&gt;モバイルサービス事業&lt;/a&gt;の他に、仮想通貨に関する&lt;a href=&quot;https://ceres-inc.jp/business/financial/&quot;&gt;フィナンシャルサービス事業&lt;/a&gt;も手掛ける。&lt;/p&gt;
+
+&lt;h2 id=&quot;作ったもの&quot;&gt;作ったもの&lt;/h2&gt;
+
+&lt;p&gt;今回の&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%AB%A5%BD%A5%F3&quot;&gt;ハッカソン&lt;/a&gt;のお題は「ユーザーが楽しくなる&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/Web%A5%B5%A1%BC%A5%D3%A5%B9&quot;&gt;Webサービス&lt;/a&gt;をつくる」。
+それに合わせて&lt;a href=&quot;#%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%BD%E3%83%B3%E3%81%A8%E8%A8%AD%E8%A8%88&quot;&gt;後述のアイデアソン&lt;/a&gt;を通して生まれたのが「お酒酒め」。&lt;/p&gt;
+
+&lt;p&gt;「お酒酒め」(おしゅしゅめ)とは、お酒に詳しくない人に向けて、新しいお酒に出会うことを支援する&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/Web%A5%B5%A1%BC%A5%D3%A5%B9&quot;&gt;Webサービス&lt;/a&gt;。お酒をお勧め(お酒酒め)してくれることから名付けた。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/oshushume.png&quot; alt=&quot;お酒酒めスクリーンショット&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;開発の流れ&quot;&gt;開発の流れ&lt;/h2&gt;
+
+&lt;p&gt;3daysのうち、1日目はア&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%C7%A5%A2&quot;&gt;イデア&lt;/a&gt;ソン、2,3日目は&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%AB%A5%BD%A5%F3&quot;&gt;ハッカソン&lt;/a&gt;を行った。&lt;/p&gt;
+
+&lt;p&gt;チームメンバーは自分を含め4人。フロントエンド、デザイン、データベース、バックエンドを区切りとして役割分割した。自分はフロントエンドとバックエンドを中心に作業した。&lt;/p&gt;
+
+&lt;h3 id=&quot;アイデアソンと設計&quot;&gt;ア&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%C7%A5%A2&quot;&gt;イデア&lt;/a&gt;ソンと設計&lt;/h3&gt;
+
+&lt;p&gt;シチュエーションゲーム&lt;a id=&quot;annotation-from-1&quot; href=&quot;#annotation-to-1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;を元に突飛な文章から「楽しく感じる状況」を探していき、&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%D6%A5%EC%A5%A4%A5%F3%A5%B9%A5%C8%A1%BC%A5%DF%A5%F3%A5%B0&quot;&gt;ブレインストーミング&lt;/a&gt;&lt;a id=&quot;annotation-from-2&quot; href=&quot;#annotation-to-2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;を使ってア&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%C7%A5%A2&quot;&gt;イデア&lt;/a&gt;を膨らませた。その後お題に合わせてターゲットを定めて具体化した。1日目終盤は時間があったのでアプリケーションの設計まで行った。&lt;/p&gt;
+
+&lt;p&gt;設計の際、機能が盛り沢山なことに気づく。もっともコアな機能(お酒を勧める)を残してバッサリと削除することにした。削った機能はお酒の記録や好みの絞り込み等の機能である。この選択にあとで助けられる。&lt;/p&gt;
+
+&lt;h3 id=&quot;ハッカソン---開発&quot;&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%AB%A5%BD%A5%F3&quot;&gt;ハッカソン&lt;/a&gt; - 開発&lt;/h3&gt;
+
+&lt;p&gt;用意されたアプリケーションの土台を基に、2日間で前日に固めたア&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%C7%A5%A2&quot;&gt;イデア&lt;/a&gt;を実装していく。
+2日目に「ユーザーにお酒をおすすめする」ロジックとページ構成の大枠を制作、3日目は細かい所の修正とデザインを詰めた。&lt;/p&gt;
+
+&lt;h3 id=&quot;発表&quot;&gt;発表&lt;/h3&gt;
+
+&lt;p&gt;ア&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%C7%A5%A2&quot;&gt;イデア&lt;/a&gt;とビジネスデザイン、制作したアプリケーションを社員の方の前で発表した。お褒めの言葉をいただくことも、鋭い指摘をいただくこともあった。発表の準備に時間をとることができないながら、発表はそれなりにアプリケーションのことを説明できたと思う。&lt;/p&gt;
+
+&lt;p&gt;他チームの成果発表も聞くことができた。あるチームはページ数の多い構成に果敢に挑んでいたり、あるチームはコンセプトが奇抜だったりWebRTCで映像通信していたりしていた。すごい。盛り上がったなぁ。&lt;/p&gt;
+
+&lt;h2 id=&quot;振り返り&quot;&gt;振り返り&lt;/h2&gt;
+
+&lt;p&gt;結果的に勝つことが出来たのだが、勝因は1日目に機能を絞ったことにあると思う。&lt;/p&gt;
+
+&lt;p&gt;3日間で出来ることは限られている。完成したサービスの機能としては他チームよりもシンプルだったが、機能の豊富さではなく制作した画面の完成度を高めることに注力した。デザインに手をかけたことや、UIの不具合を無くし動作の細かいところ詰めたことなど、この姿勢を評価していただけたようである。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blob.yammer.jp/echoShow5.jpg&quot; alt=&quot;Amazon Echo Show5&quot; /&gt;
+景品で頂いたEcho Show5。&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A1%BC%A5%C8%A5%B9%A5%D4%A1%BC%A5%AB%A1%BC&quot;&gt;スマートスピーカー&lt;/a&gt;を買うタイミングを失っていたのでありがたい。&lt;/p&gt;
+
+&lt;h2 id=&quot;感じたこと&quot;&gt;感じたこと&lt;/h2&gt;
+
+&lt;h3 id=&quot;忙しい&quot;&gt;忙しい&lt;/h3&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%AB%A5%BD%A5%F3&quot;&gt;ハッカソン&lt;/a&gt;は忙しい。時間がない。アプリケーションを短い時間で形にするのは結構大変だった。必要なタスクを絞り込み、限られた時間をどう使うかがとても重要になる。&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%AB%A5%BD%A5%F3&quot;&gt;ハッカソン&lt;/a&gt;=ハック+マ&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%E9%A5%BD%A5%F3&quot;&gt;ラソン&lt;/a&gt;らしいけれど、どちらかというと&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%C3%BB%B5%F7%CE%A5%C1%F6&quot;&gt;短距離走&lt;/a&gt;ではないか？と思った。&lt;/p&gt;
+
+&lt;h3 id=&quot;設計共通認識のポイントを抑える&quot;&gt;設計(共通認識)のポイントを抑える&lt;/h3&gt;
+
+&lt;p&gt;チームで開発する上で、個人で作るときと違い明確にしておかなければならないポイントがいくつかあった。例えば通信仕様や、ページUI等である。今回は常に隣で作業していたから良かったものの、違う環境であったら更に大変であっただろう。実装に没頭していると認識がずれがちなので、時間を区切って進捗報告や相談、認識合わせを挟むことを意識した。&lt;/p&gt;
+
+&lt;h3 id=&quot;チーム開発の良さ&quot;&gt;チーム開発の良さ&lt;/h3&gt;
+
+&lt;p&gt;自分がコード書いてないのに、新しいページが追加されて動いてる。すごい。(小並感)&lt;/p&gt;
+
+&lt;p&gt;並行して作業を行えるだけでなく、設計方針や実装方法で詰まったときにすぐに相談できた。お互いの強みを出しあって開発することで、一人では詰まって時間が取られていただろうポイントをすぐ乗り越えられた気がした。&lt;/p&gt;
+
+&lt;h2 id=&quot;おわりに&quot;&gt;おわりに&lt;/h2&gt;
+
+&lt;p&gt;メンバーとともに議論をしながらアプリケーションをつくるのは、面白いとともに刺激になる機会でした。チームのみんな、ありがとう。&lt;/p&gt;
+
+&lt;p&gt;そしてこのような機会を設けてくださり、開発をフォローしてくださった株式会社セレスの社員の方々、3日間とてもお世話になりました。ありがとうございました。&lt;/p&gt;
+
+&lt;hr class=&quot;gt-article-annotation-horizontalrule&quot;/&gt;
+
+
+
+
+&lt;ul class=&quot;gt-article-annotation-list&quot;&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-1&quot; href=&quot;#annotation-from-1&quot;&gt;^1&lt;/a&gt;: 「いつ」「誰が」「どこで」「何をした」をそれぞれカードに書き、他人のものと混ぜて新しい文章を作るゲームのこと。&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-2&quot; href=&quot;#annotation-from-2&quot;&gt;^2&lt;/a&gt;: チームで沢山のア&lt;a class=&quot;keyword&quot; href=&quot;https://d.hatena.ne.jp/keyword/%A5%A4%A5%C7%A5%A2&quot;&gt;イデア&lt;/a&gt;を出す手法。(&lt;a href=&quot;https://ja.wikipedia.org/wiki/ブレインストーミング&quot;&gt;wikipedia&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <guid>hatenablog://entry/26006613576772422</guid>
+      <pubDate>Tue, 15 Oct 2019 03:15:00 GMT</pubDate>
+      <source>hatena</source>
+    </item>
+    <item>
+      <title>Nuxt.js(v2.9.2)とTypeScriptの開発環境を作る。</title>
+      <link>https://basd4g.hatenablog.com/entry/NuxtTsV292</link>
+      <description>&lt;p&gt;Nuxt.jsとTypeScriptで開発環境を作るときのまとめ。(2019/9/5時点)&lt;/p&gt;
+
+&lt;p&gt;お急ぎの方は、
+記事中の作業を行ったものを&lt;a href=&quot;https://github.com/basd4g/nuxt.ts-template&quot;&gt;nuxt.ts-template&lt;/a&gt;として&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt;の&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA&quot;&gt;リポジトリ&lt;/a&gt;に上げたので、cloneないしForkして使ってほしい。&lt;/p&gt;
+
+&lt;h2&gt;目指すもの&lt;/h2&gt;
+
+&lt;p&gt;create nuxt-app したときと同じ環境で、下記のものが使えること。
+すぐにNuxt.jsとTypeScriptを用いて開発を始められる環境を構築する。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nuxt.js v2.9.2&lt;/li&gt;
+&lt;li&gt;TypeScript&lt;/li&gt;
+&lt;li&gt;ESLint&lt;/li&gt;
+&lt;li&gt;nuxt-property-decorator&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;nuxt-property-decorator (vue-property-decorator)&lt;/h3&gt;
+
+&lt;p&gt;Nuxt.jsとTypeScriptを組み合わせるときは、nuxt-property-decorator(vue-property-decorator)の利用が推奨されている。&lt;a id=&quot;annotation-from-1&quot; href=&quot;#annotation-to-1&quot;&gt;^1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;もともとのNuxt.jsとは書き方が変わる。参考文献にいくつか載せてあるので、もともとの書き方と比較しながら慣れると良さそう。&lt;a id=&quot;annotation-from-2&quot; href=&quot;#annotation-to-2&quot;&gt;^2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;今回は最後にインストールするので、一つ前の&lt;a href=&quot;#3-eslint&quot;&gt;ESLint&lt;/a&gt;までで止まればこれを使わない環境も構築できる。&lt;/p&gt;
+
+&lt;h2&gt;手順&lt;/h2&gt;
+
+&lt;p&gt;大まかには次の流れで進む。
+いくつかハマりどころがあったので、私の環境でうまく行った手順を残しておく。&lt;/p&gt;
+
+&lt;p&gt;(特にESLintに文句を言われることが多く、最初いきあたりばったりで進めていたら沢山のパッケージをインストールしてしまった。
+この記事は、その後不要なものがあまり入らないようにやり直した内容の記録である。)&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;yarn create nuxt-app&lt;/li&gt;
+&lt;li&gt;TypeScriptを入れる&lt;/li&gt;
+&lt;li&gt;vue-property-decoratorを入れる&lt;/li&gt;
+&lt;li&gt;ESLintを入れる&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;1. create nuxt-app&lt;/h3&gt;
+
+&lt;p&gt;Nuxt.jsで環境構築するときにお決まりのcreate-nuxt-app。
+yarnだと、 &lt;code&gt;$ yarn create nuxt-app hogehoge&lt;/code&gt; とする。&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-sh&quot; data-lang=&quot;sh&quot; data-unlink&gt;$ yarn create nuxt-app nuxt.ts-template
+&lt;span class=&quot;synComment&quot;&gt;# yarn create v1.17.3&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# create-nuxt-app v2.10.1&lt;/span&gt;
+
+&lt;span class=&quot;synComment&quot;&gt;# 今回は次のように設定した&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# Project name, Project description, Author name は適宜&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# package manager : Yarn&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# UI framework : None&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# custom server framework : None (Recommended)&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# Nuxt.js modules :&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# test framework : None&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# rendering mode : Universal (SSR)&lt;/span&gt;
+&lt;span class=&quot;synComment&quot;&gt;# development tools :&lt;/span&gt;
+
+$ &lt;span class=&quot;synStatement&quot;&gt;cd&lt;/span&gt; nuxt.ts-template/
+&lt;span class=&quot;synComment&quot;&gt;# 以下全てカレントディレクトリは移動しない。編集するファイル名もnuxt.ts-template/をカレントディレクトリとして表記する。&lt;/span&gt;
+
+$ yarn dev
+&lt;span class=&quot;synComment&quot;&gt;# 起動できることを確認。ブラウザからNuxt.jsのロゴが見えればオーケー。(以下の起動確認も同様。)&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;2. Install TypeScript&lt;/h3&gt;
+
+&lt;p&gt;まず、TypeScriptに関するパッケージをインストールする。&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-sh&quot; data-lang=&quot;sh&quot; data-unlink&gt;$ yarn add &lt;span class=&quot;synSpecial&quot;&gt;-D&lt;/span&gt; @nuxt/typescript-build
+$ yarn add @nuxt/typescript-runtime @nuxt/types
+$ &lt;span class=&quot;synStatement&quot;&gt;mv&lt;/span&gt; nuxt.config.js nuxt.config.ts
+$ &lt;span class=&quot;synStatement&quot;&gt;touch&lt;/span&gt; tsconfig.json
+&lt;/pre&gt;
+
+
+&lt;p&gt;TypeScriptに合わせて以下の設定ファイルを2つ、ソースを3つ書き換える。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;package.json&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;tsconfig.json&lt;/code&gt; (新たに作成)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;nuxt.config.ts&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;index.vue&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Logo.vue&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;code&gt;./package.json&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-diff&quot; data-lang=&quot;diff&quot; data-unlink&gt;...
+   &amp;quot;scripts&amp;quot;: {
+&lt;span class=&quot;synSpecial&quot;&gt;-    &amp;quot;dev&amp;quot;: &amp;quot;nuxt&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;synSpecial&quot;&gt;-    &amp;quot;build&amp;quot;: &amp;quot;nuxt build&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;synSpecial&quot;&gt;-    &amp;quot;start&amp;quot;: &amp;quot;nuxt start&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;synSpecial&quot;&gt;-    &amp;quot;generate&amp;quot;: &amp;quot;nuxt generate&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+    &amp;quot;dev&amp;quot;: &amp;quot;nuxt-ts&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+    &amp;quot;build&amp;quot;: &amp;quot;nuxt-ts build&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+    &amp;quot;start&amp;quot;: &amp;quot;nuxt-ts start&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+    &amp;quot;generate&amp;quot;: &amp;quot;nuxt-ts generate&amp;quot;&lt;/span&gt;
+   },
+...
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;code&gt;./tsconfig.json&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-json&quot; data-lang=&quot;json&quot; data-unlink&gt;&lt;span class=&quot;synSpecial&quot;&gt;{&lt;/span&gt;
+  &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;compilerOptions&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synSpecial&quot;&gt;{&lt;/span&gt;
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;target&lt;/span&gt;&amp;quot;: &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;esnext&lt;/span&gt;&amp;quot;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;module&lt;/span&gt;&amp;quot;: &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;esnext&lt;/span&gt;&amp;quot;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;moduleResolution&lt;/span&gt;&amp;quot;: &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;node&lt;/span&gt;&amp;quot;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;lib&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synSpecial&quot;&gt;[&lt;/span&gt;
+      &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;esnext&lt;/span&gt;&amp;quot;,
+      &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;esnext.asynciterable&lt;/span&gt;&amp;quot;,
+      &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;dom&lt;/span&gt;&amp;quot;
+    &lt;span class=&quot;synSpecial&quot;&gt;]&lt;/span&gt;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;esModuleInterop&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synConstant&quot;&gt;true&lt;/span&gt;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;allowJs&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synConstant&quot;&gt;true&lt;/span&gt;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;sourceMap&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synConstant&quot;&gt;true&lt;/span&gt;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;strict&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synConstant&quot;&gt;true&lt;/span&gt;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;noEmit&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synConstant&quot;&gt;true&lt;/span&gt;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;baseUrl&lt;/span&gt;&amp;quot;: &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;.&lt;/span&gt;&amp;quot;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;paths&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synSpecial&quot;&gt;{&lt;/span&gt;
+      &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;~/*&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synSpecial&quot;&gt;[&lt;/span&gt;
+        &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;./*&lt;/span&gt;&amp;quot;
+      &lt;span class=&quot;synSpecial&quot;&gt;]&lt;/span&gt;,
+      &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;@/*&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synSpecial&quot;&gt;[&lt;/span&gt;
+        &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;./*&lt;/span&gt;&amp;quot;
+      &lt;span class=&quot;synSpecial&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;synSpecial&quot;&gt;}&lt;/span&gt;,
+    &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;types&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synSpecial&quot;&gt;[&lt;/span&gt;
+      &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;@types/node&lt;/span&gt;&amp;quot;,
+      &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;@nuxt/types&lt;/span&gt;&amp;quot;
+    &lt;span class=&quot;synSpecial&quot;&gt;]&lt;/span&gt;
+  &lt;span class=&quot;synSpecial&quot;&gt;}&lt;/span&gt;,
+  &amp;quot;&lt;span class=&quot;synStatement&quot;&gt;exclude&lt;/span&gt;&amp;quot;: &lt;span class=&quot;synSpecial&quot;&gt;[&lt;/span&gt;
+    &amp;quot;&lt;span class=&quot;synConstant&quot;&gt;node_modules&lt;/span&gt;&amp;quot;
+  &lt;span class=&quot;synSpecial&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;synSpecial&quot;&gt;}&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;code&gt;./nuxt.config.ts&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-diff&quot; data-lang=&quot;diff&quot; data-unlink&gt;&lt;span class=&quot;synIdentifier&quot;&gt;+import {Configuration} from &apos;@nuxt/types&apos;&lt;/span&gt;
+
+&lt;span class=&quot;synSpecial&quot;&gt;-export default {&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+const nuxtConfig: Configuration = {&lt;/span&gt;
+...
+  buildModules: [
+&lt;span class=&quot;synIdentifier&quot;&gt;+      &apos;@nuxt/typescript-build&apos;&lt;/span&gt;
+  ],
+...
+}
+&lt;span class=&quot;synIdentifier&quot;&gt;+module.exports = nuxtConfig&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;code&gt;./pages/index.vue&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-diff&quot; data-lang=&quot;diff&quot; data-unlink&gt;&lt;span class=&quot;synSpecial&quot;&gt;-&amp;lt;script&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+&amp;lt;script lang=&amp;quot;ts&amp;quot;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;code&gt;./components/Logo.vue&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-diff&quot; data-lang=&quot;diff&quot; data-unlink&gt;...
+&lt;span class=&quot;synSpecial&quot;&gt;&amp;lt;/template&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+&amp;lt;script lang=&amp;quot;ts&amp;quot;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+import Vue from &apos;vue&apos;&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+export default Vue.extend({  &lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+})&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+&lt;/span&gt;
+&lt;span class=&quot;synSpecial&quot;&gt;&amp;lt;style&amp;gt;&lt;/span&gt;
+...
+&lt;/pre&gt;
+
+
+
+
+&lt;pre class=&quot;code lang-sh&quot; data-lang=&quot;sh&quot; data-unlink&gt;$ yarn dev
+&lt;span class=&quot;synComment&quot;&gt;# TypeScriptで動くことを確認。&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;3. ESlint&lt;/h3&gt;
+
+&lt;p&gt;ESLintと関連パッケージをインストールする。(今回はcreate nuxt-appでESLintをインストールしていないのでESLint自体もここでインストールする。)&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-sh&quot; data-lang=&quot;sh&quot; data-unlink&gt;$ yarn add eslint-config eslint
+$ yarn add &lt;span class=&quot;synSpecial&quot;&gt;-D&lt;/span&gt; @typescript-eslint/eslint-plugin @typescript-eslint/parser @nuxtjs/eslint-config-typescript
+$ &lt;span class=&quot;synStatement&quot;&gt;touch&lt;/span&gt; .eslintrc.js
+&lt;/pre&gt;
+
+
+&lt;p&gt;ESLintの設定を以下の3ファイルに記述する。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;package.json&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;nuxt.config.ts&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;.eslintrc.js&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;code&gt;package.json&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-diff&quot; data-lang=&quot;diff&quot; data-unlink&gt;...
+  &amp;quot;scripts&amp;quot;: {
+    &amp;quot;dev&amp;quot;: &amp;quot;nuxt-ts&amp;quot;,
+    &amp;quot;build&amp;quot;: &amp;quot;nuxt-ts build&amp;quot;,
+    &amp;quot;start&amp;quot;: &amp;quot;nuxt-ts start&amp;quot;,
+&lt;span class=&quot;synSpecial&quot;&gt;-    &amp;quot;generate&amp;quot;: &amp;quot;nuxt-ts generate&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+    &amp;quot;generate&amp;quot;: &amp;quot;nuxt-ts generate&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+    &amp;quot;lint&amp;quot;: &amp;quot;eslint --ext .ts,.js,.vue --ignore-path .gitignore .&amp;quot;,&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+    &amp;quot;lint:fix&amp;quot;: &amp;quot;eslint --ext .ts,.js,.vue --ignore-path .gitignore . --fix&amp;quot;&lt;/span&gt;
+  },
+...
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;code&gt;nuxt.config.ts&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-diff&quot; data-lang=&quot;diff&quot; data-unlink&gt;...
+  build: {
+    /*
+    ** You can extend webpack config here
+    */
+&lt;span class=&quot;synIdentifier&quot;&gt;+    /*&lt;/span&gt;
+    extend (config, ctx) {
+    }
+&lt;span class=&quot;synIdentifier&quot;&gt;+   */&lt;/span&gt;
+...
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;code&gt;.eslintrc.js&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code js&quot; data-lang=&quot;js&quot; data-unlink&gt;module.exports = {
+  plugins: [&amp;#39;@typescript-eslint&amp;#39;],
+  parserOptions: {
+    parser: &amp;#39;@typescript-eslint/parser&amp;#39;
+  },
+  extends: [
+    &amp;#39;@nuxtjs/eslint-config-typescript&amp;#39;
+  ],
+  rules: {
+    &amp;#39;@typescript-eslint/no-unused-vars&amp;#39;: &amp;#39;error&amp;#39;
+  }
+}&lt;/pre&gt;
+
+
+
+
+&lt;pre class=&quot;code lang-sh&quot; data-lang=&quot;sh&quot; data-unlink&gt;$ yarn lint:fix
+$ yarn dev
+&lt;span class=&quot;synComment&quot;&gt;# Lintが動いていることと、変わらず起動できることを確認。&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;4.nuxt-property-decorator&lt;/h3&gt;
+
+&lt;p&gt;nuxt-property-decoratorをインストールする。(vue-property-decoratorでも良いかもしれない。)&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-sh&quot; data-lang=&quot;sh&quot; data-unlink&gt;$ yarn add nuxt-property-decorator
+&lt;/pre&gt;
+
+
+&lt;p&gt;nuxt-property-decoratorに合わせて2ファイルを変更する。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;tsconfig.json&lt;/code&gt; (デコレータの使用を宣言する。)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;index.vue&lt;/code&gt; (デコレータを使った書き方に修正する。)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;code&gt;./tsconfig.json&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-diff&quot; data-lang=&quot;diff&quot; data-unlink&gt;...
+    &amp;quot;compilerOptions&amp;quot;: {
+...
+      &amp;quot;types&amp;quot;: [
+        &amp;quot;@types/node&amp;quot;,
+        &amp;quot;@nuxt/types&amp;quot;
+&lt;span class=&quot;synSpecial&quot;&gt;-      ]&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+      ],&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+      &amp;quot;experimentalDecorators&amp;quot;: true&lt;/span&gt;
+    },
+...
+&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;code&gt;./pages/index.vue&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;code lang-diff&quot; data-lang=&quot;diff&quot; data-unlink&gt;...
+&lt;span class=&quot;synSpecial&quot;&gt;&amp;lt;script lang=&amp;quot;ts&amp;quot;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+import { Component, Vue } from &apos;vue-property-decorator&apos;&lt;/span&gt;
+import Logo from &apos;~/components/Logo.vue&apos;
+
+&lt;span class=&quot;synSpecial&quot;&gt;-export default {&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+@Component({&lt;/span&gt;
+  components: {
+    Logo
+  }
+&lt;span class=&quot;synSpecial&quot;&gt;-}&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+})&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+export default class Index extends Vue {&lt;/span&gt;
+&lt;span class=&quot;synIdentifier&quot;&gt;+}&lt;/span&gt;
+&lt;span class=&quot;synSpecial&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+...
+&lt;/pre&gt;
+
+
+
+
+&lt;pre class=&quot;code lang-sh&quot; data-lang=&quot;sh&quot; data-unlink&gt;$ yarn dev
+&lt;span class=&quot;synComment&quot;&gt;# デコレータを使った表記での起動を確認。&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;お疲れさまでした。&lt;/p&gt;
+
+&lt;h2&gt;参考&lt;/h2&gt;
+
+&lt;p&gt;重要参考文献&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/iwata@github/items/a94c6d116a3e84911628&quot;&gt;Qiita Nuxt.js 2.9でのTypeScript対応&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;typescript.nuxtjs.org/guide/setup.html#installation&quot;&gt;Nuxt TypeScript Setup&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;その他の参考文献&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.nuxtjs.org/guide/installation/&quot;&gt;Nuxt.js インストール&lt;/a&gt; ... yarn create nuxt-app について&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/nuxt/eslint-config&quot;&gt;GitHub eslint-config&lt;/a&gt; ... eslint-configのセットアップ&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://js.studio-kingdom.com/typescript/handbook/decorators&quot;&gt;デコレータ | TypeScript 日本語ハンドブック | js STUDIO&lt;/a&gt; ... &lt;code&gt;experimentalDecorators&lt;/code&gt;について&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/hako1912/items/8d9968d07748d20825f8&quot;&gt;TypeScriptではじめるVueコンポーネント（vue-class-component）&lt;/a&gt;... vue-property-decorator(nuxt-property-decorator)を使った&lt;code&gt;@Component&lt;/code&gt;デコレータの書き方&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://crieit.net/posts/Nuxt-js-Express-TypeScript&quot;&gt;Nuxt.js+ExpressのプロジェクトをTypeScript化する&lt;/a&gt; ... nuxt-property-decoratorを使った&lt;code&gt;@Component&lt;/code&gt;デコレータの書き方&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/simochee/items/e5b77af4aa36bd0f32e5&quot;&gt;はじめてのvue-property-decorator&lt;/a&gt; ... vue-property-decorator(nuxt-property-decorator)を使ったデコレータの書き方&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;hr class=&quot;gt-article-annotation-horizontalrule&quot;/&gt;
+
+
+
+
+&lt;ul class=&quot;gt-article-annotation-list&quot;&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-1&quot; href=&quot;#annotation-from-1&quot;&gt;^1&lt;/a&gt;: &lt;a href=&quot;https://ja.nuxtjs.org/guide/typescript/&quot;&gt;Nuxt.js TypeScriptサポート&lt;/a&gt;に書かれている。(Nuxt.js v2.8までの記述のため、このページの内容のとおりではv2.9.2ではうまく行かない)&lt;/li&gt;
+&lt;li&gt;&lt;a id=&quot;annotation-to-2&quot; href=&quot;#annotation-from-2&quot;&gt;^2&lt;/a&gt;: &lt;a href=&quot;https://github.com/kaorun343/vue-property-decorator&quot;&gt;GitHub vue-property-decorator&lt;/a&gt;に記載がある。&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <guid>hatenablog://entry/26006613576772418</guid>
+      <pubDate>Fri, 27 Sep 2019 03:30:00 GMT</pubDate>
+      <source>hatena</source>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>https://basd4g.hatenablog.com/entry/aboutMe</link>
+      <description>&lt;h2&gt;自己紹介&lt;/h2&gt;
+
+&lt;p&gt;HN: やんまー&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Twitter&quot;&gt;Twitter&lt;/a&gt; &lt;a href=&quot;https://twitter.com/basd4g&quot;&gt;@basd4g&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt; &lt;a href=&quot;https://github.com/basd4g&quot;&gt;@basd4g&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;大学の情報系学科に所属。
+Webに興味があり、主にフロントエンド(Vue.js等)を趣味で触ってる。&lt;/p&gt;
+
+&lt;p&gt;PCに関係ない趣味はス&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%AD%A5%E5%A1%BC%A5%D0&quot;&gt;キューバ&lt;/a&gt;ダイビングで、海が好き。&lt;/p&gt;
+
+&lt;h2&gt;今まで作ったもの&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://basd4g.github.io/PlayQueue&quot;&gt;Play Queue&lt;/a&gt; (音楽再生Webアプリ)&lt;/h3&gt;
+
+&lt;p&gt;音楽の連続再生を目的とした、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Youtube&quot;&gt;Youtube&lt;/a&gt;再生プレイヤー。&lt;/p&gt;
+
+&lt;p&gt;Vue.jsをフロントエンドとして、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Youtube&quot;&gt;Youtube&lt;/a&gt; data v3 &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/API&quot;&gt;API&lt;/a&gt;, &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Youtube&quot;&gt;Youtube&lt;/a&gt; Player &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/API&quot;&gt;API&lt;/a&gt;を利用して&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Youtube&quot;&gt;Youtube&lt;/a&gt;を再生する事ができる。
+アプリケーション内に動的変更に向く独自の再生リストをもち、動画を再生しながらリストを編集できる。&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://github.com/basd4g/text2pdf&quot;&gt;Text2PDF&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;テキストファイルを基にPDFを生成する&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/CUI&quot;&gt;CUI&lt;/a&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%B3%A5%DE%A5%F3%A5%C9%A5%E9%A5%A4%A5%F3&quot;&gt;コマンドライン&lt;/a&gt;ツール。
+Node.jsの標準ライブラリのみを用いてPDFを生成する。&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://fudemoji.me&quot;&gt;筆文字ジェネレータ&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;入力した文字から毛筆で書いたような画像を生成するWebアプリケーション。
+HTML &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Canvas&quot;&gt;Canvas&lt;/a&gt;で動いているのが大部分。 &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/PHP&quot;&gt;PHP&lt;/a&gt;が裏で動いている。&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://github.com/basd4g/green-turtle&quot;&gt;green-turtle&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;このブログに使っている静的サイトジェネレータ。
+Nuxt.jsのgenerateモードを利用して動いている。
+Gitで記事管理が可能な環境を構築した。&lt;/p&gt;
+
+&lt;h2&gt;ブログで書くこと&lt;/h2&gt;
+
+&lt;p&gt;以上の通り&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/JavaScript&quot;&gt;JavaScript&lt;/a&gt;をよく書くので、これに関する内容の記事が多くなると思う。&lt;/p&gt;
+</description>
+      <guid>hatenablog://entry/26006613576772424</guid>
+      <pubDate>Wed, 18 Sep 2019 12:50:00 GMT</pubDate>
+      <source>hatena</source>
+    </item>
+  </channel>
+</rss>
