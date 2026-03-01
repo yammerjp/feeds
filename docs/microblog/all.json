@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/K5YxeVjRym57oU74S9zdVj",
+      "url": "https://usememos.yammer.jp/m/K5YxeVjRym57oU74S9zdVj",
+      "content_text": "買ってきて一回も起動せずにWindowsが消されるminiPCさん",
+      "date_published": "2026-02-28T06:38:14.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/B99aaUYtdKpW4VCVHNtwi2",
       "url": "https://usememos.yammer.jp/m/B99aaUYtdKpW4VCVHNtwi2",
       "content_text": "楽しみなもの: DNS-PERSIST-01",
@@ -867,12 +873,6 @@
       "url": "https://usememos.yammer.jp/m/cd8q3cdhegU3yw5q2EKZ6G",
       "content_text": "8月になってしまった、2025年ははやい",
       "date_published": "2025-07-31T15:02:47.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/aVNv9Y32bDzbc3vSMeUs63",
-      "url": "https://usememos.yammer.jp/m/aVNv9Y32bDzbc3vSMeUs63",
-      "content_text": "AIにコードを出力させるVibe Codingは子供にクレカを使わせるものだ、という比喩いままでクレカを使いにくい環境でも使えるようになったともいえるだろう。https://blog.val.town/vibe-code",
-      "date_published": "2025-07-31T15:00:21.000Z"
     },
     {
       "id": "1946609916946591863",
