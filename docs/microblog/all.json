@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/o3GeZzCFugDTnQtgqiTAqW",
+      "url": "https://usememos.yammer.jp/m/o3GeZzCFugDTnQtgqiTAqW",
+      "content_text": "Claude Codeで捗ったのはあらゆるもののセルフホスト",
+      "date_published": "2026-03-01T16:09:42.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfxvut6sos24",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mfxvut6sos24",
+      "content_text": "え？今日から3月ですか？",
+      "date_published": "2026-03-01T04:32:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/K5YxeVjRym57oU74S9zdVj",
       "url": "https://usememos.yammer.jp/m/K5YxeVjRym57oU74S9zdVj",
       "content_text": "買ってきて一回も起動せずにWindowsが消されるminiPCさん",
@@ -369,12 +381,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mbc54d6utc2s",
       "content_text": "2025年、Claude Codeの年\nhttps://awkblog.net/@yammerjp/posts/35",
       "date_published": "2025-12-31T15:02:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbbhah442k23",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mbbhah442k23",
-      "content_text": "起きてすぐ外に出ないと面倒で夜になってしまう、せっかく今日は昼間ランニング日和だったのに",
-      "date_published": "2025-12-31T08:31:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/m/EXsbtfqz83CroshdHN38D3",
@@ -867,12 +873,6 @@
       "url": "https://usememos.yammer.jp/m/68Hrt5d5KGK3zjQBsLC3m2",
       "content_text": "8月はちゃんと生活する予定だったのに！",
       "date_published": "2025-08-04T15:08:19.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/cd8q3cdhegU3yw5q2EKZ6G",
-      "url": "https://usememos.yammer.jp/m/cd8q3cdhegU3yw5q2EKZ6G",
-      "content_text": "8月になってしまった、2025年ははやい",
-      "date_published": "2025-07-31T15:02:47.000Z"
     },
     {
       "id": "1946609916946591863",

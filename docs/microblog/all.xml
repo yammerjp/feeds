@@ -5,6 +5,22 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>Claude Codeで捗ったのはあらゆるもののセルフホスト</title>
+      <link>https://usememos.yammer.jp/m/o3GeZzCFugDTnQtgqiTAqW</link>
+      <description>Claude Codeで捗ったのはあらゆるもののセルフホスト</description>
+      <guid>https://usememos.yammer.jp/m/o3GeZzCFugDTnQtgqiTAqW</guid>
+      <pubDate>Sun, 01 Mar 2026 16:09:42 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>え？今日から3月ですか？</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mfxvut6sos24</link>
+      <description>え？今日から3月ですか？</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfxvut6sos24</guid>
+      <pubDate>Sun, 01 Mar 2026 04:32:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>買ってきて一回も起動せずにWindowsが消されるminiPCさん</title>
       <link>https://usememos.yammer.jp/m/K5YxeVjRym57oU74S9zdVj</link>
       <description>買ってきて一回も起動せずにWindowsが消されるminiPCさん</description>
@@ -492,14 +508,6 @@ https://awkblog.net/@yammerjp/posts/35</title>
 https://awkblog.net/@yammerjp/posts/35</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbc54d6utc2s</guid>
       <pubDate>Wed, 31 Dec 2025 15:02:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>起きてすぐ外に出ないと面倒で夜になってしまう、せっかく今日は昼間ランニング日和だったのに</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mbbhah442k23</link>
-      <description>起きてすぐ外に出ないと面倒で夜になってしまう、せっかく今日は昼間ランニング日和だったのに</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbbhah442k23</guid>
-      <pubDate>Wed, 31 Dec 2025 08:31:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
     <item>
@@ -1156,14 +1164,6 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <description>8月はちゃんと生活する予定だったのに！</description>
       <guid>https://usememos.yammer.jp/m/68Hrt5d5KGK3zjQBsLC3m2</guid>
       <pubDate>Mon, 04 Aug 2025 15:08:19 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>8月になってしまった、2025年ははやい</title>
-      <link>https://usememos.yammer.jp/m/cd8q3cdhegU3yw5q2EKZ6G</link>
-      <description>8月になってしまった、2025年ははやい</description>
-      <guid>https://usememos.yammer.jp/m/cd8q3cdhegU3yw5q2EKZ6G</guid>
-      <pubDate>Thu, 31 Jul 2025 15:02:47 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
