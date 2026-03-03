@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/mHxGKWS5yPbTELL3vQcrcG",
+      "url": "https://usememos.yammer.jp/m/mHxGKWS5yPbTELL3vQcrcG",
+      "content_text": "使ってないのに4000円を超えてたGoogle Cloudが281円まで戻ってよかった。はて残りはなんじゃ",
+      "date_published": "2026-03-02T13:59:04.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/o3GeZzCFugDTnQtgqiTAqW",
       "url": "https://usememos.yammer.jp/m/o3GeZzCFugDTnQtgqiTAqW",
       "content_text": "Claude Codeで捗ったのはあらゆるもののセルフホスト",
@@ -867,12 +873,6 @@
       "url": "https://usememos.yammer.jp/m/aj3BX9AkpapCk4UgvEb92c",
       "content_text": "自分が覚えていないが他の人が覚えているということが多すぎる！",
       "date_published": "2025-08-05T14:58:53.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/68Hrt5d5KGK3zjQBsLC3m2",
-      "url": "https://usememos.yammer.jp/m/68Hrt5d5KGK3zjQBsLC3m2",
-      "content_text": "8月はちゃんと生活する予定だったのに！",
-      "date_published": "2025-08-04T15:08:19.000Z"
     },
     {
       "id": "1946609916946591863",
