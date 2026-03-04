@@ -5,6 +5,30 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>薪ストーブ、ロマンある</title>
+      <link>https://usememos.yammer.jp/m/gDxDAKoFN6UYDHuvR7A35M</link>
+      <description>薪ストーブ、ロマンある</description>
+      <guid>https://usememos.yammer.jp/m/gDxDAKoFN6UYDHuvR7A35M</guid>
+      <pubDate>Tue, 03 Mar 2026 16:30:29 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>この時間のカタメコイメライス、罪！</title>
+      <link>https://usememos.yammer.jp/m/EPay4sCXA3qonyj5Twsjjg</link>
+      <description>この時間のカタメコイメライス、罪！</description>
+      <guid>https://usememos.yammer.jp/m/EPay4sCXA3qonyj5Twsjjg</guid>
+      <pubDate>Tue, 03 Mar 2026 15:57:23 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>人間だけが書く側だとアンバランスってことだが、もうだんだんそうじゃなくなっているというのはそうかも。世の流れは思ったより早い。既存のコードベースが、みたいな話も、人間が変更するぐらいの理想的な大きさ </title>
+      <link>https://usememos.yammer.jp/m/mR67v3RKHH9Yy5NpJB4iUa</link>
+      <description>人間だけが書く側だとアンバランスってことだが、もうだんだんそうじゃなくなっているというのはそうかも。世の流れは思ったより早い。既存のコードベースが、みたいな話も、人間が変更するぐらいの理想的な大きさ (PRの差分でいうとfile changesが数個とか) であればよくて、もうそろそろそれも出来ちゃうという感じかもしれない。新しく作るのと既存の変更であれば、作るだけの方が簡単であるから、そういうふうに寄せていくというのはあるだろう。その意味で既存のコードベースがという話だと、素朴にやってたら完全にCI/デプロイがボトルネックになっちゃうね。DBを抜いてアプリケーションロジックを固めるようにする、それってクリーンアーキテクチャじゃんhttps://www.latent.space/p/reviews-dead</description>
+      <guid>https://usememos.yammer.jp/m/mR67v3RKHH9Yy5NpJB4iUa</guid>
+      <pubDate>Tue, 03 Mar 2026 15:11:21 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>使ってないのに4000円を超えてたGoogle Cloudが281円まで戻ってよかった。はて残りはなんじゃ</title>
       <link>https://usememos.yammer.jp/m/mHxGKWS5yPbTELL3vQcrcG</link>
       <description>使ってないのに4000円を超えてたGoogle Cloudが281円まで戻ってよかった。はて残りはなんじゃ</description>
@@ -1141,30 +1165,6 @@ https://awkblog.net/@yammerjp/posts/35</description>
       <guid>1953110751763415107</guid>
       <pubDate>Wed, 06 Aug 2025 15:07:44 GMT</pubDate>
       <source>twitter</source>
-    </item>
-    <item>
-      <title>ラーゲリより愛を込めて、すっきり終わるのが良かったというのをネタバレになるから言わずに終わった</title>
-      <link>https://usememos.yammer.jp/m/TvV5yniG9iKELTXqCDTFUf</link>
-      <description>ラーゲリより愛を込めて、すっきり終わるのが良かったというのをネタバレになるから言わずに終わった</description>
-      <guid>https://usememos.yammer.jp/m/TvV5yniG9iKELTXqCDTFUf</guid>
-      <pubDate>Tue, 05 Aug 2025 15:30:23 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>フラフラするぐらい酔うのは久々だが、そうなることをあんまり覚えていないので、記録することは大事</title>
-      <link>https://usememos.yammer.jp/m/PwymG3Qnxg9XnwGTFZCYDb</link>
-      <description>フラフラするぐらい酔うのは久々だが、そうなることをあんまり覚えていないので、記録することは大事</description>
-      <guid>https://usememos.yammer.jp/m/PwymG3Qnxg9XnwGTFZCYDb</guid>
-      <pubDate>Tue, 05 Aug 2025 15:28:55 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>自分が覚えていないが他の人が覚えているということが多すぎる！</title>
-      <link>https://usememos.yammer.jp/m/aj3BX9AkpapCk4UgvEb92c</link>
-      <description>自分が覚えていないが他の人が覚えているということが多すぎる！</description>
-      <guid>https://usememos.yammer.jp/m/aj3BX9AkpapCk4UgvEb92c</guid>
-      <pubDate>Tue, 05 Aug 2025 14:58:53 GMT</pubDate>
-      <source>memos</source>
     </item>
     <item>
       <title>awkを褒めてくれてありがとう
