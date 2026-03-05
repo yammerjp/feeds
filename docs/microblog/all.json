@@ -5,6 +5,24 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/YXCRXuEXoZdjEK39Jkvuvh",
+      "url": "https://usememos.yammer.jp/m/YXCRXuEXoZdjEK39Jkvuvh",
+      "content_text": "責任という言葉、あんまり意味がないなあと思って好きじゃなかったが、責任を取ることとは、発生した問題にアクションして収束させることという解釈とすると自分にとって納得感あるかもなあ。責任といっても、自分が負えないような責任は振ってくることが幸か不幸か起こり得ない",
+      "date_published": "2026-03-04T08:21:42.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/288QRKBw6nBmAe9dJ2U6Fz",
+      "url": "https://usememos.yammer.jp/m/288QRKBw6nBmAe9dJ2U6Fz",
+      "content_text": "AIによってソフトウェア開発の残念な労働集約の貞操が剥がれることを期待したいね",
+      "date_published": "2026-03-04T08:19:13.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/7XL5pEbC79mU8XJnDruAKt",
+      "url": "https://usememos.yammer.jp/m/7XL5pEbC79mU8XJnDruAKt",
+      "content_text": "https://www.latent.space/p/reviews-dead昨日読んだこの記事をもとに、我々のソフトウェア開発のボトルネックについて思い直した。記事の内容は、ざっくりとレビューを人間がしていたらボトルネックになる(し別に人間も全てに対してうまくレビューできているわけではない)というような感じのもの。私が思う課題感は以下の三つで、それぞれの問題を解消していかないとAIを使った開発のスピードをうまく活かすことは難しいのではと思うレビューのプロセスを構造化できているかそもそもレビューで即座に確認可能な変更になっているか (たとえば数百行あるようなコードなんて、大抵の場合即座なレビューは不可能)レビューで即座に確認可能な変更になるぐらい変更を小さくできるようなリリースパイプラインが作れているかあんまり別にAI関係なくなってきたな。とはいえ、記事の言っている通り、漸進的な変更を積み重ねて変えていくところよりも前に、その全体像を意思決定していく必要はあって、人間の意思決定ポイントが前に動いていくのはそれはそうだなとは思う",
+      "date_published": "2026-03-04T07:58:17.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/gDxDAKoFN6UYDHuvR7A35M",
       "url": "https://usememos.yammer.jp/m/gDxDAKoFN6UYDHuvR7A35M",
       "content_text": "薪ストーブ、ロマンある",
@@ -849,24 +867,6 @@
       "url": "https://usememos.yammer.jp/m/9L4zNnFfnp2Na2L8w3kfbD",
       "content_text": "牛尾さんのディープコードリーディング、本人もバズを意識して書かれておられるのだろうと思うけど、単にコードを読みましょう、と言う話を読みやすく書いてくれている。ソフトウェアは単に動けばいいんじゃなくて、最初からそこにあったかのように構造を変更し続ける、ということをやるには、思ったよりも無関係に思える全体を知らなきゃいけない、そうやっておくと、あたかも最初からそこにあったかのような自然なコードが書けるので、読み手も何をやっているかわかる、という話なのだと思う",
       "date_published": "2025-08-16T00:31:31.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/ckvtCHpLNvU3Ezj4zFase7",
-      "url": "https://usememos.yammer.jp/m/ckvtCHpLNvU3Ezj4zFase7",
-      "content_text": "作ることで得られるフィードバック、と言う話のまた一段さらなるフィードバック(というか一体化) というはなしだったhttps://open.spotify.com/episode/5p7LxrSl1GBmG1QPQ1jiHK?si=fV2MOkxFRsaRpjIzewP3Tg",
-      "date_published": "2025-08-12T15:21:37.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/Nu5eeoF9oqZ35bPyc4UjKQ",
-      "url": "https://usememos.yammer.jp/m/Nu5eeoF9oqZ35bPyc4UjKQ",
-      "content_text": "jan.ai、気づいたらMCPきてそう",
-      "date_published": "2025-08-11T04:28:06.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/kzXfqHj8WwrvoQaXT7ivMU",
-      "url": "https://usememos.yammer.jp/m/kzXfqHj8WwrvoQaXT7ivMU",
-      "content_text": "Luupも埋まっているし時間なさすぎてタクシー乗ったらむしろ時間かかって残念。都内交通弱者..",
-      "date_published": "2025-08-09T03:06:03.000Z"
     },
     {
       "id": "1953110751763415107",
