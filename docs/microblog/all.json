@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/J3vgsBZjnsRU7fkiwoFcwQ",
+      "url": "https://usememos.yammer.jp/m/J3vgsBZjnsRU7fkiwoFcwQ",
+      "content_text": "やり始めたことではなく、できたことで数える",
+      "date_published": "2026-03-05T01:46:32.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/YXCRXuEXoZdjEK39Jkvuvh",
       "url": "https://usememos.yammer.jp/m/YXCRXuEXoZdjEK39Jkvuvh",
       "content_text": "責任という言葉、あんまり意味がないなあと思って好きじゃなかったが、責任を取ることとは、発生した問題にアクションして収束させることという解釈とすると自分にとって納得感あるかもなあ。責任といっても、自分が負えないような責任は振ってくることが幸か不幸か起こり得ない",
@@ -861,12 +867,6 @@
       "url": "https://usememos.yammer.jp/m/7eHgKND2jLfcVrLzHu6uv7",
       "content_text": "休み中に寝過ぎて、朝この時間でもまだ起動しない体になってしまっておる",
       "date_published": "2025-08-16T00:32:06.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/9L4zNnFfnp2Na2L8w3kfbD",
-      "url": "https://usememos.yammer.jp/m/9L4zNnFfnp2Na2L8w3kfbD",
-      "content_text": "牛尾さんのディープコードリーディング、本人もバズを意識して書かれておられるのだろうと思うけど、単にコードを読みましょう、と言う話を読みやすく書いてくれている。ソフトウェアは単に動けばいいんじゃなくて、最初からそこにあったかのように構造を変更し続ける、ということをやるには、思ったよりも無関係に思える全体を知らなきゃいけない、そうやっておくと、あたかも最初からそこにあったかのような自然なコードが書けるので、読み手も何をやっているかわかる、という話なのだと思う",
-      "date_published": "2025-08-16T00:31:31.000Z"
     },
     {
       "id": "1953110751763415107",
