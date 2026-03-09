@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/dSbvf3t8fd7mPdKzSfZxAG",
+      "url": "https://usememos.yammer.jp/m/dSbvf3t8fd7mPdKzSfZxAG",
+      "content_text": "適当なことが言えるのは、解像度が低いからなのかもしれない",
+      "date_published": "2026-03-08T02:44:58.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/UrknEckFuoSNB6pd2e9w2P",
       "url": "https://usememos.yammer.jp/m/UrknEckFuoSNB6pd2e9w2P",
       "content_text": "情報の非対称性によって成立していたバランスが崩れていくなかで、新しいいいバランスを見つけていかないといけない最中なのである",
@@ -855,12 +861,6 @@
       "url": "https://usememos.yammer.jp/m/X942J5X7xPuaMvVLPUGTLH",
       "content_text": "基本情報技術者試験を受けるというプログラマーではない友達が、オブジェクト指向プログラミングのトピックを学ぶ機会があるという話をしていて、結構大変だなというのを知った。オブジェクト指向プログラミングのコアな概念が何か、これは大揉めする話題だが、大きくはカプセル化おポリモーフィズムだっただろうとしてここでは雑に話を進める。データと制御構造をセットにして扱いたいことがというのがカプセル化、違うものを同じように扱えるというのがポリモーフィズムみたいなことを思っていた時に https://open.spotify.com/episode/3V89qcWQGMFx4YQZO2jjW7?si=k56kVnEFQuGzVjVMe5zkNQ が流れて来たので聞いた。オブジェクト指向プログラミングとGUIプログラミングは切っても切り離せない話題であるというのに触れるのがわかりやすさに大事だというのがなるほどなとなった。データと制御構造をセットにして扱いたいというのは、ウィンドウを例にして、各ウィンドウが状態も処理ももつ、違うものを同じように扱いたいというのは、たとえばアラートウィンドウもそうでないものも同じようにドラッグしたり閉じたりしたい、みたいな比喩で上手く伝えられないだろうかと思考してみている",
       "date_published": "2025-08-20T23:35:01.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/BjpWAiVLzZ3aLafgSqgcNv",
-      "url": "https://usememos.yammer.jp/m/BjpWAiVLzZ3aLafgSqgcNv",
-      "content_text": "Misreading Podcastというのに出会い、 エピソード107 を聴きはじめたが、落ち着いた声で聴きやすくて、おもしろい",
-      "date_published": "2025-08-19T23:34:12.000Z"
     },
     {
       "id": "1956657157182829020",
