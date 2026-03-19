@@ -5,6 +5,24 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/nmaCfcWUAJAsmmby68UDfZ",
+      "url": "https://usememos.yammer.jp/m/nmaCfcWUAJAsmmby68UDfZ",
+      "content_text": "なんかまたダメな気がする、バファリンきいたかも",
+      "date_published": "2026-03-18T11:07:47.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/m/jbHjycdvNcy2Vr5woxrLLX",
+      "url": "https://usememos.yammer.jp/m/jbHjycdvNcy2Vr5woxrLLX",
+      "content_text": "昨日、超体調悪かった気がするが、なぜか治ったな",
+      "date_published": "2026-03-17T13:23:31.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mhb2xnjpbk2h",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mhb2xnjpbk2h",
+      "content_text": "あ、クレカ切り替えでもしかしてVPSぜんぶとんだか",
+      "date_published": "2026-03-17T13:22:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/YCx8LNtpP4pETfw3Wpg9GY",
       "url": "https://usememos.yammer.jp/m/YCx8LNtpP4pETfw3Wpg9GY",
       "content_text": "ランニングしようと思ったがその分もプラス2時間ぐらい寝た",
@@ -443,12 +461,6 @@
       "date_published": "2026-01-02T13:10:28.000Z"
     },
     {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbdqt7lgjs2x",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mbdqt7lgjs2x",
-      "content_text": "ちかくの神社、15分ぐらいかなぁと思って並んだけどぜんぜんそんなことなかった。1時間弱並んでいるがまだ列がある",
-      "date_published": "2026-01-01T06:28:00.000Z"
-    },
-    {
       "id": "https://usememos.yammer.jp/m/T6PDjWrKrHuspxuVBTfa9D",
       "url": "https://usememos.yammer.jp/m/T6PDjWrKrHuspxuVBTfa9D",
       "content_text": "ふーんなるほどねhttps://git-wrapped.com/profiles/yammerjp",
@@ -813,18 +825,6 @@
       "url": "https://usememos.yammer.jp/m/4TLXnSenKf4GrfDNqdSx3N",
       "content_text": "最高の夏",
       "date_published": "2025-09-19T15:06:29.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/DCGv4hS42mzBK7NufK8Ndw",
-      "url": "https://usememos.yammer.jp/m/DCGv4hS42mzBK7NufK8Ndw",
-      "content_text": "情熱プログラマーの「1番下手なやつでいよう」は、1番下手であることかどうかより、自分が1番下手だと思えるか、そしてそれを受け止められるかなのだろうと思う",
-      "date_published": "2025-09-19T14:57:41.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/RJxEbEX4no6vZDbLTM3zPB",
-      "url": "https://usememos.yammer.jp/m/RJxEbEX4no6vZDbLTM3zPB",
-      "content_text": "飲み過ぎ！",
-      "date_published": "2025-09-19T14:42:09.000Z"
     },
     {
       "id": "1965629816197316864",
