@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>ダイソー閉まってしまったのでいついこうかな</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mkpmj4gzu227</link>
+      <description>ダイソー閉まってしまったのでいついこうかな</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mkpmj4gzu227</guid>
+      <pubDate>Thu, 30 Apr 2026 12:29:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>退勤後に本買いに行こうと思ってたがわすれていた</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mkkntofkd22x</link>
       <description>退勤後に本買いに行こうと思ってたがわすれていた</description>
@@ -779,14 +787,6 @@
       <guid>https://usememos.yammer.jp/m/ETY8SgYSiL26C38Pph9GUN</guid>
       <pubDate>Wed, 07 Jan 2026 23:22:33 GMT</pubDate>
       <source>memos</source>
-    </item>
-    <item>
-      <title>日記アプリ、つくりながら日々書きたいけど、expoのdevelopment buildだとサーバが動いていないとダメなのがつらいな</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mbr5cx4aa22u</link>
-      <description>日記アプリ、つくりながら日々書きたいけど、expoのdevelopment buildだとサーバが動いていないとダメなのがつらいな</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbr5cx4aa22u</guid>
-      <pubDate>Tue, 06 Jan 2026 14:16:00 GMT</pubDate>
-      <source>bluesky</source>
     </item>
     <item>
       <title>今日は結構混んでいるな、ドリンクも席も</title>

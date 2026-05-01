@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mkpmj4gzu227",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mkpmj4gzu227",
+      "content_text": "ダイソー閉まってしまったのでいついこうかな",
+      "date_published": "2026-04-30T12:29:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mkkntofkd22x",
       "url": "https://bsky.app/profile/yammer.jp/post/3mkkntofkd22x",
       "content_text": "退勤後に本買いに行こうと思ってたがわすれていた",
@@ -585,12 +591,6 @@
       "url": "https://usememos.yammer.jp/m/ETY8SgYSiL26C38Pph9GUN",
       "content_text": "1週間を通じて少しずつ早くなっている。まだ余地がありそう",
       "date_published": "2026-01-07T23:22:33.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbr5cx4aa22u",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mbr5cx4aa22u",
-      "content_text": "日記アプリ、つくりながら日々書きたいけど、expoのdevelopment buildだとサーバが動いていないとダメなのがつらいな",
-      "date_published": "2026-01-06T14:16:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/m/kgmixt34JLSXSaon3673Nw",
