@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/U7trwAdzHp77Y9TzPhbiPo",
+      "url": "https://usememos.yammer.jp/m/U7trwAdzHp77Y9TzPhbiPo",
+      "content_text": "東京、想像していたよりもずっと自転車で暮らしやすい",
+      "date_published": "2026-05-01T09:19:29.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mkpmj4gzu227",
       "url": "https://bsky.app/profile/yammer.jp/post/3mkpmj4gzu227",
       "content_text": "ダイソー閉まってしまったのでいついこうかな",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/m/Vk6S7UdehBTMZnkvLWTvdc",
       "content_text": "手の次は足",
       "date_published": "2025-10-24T00:22:33.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/kDXkhTvCp7a3zjgmLszUQo",
-      "url": "https://usememos.yammer.jp/m/kDXkhTvCp7a3zjgmLszUQo",
-      "content_text": "令和7年でも、通行人カウントは人の仕事",
-      "date_published": "2025-10-21T00:23:35.000Z"
     }
   ]
 }
