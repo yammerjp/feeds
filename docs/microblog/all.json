@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/m/C4qMMUvg3PzTpimk2muFLd",
+      "url": "https://usememos.yammer.jp/m/C4qMMUvg3PzTpimk2muFLd",
+      "content_text": "これがゴールデンウィーク！サイクルキャリアをつけたことで外すのが面倒でずっと洗車していなかったが、流石に汚すぎるので洗いにきた。気持ちいね！そしてキャリアを外すのが大変すぎるし家に置く場所がない",
+      "date_published": "2026-05-03T07:10:24.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/m/U7trwAdzHp77Y9TzPhbiPo",
       "url": "https://usememos.yammer.jp/m/U7trwAdzHp77Y9TzPhbiPo",
       "content_text": "東京、想像していたよりもずっと自転車で暮らしやすい",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/m/5xb7sMFYRxShsLWgj8GiaE",
       "content_text": "江南、この時間でも車の交通量が多いし人も繁華街の路地とかではなく大通りに結構歩いている人がいたりする",
       "date_published": "2025-10-24T16:33:28.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/m/Vk6S7UdehBTMZnkvLWTvdc",
-      "url": "https://usememos.yammer.jp/m/Vk6S7UdehBTMZnkvLWTvdc",
-      "content_text": "手の次は足",
-      "date_published": "2025-10-24T00:22:33.000Z"
     }
   ]
 }
