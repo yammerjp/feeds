@@ -5,18 +5,31 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
-      <title>これがゴールデンウィーク！サイクルキャリアをつけたことで外すのが面倒でずっと洗車していなかったが、流石に汚すぎるので洗いにきた。気持ちいね！そしてキャリアを外すのが大変すぎるし家に置く場所がない</title>
-      <link>https://usememos.yammer.jp/m/C4qMMUvg3PzTpimk2muFLd</link>
-      <description>これがゴールデンウィーク！サイクルキャリアをつけたことで外すのが面倒でずっと洗車していなかったが、流石に汚すぎるので洗いにきた。気持ちいね！そしてキャリアを外すのが大変すぎるし家に置く場所がない</description>
-      <guid>https://usememos.yammer.jp/m/C4qMMUvg3PzTpimk2muFLd</guid>
+      <title>最初はRailsアプリでHerokuに置いていたこの場所は実は2021年末ぐらいから存在したのな
+Heroku → Cloud Run + LiteStream → usememosにしてVPS上のD</title>
+      <link>https://usememos.yammer.jp/memos/7ZcqhmjPexaZB33zv8UDnQ</link>
+      <description>最初はRailsアプリでHerokuに置いていたこの場所は実は2021年末ぐらいから存在したのな
+Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose→家のk3sクラスタときて、今日VPSのk3sクラスタに移行した。公開用と非公開用でクラスタを二個に分けることにして、公開用は大したスペックがなくてもいいので経路もシンプルに直接VPSに載せてしまうことに。
+個人でさわるぐらいのレベルであれば、インスタンスのセットアップから構成管理からクラスタ上のmanifestを書くところまで、Claude Codeにちょいと指示を出せばささっとやり切ってくれてしまう、いい時代になったとも思うし恐ろしい時代になったとも思う</description>
+      <guid>https://usememos.yammer.jp/memos/7ZcqhmjPexaZB33zv8UDnQ</guid>
+      <pubDate>Mon, 04 May 2026 09:26:53 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>これがゴールデンウィーク！
+サイクルキャリアをつけたことで外すのが面倒でずっと洗車していなかったが、流石に汚すぎるので洗いにきた。気持ちいね！そしてキャリアを外すのが大変すぎるし家に置く場所がない</title>
+      <link>https://usememos.yammer.jp/memos/C4qMMUvg3PzTpimk2muFLd</link>
+      <description>これがゴールデンウィーク！
+サイクルキャリアをつけたことで外すのが面倒でずっと洗車していなかったが、流石に汚すぎるので洗いにきた。気持ちいね！そしてキャリアを外すのが大変すぎるし家に置く場所がない</description>
+      <guid>https://usememos.yammer.jp/memos/C4qMMUvg3PzTpimk2muFLd</guid>
       <pubDate>Sun, 03 May 2026 07:10:24 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>東京、想像していたよりもずっと自転車で暮らしやすい</title>
-      <link>https://usememos.yammer.jp/m/U7trwAdzHp77Y9TzPhbiPo</link>
+      <link>https://usememos.yammer.jp/memos/U7trwAdzHp77Y9TzPhbiPo</link>
       <description>東京、想像していたよりもずっと自転車で暮らしやすい</description>
-      <guid>https://usememos.yammer.jp/m/U7trwAdzHp77Y9TzPhbiPo</guid>
+      <guid>https://usememos.yammer.jp/memos/U7trwAdzHp77Y9TzPhbiPo</guid>
       <pubDate>Fri, 01 May 2026 09:19:29 GMT</pubDate>
       <source>memos</source>
     </item>
@@ -38,41 +51,41 @@
     </item>
     <item>
       <title>起床</title>
-      <link>https://usememos.yammer.jp/m/GuX9BMptyuAWxFJkHScMhx</link>
+      <link>https://usememos.yammer.jp/memos/GuX9BMptyuAWxFJkHScMhx</link>
       <description>起床</description>
-      <guid>https://usememos.yammer.jp/m/GuX9BMptyuAWxFJkHScMhx</guid>
+      <guid>https://usememos.yammer.jp/memos/GuX9BMptyuAWxFJkHScMhx</guid>
       <pubDate>Mon, 27 Apr 2026 19:03:32 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>朝は土砂降りなのにこの天気の変わりよう、めちゃ晴れてる</title>
-      <link>https://usememos.yammer.jp/m/M7BDW4WfdCG8wcnYy5oZsg</link>
+      <link>https://usememos.yammer.jp/memos/M7BDW4WfdCG8wcnYy5oZsg</link>
       <description>朝は土砂降りなのにこの天気の変わりよう、めちゃ晴れてる</description>
-      <guid>https://usememos.yammer.jp/m/M7BDW4WfdCG8wcnYy5oZsg</guid>
+      <guid>https://usememos.yammer.jp/memos/M7BDW4WfdCG8wcnYy5oZsg</guid>
       <pubDate>Mon, 27 Apr 2026 04:11:46 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>夜でもまだ頭が若干違和感ある</title>
-      <link>https://usememos.yammer.jp/m/ThEv7JjpYpahcFt26yoHqb</link>
+      <link>https://usememos.yammer.jp/memos/ThEv7JjpYpahcFt26yoHqb</link>
       <description>夜でもまだ頭が若干違和感ある</description>
-      <guid>https://usememos.yammer.jp/m/ThEv7JjpYpahcFt26yoHqb</guid>
+      <guid>https://usememos.yammer.jp/memos/ThEv7JjpYpahcFt26yoHqb</guid>
       <pubDate>Fri, 24 Apr 2026 13:22:02 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>終電を逃してしまったよ、5回目ぐらいだろうか</title>
-      <link>https://usememos.yammer.jp/m/iGZvR72VPD4tDyzpPbjPBg</link>
+      <link>https://usememos.yammer.jp/memos/iGZvR72VPD4tDyzpPbjPBg</link>
       <description>終電を逃してしまったよ、5回目ぐらいだろうか</description>
-      <guid>https://usememos.yammer.jp/m/iGZvR72VPD4tDyzpPbjPBg</guid>
+      <guid>https://usememos.yammer.jp/memos/iGZvR72VPD4tDyzpPbjPBg</guid>
       <pubDate>Thu, 23 Apr 2026 15:14:56 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>tokaiさんにおすすめしていただいて刈穂を飲んだが、スキッとしてして意外と飲みやすい</title>
-      <link>https://usememos.yammer.jp/m/Z8LTZiP3oa4ZXgfSYoX2yz</link>
+      <link>https://usememos.yammer.jp/memos/Z8LTZiP3oa4ZXgfSYoX2yz</link>
       <description>tokaiさんにおすすめしていただいて刈穂を飲んだが、スキッとしてして意外と飲みやすい</description>
-      <guid>https://usememos.yammer.jp/m/Z8LTZiP3oa4ZXgfSYoX2yz</guid>
+      <guid>https://usememos.yammer.jp/memos/Z8LTZiP3oa4ZXgfSYoX2yz</guid>
       <pubDate>Thu, 23 Apr 2026 14:02:56 GMT</pubDate>
       <source>memos</source>
     </item>
@@ -86,9 +99,9 @@
     </item>
     <item>
       <title>みんなRaycastかAlfredつかってる、Spotlightのままなの私だけ</title>
-      <link>https://usememos.yammer.jp/m/KkKX9LkcsHqqyGdYtaQcaz</link>
+      <link>https://usememos.yammer.jp/memos/KkKX9LkcsHqqyGdYtaQcaz</link>
       <description>みんなRaycastかAlfredつかってる、Spotlightのままなの私だけ</description>
-      <guid>https://usememos.yammer.jp/m/KkKX9LkcsHqqyGdYtaQcaz</guid>
+      <guid>https://usememos.yammer.jp/memos/KkKX9LkcsHqqyGdYtaQcaz</guid>
       <pubDate>Tue, 21 Apr 2026 04:21:05 GMT</pubDate>
       <source>memos</source>
     </item>
@@ -102,185 +115,190 @@
     </item>
     <item>
       <title>年末年始休みにVibe Codingしたアプリを公開した。世の中に広めるためというよりも、自分のデバイスで使うためにpublish。今はいいけど、Apple Developer登録をどれくらい長く続け</title>
-      <link>https://usememos.yammer.jp/m/TMDBYoaHRWdCtMeJwK47dh</link>
+      <link>https://usememos.yammer.jp/memos/TMDBYoaHRWdCtMeJwK47dh</link>
       <description>年末年始休みにVibe Codingしたアプリを公開した。世の中に広めるためというよりも、自分のデバイスで使うためにpublish。今はいいけど、Apple Developer登録をどれくらい長く続けるかはわからぬしなとも思う。でもクライアントアプリとしてもReact NativeのVibe Codingされたコードベースとしてもそんなに長い持続可能性をイメージしてもしゃあないか。そのためにデータをGitHubにMarkdownを置いているのだから</description>
-      <guid>https://usememos.yammer.jp/m/TMDBYoaHRWdCtMeJwK47dh</guid>
+      <guid>https://usememos.yammer.jp/memos/TMDBYoaHRWdCtMeJwK47dh</guid>
       <pubDate>Tue, 21 Apr 2026 00:43:56 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>今日はだいぶ眠いので寝る</title>
-      <link>https://usememos.yammer.jp/m/6uvr7PswfQdKAZsvTpAu28</link>
+      <link>https://usememos.yammer.jp/memos/6uvr7PswfQdKAZsvTpAu28</link>
       <description>今日はだいぶ眠いので寝る</description>
-      <guid>https://usememos.yammer.jp/m/6uvr7PswfQdKAZsvTpAu28</guid>
+      <guid>https://usememos.yammer.jp/memos/6uvr7PswfQdKAZsvTpAu28</guid>
       <pubDate>Mon, 20 Apr 2026 13:10:32 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>YoutubeとInstagramの謎の映像で時間を消化しないことが幸福への道</title>
-      <link>https://usememos.yammer.jp/m/mzunRFMwqUzRYa9ZPUQ2eD</link>
+      <link>https://usememos.yammer.jp/memos/mzunRFMwqUzRYa9ZPUQ2eD</link>
       <description>YoutubeとInstagramの謎の映像で時間を消化しないことが幸福への道</description>
-      <guid>https://usememos.yammer.jp/m/mzunRFMwqUzRYa9ZPUQ2eD</guid>
+      <guid>https://usememos.yammer.jp/memos/mzunRFMwqUzRYa9ZPUQ2eD</guid>
       <pubDate>Mon, 20 Apr 2026 12:32:27 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>今日からPCのIMEをAzookey on macOSにしてみて、それに合わせてiPhoneもAzookeyに戻してみた。macOSデフォルトのかな漢字変換はだいぶ残念だったので大変快適。iPhone</title>
-      <link>https://usememos.yammer.jp/m/gvsoeZP9DcgNwQchm3o6f3</link>
+      <link>https://usememos.yammer.jp/memos/gvsoeZP9DcgNwQchm3o6f3</link>
       <description>今日からPCのIMEをAzookey on macOSにしてみて、それに合わせてiPhoneもAzookeyに戻してみた。macOSデフォルトのかな漢字変換はだいぶ残念だったので大変快適。iPhoneのライブ変換を有効にしてみているが、これはまだ慣れない。Zenzaiを低で有効にしてみているが、iPhone16 Plusで素早く打つと少し変換が間に合ってない感じがあるかな。</description>
-      <guid>https://usememos.yammer.jp/m/gvsoeZP9DcgNwQchm3o6f3</guid>
+      <guid>https://usememos.yammer.jp/memos/gvsoeZP9DcgNwQchm3o6f3</guid>
       <pubDate>Mon, 20 Apr 2026 12:31:48 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>オンライン診療、素晴らしく快適。花粉症の薬を取り戻したので、これで酸欠から帰ってこれる</title>
-      <link>https://usememos.yammer.jp/m/gQnwqJ5VxjNMgqGyzAg924</link>
+      <link>https://usememos.yammer.jp/memos/gQnwqJ5VxjNMgqGyzAg924</link>
       <description>オンライン診療、素晴らしく快適。花粉症の薬を取り戻したので、これで酸欠から帰ってこれる</description>
-      <guid>https://usememos.yammer.jp/m/gQnwqJ5VxjNMgqGyzAg924</guid>
+      <guid>https://usememos.yammer.jp/memos/gQnwqJ5VxjNMgqGyzAg924</guid>
       <pubDate>Mon, 20 Apr 2026 12:28:46 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>登山用のヘッドランプ買いたい、何がいいかなあ。</title>
-      <link>https://usememos.yammer.jp/m/NfjkBWSacKsX7yEkGtWpQu</link>
+      <link>https://usememos.yammer.jp/memos/NfjkBWSacKsX7yEkGtWpQu</link>
       <description>登山用のヘッドランプ買いたい、何がいいかなあ。</description>
-      <guid>https://usememos.yammer.jp/m/NfjkBWSacKsX7yEkGtWpQu</guid>
+      <guid>https://usememos.yammer.jp/memos/NfjkBWSacKsX7yEkGtWpQu</guid>
       <pubDate>Sun, 19 Apr 2026 13:36:45 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>そういえばローカルLLMけっこういいかもと金曜夜に触っていたが、他の人のマシンで実行してもらうためにはどう作るといいかなとちょい悩み。と思ったが、別にそこそこのスペックのあるマシンじゃないと動かないか</title>
-      <link>https://usememos.yammer.jp/m/3v2anTkWUibXpFQWU5GX4o</link>
+      <link>https://usememos.yammer.jp/memos/3v2anTkWUibXpFQWU5GX4o</link>
       <description>そういえばローカルLLMけっこういいかもと金曜夜に触っていたが、他の人のマシンで実行してもらうためにはどう作るといいかなとちょい悩み。と思ったが、別にそこそこのスペックのあるマシンじゃないと動かないからあんまり考えなくてもいいか。</description>
-      <guid>https://usememos.yammer.jp/m/3v2anTkWUibXpFQWU5GX4o</guid>
+      <guid>https://usememos.yammer.jp/memos/3v2anTkWUibXpFQWU5GX4o</guid>
       <pubDate>Sun, 19 Apr 2026 13:36:09 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
-      <title>iOSの日記アプリ、ストア審査通過したのに公開せずにプレビューを使い続けていたら期限が切れてしまった。そこに書けないのでここにとりあえず書いておく。昨日は相模湖ちかくでキャンプし、今日は宮ヶ瀬湖を自転</title>
-      <link>https://usememos.yammer.jp/m/Ep6JFU5D5X2cVzsjWBAofW</link>
-      <description>iOSの日記アプリ、ストア審査通過したのに公開せずにプレビューを使い続けていたら期限が切れてしまった。そこに書けないのでここにとりあえず書いておく。昨日は相模湖ちかくでキャンプし、今日は宮ヶ瀬湖を自転車で一周。夕方は家に帰ってからもう一走りということで、皇居と東京タワー、霞ヶ関の辺りを自転車で回ってきた。昨日の夜はけっこうはやめに寝たが、電話がかかってきておきてからは2時間ぐらい寝付けずだった。家にあるバーベキュー台は焚き火台にもなるもので、今回薪を買ってやったのでそれは結構良かったが、毎度のことだがバーベキューの油を洗うのが大変。網ではなくスキレットやフライパン的なものなど、油の落ちないやつがいいのかも。夜になって急に鼻が詰まってしまった。寝るのに支障が出るくらい。これはなんじゃー。</description>
-      <guid>https://usememos.yammer.jp/m/Ep6JFU5D5X2cVzsjWBAofW</guid>
+      <title>iOSの日記アプリ、ストア審査通過したのに公開せずにプレビューを使い続けていたら期限が切れてしまった。そこに書けないのでここにとりあえず書いておく。
+昨日は相模湖ちかくでキャンプし、今日は宮ヶ瀬湖を自</title>
+      <link>https://usememos.yammer.jp/memos/Ep6JFU5D5X2cVzsjWBAofW</link>
+      <description>iOSの日記アプリ、ストア審査通過したのに公開せずにプレビューを使い続けていたら期限が切れてしまった。そこに書けないのでここにとりあえず書いておく。
+昨日は相模湖ちかくでキャンプし、今日は宮ヶ瀬湖を自転車で一周。夕方は家に帰ってからもう一走りということで、皇居と東京タワー、霞ヶ関の辺りを自転車で回ってきた。
+昨日の夜はけっこうはやめに寝たが、電話がかかってきておきてからは2時間ぐらい寝付けずだった。
+家にあるバーベキュー台は焚き火台にもなるもので、今回薪を買ってやったのでそれは結構良かったが、毎度のことだがバーベキューの油を洗うのが大変。網ではなくスキレットやフライパン的なものなど、油の落ちないやつがいいのかも。
+夜になって急に鼻が詰まってしまった。寝るのに支障が出るくらい。これはなんじゃー。</description>
+      <guid>https://usememos.yammer.jp/memos/Ep6JFU5D5X2cVzsjWBAofW</guid>
       <pubDate>Sun, 19 Apr 2026 13:32:44 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>昨日夜2700mおよいで、最後飛び込んだ瞬間につった足が今もちょっと違和感。水分が全然足りてなかったなあ</title>
-      <link>https://usememos.yammer.jp/m/kByyaLiMtihK76CfPU6aJp</link>
+      <link>https://usememos.yammer.jp/memos/kByyaLiMtihK76CfPU6aJp</link>
       <description>昨日夜2700mおよいで、最後飛び込んだ瞬間につった足が今もちょっと違和感。水分が全然足りてなかったなあ</description>
-      <guid>https://usememos.yammer.jp/m/kByyaLiMtihK76CfPU6aJp</guid>
+      <guid>https://usememos.yammer.jp/memos/kByyaLiMtihK76CfPU6aJp</guid>
       <pubDate>Fri, 17 Apr 2026 01:03:58 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>OpenClawだClaudeCodeだVPSで全部詰め込めみたいな感じあったけど、VPSは契約更新できずに全部吹っ飛んだし家のサーバもコンテキストがAIによって散らかってどこにあるか探すみたいになる</title>
-      <link>https://usememos.yammer.jp/m/SgcG8BhPtSiMezK9z3pTnB</link>
+      <link>https://usememos.yammer.jp/memos/SgcG8BhPtSiMezK9z3pTnB</link>
       <description>OpenClawだClaudeCodeだVPSで全部詰め込めみたいな感じあったけど、VPSは契約更新できずに全部吹っ飛んだし家のサーバもコンテキストがAIによって散らかってどこにあるか探すみたいになるから、結局状態を持ちたくないという気持ちになった。ステートレスさいこう！安価に高集積できるという意味でレンサバが最強なのではないか</description>
-      <guid>https://usememos.yammer.jp/m/SgcG8BhPtSiMezK9z3pTnB</guid>
+      <guid>https://usememos.yammer.jp/memos/SgcG8BhPtSiMezK9z3pTnB</guid>
       <pubDate>Tue, 14 Apr 2026 13:27:55 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>腹痛、結構頻度が上がっているような気もする。腸活ソリューションを！</title>
-      <link>https://usememos.yammer.jp/m/6EFH5jMTQSMWDejQ73T8t6</link>
+      <link>https://usememos.yammer.jp/memos/6EFH5jMTQSMWDejQ73T8t6</link>
       <description>腹痛、結構頻度が上がっているような気もする。腸活ソリューションを！</description>
-      <guid>https://usememos.yammer.jp/m/6EFH5jMTQSMWDejQ73T8t6</guid>
+      <guid>https://usememos.yammer.jp/memos/6EFH5jMTQSMWDejQ73T8t6</guid>
       <pubDate>Tue, 14 Apr 2026 00:04:24 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>置き配じゃない荷物、共働きで受け取るのが不可能</title>
-      <link>https://usememos.yammer.jp/m/8Cvi4xbb4ASJ76MDoToevU</link>
+      <link>https://usememos.yammer.jp/memos/8Cvi4xbb4ASJ76MDoToevU</link>
       <description>置き配じゃない荷物、共働きで受け取るのが不可能</description>
-      <guid>https://usememos.yammer.jp/m/8Cvi4xbb4ASJ76MDoToevU</guid>
+      <guid>https://usememos.yammer.jp/memos/8Cvi4xbb4ASJ76MDoToevU</guid>
       <pubDate>Fri, 10 Apr 2026 01:31:29 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>AIの出力をちゃんと読まないのは時間効率のためだと思っていたが、自分の考えたいことにとどまって、引っ張られないためなのだということに気づいた。これさえも今だけのためのものかも知れないが</title>
-      <link>https://usememos.yammer.jp/m/QQUXZdHNHK7Fz4LpvMsG34</link>
+      <link>https://usememos.yammer.jp/memos/QQUXZdHNHK7Fz4LpvMsG34</link>
       <description>AIの出力をちゃんと読まないのは時間効率のためだと思っていたが、自分の考えたいことにとどまって、引っ張られないためなのだということに気づいた。これさえも今だけのためのものかも知れないが</description>
-      <guid>https://usememos.yammer.jp/m/QQUXZdHNHK7Fz4LpvMsG34</guid>
+      <guid>https://usememos.yammer.jp/memos/QQUXZdHNHK7Fz4LpvMsG34</guid>
       <pubDate>Fri, 03 Apr 2026 14:27:01 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>Bunでバンバンbundleしたかった</title>
-      <link>https://usememos.yammer.jp/m/evDZhkhHCrKB5f29CPpNzR</link>
+      <link>https://usememos.yammer.jp/memos/evDZhkhHCrKB5f29CPpNzR</link>
       <description>Bunでバンバンbundleしたかった</description>
-      <guid>https://usememos.yammer.jp/m/evDZhkhHCrKB5f29CPpNzR</guid>
+      <guid>https://usememos.yammer.jp/memos/evDZhkhHCrKB5f29CPpNzR</guid>
       <pubDate>Wed, 01 Apr 2026 14:36:53 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>乗り間違えに乗り間違えを重ねてしまった</title>
-      <link>https://usememos.yammer.jp/m/TwRek7EZpUgWyJ3QEkctRy</link>
+      <link>https://usememos.yammer.jp/memos/TwRek7EZpUgWyJ3QEkctRy</link>
       <description>乗り間違えに乗り間違えを重ねてしまった</description>
-      <guid>https://usememos.yammer.jp/m/TwRek7EZpUgWyJ3QEkctRy</guid>
+      <guid>https://usememos.yammer.jp/memos/TwRek7EZpUgWyJ3QEkctRy</guid>
       <pubDate>Wed, 01 Apr 2026 01:26:59 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>電車乗り間違え</title>
-      <link>https://usememos.yammer.jp/m/jnJT63ayzA4Gqib3AhexpT</link>
+      <link>https://usememos.yammer.jp/memos/jnJT63ayzA4Gqib3AhexpT</link>
       <description>電車乗り間違え</description>
-      <guid>https://usememos.yammer.jp/m/jnJT63ayzA4Gqib3AhexpT</guid>
+      <guid>https://usememos.yammer.jp/memos/jnJT63ayzA4Gqib3AhexpT</guid>
       <pubDate>Wed, 01 Apr 2026 01:23:21 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>結構腹痛</title>
-      <link>https://usememos.yammer.jp/m/3mPD29xdu6zCnSo45QSkG6</link>
+      <link>https://usememos.yammer.jp/memos/3mPD29xdu6zCnSo45QSkG6</link>
       <description>結構腹痛</description>
-      <guid>https://usememos.yammer.jp/m/3mPD29xdu6zCnSo45QSkG6</guid>
+      <guid>https://usememos.yammer.jp/memos/3mPD29xdu6zCnSo45QSkG6</guid>
       <pubDate>Fri, 27 Mar 2026 02:46:28 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>疲れてしまわないようにほどほどにチャージしながら運転するってのが社会人というものだ、エネルギーはカタメコイメライス</title>
-      <link>https://usememos.yammer.jp/m/PcEEY5aEQgq6GEugWReYrn</link>
+      <link>https://usememos.yammer.jp/memos/PcEEY5aEQgq6GEugWReYrn</link>
       <description>疲れてしまわないようにほどほどにチャージしながら運転するってのが社会人というものだ、エネルギーはカタメコイメライス</description>
-      <guid>https://usememos.yammer.jp/m/PcEEY5aEQgq6GEugWReYrn</guid>
+      <guid>https://usememos.yammer.jp/memos/PcEEY5aEQgq6GEugWReYrn</guid>
       <pubDate>Wed, 25 Mar 2026 15:37:27 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>BUMPを最近追えていなかったが、 https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV?si=lI6EhCuCQumlw_ueY7JhIw をき</title>
-      <link>https://usememos.yammer.jp/m/YEQhcgrqfibqpAAWAVC2bg</link>
+      <link>https://usememos.yammer.jp/memos/YEQhcgrqfibqpAAWAVC2bg</link>
       <description>BUMPを最近追えていなかったが、 https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV?si=lI6EhCuCQumlw_ueY7JhIw をきいてエモくなってしまった</description>
-      <guid>https://usememos.yammer.jp/m/YEQhcgrqfibqpAAWAVC2bg</guid>
+      <guid>https://usememos.yammer.jp/memos/YEQhcgrqfibqpAAWAVC2bg</guid>
       <pubDate>Wed, 25 Mar 2026 15:15:39 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>PD、とても強力な目覚まし。ダラダラ寝るよりいいのかも！？</title>
-      <link>https://usememos.yammer.jp/m/cnbgXZjPecPjhMFqe8dZRZ</link>
+      <link>https://usememos.yammer.jp/memos/cnbgXZjPecPjhMFqe8dZRZ</link>
       <description>PD、とても強力な目覚まし。ダラダラ寝るよりいいのかも！？</description>
-      <guid>https://usememos.yammer.jp/m/cnbgXZjPecPjhMFqe8dZRZ</guid>
+      <guid>https://usememos.yammer.jp/memos/cnbgXZjPecPjhMFqe8dZRZ</guid>
       <pubDate>Wed, 25 Mar 2026 15:15:03 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>遅めに起きてばかりだと日記に書かれている</title>
-      <link>https://usememos.yammer.jp/m/JvMEHkLL6AymTVT5S8JoiL</link>
+      <link>https://usememos.yammer.jp/memos/JvMEHkLL6AymTVT5S8JoiL</link>
       <description>遅めに起きてばかりだと日記に書かれている</description>
-      <guid>https://usememos.yammer.jp/m/JvMEHkLL6AymTVT5S8JoiL</guid>
+      <guid>https://usememos.yammer.jp/memos/JvMEHkLL6AymTVT5S8JoiL</guid>
       <pubDate>Wed, 25 Mar 2026 15:14:31 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>なんかまたダメな気がする、バファリンきいたかも</title>
-      <link>https://usememos.yammer.jp/m/nmaCfcWUAJAsmmby68UDfZ</link>
+      <link>https://usememos.yammer.jp/memos/nmaCfcWUAJAsmmby68UDfZ</link>
       <description>なんかまたダメな気がする、バファリンきいたかも</description>
-      <guid>https://usememos.yammer.jp/m/nmaCfcWUAJAsmmby68UDfZ</guid>
+      <guid>https://usememos.yammer.jp/memos/nmaCfcWUAJAsmmby68UDfZ</guid>
       <pubDate>Wed, 18 Mar 2026 11:07:47 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>昨日、超体調悪かった気がするが、なぜか治ったな</title>
-      <link>https://usememos.yammer.jp/m/jbHjycdvNcy2Vr5woxrLLX</link>
+      <link>https://usememos.yammer.jp/memos/jbHjycdvNcy2Vr5woxrLLX</link>
       <description>昨日、超体調悪かった気がするが、なぜか治ったな</description>
-      <guid>https://usememos.yammer.jp/m/jbHjycdvNcy2Vr5woxrLLX</guid>
+      <guid>https://usememos.yammer.jp/memos/jbHjycdvNcy2Vr5woxrLLX</guid>
       <pubDate>Tue, 17 Mar 2026 13:23:31 GMT</pubDate>
       <source>memos</source>
     </item>
@@ -294,49 +312,49 @@
     </item>
     <item>
       <title>ランニングしようと思ったがその分もプラス2時間ぐらい寝た</title>
-      <link>https://usememos.yammer.jp/m/YCx8LNtpP4pETfw3Wpg9GY</link>
+      <link>https://usememos.yammer.jp/memos/YCx8LNtpP4pETfw3Wpg9GY</link>
       <description>ランニングしようと思ったがその分もプラス2時間ぐらい寝た</description>
-      <guid>https://usememos.yammer.jp/m/YCx8LNtpP4pETfw3Wpg9GY</guid>
+      <guid>https://usememos.yammer.jp/memos/YCx8LNtpP4pETfw3Wpg9GY</guid>
       <pubDate>Tue, 10 Mar 2026 01:23:56 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>寝て回復</title>
-      <link>https://usememos.yammer.jp/m/UtBEgLFhk5uf4VZQv5WaGq</link>
+      <link>https://usememos.yammer.jp/memos/UtBEgLFhk5uf4VZQv5WaGq</link>
       <description>寝て回復</description>
-      <guid>https://usememos.yammer.jp/m/UtBEgLFhk5uf4VZQv5WaGq</guid>
+      <guid>https://usememos.yammer.jp/memos/UtBEgLFhk5uf4VZQv5WaGq</guid>
       <pubDate>Tue, 10 Mar 2026 01:23:20 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>今日はたくさん寝るぞ！</title>
-      <link>https://usememos.yammer.jp/m/FHXRDpj9UvPJJ67FB8pH6n</link>
+      <link>https://usememos.yammer.jp/memos/FHXRDpj9UvPJJ67FB8pH6n</link>
       <description>今日はたくさん寝るぞ！</description>
-      <guid>https://usememos.yammer.jp/m/FHXRDpj9UvPJJ67FB8pH6n</guid>
+      <guid>https://usememos.yammer.jp/memos/FHXRDpj9UvPJJ67FB8pH6n</guid>
       <pubDate>Mon, 09 Mar 2026 13:53:09 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>https://nyosegawa.github.io/posts/harness-engineering-best-practices-2026/#%E9%80%B2%E6%8D%97%E8%A8%</title>
-      <link>https://usememos.yammer.jp/m/W62fY7DG5hBdcEvDByFzRg</link>
+      <link>https://usememos.yammer.jp/memos/W62fY7DG5hBdcEvDByFzRg</link>
       <description>https://nyosegawa.github.io/posts/harness-engineering-best-practices-2026/#%E9%80%B2%E6%8D%97%E8%A8%98%E9%8C%B2%E3%81%ABjson%E3%82%92%E4%BD%BF%E3%81%86 を読んでいたが、進捗をJSONにするのは某ツールのようだなと。あと https://hurl.dev/ が結構良さそうだった</description>
-      <guid>https://usememos.yammer.jp/m/W62fY7DG5hBdcEvDByFzRg</guid>
+      <guid>https://usememos.yammer.jp/memos/W62fY7DG5hBdcEvDByFzRg</guid>
       <pubDate>Mon, 09 Mar 2026 13:53:04 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>適当なことが言えるのは、解像度が低いからなのかもしれない</title>
-      <link>https://usememos.yammer.jp/m/dSbvf3t8fd7mPdKzSfZxAG</link>
+      <link>https://usememos.yammer.jp/memos/dSbvf3t8fd7mPdKzSfZxAG</link>
       <description>適当なことが言えるのは、解像度が低いからなのかもしれない</description>
-      <guid>https://usememos.yammer.jp/m/dSbvf3t8fd7mPdKzSfZxAG</guid>
+      <guid>https://usememos.yammer.jp/memos/dSbvf3t8fd7mPdKzSfZxAG</guid>
       <pubDate>Sun, 08 Mar 2026 02:44:58 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>情報の非対称性によって成立していたバランスが崩れていくなかで、新しいいいバランスを見つけていかないといけない最中なのである</title>
-      <link>https://usememos.yammer.jp/m/UrknEckFuoSNB6pd2e9w2P</link>
+      <link>https://usememos.yammer.jp/memos/UrknEckFuoSNB6pd2e9w2P</link>
       <description>情報の非対称性によって成立していたバランスが崩れていくなかで、新しいいいバランスを見つけていかないといけない最中なのである</description>
-      <guid>https://usememos.yammer.jp/m/UrknEckFuoSNB6pd2e9w2P</guid>
+      <guid>https://usememos.yammer.jp/memos/UrknEckFuoSNB6pd2e9w2P</guid>
       <pubDate>Fri, 06 Mar 2026 14:22:48 GMT</pubDate>
       <source>memos</source>
     </item>
@@ -358,81 +376,95 @@
     </item>
     <item>
       <title>釣り記事や釣りタイトルを見て不快に思うとき、苛立っていてもしょうがないのでそのような徘徊をしている自分がわるいということにする</title>
-      <link>https://usememos.yammer.jp/m/6znnBPnj6GXx6YpRhGAFGc</link>
+      <link>https://usememos.yammer.jp/memos/6znnBPnj6GXx6YpRhGAFGc</link>
       <description>釣り記事や釣りタイトルを見て不快に思うとき、苛立っていてもしょうがないのでそのような徘徊をしている自分がわるいということにする</description>
-      <guid>https://usememos.yammer.jp/m/6znnBPnj6GXx6YpRhGAFGc</guid>
+      <guid>https://usememos.yammer.jp/memos/6znnBPnj6GXx6YpRhGAFGc</guid>
       <pubDate>Fri, 06 Mar 2026 04:54:04 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>やり始めたことではなく、できたことで数える</title>
-      <link>https://usememos.yammer.jp/m/J3vgsBZjnsRU7fkiwoFcwQ</link>
+      <link>https://usememos.yammer.jp/memos/J3vgsBZjnsRU7fkiwoFcwQ</link>
       <description>やり始めたことではなく、できたことで数える</description>
-      <guid>https://usememos.yammer.jp/m/J3vgsBZjnsRU7fkiwoFcwQ</guid>
+      <guid>https://usememos.yammer.jp/memos/J3vgsBZjnsRU7fkiwoFcwQ</guid>
       <pubDate>Thu, 05 Mar 2026 01:46:32 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>責任という言葉、あんまり意味がないなあと思って好きじゃなかったが、責任を取ることとは、発生した問題にアクションして収束させることという解釈とすると自分にとって納得感あるかもなあ。責任といっても、自分が</title>
-      <link>https://usememos.yammer.jp/m/YXCRXuEXoZdjEK39Jkvuvh</link>
+      <link>https://usememos.yammer.jp/memos/YXCRXuEXoZdjEK39Jkvuvh</link>
       <description>責任という言葉、あんまり意味がないなあと思って好きじゃなかったが、責任を取ることとは、発生した問題にアクションして収束させることという解釈とすると自分にとって納得感あるかもなあ。責任といっても、自分が負えないような責任は振ってくることが幸か不幸か起こり得ない</description>
-      <guid>https://usememos.yammer.jp/m/YXCRXuEXoZdjEK39Jkvuvh</guid>
+      <guid>https://usememos.yammer.jp/memos/YXCRXuEXoZdjEK39Jkvuvh</guid>
       <pubDate>Wed, 04 Mar 2026 08:21:42 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>AIによってソフトウェア開発の残念な労働集約の貞操が剥がれることを期待したいね</title>
-      <link>https://usememos.yammer.jp/m/288QRKBw6nBmAe9dJ2U6Fz</link>
+      <link>https://usememos.yammer.jp/memos/288QRKBw6nBmAe9dJ2U6Fz</link>
       <description>AIによってソフトウェア開発の残念な労働集約の貞操が剥がれることを期待したいね</description>
-      <guid>https://usememos.yammer.jp/m/288QRKBw6nBmAe9dJ2U6Fz</guid>
+      <guid>https://usememos.yammer.jp/memos/288QRKBw6nBmAe9dJ2U6Fz</guid>
       <pubDate>Wed, 04 Mar 2026 08:19:13 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
-      <title>https://www.latent.space/p/reviews-dead昨日読んだこの記事をもとに、我々のソフトウェア開発のボトルネックについて思い直した。記事の内容は、ざっくりとレビューを人間</title>
-      <link>https://usememos.yammer.jp/m/7XL5pEbC79mU8XJnDruAKt</link>
-      <description>https://www.latent.space/p/reviews-dead昨日読んだこの記事をもとに、我々のソフトウェア開発のボトルネックについて思い直した。記事の内容は、ざっくりとレビューを人間がしていたらボトルネックになる(し別に人間も全てに対してうまくレビューできているわけではない)というような感じのもの。私が思う課題感は以下の三つで、それぞれの問題を解消していかないとAIを使った開発のスピードをうまく活かすことは難しいのではと思うレビューのプロセスを構造化できているかそもそもレビューで即座に確認可能な変更になっているか (たとえば数百行あるようなコードなんて、大抵の場合即座なレビューは不可能)レビューで即座に確認可能な変更になるぐらい変更を小さくできるようなリリースパイプラインが作れているかあんまり別にAI関係なくなってきたな。とはいえ、記事の言っている通り、漸進的な変更を積み重ねて変えていくところよりも前に、その全体像を意思決定していく必要はあって、人間の意思決定ポイントが前に動いていくのはそれはそうだなとは思う</description>
-      <guid>https://usememos.yammer.jp/m/7XL5pEbC79mU8XJnDruAKt</guid>
+      <title>https://www.latent.space/p/reviews-dead
+昨日読んだこの記事をもとに、我々のソフトウェア開発のボトルネックについて思い直した。記事の内容は、ざっくりとレビューを人</title>
+      <link>https://usememos.yammer.jp/memos/7XL5pEbC79mU8XJnDruAKt</link>
+      <description>https://www.latent.space/p/reviews-dead
+昨日読んだこの記事をもとに、我々のソフトウェア開発のボトルネックについて思い直した。記事の内容は、ざっくりとレビューを人間がしていたらボトルネックになる(し別に人間も全てに対してうまくレビューできているわけではない)というような感じのもの。
+私が思う課題感は以下の三つで、それぞれの問題を解消していかないとAIを使った開発のスピードをうまく活かすことは難しいのではと思う
+
+レビューのプロセスを構造化できているか
+そもそもレビューで即座に確認可能な変更になっているか (たとえば数百行あるようなコードなんて、大抵の場合即座なレビューは不可能)
+レビューで即座に確認可能な変更になるぐらい変更を小さくできるようなリリースパイプラインが作れているか
+
+あんまり別にAI関係なくなってきたな。とはいえ、記事の言っている通り、漸進的な変更を積み重ねて変えていくところよりも前に、その全体像を意思決定していく必要はあって、人間の意思決定ポイントが前に動いていくのはそれはそうだなとは思う</description>
+      <guid>https://usememos.yammer.jp/memos/7XL5pEbC79mU8XJnDruAKt</guid>
       <pubDate>Wed, 04 Mar 2026 07:58:17 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>薪ストーブ、ロマンある</title>
-      <link>https://usememos.yammer.jp/m/gDxDAKoFN6UYDHuvR7A35M</link>
+      <link>https://usememos.yammer.jp/memos/gDxDAKoFN6UYDHuvR7A35M</link>
       <description>薪ストーブ、ロマンある</description>
-      <guid>https://usememos.yammer.jp/m/gDxDAKoFN6UYDHuvR7A35M</guid>
+      <guid>https://usememos.yammer.jp/memos/gDxDAKoFN6UYDHuvR7A35M</guid>
       <pubDate>Tue, 03 Mar 2026 16:30:29 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>この時間のカタメコイメライス、罪！</title>
-      <link>https://usememos.yammer.jp/m/EPay4sCXA3qonyj5Twsjjg</link>
+      <link>https://usememos.yammer.jp/memos/EPay4sCXA3qonyj5Twsjjg</link>
       <description>この時間のカタメコイメライス、罪！</description>
-      <guid>https://usememos.yammer.jp/m/EPay4sCXA3qonyj5Twsjjg</guid>
+      <guid>https://usememos.yammer.jp/memos/EPay4sCXA3qonyj5Twsjjg</guid>
       <pubDate>Tue, 03 Mar 2026 15:57:23 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
-      <title>人間だけが書く側だとアンバランスってことだが、もうだんだんそうじゃなくなっているというのはそうかも。世の流れは思ったより早い。既存のコードベースが、みたいな話も、人間が変更するぐらいの理想的な大きさ </title>
-      <link>https://usememos.yammer.jp/m/mR67v3RKHH9Yy5NpJB4iUa</link>
-      <description>人間だけが書く側だとアンバランスってことだが、もうだんだんそうじゃなくなっているというのはそうかも。世の流れは思ったより早い。既存のコードベースが、みたいな話も、人間が変更するぐらいの理想的な大きさ (PRの差分でいうとfile changesが数個とか) であればよくて、もうそろそろそれも出来ちゃうという感じかもしれない。新しく作るのと既存の変更であれば、作るだけの方が簡単であるから、そういうふうに寄せていくというのはあるだろう。その意味で既存のコードベースがという話だと、素朴にやってたら完全にCI/デプロイがボトルネックになっちゃうね。DBを抜いてアプリケーションロジックを固めるようにする、それってクリーンアーキテクチャじゃんhttps://www.latent.space/p/reviews-dead</description>
-      <guid>https://usememos.yammer.jp/m/mR67v3RKHH9Yy5NpJB4iUa</guid>
+      <title>人間だけが書く側だとアンバランスってことだが、もうだんだんそうじゃなくなっているというのはそうかも。世の流れは思ったより早い。
+既存のコードベースが、みたいな話も、人間が変更するぐらいの理想的な大きさ</title>
+      <link>https://usememos.yammer.jp/memos/mR67v3RKHH9Yy5NpJB4iUa</link>
+      <description>人間だけが書く側だとアンバランスってことだが、もうだんだんそうじゃなくなっているというのはそうかも。世の流れは思ったより早い。
+既存のコードベースが、みたいな話も、人間が変更するぐらいの理想的な大きさ (PRの差分でいうとfile changesが数個とか) であればよくて、もうそろそろそれも出来ちゃうという感じかもしれない。
+新しく作るのと既存の変更であれば、作るだけの方が簡単であるから、そういうふうに寄せていくというのはあるだろう。
+その意味で既存のコードベースがという話だと、素朴にやってたら完全にCI/デプロイがボトルネックになっちゃうね。DBを抜いてアプリケーションロジックを固めるようにする、それってクリーンアーキテクチャじゃん
+https://www.latent.space/p/reviews-dead</description>
+      <guid>https://usememos.yammer.jp/memos/mR67v3RKHH9Yy5NpJB4iUa</guid>
       <pubDate>Tue, 03 Mar 2026 15:11:21 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>使ってないのに4000円を超えてたGoogle Cloudが281円まで戻ってよかった。はて残りはなんじゃ</title>
-      <link>https://usememos.yammer.jp/m/mHxGKWS5yPbTELL3vQcrcG</link>
+      <link>https://usememos.yammer.jp/memos/mHxGKWS5yPbTELL3vQcrcG</link>
       <description>使ってないのに4000円を超えてたGoogle Cloudが281円まで戻ってよかった。はて残りはなんじゃ</description>
-      <guid>https://usememos.yammer.jp/m/mHxGKWS5yPbTELL3vQcrcG</guid>
+      <guid>https://usememos.yammer.jp/memos/mHxGKWS5yPbTELL3vQcrcG</guid>
       <pubDate>Mon, 02 Mar 2026 13:59:04 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>Claude Codeで捗ったのはあらゆるもののセルフホスト</title>
-      <link>https://usememos.yammer.jp/m/o3GeZzCFugDTnQtgqiTAqW</link>
+      <link>https://usememos.yammer.jp/memos/o3GeZzCFugDTnQtgqiTAqW</link>
       <description>Claude Codeで捗ったのはあらゆるもののセルフホスト</description>
-      <guid>https://usememos.yammer.jp/m/o3GeZzCFugDTnQtgqiTAqW</guid>
+      <guid>https://usememos.yammer.jp/memos/o3GeZzCFugDTnQtgqiTAqW</guid>
       <pubDate>Sun, 01 Mar 2026 16:09:42 GMT</pubDate>
       <source>memos</source>
     </item>
@@ -446,49 +478,49 @@
     </item>
     <item>
       <title>買ってきて一回も起動せずにWindowsが消されるminiPCさん</title>
-      <link>https://usememos.yammer.jp/m/K5YxeVjRym57oU74S9zdVj</link>
+      <link>https://usememos.yammer.jp/memos/K5YxeVjRym57oU74S9zdVj</link>
       <description>買ってきて一回も起動せずにWindowsが消されるminiPCさん</description>
-      <guid>https://usememos.yammer.jp/m/K5YxeVjRym57oU74S9zdVj</guid>
+      <guid>https://usememos.yammer.jp/memos/K5YxeVjRym57oU74S9zdVj</guid>
       <pubDate>Sat, 28 Feb 2026 06:38:14 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>楽しみなもの: DNS-PERSIST-01</title>
-      <link>https://usememos.yammer.jp/m/B99aaUYtdKpW4VCVHNtwi2</link>
+      <link>https://usememos.yammer.jp/memos/B99aaUYtdKpW4VCVHNtwi2</link>
       <description>楽しみなもの: DNS-PERSIST-01</description>
-      <guid>https://usememos.yammer.jp/m/B99aaUYtdKpW4VCVHNtwi2</guid>
+      <guid>https://usememos.yammer.jp/memos/B99aaUYtdKpW4VCVHNtwi2</guid>
       <pubDate>Fri, 27 Feb 2026 16:12:48 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>我が家のOpenClawさんの様子</title>
-      <link>https://usememos.yammer.jp/m/3bTPm9qCY4QwyvLRtRerWM</link>
+      <link>https://usememos.yammer.jp/memos/3bTPm9qCY4QwyvLRtRerWM</link>
       <description>我が家のOpenClawさんの様子</description>
-      <guid>https://usememos.yammer.jp/m/3bTPm9qCY4QwyvLRtRerWM</guid>
+      <guid>https://usememos.yammer.jp/memos/3bTPm9qCY4QwyvLRtRerWM</guid>
       <pubDate>Fri, 27 Feb 2026 13:42:54 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>LLMによって、ソフトウェアエンジニアリングにおける特殊性を求められていた領域がだんだん狭まって、ビジネスパーソンぽさのある仕事がふえてくるのかなあ、どうだろうか</title>
-      <link>https://usememos.yammer.jp/m/Y98KpFkVpqkoMDBZWqkp5z</link>
+      <link>https://usememos.yammer.jp/memos/Y98KpFkVpqkoMDBZWqkp5z</link>
       <description>LLMによって、ソフトウェアエンジニアリングにおける特殊性を求められていた領域がだんだん狭まって、ビジネスパーソンぽさのある仕事がふえてくるのかなあ、どうだろうか</description>
-      <guid>https://usememos.yammer.jp/m/Y98KpFkVpqkoMDBZWqkp5z</guid>
+      <guid>https://usememos.yammer.jp/memos/Y98KpFkVpqkoMDBZWqkp5z</guid>
       <pubDate>Fri, 27 Feb 2026 13:42:34 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>OpenClaw生活のためにまたChatGPT Plusに加入</title>
-      <link>https://usememos.yammer.jp/m/3VCS9oxe2g2mBdhPxbHHyf</link>
+      <link>https://usememos.yammer.jp/memos/3VCS9oxe2g2mBdhPxbHHyf</link>
       <description>OpenClaw生活のためにまたChatGPT Plusに加入</description>
-      <guid>https://usememos.yammer.jp/m/3VCS9oxe2g2mBdhPxbHHyf</guid>
+      <guid>https://usememos.yammer.jp/memos/3VCS9oxe2g2mBdhPxbHHyf</guid>
       <pubDate>Thu, 26 Feb 2026 01:22:08 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>セキュリティと技術者倫理もセットでバイブスを効かせていく必要がある。</title>
-      <link>https://usememos.yammer.jp/m/aeY7GQ2fJ4Viip9iVfb8nn</link>
+      <link>https://usememos.yammer.jp/memos/aeY7GQ2fJ4Viip9iVfb8nn</link>
       <description>セキュリティと技術者倫理もセットでバイブスを効かせていく必要がある。</description>
-      <guid>https://usememos.yammer.jp/m/aeY7GQ2fJ4Viip9iVfb8nn</guid>
+      <guid>https://usememos.yammer.jp/memos/aeY7GQ2fJ4Viip9iVfb8nn</guid>
       <pubDate>Tue, 24 Feb 2026 15:26:19 GMT</pubDate>
       <source>memos</source>
     </item>
@@ -502,17 +534,17 @@
     </item>
     <item>
       <title>Claude MAXプラン以外で使うLLMコスト、正直高すぎる、OpenClawを飼い始めたが、一瞬で1000円ぐらい飛んでいってしまった</title>
-      <link>https://usememos.yammer.jp/m/5rUFq2PWwnt2BfaLbkNd6F</link>
+      <link>https://usememos.yammer.jp/memos/5rUFq2PWwnt2BfaLbkNd6F</link>
       <description>Claude MAXプラン以外で使うLLMコスト、正直高すぎる、OpenClawを飼い始めたが、一瞬で1000円ぐらい飛んでいってしまった</description>
-      <guid>https://usememos.yammer.jp/m/5rUFq2PWwnt2BfaLbkNd6F</guid>
+      <guid>https://usememos.yammer.jp/memos/5rUFq2PWwnt2BfaLbkNd6F</guid>
       <pubDate>Mon, 23 Feb 2026 13:14:01 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>花粉症、無事終わってきた</title>
-      <link>https://usememos.yammer.jp/m/dCQRQsPxDznzYuwhdkDP4F</link>
+      <link>https://usememos.yammer.jp/memos/dCQRQsPxDznzYuwhdkDP4F</link>
       <description>花粉症、無事終わってきた</description>
-      <guid>https://usememos.yammer.jp/m/dCQRQsPxDznzYuwhdkDP4F</guid>
+      <guid>https://usememos.yammer.jp/memos/dCQRQsPxDznzYuwhdkDP4F</guid>
       <pubDate>Mon, 23 Feb 2026 10:06:23 GMT</pubDate>
       <source>memos</source>
     </item>
@@ -534,25 +566,25 @@
     </item>
     <item>
       <title>picoclawのセットアップをClaude Codeにやらせるという、なんというディストピア</title>
-      <link>https://usememos.yammer.jp/m/TDay6ef6JRFe9wzHxFEgKP</link>
+      <link>https://usememos.yammer.jp/memos/TDay6ef6JRFe9wzHxFEgKP</link>
       <description>picoclawのセットアップをClaude Codeにやらせるという、なんというディストピア</description>
-      <guid>https://usememos.yammer.jp/m/TDay6ef6JRFe9wzHxFEgKP</guid>
+      <guid>https://usememos.yammer.jp/memos/TDay6ef6JRFe9wzHxFEgKP</guid>
       <pubDate>Sat, 21 Feb 2026 17:13:53 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>fastcgi_finish_request しらなかった、超便利じゃん！</title>
-      <link>https://usememos.yammer.jp/m/BNLaxk73DZztWSqF54gyEz</link>
+      <link>https://usememos.yammer.jp/memos/BNLaxk73DZztWSqF54gyEz</link>
       <description>fastcgi_finish_request しらなかった、超便利じゃん！</description>
-      <guid>https://usememos.yammer.jp/m/BNLaxk73DZztWSqF54gyEz</guid>
+      <guid>https://usememos.yammer.jp/memos/BNLaxk73DZztWSqF54gyEz</guid>
       <pubDate>Thu, 19 Feb 2026 15:19:47 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>この電車に乗ったらもうラーメン確定。カロリー1000kmオーバー！</title>
-      <link>https://usememos.yammer.jp/m/7zSu3cJNbm4BXdZYqZCevf</link>
+      <link>https://usememos.yammer.jp/memos/7zSu3cJNbm4BXdZYqZCevf</link>
       <description>この電車に乗ったらもうラーメン確定。カロリー1000kmオーバー！</description>
-      <guid>https://usememos.yammer.jp/m/7zSu3cJNbm4BXdZYqZCevf</guid>
+      <guid>https://usememos.yammer.jp/memos/7zSu3cJNbm4BXdZYqZCevf</guid>
       <pubDate>Thu, 19 Feb 2026 15:19:31 GMT</pubDate>
       <source>memos</source>
     </item>
@@ -614,9 +646,9 @@
     </item>
     <item>
       <title>腹痛</title>
-      <link>https://usememos.yammer.jp/m/j3MA3qsFoK5vMs3MTp2jgQ</link>
+      <link>https://usememos.yammer.jp/memos/j3MA3qsFoK5vMs3MTp2jgQ</link>
       <description>腹痛</description>
-      <guid>https://usememos.yammer.jp/m/j3MA3qsFoK5vMs3MTp2jgQ</guid>
+      <guid>https://usememos.yammer.jp/memos/j3MA3qsFoK5vMs3MTp2jgQ</guid>
       <pubDate>Sat, 24 Jan 2026 23:59:14 GMT</pubDate>
       <source>memos</source>
     </item>
@@ -630,9 +662,9 @@
     </item>
     <item>
       <title>ちょっと寒すぎるんじゃないですかね</title>
-      <link>https://usememos.yammer.jp/m/3XbBzJG798uisz3rSegt9r</link>
+      <link>https://usememos.yammer.jp/memos/3XbBzJG798uisz3rSegt9r</link>
       <description>ちょっと寒すぎるんじゃないですかね</description>
-      <guid>https://usememos.yammer.jp/m/3XbBzJG798uisz3rSegt9r</guid>
+      <guid>https://usememos.yammer.jp/memos/3XbBzJG798uisz3rSegt9r</guid>
       <pubDate>Tue, 20 Jan 2026 15:33:18 GMT</pubDate>
       <source>memos</source>
     </item>
@@ -662,9 +694,9 @@
     </item>
     <item>
       <title>お手製日記アプリ、凝りようはあるけど、ネイティブなおかげでビルドなどなどがあってマシンを持ち歩かないとやりづらいなどがあり続けづらい</title>
-      <link>https://usememos.yammer.jp/m/eCvbrwZiCrSnZAWRNCmkYK</link>
+      <link>https://usememos.yammer.jp/memos/eCvbrwZiCrSnZAWRNCmkYK</link>
       <description>お手製日記アプリ、凝りようはあるけど、ネイティブなおかげでビルドなどなどがあってマシンを持ち歩かないとやりづらいなどがあり続けづらい</description>
-      <guid>https://usememos.yammer.jp/m/eCvbrwZiCrSnZAWRNCmkYK</guid>
+      <guid>https://usememos.yammer.jp/memos/eCvbrwZiCrSnZAWRNCmkYK</guid>
       <pubDate>Mon, 19 Jan 2026 00:32:22 GMT</pubDate>
       <source>memos</source>
     </item>
@@ -686,17 +718,17 @@
     </item>
     <item>
       <title>自然緩和</title>
-      <link>https://usememos.yammer.jp/m/H8mwxMnVAZECFqnq72RETR</link>
+      <link>https://usememos.yammer.jp/memos/H8mwxMnVAZECFqnq72RETR</link>
       <description>自然緩和</description>
-      <guid>https://usememos.yammer.jp/m/H8mwxMnVAZECFqnq72RETR</guid>
+      <guid>https://usememos.yammer.jp/memos/H8mwxMnVAZECFqnq72RETR</guid>
       <pubDate>Wed, 14 Jan 2026 23:48:21 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>腹痛</title>
-      <link>https://usememos.yammer.jp/m/ESn8dshWPQTjhYQJusdtbe</link>
+      <link>https://usememos.yammer.jp/memos/ESn8dshWPQTjhYQJusdtbe</link>
       <description>腹痛</description>
-      <guid>https://usememos.yammer.jp/m/ESn8dshWPQTjhYQJusdtbe</guid>
+      <guid>https://usememos.yammer.jp/memos/ESn8dshWPQTjhYQJusdtbe</guid>
       <pubDate>Wed, 14 Jan 2026 23:43:28 GMT</pubDate>
       <source>memos</source>
     </item>
@@ -709,34 +741,39 @@
       <source>bluesky</source>
     </item>
     <item>
-      <title>いい記事だった作業の外の考える範囲のひろさがひろがって、それを楽しいと受け取れているポジティブさが。ところでZenn、書いた人の名前を出さずに会社名だけ出せるのか？どんな人が書いたかしれるとよかったか</title>
-      <link>https://usememos.yammer.jp/m/HxaSrBn4dgXqyo2keYhny6</link>
-      <description>いい記事だった作業の外の考える範囲のひろさがひろがって、それを楽しいと受け取れているポジティブさが。ところでZenn、書いた人の名前を出さずに会社名だけ出せるのか？どんな人が書いたかしれるとよかったかなあhttps://zenn.dev/coconala/articles/e1ba22510836fc</description>
-      <guid>https://usememos.yammer.jp/m/HxaSrBn4dgXqyo2keYhny6</guid>
+      <title>いい記事だった
+作業の外の考える範囲のひろさがひろがって、それを楽しいと受け取れているポジティブさが。
+ところでZenn、書いた人の名前を出さずに会社名だけ出せるのか？どんな人が書いたかしれるとよかっ</title>
+      <link>https://usememos.yammer.jp/memos/HxaSrBn4dgXqyo2keYhny6</link>
+      <description>いい記事だった
+作業の外の考える範囲のひろさがひろがって、それを楽しいと受け取れているポジティブさが。
+ところでZenn、書いた人の名前を出さずに会社名だけ出せるのか？どんな人が書いたかしれるとよかったかなあ
+https://zenn.dev/coconala/articles/e1ba22510836fc</description>
+      <guid>https://usememos.yammer.jp/memos/HxaSrBn4dgXqyo2keYhny6</guid>
       <pubDate>Tue, 13 Jan 2026 23:44:09 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>テーブルを買い替えた結果、また処理せねばならない粗大ゴミが増えてしまった</title>
-      <link>https://usememos.yammer.jp/m/aGi9nymc5uDTK4YC3ACXpR</link>
+      <link>https://usememos.yammer.jp/memos/aGi9nymc5uDTK4YC3ACXpR</link>
       <description>テーブルを買い替えた結果、また処理せねばならない粗大ゴミが増えてしまった</description>
-      <guid>https://usememos.yammer.jp/m/aGi9nymc5uDTK4YC3ACXpR</guid>
+      <guid>https://usememos.yammer.jp/memos/aGi9nymc5uDTK4YC3ACXpR</guid>
       <pubDate>Mon, 12 Jan 2026 08:49:34 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>年明けから毎日走った結果、最寄り駅まで走って時間短縮するための体力という非常に実用的な能力が身についてしまった</title>
-      <link>https://usememos.yammer.jp/m/RCSvBwZM6d3jyrW94vdYrc</link>
+      <link>https://usememos.yammer.jp/memos/RCSvBwZM6d3jyrW94vdYrc</link>
       <description>年明けから毎日走った結果、最寄り駅まで走って時間短縮するための体力という非常に実用的な能力が身についてしまった</description>
-      <guid>https://usememos.yammer.jp/m/RCSvBwZM6d3jyrW94vdYrc</guid>
+      <guid>https://usememos.yammer.jp/memos/RCSvBwZM6d3jyrW94vdYrc</guid>
       <pubDate>Sun, 11 Jan 2026 00:53:32 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>テンションをつかむ</title>
-      <link>https://usememos.yammer.jp/m/6FgRaUemTSLCFitTceSbbP</link>
+      <link>https://usememos.yammer.jp/memos/6FgRaUemTSLCFitTceSbbP</link>
       <description>テンションをつかむ</description>
-      <guid>https://usememos.yammer.jp/m/6FgRaUemTSLCFitTceSbbP</guid>
+      <guid>https://usememos.yammer.jp/memos/6FgRaUemTSLCFitTceSbbP</guid>
       <pubDate>Sat, 10 Jan 2026 08:17:02 GMT</pubDate>
       <source>memos</source>
     </item>
@@ -758,9 +795,9 @@
     </item>
     <item>
       <title>健康、学び</title>
-      <link>https://usememos.yammer.jp/m/Da3ezPdF9mGTdtSZhyFhVu</link>
+      <link>https://usememos.yammer.jp/memos/Da3ezPdF9mGTdtSZhyFhVu</link>
       <description>健康、学び</description>
-      <guid>https://usememos.yammer.jp/m/Da3ezPdF9mGTdtSZhyFhVu</guid>
+      <guid>https://usememos.yammer.jp/memos/Da3ezPdF9mGTdtSZhyFhVu</guid>
       <pubDate>Thu, 08 Jan 2026 23:00:16 GMT</pubDate>
       <source>memos</source>
     </item>
@@ -774,9 +811,9 @@
     </item>
     <item>
       <title>この寒い冬、平日夜に地下鉄のホームでアイス買って食べてるひとをみると、きっと自分のご褒美に甘やかしているんだなと、あたたかいきもちになる。仕事をしている全ての人に乾杯！</title>
-      <link>https://usememos.yammer.jp/m/E93CHk9ozbaN7CJM6ujQfS</link>
+      <link>https://usememos.yammer.jp/memos/E93CHk9ozbaN7CJM6ujQfS</link>
       <description>この寒い冬、平日夜に地下鉄のホームでアイス買って食べてるひとをみると、きっと自分のご褒美に甘やかしているんだなと、あたたかいきもちになる。仕事をしている全ての人に乾杯！</description>
-      <guid>https://usememos.yammer.jp/m/E93CHk9ozbaN7CJM6ujQfS</guid>
+      <guid>https://usememos.yammer.jp/memos/E93CHk9ozbaN7CJM6ujQfS</guid>
       <pubDate>Thu, 08 Jan 2026 13:37:13 GMT</pubDate>
       <source>memos</source>
     </item>
@@ -798,250 +835,251 @@
     </item>
     <item>
       <title>1週間を通じて少しずつ早くなっている。まだ余地がありそう</title>
-      <link>https://usememos.yammer.jp/m/ETY8SgYSiL26C38Pph9GUN</link>
+      <link>https://usememos.yammer.jp/memos/ETY8SgYSiL26C38Pph9GUN</link>
       <description>1週間を通じて少しずつ早くなっている。まだ余地がありそう</description>
-      <guid>https://usememos.yammer.jp/m/ETY8SgYSiL26C38Pph9GUN</guid>
+      <guid>https://usememos.yammer.jp/memos/ETY8SgYSiL26C38Pph9GUN</guid>
       <pubDate>Wed, 07 Jan 2026 23:22:33 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>今日は結構混んでいるな、ドリンクも席も</title>
-      <link>https://usememos.yammer.jp/m/kgmixt34JLSXSaon3673Nw</link>
+      <link>https://usememos.yammer.jp/memos/kgmixt34JLSXSaon3673Nw</link>
       <description>今日は結構混んでいるな、ドリンクも席も</description>
-      <guid>https://usememos.yammer.jp/m/kgmixt34JLSXSaon3673Nw</guid>
+      <guid>https://usememos.yammer.jp/memos/kgmixt34JLSXSaon3673Nw</guid>
       <pubDate>Tue, 06 Jan 2026 00:15:09 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>起きるのは昨日よりも15分遅かったが、テキパキ来ればちょい早く着けることがわかったが、ちょいではある</title>
-      <link>https://usememos.yammer.jp/m/PWejXKW7wjxD48eAbhtiUj</link>
+      <link>https://usememos.yammer.jp/memos/PWejXKW7wjxD48eAbhtiUj</link>
       <description>起きるのは昨日よりも15分遅かったが、テキパキ来ればちょい早く着けることがわかったが、ちょいではある</description>
-      <guid>https://usememos.yammer.jp/m/PWejXKW7wjxD48eAbhtiUj</guid>
+      <guid>https://usememos.yammer.jp/memos/PWejXKW7wjxD48eAbhtiUj</guid>
       <pubDate>Tue, 06 Jan 2026 00:14:23 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>6時半に起きて体が動き始めてからランニングして、だと渋谷着くのは9時半になってしまった。家は綺麗にして出てこれたのはよかった。家を出るまでをもう少し早くしないとじゃな</title>
-      <link>https://usememos.yammer.jp/m/SDVPv46ENYtfpjtkVscbWY</link>
+      <link>https://usememos.yammer.jp/memos/SDVPv46ENYtfpjtkVscbWY</link>
       <description>6時半に起きて体が動き始めてからランニングして、だと渋谷着くのは9時半になってしまった。家は綺麗にして出てこれたのはよかった。家を出るまでをもう少し早くしないとじゃな</description>
-      <guid>https://usememos.yammer.jp/m/SDVPv46ENYtfpjtkVscbWY</guid>
+      <guid>https://usememos.yammer.jp/memos/SDVPv46ENYtfpjtkVscbWY</guid>
       <pubDate>Mon, 05 Jan 2026 00:20:33 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>個人サイトは盆栽</title>
-      <link>https://usememos.yammer.jp/m/VvdW7f7gry6dPe34VSgxRH</link>
+      <link>https://usememos.yammer.jp/memos/VvdW7f7gry6dPe34VSgxRH</link>
       <description>個人サイトは盆栽</description>
-      <guid>https://usememos.yammer.jp/m/VvdW7f7gry6dPe34VSgxRH</guid>
+      <guid>https://usememos.yammer.jp/memos/VvdW7f7gry6dPe34VSgxRH</guid>
       <pubDate>Sat, 03 Jan 2026 02:05:43 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>ガチアクタ、一気見した</title>
-      <link>https://usememos.yammer.jp/m/NJMgNkA7U7ckLG6c6dsDZ8</link>
+      <link>https://usememos.yammer.jp/memos/NJMgNkA7U7ckLG6c6dsDZ8</link>
       <description>ガチアクタ、一気見した</description>
-      <guid>https://usememos.yammer.jp/m/NJMgNkA7U7ckLG6c6dsDZ8</guid>
+      <guid>https://usememos.yammer.jp/memos/NJMgNkA7U7ckLG6c6dsDZ8</guid>
       <pubDate>Fri, 02 Jan 2026 13:10:28 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
-      <title>ふーんなるほどねhttps://git-wrapped.com/profiles/yammerjp</title>
-      <link>https://usememos.yammer.jp/m/T6PDjWrKrHuspxuVBTfa9D</link>
-      <description>ふーんなるほどねhttps://git-wrapped.com/profiles/yammerjp</description>
-      <guid>https://usememos.yammer.jp/m/T6PDjWrKrHuspxuVBTfa9D</guid>
+      <title>ふーんなるほどね
+https://git-wrapped.com/profiles/yammerjp</title>
+      <link>https://usememos.yammer.jp/memos/T6PDjWrKrHuspxuVBTfa9D</link>
+      <description>ふーんなるほどね
+https://git-wrapped.com/profiles/yammerjp</description>
+      <guid>https://usememos.yammer.jp/memos/T6PDjWrKrHuspxuVBTfa9D</guid>
       <pubDate>Thu, 01 Jan 2026 03:10:39 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>なやましいときにはなやましいと言う。さらっと言う</title>
-      <link>https://usememos.yammer.jp/m/ZpMCsZJnK6HBj8q6eWFyXr</link>
+      <link>https://usememos.yammer.jp/memos/ZpMCsZJnK6HBj8q6eWFyXr</link>
       <description>なやましいときにはなやましいと言う。さらっと言う</description>
-      <guid>https://usememos.yammer.jp/m/ZpMCsZJnK6HBj8q6eWFyXr</guid>
+      <guid>https://usememos.yammer.jp/memos/ZpMCsZJnK6HBj8q6eWFyXr</guid>
       <pubDate>Thu, 01 Jan 2026 01:17:45 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>途中から見たので、アリアリ〜のネタ見れなかった</title>
-      <link>https://usememos.yammer.jp/m/PLxmnhV3LRVG3RAJj4XR8d</link>
+      <link>https://usememos.yammer.jp/memos/PLxmnhV3LRVG3RAJj4XR8d</link>
       <description>途中から見たので、アリアリ〜のネタ見れなかった</description>
-      <guid>https://usememos.yammer.jp/m/PLxmnhV3LRVG3RAJj4XR8d</guid>
+      <guid>https://usememos.yammer.jp/memos/PLxmnhV3LRVG3RAJj4XR8d</guid>
       <pubDate>Wed, 31 Dec 2025 17:00:45 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
-      <title>よかったhttps://note.com/takkyy07/n/nf6976775ddf9自分は事業責任者じゃないけど、今のポジションになってやっていくにあたって自分が学んだ捉え方に近いものが言語化さ</title>
-      <link>https://usememos.yammer.jp/m/EXsbtfqz83CroshdHN38D3</link>
-      <description>よかったhttps://note.com/takkyy07/n/nf6976775ddf9自分は事業責任者じゃないけど、今のポジションになってやっていくにあたって自分が学んだ捉え方に近いものが言語化されていて「このように言い表すことができるのか」と。表現はシンプルだけれども、うまく言い表せていなかったことがいくつか書いてあって学びになった。</description>
-      <guid>https://usememos.yammer.jp/m/EXsbtfqz83CroshdHN38D3</guid>
+      <title>よかった
+https://note.com/takkyy07/n/nf6976775ddf9
+自分は事業責任者じゃないけど、今のポジションになってやっていくにあたって自分が学んだ捉え方に近いものが言語</title>
+      <link>https://usememos.yammer.jp/memos/EXsbtfqz83CroshdHN38D3</link>
+      <description>よかった
+https://note.com/takkyy07/n/nf6976775ddf9
+自分は事業責任者じゃないけど、今のポジションになってやっていくにあたって自分が学んだ捉え方に近いものが言語化されていて「このように言い表すことができるのか」と。表現はシンプルだけれども、うまく言い表せていなかったことがいくつか書いてあって学びになった。</description>
+      <guid>https://usememos.yammer.jp/memos/EXsbtfqz83CroshdHN38D3</guid>
       <pubDate>Mon, 22 Dec 2025 23:20:57 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>最寄りの出口のエスカレーターに人が並んでいて、この家に引っ越してからほぼこのピークの時間に帰ったことがないということがわかった</title>
-      <link>https://usememos.yammer.jp/m/cZqvj5x3PnphpvbE6Jaq3f</link>
+      <link>https://usememos.yammer.jp/memos/cZqvj5x3PnphpvbE6Jaq3f</link>
       <description>最寄りの出口のエスカレーターに人が並んでいて、この家に引っ越してからほぼこのピークの時間に帰ったことがないということがわかった</description>
-      <guid>https://usememos.yammer.jp/m/cZqvj5x3PnphpvbE6Jaq3f</guid>
+      <guid>https://usememos.yammer.jp/memos/cZqvj5x3PnphpvbE6Jaq3f</guid>
       <pubDate>Fri, 19 Dec 2025 10:48:14 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>これはどうじゃろか</title>
-      <link>https://usememos.yammer.jp/m/7a5vfNWeLP2ForYHWTy7qK</link>
+      <link>https://usememos.yammer.jp/memos/7a5vfNWeLP2ForYHWTy7qK</link>
       <description>これはどうじゃろか</description>
-      <guid>https://usememos.yammer.jp/m/7a5vfNWeLP2ForYHWTy7qK</guid>
+      <guid>https://usememos.yammer.jp/memos/7a5vfNWeLP2ForYHWTy7qK</guid>
       <pubDate>Tue, 09 Dec 2025 15:41:54 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>どうじゃろか</title>
-      <link>https://usememos.yammer.jp/m/bPS9TUMTa6VHS3qsG8jg8n</link>
+      <link>https://usememos.yammer.jp/memos/bPS9TUMTa6VHS3qsG8jg8n</link>
       <description>どうじゃろか</description>
-      <guid>https://usememos.yammer.jp/m/bPS9TUMTa6VHS3qsG8jg8n</guid>
+      <guid>https://usememos.yammer.jp/memos/bPS9TUMTa6VHS3qsG8jg8n</guid>
       <pubDate>Tue, 09 Dec 2025 15:31:11 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>睡眠不足で体調がおわってしまったので昨夜は良く寝て回復。今週は失敗。</title>
-      <link>https://usememos.yammer.jp/m/XB6MbV4kxXAvSU4Uad48qM</link>
+      <link>https://usememos.yammer.jp/memos/XB6MbV4kxXAvSU4Uad48qM</link>
       <description>睡眠不足で体調がおわってしまったので昨夜は良く寝て回復。今週は失敗。</description>
-      <guid>https://usememos.yammer.jp/m/XB6MbV4kxXAvSU4Uad48qM</guid>
+      <guid>https://usememos.yammer.jp/memos/XB6MbV4kxXAvSU4Uad48qM</guid>
       <pubDate>Fri, 05 Dec 2025 00:50:53 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>食糧難！</title>
-      <link>https://usememos.yammer.jp/m/3U9M6mbYJ9eVyQMbtixZ9C</link>
+      <link>https://usememos.yammer.jp/memos/3U9M6mbYJ9eVyQMbtixZ9C</link>
       <description>食糧難！</description>
-      <guid>https://usememos.yammer.jp/m/3U9M6mbYJ9eVyQMbtixZ9C</guid>
+      <guid>https://usememos.yammer.jp/memos/3U9M6mbYJ9eVyQMbtixZ9C</guid>
       <pubDate>Wed, 03 Dec 2025 15:23:47 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>結構疲れてきた感覚がある</title>
-      <link>https://usememos.yammer.jp/m/d7VXMmmvkvKi4NKZ2j4L7k</link>
+      <link>https://usememos.yammer.jp/memos/d7VXMmmvkvKi4NKZ2j4L7k</link>
       <description>結構疲れてきた感覚がある</description>
-      <guid>https://usememos.yammer.jp/m/d7VXMmmvkvKi4NKZ2j4L7k</guid>
+      <guid>https://usememos.yammer.jp/memos/d7VXMmmvkvKi4NKZ2j4L7k</guid>
       <pubDate>Wed, 03 Dec 2025 15:00:01 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>microcloudに興味出てきた</title>
-      <link>https://usememos.yammer.jp/m/k6vD3ZWNmSib6yThbK2aDC</link>
+      <link>https://usememos.yammer.jp/memos/k6vD3ZWNmSib6yThbK2aDC</link>
       <description>microcloudに興味出てきた</description>
-      <guid>https://usememos.yammer.jp/m/k6vD3ZWNmSib6yThbK2aDC</guid>
+      <guid>https://usememos.yammer.jp/memos/k6vD3ZWNmSib6yThbK2aDC</guid>
       <pubDate>Sat, 22 Nov 2025 08:34:50 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>frankenPHP、cgoで、ランタイム自体はphp-src使っているのか、それでパフォーマンスの差そんなに出るんだな</title>
-      <link>https://usememos.yammer.jp/m/ZGeVxfTQ3GVWfTdaRYc85k</link>
+      <link>https://usememos.yammer.jp/memos/ZGeVxfTQ3GVWfTdaRYc85k</link>
       <description>frankenPHP、cgoで、ランタイム自体はphp-src使っているのか、それでパフォーマンスの差そんなに出るんだな</description>
-      <guid>https://usememos.yammer.jp/m/ZGeVxfTQ3GVWfTdaRYc85k</guid>
+      <guid>https://usememos.yammer.jp/memos/ZGeVxfTQ3GVWfTdaRYc85k</guid>
       <pubDate>Wed, 19 Nov 2025 14:10:09 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>今どき珍しいかっ飛ばし個人タクシー、クレカ不可PayPayか現金のみ、自由でおもろかった。困る人いそう</title>
-      <link>https://usememos.yammer.jp/m/JQP7QrigpZfriZDRPKg3bb</link>
+      <link>https://usememos.yammer.jp/memos/JQP7QrigpZfriZDRPKg3bb</link>
       <description>今どき珍しいかっ飛ばし個人タクシー、クレカ不可PayPayか現金のみ、自由でおもろかった。困る人いそう</description>
-      <guid>https://usememos.yammer.jp/m/JQP7QrigpZfriZDRPKg3bb</guid>
+      <guid>https://usememos.yammer.jp/memos/JQP7QrigpZfriZDRPKg3bb</guid>
       <pubDate>Tue, 18 Nov 2025 15:57:49 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>AIっぽい文章やAIっぽいコードがあると目を滑らせて自然とスクロールしてしまうが、その違和感をうまく言語化しないと、手で書く以外で改善できないことになってしまうな</title>
-      <link>https://usememos.yammer.jp/m/GZn5xvKQgR7cY44gqqPwcX</link>
+      <link>https://usememos.yammer.jp/memos/GZn5xvKQgR7cY44gqqPwcX</link>
       <description>AIっぽい文章やAIっぽいコードがあると目を滑らせて自然とスクロールしてしまうが、その違和感をうまく言語化しないと、手で書く以外で改善できないことになってしまうな</description>
-      <guid>https://usememos.yammer.jp/m/GZn5xvKQgR7cY44gqqPwcX</guid>
+      <guid>https://usememos.yammer.jp/memos/GZn5xvKQgR7cY44gqqPwcX</guid>
       <pubDate>Tue, 18 Nov 2025 00:53:16 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>風邪をひいて一回やすみ。音楽を聴いて元気出て一歩進む</title>
-      <link>https://usememos.yammer.jp/m/nrLHUDPBNTb56LqoAyC5Gy</link>
+      <link>https://usememos.yammer.jp/memos/nrLHUDPBNTb56LqoAyC5Gy</link>
       <description>風邪をひいて一回やすみ。音楽を聴いて元気出て一歩進む</description>
-      <guid>https://usememos.yammer.jp/m/nrLHUDPBNTb56LqoAyC5Gy</guid>
+      <guid>https://usememos.yammer.jp/memos/nrLHUDPBNTb56LqoAyC5Gy</guid>
       <pubDate>Mon, 17 Nov 2025 13:30:31 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
-      <title>https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m?si=JU93da6XRWSeKFag_zmFuQをきいて、あしたからがんばろうの気持ちにな</title>
-      <link>https://usememos.yammer.jp/m/UC2Aq8zAuN9tHDvf6Gi87s</link>
-      <description>https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m?si=JU93da6XRWSeKFag_zmFuQをきいて、あしたからがんばろうの気持ちになった</description>
-      <guid>https://usememos.yammer.jp/m/UC2Aq8zAuN9tHDvf6Gi87s</guid>
+      <title>https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m?si=JU93da6XRWSeKFag_zmFuQ
+をきいて、あしたからがんばろうの気持ちに</title>
+      <link>https://usememos.yammer.jp/memos/UC2Aq8zAuN9tHDvf6Gi87s</link>
+      <description>https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m?si=JU93da6XRWSeKFag_zmFuQ
+をきいて、あしたからがんばろうの気持ちになった</description>
+      <guid>https://usememos.yammer.jp/memos/UC2Aq8zAuN9tHDvf6Gi87s</guid>
       <pubDate>Mon, 17 Nov 2025 13:21:37 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>いつもはチキンだけどラムにしてみた。肉肉しさを感じられるけど、普段はチキンに戻ろう</title>
-      <link>https://usememos.yammer.jp/m/Bf6DHPwHdQjVfsgsDJYKXG</link>
+      <link>https://usememos.yammer.jp/memos/Bf6DHPwHdQjVfsgsDJYKXG</link>
       <description>いつもはチキンだけどラムにしてみた。肉肉しさを感じられるけど、普段はチキンに戻ろう</description>
-      <guid>https://usememos.yammer.jp/m/Bf6DHPwHdQjVfsgsDJYKXG</guid>
+      <guid>https://usememos.yammer.jp/memos/Bf6DHPwHdQjVfsgsDJYKXG</guid>
       <pubDate>Mon, 17 Nov 2025 09:31:16 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>先週の頭からずっと体調が芳しくなく、緊急の対応以外は定時に帰って家でひたすら寝る生活をしていた。快方に向かったかと思えば金曜の退勤後にぶり返してしまい、土曜に病院に行って「風邪だね」ということで土日は</title>
-      <link>https://usememos.yammer.jp/m/HAu5LriSJvJMFNMJCa828e</link>
-      <description>先週の頭からずっと体調が芳しくなく、緊急の対応以外は定時に帰って家でひたすら寝る生活をしていた。快方に向かったかと思えば金曜の退勤後にぶり返してしまい、土曜に病院に行って「風邪だね」ということで土日はひたすら寝て治そうとしているが、効果はあるのか果たして。超ダメというわけでもないが、来週も低速運転でやりたくないので早く治ってくれ〜。山の予定もキャンセルしてしまったので、またリベンジしたい。</description>
-      <guid>https://usememos.yammer.jp/m/HAu5LriSJvJMFNMJCa828e</guid>
+      <link>https://usememos.yammer.jp/memos/HAu5LriSJvJMFNMJCa828e</link>
+      <description>先週の頭からずっと体調が芳しくなく、緊急の対応以外は定時に帰って家でひたすら寝る生活をしていた。快方に向かったかと思えば金曜の退勤後にぶり返してしまい、土曜に病院に行って「風邪だね」ということで土日はひたすら寝て治そうとしているが、効果はあるのか果たして。超ダメというわけでもないが、来週も低速運転でやりたくないので早く治ってくれ〜。
+山の予定もキャンセルしてしまったので、またリベンジしたい。</description>
+      <guid>https://usememos.yammer.jp/memos/HAu5LriSJvJMFNMJCa828e</guid>
       <pubDate>Sun, 16 Nov 2025 13:31:55 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>EC2で生活できるようになったら、オンコールのためにハイスペックなマシンを持ち歩くというのもやめられるのでは</title>
-      <link>https://usememos.yammer.jp/m/KfiMAYgoxu3Vvg2AzWgj2f</link>
+      <link>https://usememos.yammer.jp/memos/KfiMAYgoxu3Vvg2AzWgj2f</link>
       <description>EC2で生活できるようになったら、オンコールのためにハイスペックなマシンを持ち歩くというのもやめられるのでは</description>
-      <guid>https://usememos.yammer.jp/m/KfiMAYgoxu3Vvg2AzWgj2f</guid>
+      <guid>https://usememos.yammer.jp/memos/KfiMAYgoxu3Vvg2AzWgj2f</guid>
       <pubDate>Sat, 01 Nov 2025 08:14:48 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>開発環境、EC2がいいのではというきもちに</title>
-      <link>https://usememos.yammer.jp/m/RLFzUxDkRAB8XRtmmXiyru</link>
+      <link>https://usememos.yammer.jp/memos/RLFzUxDkRAB8XRtmmXiyru</link>
       <description>開発環境、EC2がいいのではというきもちに</description>
-      <guid>https://usememos.yammer.jp/m/RLFzUxDkRAB8XRtmmXiyru</guid>
+      <guid>https://usememos.yammer.jp/memos/RLFzUxDkRAB8XRtmmXiyru</guid>
       <pubDate>Fri, 31 Oct 2025 15:27:25 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>ここがいきかえっている</title>
-      <link>https://usememos.yammer.jp/m/CDXVUY6cHguBYvCo4rkjG7</link>
+      <link>https://usememos.yammer.jp/memos/CDXVUY6cHguBYvCo4rkjG7</link>
       <description>ここがいきかえっている</description>
-      <guid>https://usememos.yammer.jp/m/CDXVUY6cHguBYvCo4rkjG7</guid>
+      <guid>https://usememos.yammer.jp/memos/CDXVUY6cHguBYvCo4rkjG7</guid>
       <pubDate>Fri, 31 Oct 2025 15:27:11 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>これからつくるOpenAPIスキーマは全てRFC9457にしよう！</title>
-      <link>https://usememos.yammer.jp/m/DhRvvpEiETjkqzPwHXRNfD</link>
+      <link>https://usememos.yammer.jp/memos/DhRvvpEiETjkqzPwHXRNfD</link>
       <description>これからつくるOpenAPIスキーマは全てRFC9457にしよう！</description>
-      <guid>https://usememos.yammer.jp/m/DhRvvpEiETjkqzPwHXRNfD</guid>
+      <guid>https://usememos.yammer.jp/memos/DhRvvpEiETjkqzPwHXRNfD</guid>
       <pubDate>Tue, 28 Oct 2025 15:07:31 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>isucon14の環境を用意するのにmeiheiさんの記事が便利だった https://zenn.dev/meihei/scraps/61a844ac783d19</title>
-      <link>https://usememos.yammer.jp/m/6ScWjfeJsDTUDCRbX9Vq2x</link>
+      <link>https://usememos.yammer.jp/memos/6ScWjfeJsDTUDCRbX9Vq2x</link>
       <description>isucon14の環境を用意するのにmeiheiさんの記事が便利だった https://zenn.dev/meihei/scraps/61a844ac783d19</description>
-      <guid>https://usememos.yammer.jp/m/6ScWjfeJsDTUDCRbX9Vq2x</guid>
+      <guid>https://usememos.yammer.jp/memos/6ScWjfeJsDTUDCRbX9Vq2x</guid>
       <pubDate>Tue, 28 Oct 2025 12:28:27 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
       <title>https://yoku0825.blogspot.com/2016/02/where-in-order-by-field.html 今日の学び ORDER BY FIELD(column, valu</title>
-      <link>https://usememos.yammer.jp/m/RfcWB4VSGTAG93Mb5cg9Ho</link>
+      <link>https://usememos.yammer.jp/memos/RfcWB4VSGTAG93Mb5cg9Ho</link>
       <description>https://yoku0825.blogspot.com/2016/02/where-in-order-by-field.html 今日の学び ORDER BY FIELD(column, value1, value2, ...)</description>
-      <guid>https://usememos.yammer.jp/m/RfcWB4VSGTAG93Mb5cg9Ho</guid>
+      <guid>https://usememos.yammer.jp/memos/RfcWB4VSGTAG93Mb5cg9Ho</guid>
       <pubDate>Tue, 28 Oct 2025 12:28:09 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>江南、この時間でも車の交通量が多いし人も繁華街の路地とかではなく大通りに結構歩いている人がいたりする</title>
-      <link>https://usememos.yammer.jp/m/5xb7sMFYRxShsLWgj8GiaE</link>
-      <description>江南、この時間でも車の交通量が多いし人も繁華街の路地とかではなく大通りに結構歩いている人がいたりする</description>
-      <guid>https://usememos.yammer.jp/m/5xb7sMFYRxShsLWgj8GiaE</guid>
-      <pubDate>Fri, 24 Oct 2025 16:33:28 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>
