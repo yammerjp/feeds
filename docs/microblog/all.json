@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/eSTrFhygNJDC5ig5XTQJGh",
+      "url": "https://usememos.yammer.jp/memos/eSTrFhygNJDC5ig5XTQJGh",
+      "content_text": "今日は登山で6:30集合なのに目覚まし無しで寝おちてしまった。奇跡的に起きれてセーフ",
+      "date_published": "2026-05-05T20:19:44.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/YpmJJajAEC4C9ckhjWD8Fg",
+      "url": "https://usememos.yammer.jp/memos/YpmJJajAEC4C9ckhjWD8Fg",
+      "content_text": "時間を買ったという意識を持っているか、自己決定感、どうせそうならやったるでという納得感",
+      "date_published": "2026-05-05T10:48:32.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/7ZcqhmjPexaZB33zv8UDnQ",
       "url": "https://usememos.yammer.jp/memos/7ZcqhmjPexaZB33zv8UDnQ",
       "content_text": "最初はRailsアプリでHerokuに置いていたこの場所は実は2021年末ぐらいから存在したのな\nHeroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose→家のk3sクラスタときて、今日VPSのk3sクラスタに移行した。公開用と非公開用でクラスタを二個に分けることにして、公開用は大したスペックがなくてもいいので経路もシンプルに直接VPSに載せてしまうことに。\n個人でさわるぐらいのレベルであれば、インスタンスのセットアップから構成管理からクラスタ上のmanifestを書くところまで、Claude Codeにちょいと指示を出せばささっとやり切ってくれてしまう、いい時代になったとも思うし恐ろしい時代になったとも思う",
@@ -771,18 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/DhRvvpEiETjkqzPwHXRNfD",
       "content_text": "これからつくるOpenAPIスキーマは全てRFC9457にしよう！",
       "date_published": "2025-10-28T15:07:31.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/6ScWjfeJsDTUDCRbX9Vq2x",
-      "url": "https://usememos.yammer.jp/memos/6ScWjfeJsDTUDCRbX9Vq2x",
-      "content_text": "isucon14の環境を用意するのにmeiheiさんの記事が便利だった https://zenn.dev/meihei/scraps/61a844ac783d19",
-      "date_published": "2025-10-28T12:28:27.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/RfcWB4VSGTAG93Mb5cg9Ho",
-      "url": "https://usememos.yammer.jp/memos/RfcWB4VSGTAG93Mb5cg9Ho",
-      "content_text": "https://yoku0825.blogspot.com/2016/02/where-in-order-by-field.html 今日の学び ORDER BY FIELD(column, value1, value2, ...)",
-      "date_published": "2025-10-28T12:28:09.000Z"
     }
   ]
 }

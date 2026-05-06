@@ -5,6 +5,22 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>今日は登山で6:30集合なのに目覚まし無しで寝おちてしまった。奇跡的に起きれてセーフ</title>
+      <link>https://usememos.yammer.jp/memos/eSTrFhygNJDC5ig5XTQJGh</link>
+      <description>今日は登山で6:30集合なのに目覚まし無しで寝おちてしまった。奇跡的に起きれてセーフ</description>
+      <guid>https://usememos.yammer.jp/memos/eSTrFhygNJDC5ig5XTQJGh</guid>
+      <pubDate>Tue, 05 May 2026 20:19:44 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>時間を買ったという意識を持っているか、自己決定感、どうせそうならやったるでという納得感</title>
+      <link>https://usememos.yammer.jp/memos/YpmJJajAEC4C9ckhjWD8Fg</link>
+      <description>時間を買ったという意識を持っているか、自己決定感、どうせそうならやったるでという納得感</description>
+      <guid>https://usememos.yammer.jp/memos/YpmJJajAEC4C9ckhjWD8Fg</guid>
+      <pubDate>Tue, 05 May 2026 10:48:32 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>最初はRailsアプリでHerokuに置いていたこの場所は実は2021年末ぐらいから存在したのな
 Heroku → Cloud Run + LiteStream → usememosにしてVPS上のD</title>
       <link>https://usememos.yammer.jp/memos/7ZcqhmjPexaZB33zv8UDnQ</link>
@@ -1064,22 +1080,6 @@ https://note.com/takkyy07/n/nf6976775ddf9
       <description>これからつくるOpenAPIスキーマは全てRFC9457にしよう！</description>
       <guid>https://usememos.yammer.jp/memos/DhRvvpEiETjkqzPwHXRNfD</guid>
       <pubDate>Tue, 28 Oct 2025 15:07:31 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>isucon14の環境を用意するのにmeiheiさんの記事が便利だった https://zenn.dev/meihei/scraps/61a844ac783d19</title>
-      <link>https://usememos.yammer.jp/memos/6ScWjfeJsDTUDCRbX9Vq2x</link>
-      <description>isucon14の環境を用意するのにmeiheiさんの記事が便利だった https://zenn.dev/meihei/scraps/61a844ac783d19</description>
-      <guid>https://usememos.yammer.jp/memos/6ScWjfeJsDTUDCRbX9Vq2x</guid>
-      <pubDate>Tue, 28 Oct 2025 12:28:27 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>https://yoku0825.blogspot.com/2016/02/where-in-order-by-field.html 今日の学び ORDER BY FIELD(column, valu</title>
-      <link>https://usememos.yammer.jp/memos/RfcWB4VSGTAG93Mb5cg9Ho</link>
-      <description>https://yoku0825.blogspot.com/2016/02/where-in-order-by-field.html 今日の学び ORDER BY FIELD(column, value1, value2, ...)</description>
-      <guid>https://usememos.yammer.jp/memos/RfcWB4VSGTAG93Mb5cg9Ho</guid>
-      <pubDate>Tue, 28 Oct 2025 12:28:09 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>
