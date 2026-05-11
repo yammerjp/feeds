@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mlikxl2cfc2a",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mlikxl2cfc2a",
+      "content_text": "Slack デスクトップアプリの新しいActivity欄、小さい表示が結構好みでつかいやすい気がしている",
+      "date_published": "2026-05-10T10:38:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/VSh9Q77zwRwtm2tRkUWsY6",
       "url": "https://usememos.yammer.jp/memos/VSh9Q77zwRwtm2tRkUWsY6",
       "content_text": "個別株の話になって家に戻って買うかとみたものの、結局NISAのインデックスファンドをみなおしておわり",
@@ -621,12 +627,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mbunjv7z6222",
       "content_text": "EAS Submission Workflow、Free Tierだと結構かかるな。ビルドはわりと早く回ってくるんだけど",
       "date_published": "2026-01-07T23:44:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbunhluznk22",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mbunhluznk22",
-      "content_text": "ありー4号車4ドアの時もある？",
-      "date_published": "2026-01-07T23:43:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/memos/ETY8SgYSiL26C38Pph9GUN",
