@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mllcwayu6k2p",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mllcwayu6k2p",
+      "content_text": "ジップロック大好き人間、S,M,L同時に買う。この上なき幸せ",
+      "date_published": "2026-05-11T12:52:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mlikxl2cfc2a",
       "url": "https://bsky.app/profile/yammer.jp/post/3mlikxl2cfc2a",
       "content_text": "Slack デスクトップアプリの新しいActivity欄、小さい表示が結構好みでつかいやすい気がしている",
@@ -621,12 +627,6 @@
       "url": "https://usememos.yammer.jp/memos/E93CHk9ozbaN7CJM6ujQfS",
       "content_text": "この寒い冬、平日夜に地下鉄のホームでアイス買って食べてるひとをみると、きっと自分のご褒美に甘やかしているんだなと、あたたかいきもちになる。仕事をしている全ての人に乾杯！",
       "date_published": "2026-01-08T13:37:13.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbunjv7z6222",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mbunjv7z6222",
-      "content_text": "EAS Submission Workflow、Free Tierだと結構かかるな。ビルドはわりと早く回ってくるんだけど",
-      "date_published": "2026-01-07T23:44:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/memos/ETY8SgYSiL26C38Pph9GUN",
