@@ -5,6 +5,24 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mlmxz5gizs2j",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mlmxz5gizs2j",
+      "content_text": "X, Instagram, Youtubeをアンインストール",
+      "date_published": "2026-05-12T04:42:00.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/fc5Cn8fd6wqVgSnGQa2qkp",
+      "url": "https://usememos.yammer.jp/memos/fc5Cn8fd6wqVgSnGQa2qkp",
+      "content_text": "サプライチェーンアタック、頻度があがっているきがす？",
+      "date_published": "2026-05-12T03:53:56.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/cwqt4h9bqynquJZ4fcKwCQ",
+      "url": "https://usememos.yammer.jp/memos/cwqt4h9bqynquJZ4fcKwCQ",
+      "content_text": "そろそろCorne Cherryを買うか、食洗機を買うか",
+      "date_published": "2026-05-11T12:56:15.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mllcwayu6k2p",
       "url": "https://bsky.app/profile/yammer.jp/post/3mllcwayu6k2p",
       "content_text": "ジップロック大好き人間、S,M,L同時に買う。この上なき幸せ",
@@ -15,6 +33,12 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mlikxl2cfc2a",
       "content_text": "Slack デスクトップアプリの新しいActivity欄、小さい表示が結構好みでつかいやすい気がしている",
       "date_published": "2026-05-10T10:38:00.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/3vtiEcbuSA7FCisHr7Bio7",
+      "url": "https://usememos.yammer.jp/memos/3vtiEcbuSA7FCisHr7Bio7",
+      "content_text": "のみすぎ！",
+      "date_published": "2026-05-08T15:55:01.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/memos/VSh9Q77zwRwtm2tRkUWsY6",
@@ -617,12 +641,6 @@
       "date_published": "2026-01-08T23:00:16.000Z"
     },
     {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbw4ygruus26",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mbw4ygruus26",
-      "content_text": "シリーズ最高のツヤ、耐久性、耐水性",
-      "date_published": "2026-01-08T13:53:00.000Z"
-    },
-    {
       "id": "https://usememos.yammer.jp/memos/E93CHk9ozbaN7CJM6ujQfS",
       "url": "https://usememos.yammer.jp/memos/E93CHk9ozbaN7CJM6ujQfS",
       "content_text": "この寒い冬、平日夜に地下鉄のホームでアイス買って食べてるひとをみると、きっと自分のご褒美に甘やかしているんだなと、あたたかいきもちになる。仕事をしている全ての人に乾杯！",
@@ -765,24 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/Bf6DHPwHdQjVfsgsDJYKXG",
       "content_text": "いつもはチキンだけどラムにしてみた。肉肉しさを感じられるけど、普段はチキンに戻ろう",
       "date_published": "2025-11-17T09:31:16.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/HAu5LriSJvJMFNMJCa828e",
-      "url": "https://usememos.yammer.jp/memos/HAu5LriSJvJMFNMJCa828e",
-      "content_text": "先週の頭からずっと体調が芳しくなく、緊急の対応以外は定時に帰って家でひたすら寝る生活をしていた。快方に向かったかと思えば金曜の退勤後にぶり返してしまい、土曜に病院に行って「風邪だね」ということで土日はひたすら寝て治そうとしているが、効果はあるのか果たして。超ダメというわけでもないが、来週も低速運転でやりたくないので早く治ってくれ〜。\n山の予定もキャンセルしてしまったので、またリベンジしたい。",
-      "date_published": "2025-11-16T13:31:55.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/KfiMAYgoxu3Vvg2AzWgj2f",
-      "url": "https://usememos.yammer.jp/memos/KfiMAYgoxu3Vvg2AzWgj2f",
-      "content_text": "EC2で生活できるようになったら、オンコールのためにハイスペックなマシンを持ち歩くというのもやめられるのでは",
-      "date_published": "2025-11-01T08:14:48.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/RLFzUxDkRAB8XRtmmXiyru",
-      "url": "https://usememos.yammer.jp/memos/RLFzUxDkRAB8XRtmmXiyru",
-      "content_text": "開発環境、EC2がいいのではというきもちに",
-      "date_published": "2025-10-31T15:27:25.000Z"
     }
   ]
 }
