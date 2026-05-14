@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mlpjyn5dps2v",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mlpjyn5dps2v",
+      "content_text": "この時間はお客さんが私だけ",
+      "date_published": "2026-05-13T05:09:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mlmxz5gizs2j",
       "url": "https://bsky.app/profile/yammer.jp/post/3mlmxz5gizs2j",
       "content_text": "X, Instagram, Youtubeをアンインストール",
@@ -627,12 +633,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mbytaydqzs2o",
       "content_text": "特に用途を決めずにやすいからとNFCタグを買ってしまってまとめて届いた",
       "date_published": "2026-01-09T15:37:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbx5ll3udc24",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mbx5ll3udc24",
-      "content_text": "今日も4-4だ",
-      "date_published": "2026-01-08T23:37:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/memos/Da3ezPdF9mGTdtSZhyFhVu",

@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>この時間はお客さんが私だけ</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mlpjyn5dps2v</link>
+      <description>この時間はお客さんが私だけ</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mlpjyn5dps2v</guid>
+      <pubDate>Wed, 13 May 2026 05:09:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>X, Instagram, Youtubeをアンインストール</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mlmxz5gizs2j</link>
       <description>X, Instagram, Youtubeをアンインストール</description>
@@ -863,14 +871,6 @@ https://zenn.dev/coconala/articles/e1ba22510836fc</description>
       <description>特に用途を決めずにやすいからとNFCタグを買ってしまってまとめて届いた</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbytaydqzs2o</guid>
       <pubDate>Fri, 09 Jan 2026 15:37:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>今日も4-4だ</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mbx5ll3udc24</link>
-      <description>今日も4-4だ</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbx5ll3udc24</guid>
-      <pubDate>Thu, 08 Jan 2026 23:37:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
     <item>
