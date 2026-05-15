@@ -5,6 +5,48 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/MsUbrgksv3mWPXegpKuhPM",
+      "url": "https://usememos.yammer.jp/memos/MsUbrgksv3mWPXegpKuhPM",
+      "content_text": "OpenCode Go、契約から24時間経たずに週間利用制限になってしまった",
+      "date_published": "2026-05-14T23:24:17.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/m8Rj7xUHitwErsxUAVa6Qk",
+      "url": "https://usememos.yammer.jp/memos/m8Rj7xUHitwErsxUAVa6Qk",
+      "content_text": "pi-coding-agent+kimi 2.6、自律性が割とあるので流しておいたら2時間半ぐらいでOpenCode Goの5時間リミットを使い切ってしまう",
+      "date_published": "2026-05-14T11:26:28.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/H5SarYqtmhgH99H9vk6WTT",
+      "url": "https://usememos.yammer.jp/memos/H5SarYqtmhgH99H9vk6WTT",
+      "content_text": "純朴さんの https://listen.style/p/juneboku-life/jf8aatgb をきいて、ほんとうのことを書く練習 https://www.diamond.co.jp/book/9784478123867.html が気になった",
+      "date_published": "2026-05-14T10:59:21.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/ev6zuqFeYFt77JKNdBeF6W",
+      "url": "https://usememos.yammer.jp/memos/ev6zuqFeYFt77JKNdBeF6W",
+      "content_text": "バナナを公園に持ってきたはいいが、皮を持ち帰る方法に困る。",
+      "date_published": "2026-05-14T08:29:23.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/8YavZpbbCp7XAgds7YcJAw",
+      "url": "https://usememos.yammer.jp/memos/8YavZpbbCp7XAgds7YcJAw",
+      "content_text": "若干風邪気味？",
+      "date_published": "2026-05-14T08:24:50.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/mUeUTnafBEsc5t99gt79zq",
+      "url": "https://usememos.yammer.jp/memos/mUeUTnafBEsc5t99gt79zq",
+      "content_text": "暇になってコンピュータから離れるぐらいがちょうどいいかもしれない。",
+      "date_published": "2026-05-14T08:24:31.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/hZVa6t3zJReqkW9GGxtapb",
+      "url": "https://usememos.yammer.jp/memos/hZVa6t3zJReqkW9GGxtapb",
+      "content_text": "OpenCode Go、をpi-coding-agentからとopencodeからどちらも使えたんだけど、リミットが結構早く来てしまうので他のことをやりながらゆるりとやる、並列数を下げるなどしないとダメそうな感じある。使い切って暇になってしまった。ClaudeかCodexのMax/Pro契約する？...",
+      "date_published": "2026-05-14T05:52:56.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mlpjyn5dps2v",
       "url": "https://bsky.app/profile/yammer.jp/post/3mlpjyn5dps2v",
       "content_text": "この時間はお客さんが私だけ",
@@ -741,48 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/d7VXMmmvkvKi4NKZ2j4L7k",
       "content_text": "結構疲れてきた感覚がある",
       "date_published": "2025-12-03T15:00:01.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/k6vD3ZWNmSib6yThbK2aDC",
-      "url": "https://usememos.yammer.jp/memos/k6vD3ZWNmSib6yThbK2aDC",
-      "content_text": "microcloudに興味出てきた",
-      "date_published": "2025-11-22T08:34:50.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/ZGeVxfTQ3GVWfTdaRYc85k",
-      "url": "https://usememos.yammer.jp/memos/ZGeVxfTQ3GVWfTdaRYc85k",
-      "content_text": "frankenPHP、cgoで、ランタイム自体はphp-src使っているのか、それでパフォーマンスの差そんなに出るんだな",
-      "date_published": "2025-11-19T14:10:09.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/JQP7QrigpZfriZDRPKg3bb",
-      "url": "https://usememos.yammer.jp/memos/JQP7QrigpZfriZDRPKg3bb",
-      "content_text": "今どき珍しいかっ飛ばし個人タクシー、クレカ不可PayPayか現金のみ、自由でおもろかった。困る人いそう",
-      "date_published": "2025-11-18T15:57:49.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/GZn5xvKQgR7cY44gqqPwcX",
-      "url": "https://usememos.yammer.jp/memos/GZn5xvKQgR7cY44gqqPwcX",
-      "content_text": "AIっぽい文章やAIっぽいコードがあると目を滑らせて自然とスクロールしてしまうが、その違和感をうまく言語化しないと、手で書く以外で改善できないことになってしまうな",
-      "date_published": "2025-11-18T00:53:16.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/nrLHUDPBNTb56LqoAyC5Gy",
-      "url": "https://usememos.yammer.jp/memos/nrLHUDPBNTb56LqoAyC5Gy",
-      "content_text": "風邪をひいて一回やすみ。音楽を聴いて元気出て一歩進む",
-      "date_published": "2025-11-17T13:30:31.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/UC2Aq8zAuN9tHDvf6Gi87s",
-      "url": "https://usememos.yammer.jp/memos/UC2Aq8zAuN9tHDvf6Gi87s",
-      "content_text": "https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m?si=JU93da6XRWSeKFag_zmFuQ\nをきいて、あしたからがんばろうの気持ちになった",
-      "date_published": "2025-11-17T13:21:37.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/Bf6DHPwHdQjVfsgsDJYKXG",
-      "url": "https://usememos.yammer.jp/memos/Bf6DHPwHdQjVfsgsDJYKXG",
-      "content_text": "いつもはチキンだけどラムにしてみた。肉肉しさを感じられるけど、普段はチキンに戻ろう",
-      "date_published": "2025-11-17T09:31:16.000Z"
     }
   ]
 }
