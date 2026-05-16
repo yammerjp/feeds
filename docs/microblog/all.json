@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/m8ojfiq7ojJLvfi4HTh8qr",
+      "url": "https://usememos.yammer.jp/memos/m8ojfiq7ojJLvfi4HTh8qr",
+      "content_text": "靴交換飲み会が開催されようとしている",
+      "date_published": "2026-05-15T11:16:26.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/MsUbrgksv3mWPXegpKuhPM",
       "url": "https://usememos.yammer.jp/memos/MsUbrgksv3mWPXegpKuhPM",
       "content_text": "OpenCode Go、契約から24時間経たずに週間利用制限になってしまった",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/3U9M6mbYJ9eVyQMbtixZ9C",
       "content_text": "食糧難！",
       "date_published": "2025-12-03T15:23:47.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/d7VXMmmvkvKi4NKZ2j4L7k",
-      "url": "https://usememos.yammer.jp/memos/d7VXMmmvkvKi4NKZ2j4L7k",
-      "content_text": "結構疲れてきた感覚がある",
-      "date_published": "2025-12-03T15:00:01.000Z"
     }
   ]
 }
