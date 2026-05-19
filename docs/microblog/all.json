@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/BFrhpXEtbBnGwhkTpfcopk",
+      "url": "https://usememos.yammer.jp/memos/BFrhpXEtbBnGwhkTpfcopk",
+      "content_text": "体調悪めだったので長く寝たが、睡眠時間が足りていても目覚めがいいわけじゃないので、目覚め改善はなんか別のアクションがいるな",
+      "date_published": "2026-05-18T23:56:50.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/5YaKYCCKEXTS3HV2LFP2iF",
+      "url": "https://usememos.yammer.jp/memos/5YaKYCCKEXTS3HV2LFP2iF",
+      "content_text": "責任という言葉は人によって指し示すものが違いすぎていて、私の思う責任とあなたの思う責任の認識を合わせるのが難し過ぎるのではないかと思うことがある。\n責務という言葉には特に違和感を感じないし、役割を果たすという言葉にも特に違和感を感じない。ただし責任と言われると違和感を感じることがよくある。「責任は俺が取る」「いやあなた/わたしに取れる責任なんてたかが知れている」と。\n(逆に、責任が取れないのでやりませんみたいなのも謎なときがあって、アクションできる状況ですべきなのであれば目的に向かってやるだけで、そこに選択肢はない)\n責任を意識するのではなく、置かれた立場での目的を果たせというほうが適切なのではと思う機会が多いし、その方が意図としてもしっくり来て、引き出せる成果も大きい (結果として目的を果たせて、元々の意図を達成して、関係者にとって意味あるものを思うものを生み出せる) のではと思う。これを責任と呼ぶなら納得感あるが、人によって責任という言葉の捉え方が違い過ぎるから、あんまり責任と言いたくない。\n目的や目標の方が指し示すものが明確で他人と擦り合わせやすいと思う。目的や目標は達成すべきものでそれに対してアクションをとり続けるべきだというのは当たり前だと思っているが、そういうわけでもないという前提があるのかなあ",
+      "date_published": "2026-05-18T11:58:04.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/m8ojfiq7ojJLvfi4HTh8qr",
       "url": "https://usememos.yammer.jp/memos/m8ojfiq7ojJLvfi4HTh8qr",
       "content_text": "靴交換飲み会が開催されようとしている",
@@ -771,18 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/bPS9TUMTa6VHS3qsG8jg8n",
       "content_text": "どうじゃろか",
       "date_published": "2025-12-09T15:31:11.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/XB6MbV4kxXAvSU4Uad48qM",
-      "url": "https://usememos.yammer.jp/memos/XB6MbV4kxXAvSU4Uad48qM",
-      "content_text": "睡眠不足で体調がおわってしまったので昨夜は良く寝て回復。今週は失敗。",
-      "date_published": "2025-12-05T00:50:53.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/3U9M6mbYJ9eVyQMbtixZ9C",
-      "url": "https://usememos.yammer.jp/memos/3U9M6mbYJ9eVyQMbtixZ9C",
-      "content_text": "食糧難！",
-      "date_published": "2025-12-03T15:23:47.000Z"
     }
   ]
 }
