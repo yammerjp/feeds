@@ -5,6 +5,22 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>食堂にゆで卵がある時間、ずっとつかめない</title>
+      <link>https://usememos.yammer.jp/memos/kUeXSvSkcVQbMrfao67nsZ</link>
+      <description>食堂にゆで卵がある時間、ずっとつかめない</description>
+      <guid>https://usememos.yammer.jp/memos/kUeXSvSkcVQbMrfao67nsZ</guid>
+      <pubDate>Thu, 21 May 2026 01:12:37 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>長袖か迷ったが、半袖で来て正解だったような</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mmd7nps2cc2i</link>
+      <description>長袖か迷ったが、半袖で来て正解だったような</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mmd7nps2cc2i</guid>
+      <pubDate>Thu, 21 May 2026 00:58:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>この時間の社のエレベータ、たくさんの人が整然と吸い込まれていく感じ、独特の世界観がある</title>
       <link>https://usememos.yammer.jp/memos/hTbmYtse7b59x4mCEM3zyN</link>
       <description>この時間の社のエレベータ、たくさんの人が整然と吸い込まれていく感じ、独特の世界観がある</description>
@@ -959,14 +975,6 @@ https://zenn.dev/coconala/articles/e1ba22510836fc</description>
       <source>memos</source>
     </item>
     <item>
-      <title>特に用途を決めずにやすいからとNFCタグを買ってしまってまとめて届いた</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mbytaydqzs2o</link>
-      <description>特に用途を決めずにやすいからとNFCタグを買ってしまってまとめて届いた</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mbytaydqzs2o</guid>
-      <pubDate>Fri, 09 Jan 2026 15:37:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
       <title>健康、学び</title>
       <link>https://usememos.yammer.jp/memos/Da3ezPdF9mGTdtSZhyFhVu</link>
       <description>健康、学び</description>
@@ -1074,14 +1082,6 @@ https://note.com/takkyy07/n/nf6976775ddf9
       <description>最寄りの出口のエスカレーターに人が並んでいて、この家に引っ越してからほぼこのピークの時間に帰ったことがないということがわかった</description>
       <guid>https://usememos.yammer.jp/memos/cZqvj5x3PnphpvbE6Jaq3f</guid>
       <pubDate>Fri, 19 Dec 2025 10:48:14 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>これはどうじゃろか</title>
-      <link>https://usememos.yammer.jp/memos/7a5vfNWeLP2ForYHWTy7qK</link>
-      <description>これはどうじゃろか</description>
-      <guid>https://usememos.yammer.jp/memos/7a5vfNWeLP2ForYHWTy7qK</guid>
-      <pubDate>Tue, 09 Dec 2025 15:41:54 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>
