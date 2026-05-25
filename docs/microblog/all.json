@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/f8zjS5UHmXXc2CNV9Dt7Ne",
+      "url": "https://usememos.yammer.jp/memos/f8zjS5UHmXXc2CNV9Dt7Ne",
+      "content_text": "金曜日に掃除ロボットの話題を振られたので「掃除を強制されることで床に物を置かなくなるのがいい」と力説したのに当の私の家は物だらけで長らく走らせていなかったので、日曜夜に重い腰をあげて片付けた、というか物を移動した。\nサイクルキャリアデカすぎ問題はベランダに置くことで解決した。ベランダ、偉大。水道がついてたらもっと最高なんだけどな",
+      "date_published": "2026-05-24T23:18:56.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/kUeXSvSkcVQbMrfao67nsZ",
       "url": "https://usememos.yammer.jp/memos/kUeXSvSkcVQbMrfao67nsZ",
       "content_text": "食堂にゆで卵がある時間、ずっとつかめない",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/EXsbtfqz83CroshdHN38D3",
       "content_text": "よかった\nhttps://note.com/takkyy07/n/nf6976775ddf9\n自分は事業責任者じゃないけど、今のポジションになってやっていくにあたって自分が学んだ捉え方に近いものが言語化されていて「このように言い表すことができるのか」と。表現はシンプルだけれども、うまく言い表せていなかったことがいくつか書いてあって学びになった。",
       "date_published": "2025-12-22T23:20:57.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/cZqvj5x3PnphpvbE6Jaq3f",
-      "url": "https://usememos.yammer.jp/memos/cZqvj5x3PnphpvbE6Jaq3f",
-      "content_text": "最寄りの出口のエスカレーターに人が並んでいて、この家に引っ越してからほぼこのピークの時間に帰ったことがないということがわかった",
-      "date_published": "2025-12-19T10:48:14.000Z"
     }
   ]
 }
