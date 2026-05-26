@@ -5,6 +5,24 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mmons7ewtk2d",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mmons7ewtk2d",
+      "content_text": "スライスチーズをセットで買うと800円を超えちゃうから、1,2枚ぐらいで売って欲しい。",
+      "date_published": "2026-05-25T14:10:00.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mmonrkz7ek2d",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mmonrkz7ek2d",
+      "content_text": "熱すぎるだけといいつつチーズを入れるのはなぜ？",
+      "date_published": "2026-05-25T14:09:00.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mmoneeiibs2d",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mmoneeiibs2d",
+      "content_text": "ローソンの冷凍チゲ鍋うどん、美味しいけどちょっと辛すぎるなと思っていたが、熱すぎるだけということがわかってきた。沸騰した後にチーズと氷を入れてちょうどいい",
+      "date_published": "2026-05-25T14:02:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/f8zjS5UHmXXc2CNV9Dt7Ne",
       "url": "https://usememos.yammer.jp/memos/f8zjS5UHmXXc2CNV9Dt7Ne",
       "content_text": "金曜日に掃除ロボットの話題を振られたので「掃除を強制されることで床に物を置かなくなるのがいい」と力説したのに当の私の家は物だらけで長らく走らせていなかったので、日曜夜に重い腰をあげて片付けた、というか物を移動した。\nサイクルキャリアデカすぎ問題はベランダに置くことで解決した。ベランダ、偉大。水道がついてたらもっと最高なんだけどな",
@@ -659,18 +677,6 @@
       "date_published": "2026-01-19T00:32:22.000Z"
     },
     {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcpd6nwfn22y",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mcpd6nwfn22y",
-      "content_text": "引っ越して引っ越して5年ぶりぐらいに眠ってたSesami mini 3をつけてみたけどスマホに繋がらない。リセットボタンを押しすぎて潰してしまったか？",
-      "date_published": "2026-01-18T14:21:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcgcgxye2k2k",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mcgcgxye2k2k",
-      "content_text": "https://blog.kyu08.com/posts/cqrs-documents-by-greg-young/",
-      "date_published": "2026-01-15T00:13:00.000Z"
-    },
-    {
       "id": "https://usememos.yammer.jp/memos/H8mwxMnVAZECFqnq72RETR",
       "url": "https://usememos.yammer.jp/memos/H8mwxMnVAZECFqnq72RETR",
       "content_text": "自然緩和",
@@ -681,12 +687,6 @@
       "url": "https://usememos.yammer.jp/memos/ESn8dshWPQTjhYQJusdtbe",
       "content_text": "腹痛",
       "date_published": "2026-01-14T23:43:28.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcdqkelko22y",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mcdqkelko22y",
-      "content_text": "8両編成でも4-4なのか、はずした",
-      "date_published": "2026-01-13T23:48:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/memos/HxaSrBn4dgXqyo2keYhny6",
