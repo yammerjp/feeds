@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/5R7z6U7Qk8KZauJWUPbb6p",
+      "url": "https://usememos.yammer.jp/memos/5R7z6U7Qk8KZauJWUPbb6p",
+      "content_text": "今日は靴を間違えない",
+      "date_published": "2026-05-26T01:06:05.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/5kgvCWpXrmjrmUVkYDqjSf",
+      "url": "https://usememos.yammer.jp/memos/5kgvCWpXrmjrmUVkYDqjSf",
+      "content_text": "cc-pocketが素晴らしすぎる便利さかも",
+      "date_published": "2026-05-26T01:05:54.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mmons7ewtk2d",
       "url": "https://bsky.app/profile/yammer.jp/post/3mmons7ewtk2d",
       "content_text": "スライスチーズをセットで買うと800円を超えちゃうから、1,2枚ぐらいで売って欲しい。",
@@ -771,18 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/ZpMCsZJnK6HBj8q6eWFyXr",
       "content_text": "なやましいときにはなやましいと言う。さらっと言う",
       "date_published": "2026-01-01T01:17:45.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/PLxmnhV3LRVG3RAJj4XR8d",
-      "url": "https://usememos.yammer.jp/memos/PLxmnhV3LRVG3RAJj4XR8d",
-      "content_text": "途中から見たので、アリアリ〜のネタ見れなかった",
-      "date_published": "2025-12-31T17:00:45.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/EXsbtfqz83CroshdHN38D3",
-      "url": "https://usememos.yammer.jp/memos/EXsbtfqz83CroshdHN38D3",
-      "content_text": "よかった\nhttps://note.com/takkyy07/n/nf6976775ddf9\n自分は事業責任者じゃないけど、今のポジションになってやっていくにあたって自分が学んだ捉え方に近いものが言語化されていて「このように言い表すことができるのか」と。表現はシンプルだけれども、うまく言い表せていなかったことがいくつか書いてあって学びになった。",
-      "date_published": "2025-12-22T23:20:57.000Z"
     }
   ]
 }
