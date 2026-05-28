@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>たまにはラーメン屋に</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mmtpc2hk5c23</link>
+      <description>たまにはラーメン屋に</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mmtpc2hk5c23</guid>
+      <pubDate>Wed, 27 May 2026 14:20:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>今日は靴を間違えない</title>
       <link>https://usememos.yammer.jp/memos/5R7z6U7Qk8KZauJWUPbb6p</link>
       <description>今日は靴を間違えない</description>
@@ -928,14 +936,6 @@ https://www.latent.space/p/reviews-dead</description>
       <description>8-4-4 勝利</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcstqvgo2c2j</guid>
       <pubDate>Mon, 19 Jan 2026 23:55:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>10両4-4 あたり</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mcqffhwb5s2j</link>
-      <description>10両4-4 あたり</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcqffhwb5s2j</guid>
-      <pubDate>Mon, 19 Jan 2026 00:33:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
     <item>

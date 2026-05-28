@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mmtpc2hk5c23",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mmtpc2hk5c23",
+      "content_text": "たまにはラーメン屋に",
+      "date_published": "2026-05-27T14:20:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/5R7z6U7Qk8KZauJWUPbb6p",
       "url": "https://usememos.yammer.jp/memos/5R7z6U7Qk8KZauJWUPbb6p",
       "content_text": "今日は靴を間違えない",
@@ -675,12 +681,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mcstqvgo2c2j",
       "content_text": "8-4-4 勝利",
       "date_published": "2026-01-19T23:55:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcqffhwb5s2j",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mcqffhwb5s2j",
-      "content_text": "10両4-4 あたり",
-      "date_published": "2026-01-19T00:33:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/memos/eCvbrwZiCrSnZAWRNCmkYK",
