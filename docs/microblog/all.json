@@ -5,6 +5,30 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/irYL7kRxm8qNb99D3VJxyM",
+      "url": "https://usememos.yammer.jp/memos/irYL7kRxm8qNb99D3VJxyM",
+      "content_text": "RSSフィードをリブートしようとしてたらこんな時間に。OSSのfusionをセルフホストしているが、Tinder風のカードスワイプ型UIが欲しくなってきた",
+      "date_published": "2026-05-28T17:24:51.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/4WGDYahqhWPVCqvLV2WqLP",
+      "url": "https://usememos.yammer.jp/memos/4WGDYahqhWPVCqvLV2WqLP",
+      "content_text": "のように書くとタグになる？",
+      "date_published": "2026-05-28T15:41:37.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/japogGfLb5esME3ZvGCGdZ",
+      "url": "https://usememos.yammer.jp/memos/japogGfLb5esME3ZvGCGdZ",
+      "content_text": "具体がして緊急度を上げられるロジックを持てていないからな気がする。hai..\nhttps://note.com/mryy/n/n78d9ac66059e",
+      "date_published": "2026-05-28T12:32:51.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/9uya86MGR8cWuvcaxxJ5EF",
+      "url": "https://usememos.yammer.jp/memos/9uya86MGR8cWuvcaxxJ5EF",
+      "content_text": "ランニングは面倒臭いのでチャリに乗る",
+      "date_published": "2026-05-28T11:36:07.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mmtpc2hk5c23",
       "url": "https://bsky.app/profile/yammer.jp/post/3mmtpc2hk5c23",
       "content_text": "たまにはラーメン屋に",
@@ -759,30 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/SDVPv46ENYtfpjtkVscbWY",
       "content_text": "6時半に起きて体が動き始めてからランニングして、だと渋谷着くのは9時半になってしまった。家は綺麗にして出てこれたのはよかった。家を出るまでをもう少し早くしないとじゃな",
       "date_published": "2026-01-05T00:20:33.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/VvdW7f7gry6dPe34VSgxRH",
-      "url": "https://usememos.yammer.jp/memos/VvdW7f7gry6dPe34VSgxRH",
-      "content_text": "個人サイトは盆栽",
-      "date_published": "2026-01-03T02:05:43.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/NJMgNkA7U7ckLG6c6dsDZ8",
-      "url": "https://usememos.yammer.jp/memos/NJMgNkA7U7ckLG6c6dsDZ8",
-      "content_text": "ガチアクタ、一気見した",
-      "date_published": "2026-01-02T13:10:28.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/T6PDjWrKrHuspxuVBTfa9D",
-      "url": "https://usememos.yammer.jp/memos/T6PDjWrKrHuspxuVBTfa9D",
-      "content_text": "ふーんなるほどね\nhttps://git-wrapped.com/profiles/yammerjp",
-      "date_published": "2026-01-01T03:10:39.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/ZpMCsZJnK6HBj8q6eWFyXr",
-      "url": "https://usememos.yammer.jp/memos/ZpMCsZJnK6HBj8q6eWFyXr",
-      "content_text": "なやましいときにはなやましいと言う。さらっと言う",
-      "date_published": "2026-01-01T01:17:45.000Z"
     }
   ]
 }
