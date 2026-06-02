@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/bBwsra2pkXYQtafoXFZcVH",
+      "url": "https://usememos.yammer.jp/memos/bBwsra2pkXYQtafoXFZcVH",
+      "content_text": "MoneytreeのChatGPT連携が出たそうなので試してみた。\n雑に聞くと出費が荒いことへのオーバービューや感想をAIが教えてくれて便利！\nChatGPT Appsでアプリの履歴の埋め込みがされるのだけど、あんまり細かくみないでAIに聞いちゃうなあ。単なる表以外の表現をしたいなら良いけど、と言う感じだろうか。支出のグラフは一応出してくれていて、それはもちろんいいけど、コーディングエージェントに慣れているとデータを集めて集計する作業場とコードというのが当たり前になってしまっているので、ChatGPTとの対話では物足りない気持ちになる。\nとはいえ、金融関係でhogefugaというのがありそうだが連携してくれてありがたい、AI時代の最適な体験というのはまだ全然道半ばだろうから、自分もうまく言語化してうまいものをつくっていかないといけないなという気持ちになる",
+      "date_published": "2026-06-02T00:16:52.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mnac6yxvx22x",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mnac6yxvx22x",
+      "content_text": "ひさフリ (ひさびさにフリスビー丼)",
+      "date_published": "2026-06-01T14:30:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/YJ5UEoX9TbYWehFm959ce9",
       "url": "https://usememos.yammer.jp/memos/YJ5UEoX9TbYWehFm959ce9",
       "content_text": "とても天気がいい。そんなに日当たりのいい家ではないが、それでも寝室に陽の光が結構差し込んで、目覚ましの前に起きた。といってもベッドから出るほど血圧が何かが上がるのにはぼちぼち時間がかかる。昨日は夜更かしもほどほどだったが、もっと早く寝てもよかったな。\n朝は妻と同じ時間に家を出て、会社の別ビルにある食堂に来た。眺めが良いのと気分転換にもなるので、適当なカフェでなくこちらに来るといいね。\n家のコードを触ろうと思ったが、自宅のmac miniがTailscaleに参加していないようなので諦めた。間違えてコンセントを抜いてしまったか。",
@@ -731,12 +743,6 @@
       "date_published": "2026-01-20T01:14:00.000Z"
     },
     {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcstqvgo2c2j",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mcstqvgo2c2j",
-      "content_text": "8-4-4 勝利",
-      "date_published": "2026-01-19T23:55:00.000Z"
-    },
-    {
       "id": "https://usememos.yammer.jp/memos/eCvbrwZiCrSnZAWRNCmkYK",
       "url": "https://usememos.yammer.jp/memos/eCvbrwZiCrSnZAWRNCmkYK",
       "content_text": "お手製日記アプリ、凝りようはあるけど、ネイティブなおかげでビルドなどなどがあってマシンを持ち歩かないとやりづらいなどがあり続けづらい",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/6FgRaUemTSLCFitTceSbbP",
       "content_text": "テンションをつかむ",
       "date_published": "2026-01-10T08:17:02.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/Da3ezPdF9mGTdtSZhyFhVu",
-      "url": "https://usememos.yammer.jp/memos/Da3ezPdF9mGTdtSZhyFhVu",
-      "content_text": "健康、学び",
-      "date_published": "2026-01-08T23:00:16.000Z"
     }
   ]
 }

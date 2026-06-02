@@ -5,6 +5,27 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>MoneytreeのChatGPT連携が出たそうなので試してみた。
+雑に聞くと出費が荒いことへのオーバービューや感想をAIが教えてくれて便利！
+ChatGPT Appsでアプリの履歴の埋め込みがされる</title>
+      <link>https://usememos.yammer.jp/memos/bBwsra2pkXYQtafoXFZcVH</link>
+      <description>MoneytreeのChatGPT連携が出たそうなので試してみた。
+雑に聞くと出費が荒いことへのオーバービューや感想をAIが教えてくれて便利！
+ChatGPT Appsでアプリの履歴の埋め込みがされるのだけど、あんまり細かくみないでAIに聞いちゃうなあ。単なる表以外の表現をしたいなら良いけど、と言う感じだろうか。支出のグラフは一応出してくれていて、それはもちろんいいけど、コーディングエージェントに慣れているとデータを集めて集計する作業場とコードというのが当たり前になってしまっているので、ChatGPTとの対話では物足りない気持ちになる。
+とはいえ、金融関係でhogefugaというのがありそうだが連携してくれてありがたい、AI時代の最適な体験というのはまだ全然道半ばだろうから、自分もうまく言語化してうまいものをつくっていかないといけないなという気持ちになる</description>
+      <guid>https://usememos.yammer.jp/memos/bBwsra2pkXYQtafoXFZcVH</guid>
+      <pubDate>Tue, 02 Jun 2026 00:16:52 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>ひさフリ (ひさびさにフリスビー丼)</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mnac6yxvx22x</link>
+      <description>ひさフリ (ひさびさにフリスビー丼)</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mnac6yxvx22x</guid>
+      <pubDate>Mon, 01 Jun 2026 14:30:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>とても天気がいい。そんなに日当たりのいい家ではないが、それでも寝室に陽の光が結構差し込んで、目覚ましの前に起きた。といってもベッドから出るほど血圧が何かが上がるのにはぼちぼち時間がかかる。昨日は夜更か</title>
       <link>https://usememos.yammer.jp/memos/YJ5UEoX9TbYWehFm959ce9</link>
       <description>とても天気がいい。そんなに日当たりのいい家ではないが、それでも寝室に陽の光が結構差し込んで、目覚ましの前に起きた。といってもベッドから出るほど血圧が何かが上がるのにはぼちぼち時間がかかる。昨日は夜更かしもほどほどだったが、もっと早く寝てもよかったな。
@@ -1012,14 +1033,6 @@ https://www.latent.space/p/reviews-dead</description>
       <source>bluesky</source>
     </item>
     <item>
-      <title>8-4-4 勝利</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mcstqvgo2c2j</link>
-      <description>8-4-4 勝利</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcstqvgo2c2j</guid>
-      <pubDate>Mon, 19 Jan 2026 23:55:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
       <title>お手製日記アプリ、凝りようはあるけど、ネイティブなおかげでビルドなどなどがあってマシンを持ち歩かないとやりづらいなどがあり続けづらい</title>
       <link>https://usememos.yammer.jp/memos/eCvbrwZiCrSnZAWRNCmkYK</link>
       <description>お手製日記アプリ、凝りようはあるけど、ネイティブなおかげでビルドなどなどがあってマシンを持ち歩かないとやりづらいなどがあり続けづらい</description>
@@ -1078,14 +1091,6 @@ https://zenn.dev/coconala/articles/e1ba22510836fc</description>
       <description>テンションをつかむ</description>
       <guid>https://usememos.yammer.jp/memos/6FgRaUemTSLCFitTceSbbP</guid>
       <pubDate>Sat, 10 Jan 2026 08:17:02 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>健康、学び</title>
-      <link>https://usememos.yammer.jp/memos/Da3ezPdF9mGTdtSZhyFhVu</link>
-      <description>健康、学び</description>
-      <guid>https://usememos.yammer.jp/memos/Da3ezPdF9mGTdtSZhyFhVu</guid>
-      <pubDate>Thu, 08 Jan 2026 23:00:16 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>
