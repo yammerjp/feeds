@@ -1,5 +1,3 @@
-import { JSDOM } from "jsdom";
-
 export interface Photo {
   id: string;
   url: string;
@@ -8,35 +6,38 @@ export interface Photo {
   date_published: string;
 }
 
+function extractTag(item: string, tagName: string): string {
+  const match = item.match(new RegExp(`<${tagName}\\b[^>]*>([\\s\\S]*?)</${tagName}>`, "i"));
+  return match?.[1]?.trim() || "";
+}
+
+function extractAttribute(item: string, tagName: string, attributeName: string): string {
+  const match = item.match(new RegExp(`<${tagName}\\b[^>]*${attributeName}="([^"]*)"`, "i"));
+  return match?.[1] || "";
+}
+
 /**
  * Parse toycamera RSS feed into Photo array.
  * Extracts image URL from enclosure element.
  */
 export function parseToycameraRss(xml: string): Photo[] {
-  const dom = new JSDOM(xml, { contentType: "text/xml" });
-  const document = dom.window.document;
+  const items = xml.match(/<item\b[\s\S]*?<\/item>/gi) ?? [];
 
-  const photos: Photo[] = [];
-  const items = document.querySelectorAll("item");
+  return items.map((item) => {
+    const title = extractTag(item, "title");
+    const link = extractTag(item, "link");
+    const guid = extractTag(item, "guid");
+    const pubDate = extractTag(item, "pubDate");
+    const imageUrl = extractAttribute(item, "enclosure", "url") || link;
 
-  items.forEach((item) => {
-    const title = item.querySelector("title")?.textContent || "";
-    const link = item.querySelector("link")?.textContent || "";
-    const guid = item.querySelector("guid")?.textContent || "";
-    const pubDate = item.querySelector("pubDate")?.textContent || "";
-    const enclosure = item.querySelector("enclosure");
-    const imageUrl = enclosure?.getAttribute("url") || link;
-
-    photos.push({
-      id: guid,
+    return {
+      id: guid || link,
       url: link,
       title,
       image_url: imageUrl,
       date_published: pubDate ? new Date(pubDate).toISOString() : "",
-    });
+    };
   });
-
-  return photos;
 }
 
 /**
