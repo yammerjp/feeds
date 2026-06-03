@@ -33,6 +33,7 @@ const CONFIG = {
 
 interface FeedItem extends JsonFeedItem {
   source: string;
+  image_url?: string;
 }
 
 function escapeXml(s: string): string {
@@ -58,14 +59,24 @@ function guessYear(month: number, day: number): number {
 function buildRss(items: FeedItem[], options: { title: string; link: string; description: string }): string {
   const rssItems = items
     .map(
-      (item) => `    <item>
-      <title>${escapeXml(item.title || item.content_text?.slice(0, 100) || "")}</title>
-      <link>${escapeXml(item.url)}</link>
-      <description>${escapeXml(item.content_text || "")}</description>
-      <guid>${escapeXml(item.id)}</guid>
-      <pubDate>${item.date_published ? new Date(item.date_published).toUTCString() : ""}</pubDate>
-      <source>${escapeXml(item.source)}</source>
-    </item>`
+      (item) => {
+        const lines = [
+          "    <item>",
+          `      <title>${escapeXml(item.title || item.content_text?.slice(0, 100) || "")}</title>`,
+          `      <link>${escapeXml(item.url)}</link>`,
+          `      <description>${escapeXml(item.content_text || "")}</description>`,
+          `      <guid>${escapeXml(item.id)}</guid>`,
+          `      <pubDate>${item.date_published ? new Date(item.date_published).toUTCString() : ""}</pubDate>`,
+          `      <source>${escapeXml(item.source)}</source>`,
+        ];
+
+        if (item.image_url) {
+          lines.push(`      <enclosure url="${escapeXml(item.image_url)}" type="image/jpeg" />`);
+        }
+
+        lines.push("    </item>");
+        return lines.join("\n");
+      }
     )
     .join("\n");
 

@@ -36,6 +36,8 @@ export interface YamapActivityFeedItem {
   url: string;
   title: string;
   content_text: string;
+  content_html?: string;
+  image_url?: string;
   date_published: string;
   source: string;
 }
@@ -97,6 +99,20 @@ function buildContentText(activity: YamapActivity): string {
   return [description, summary].filter((part): part is string => Boolean(part)).join("\n\n");
 }
 
+function buildContentHtml(activity: YamapActivity): string | undefined {
+  const imageUrl = activity.image?.medium_url || activity.image?.url;
+  if (!imageUrl) {
+    return undefined;
+  }
+
+  const alt = resolveTitle(activity)
+    .replace(/&/g, "&amp;")
+    .replace(/"/g, "&quot;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+  return `<img src="${imageUrl}" alt="${alt}" />`;
+}
+
 function mapActivity(activity: YamapActivity): YamapActivityFeedItem | null {
   const datePublished = toIsoTimestamp(activity.public_at ?? activity.updated_at ?? activity.created_at ?? activity.start_at);
   if (!datePublished) {
@@ -108,6 +124,8 @@ function mapActivity(activity: YamapActivity): YamapActivityFeedItem | null {
     url: `${YAMAP_WEB_BASE_URL}/activities/${activity.id}`,
     title: resolveTitle(activity),
     content_text: buildContentText(activity),
+    content_html: buildContentHtml(activity),
+    image_url: activity.image?.medium_url || activity.image?.url,
     date_published: datePublished,
     source: "yamap",
   };

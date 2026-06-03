@@ -20,6 +20,9 @@ const sampleResponse = {
         id: 20,
         name: "Trekking",
       },
+      image: {
+        medium_url: "https://example.com/yamap.jpg",
+      },
     },
   ],
   meta: {
@@ -41,6 +44,8 @@ describe("parseYamapActivitiesResponse", () => {
     expect(items[0].title).toBe("菅平牧場→四阿山→根子岳");
     expect(items[0].content_text).toContain("菅平牧場に車中泊して、朝から四阿山へ。");
     expect(items[0].content_text).toContain("9.7km");
+    expect(items[0].content_html).toBe('<img src="https://example.com/yamap.jpg" alt="菅平牧場→四阿山→根子岳" />');
+    expect(items[0].image_url).toBe("https://example.com/yamap.jpg");
     expect(items[0].date_published).toBe("2026-05-24T10:31:01.000Z");
     expect(items[0].source).toBe("yamap");
   });
