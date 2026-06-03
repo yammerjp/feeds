@@ -5,6 +5,46 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>AIが大量のコードを生成する昨今、この一行のレビューにどんな意味があるのかと悩まされてしまった。</title>
+      <link>https://usememos.yammer.jp/memos/3LdDzjienip3t8DEsbx5y5</link>
+      <description>AIが大量のコードを生成する昨今、この一行のレビューにどんな意味があるのかと悩まされてしまった。</description>
+      <guid>https://usememos.yammer.jp/memos/3LdDzjienip3t8DEsbx5y5</guid>
+      <pubDate>Wed, 03 Jun 2026 13:57:51 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>アイスまでキメてしまった</title>
+      <link>https://usememos.yammer.jp/memos/d9UnLCpBS5JrGw423c5LDo</link>
+      <description>アイスまでキメてしまった</description>
+      <guid>https://usememos.yammer.jp/memos/d9UnLCpBS5JrGw423c5LDo</guid>
+      <pubDate>Wed, 03 Jun 2026 13:41:37 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>活気のある店員さん、みなぎるやる気！</title>
+      <link>https://usememos.yammer.jp/memos/Qr6non3XEnDiUjenGJ9U72</link>
+      <description>活気のある店員さん、みなぎるやる気！</description>
+      <guid>https://usememos.yammer.jp/memos/Qr6non3XEnDiUjenGJ9U72</guid>
+      <pubDate>Wed, 03 Jun 2026 13:38:37 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>カッとなったらラーメン食いにいく！これが心の健康の秘訣</title>
+      <link>https://usememos.yammer.jp/memos/euvnFPTEkNSZi9THtdFwp5</link>
+      <description>カッとなったらラーメン食いにいく！これが心の健康の秘訣</description>
+      <guid>https://usememos.yammer.jp/memos/euvnFPTEkNSZi9THtdFwp5</guid>
+      <pubDate>Wed, 03 Jun 2026 13:21:33 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>家にある食料をあさる</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mnebm3gffs2j</link>
+      <description>家にある食料をあさる</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mnebm3gffs2j</guid>
+      <pubDate>Wed, 03 Jun 2026 04:30:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>MoneytreeのChatGPT連携が出たそうなので試してみた。
 雑に聞くと出費が荒いことへのオーバービューや感想をAIが教えてくれて便利！
 ChatGPT Appsでアプリの履歴の埋め込みがされる</title>
@@ -1025,14 +1065,6 @@ https://www.latent.space/p/reviews-dead</description>
       <source>memos</source>
     </item>
     <item>
-      <title>awkblogで使っているDockerイメージ、GDもビルドするようにした https://github.com/yammerjp/gawk-pgsql-docker</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mcsy5eu7jk2h</link>
-      <description>awkblogで使っているDockerイメージ、GDもビルドするようにした https://github.com/yammerjp/gawk-pgsql-docker</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcsy5eu7jk2h</guid>
-      <pubDate>Tue, 20 Jan 2026 01:14:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
       <title>お手製日記アプリ、凝りようはあるけど、ネイティブなおかげでビルドなどなどがあってマシンを持ち歩かないとやりづらいなどがあり続けづらい</title>
       <link>https://usememos.yammer.jp/memos/eCvbrwZiCrSnZAWRNCmkYK</link>
       <description>お手製日記アプリ、凝りようはあるけど、ネイティブなおかげでビルドなどなどがあってマシンを持ち歩かないとやりづらいなどがあり続けづらい</description>
@@ -1054,43 +1086,6 @@ https://www.latent.space/p/reviews-dead</description>
       <description>腹痛</description>
       <guid>https://usememos.yammer.jp/memos/ESn8dshWPQTjhYQJusdtbe</guid>
       <pubDate>Wed, 14 Jan 2026 23:43:28 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>いい記事だった
-作業の外の考える範囲のひろさがひろがって、それを楽しいと受け取れているポジティブさが。
-ところでZenn、書いた人の名前を出さずに会社名だけ出せるのか？どんな人が書いたかしれるとよかっ</title>
-      <link>https://usememos.yammer.jp/memos/HxaSrBn4dgXqyo2keYhny6</link>
-      <description>いい記事だった
-作業の外の考える範囲のひろさがひろがって、それを楽しいと受け取れているポジティブさが。
-ところでZenn、書いた人の名前を出さずに会社名だけ出せるのか？どんな人が書いたかしれるとよかったかなあ
-https://zenn.dev/coconala/articles/e1ba22510836fc</description>
-      <guid>https://usememos.yammer.jp/memos/HxaSrBn4dgXqyo2keYhny6</guid>
-      <pubDate>Tue, 13 Jan 2026 23:44:09 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>テーブルを買い替えた結果、また処理せねばならない粗大ゴミが増えてしまった</title>
-      <link>https://usememos.yammer.jp/memos/aGi9nymc5uDTK4YC3ACXpR</link>
-      <description>テーブルを買い替えた結果、また処理せねばならない粗大ゴミが増えてしまった</description>
-      <guid>https://usememos.yammer.jp/memos/aGi9nymc5uDTK4YC3ACXpR</guid>
-      <pubDate>Mon, 12 Jan 2026 08:49:34 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>年明けから毎日走った結果、最寄り駅まで走って時間短縮するための体力という非常に実用的な能力が身についてしまった</title>
-      <link>https://usememos.yammer.jp/memos/RCSvBwZM6d3jyrW94vdYrc</link>
-      <description>年明けから毎日走った結果、最寄り駅まで走って時間短縮するための体力という非常に実用的な能力が身についてしまった</description>
-      <guid>https://usememos.yammer.jp/memos/RCSvBwZM6d3jyrW94vdYrc</guid>
-      <pubDate>Sun, 11 Jan 2026 00:53:32 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>テンションをつかむ</title>
-      <link>https://usememos.yammer.jp/memos/6FgRaUemTSLCFitTceSbbP</link>
-      <description>テンションをつかむ</description>
-      <guid>https://usememos.yammer.jp/memos/6FgRaUemTSLCFitTceSbbP</guid>
-      <pubDate>Sat, 10 Jan 2026 08:17:02 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>

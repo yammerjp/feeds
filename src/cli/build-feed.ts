@@ -6,6 +6,9 @@ import { fetchToycamera, type Photo } from "../feeds/photos/toycamera.js";
 import { fetchBlogFeed, type BlogPost } from "../feeds/posts/blog-feed.js";
 import { fetchPodcast, type PodcastEpisode } from "../feeds/podcast/listen-style.js";
 import { staticEpisodes } from "../feeds/podcast/static-episodes.js";
+import { fetchScrapboxFeed, type ScrapboxPage } from "../feeds/activities/scrapbox.js";
+import { fetchStravaFeed, type StravaActivity } from "../feeds/activities/strava.js";
+import { fetchYamapActivities, type YamapActivityFeedItem } from "../feeds/activities/yamap.js";
 import { buildJsonFeed, type JsonFeedItem } from "../lib/json-feed/builder.js";
 
 // Configuration
@@ -15,6 +18,9 @@ const CONFIG = {
   memosRssUrl: "https://usememos.yammer.jp/u/yammer/rss.xml",
   photosRssUrl: "https://toycamera.yammer.jp/@yammer/feed.xml",
   podcastRssUrl: "https://listen.style/p/yammer/rss",
+  scrapboxProjectName: "yammer",
+  stravaRssUrl: "https://feedmyride.net/activities/429550734",
+  yamapUserId: "3805190",
   blogFeeds: [
     { name: "memo", url: "https://memo.yammer.jp/posts/index.xml", title: "memo.yammer.jp" },
     { name: "hatena", url: "https://basd4g.hatenablog.com/feed", title: "はてなブログ" },
@@ -77,11 +83,13 @@ ${rssItems}
 async function main() {
   const microblogDir = "docs/microblog";
   const photosDir = "docs/photos";
+  const activitiesDir = "docs/activities";
   const postsDir = "docs/posts";
   const podcastDir = "docs/podcast";
 
   mkdirSync(microblogDir, { recursive: true });
   mkdirSync(photosDir, { recursive: true });
+  mkdirSync(activitiesDir, { recursive: true });
   mkdirSync(postsDir, { recursive: true });
   mkdirSync(podcastDir, { recursive: true });
 
@@ -185,7 +193,84 @@ async function main() {
   );
   console.log(`Saved photos feed`);
 
-  // 5. Blog posts
+  // 5. Activities
+  console.log(`Fetching Scrapbox...`);
+  const scrapboxItems = await fetchScrapboxFeed(CONFIG.scrapboxProjectName);
+  console.log(`  Fetched ${scrapboxItems.length} Scrapbox pages`);
+
+  const scrapboxJsonFeed = buildJsonFeed(scrapboxItems, {
+    title: "yammer's scrapbox",
+    homePageUrl: `https://scrapbox.io/${CONFIG.scrapboxProjectName}`,
+    feedUrl: `${CONFIG.baseUrl}/activities/scrapbox.json`,
+  });
+  writeFileSync(`${activitiesDir}/scrapbox.json`, scrapboxJsonFeed);
+
+  const scrapboxRss = buildRss(scrapboxItems, {
+    title: "yammer's scrapbox",
+    link: `https://scrapbox.io/${CONFIG.scrapboxProjectName}`,
+    description: "Scrapbox pages from yammer",
+  });
+  writeFileSync(`${activitiesDir}/scrapbox.xml`, scrapboxRss);
+  console.log(`Saved scrapbox feed`);
+
+  console.log(`Fetching YAMAP activities...`);
+  const yamapItems = await fetchYamapActivities(CONFIG.yamapUserId);
+  console.log(`  Fetched ${yamapItems.length} YAMAP activities`);
+
+  const yamapJsonFeed = buildJsonFeed(yamapItems, {
+    title: "yammer's YAMAP activities",
+    homePageUrl: `https://yamap.com/users/${CONFIG.yamapUserId}`,
+    feedUrl: `${CONFIG.baseUrl}/activities/yamap.json`,
+  });
+  writeFileSync(`${activitiesDir}/yamap.json`, yamapJsonFeed);
+
+  const yamapRss = buildRss(yamapItems, {
+    title: "yammer's YAMAP activities",
+    link: `https://yamap.com/users/${CONFIG.yamapUserId}`,
+    description: "YAMAP activities from yammer",
+  });
+  writeFileSync(`${activitiesDir}/yamap.xml`, yamapRss);
+  console.log(`Saved YAMAP feed`);
+
+  console.log(`Fetching Strava...`);
+  const stravaItems = await fetchStravaFeed(CONFIG.stravaRssUrl);
+  console.log(`  Fetched ${stravaItems.length} Strava activities`);
+
+  const stravaJsonFeed = buildJsonFeed(stravaItems, {
+    title: "yammer's Strava activities",
+    homePageUrl: "https://www.strava.com/athletes/429550734",
+    feedUrl: `${CONFIG.baseUrl}/activities/strava.json`,
+  });
+  writeFileSync(`${activitiesDir}/strava.json`, stravaJsonFeed);
+
+  const stravaRss = buildRss(stravaItems, {
+    title: "yammer's Strava activities",
+    link: "https://www.strava.com/athletes/429550734",
+    description: "Strava activities from yammer",
+  });
+  writeFileSync(`${activitiesDir}/strava.xml`, stravaRss);
+  console.log(`Saved Strava feed`);
+
+  const allActivityItems: FeedItem[] = [...scrapboxItems, ...yamapItems, ...stravaItems]
+    .filter((item) => item.date_published)
+    .sort((a, b) => new Date(b.date_published!).getTime() - new Date(a.date_published!).getTime());
+
+  const activitiesJsonFeed = buildJsonFeed(allActivityItems, {
+    title: "yammer's activities",
+    homePageUrl: "https://yammer.jp",
+    feedUrl: `${CONFIG.baseUrl}/activities/all.json`,
+  });
+  writeFileSync(`${activitiesDir}/all.json`, activitiesJsonFeed);
+
+  const activitiesRss = buildRss(allActivityItems, {
+    title: "yammer's activities",
+    link: "https://yammer.jp",
+    description: "Combined feed from Scrapbox, YAMAP, and Strava",
+  });
+  writeFileSync(`${activitiesDir}/all.xml`, activitiesRss);
+  console.log(`Saved activities feed (${allActivityItems.length} items)`);
+
+  // 6. Blog posts
   console.log(`Fetching Blog feeds...`);
   const allBlogItems: FeedItem[] = [];
 
@@ -231,7 +316,7 @@ async function main() {
   );
   console.log(`Saved blog feeds (${sortedPosts.length} items)`);
 
-  // 6. Podcast
+  // 7. Podcast
   console.log(`Fetching Podcast...`);
   const episodes = await fetchPodcast(CONFIG.podcastRssUrl);
   console.log(`  Fetched ${episodes.length} episodes`);

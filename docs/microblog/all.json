@@ -5,6 +5,36 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/3LdDzjienip3t8DEsbx5y5",
+      "url": "https://usememos.yammer.jp/memos/3LdDzjienip3t8DEsbx5y5",
+      "content_text": "AIが大量のコードを生成する昨今、この一行のレビューにどんな意味があるのかと悩まされてしまった。",
+      "date_published": "2026-06-03T13:57:51.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/d9UnLCpBS5JrGw423c5LDo",
+      "url": "https://usememos.yammer.jp/memos/d9UnLCpBS5JrGw423c5LDo",
+      "content_text": "アイスまでキメてしまった",
+      "date_published": "2026-06-03T13:41:37.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/Qr6non3XEnDiUjenGJ9U72",
+      "url": "https://usememos.yammer.jp/memos/Qr6non3XEnDiUjenGJ9U72",
+      "content_text": "活気のある店員さん、みなぎるやる気！",
+      "date_published": "2026-06-03T13:38:37.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/euvnFPTEkNSZi9THtdFwp5",
+      "url": "https://usememos.yammer.jp/memos/euvnFPTEkNSZi9THtdFwp5",
+      "content_text": "カッとなったらラーメン食いにいく！これが心の健康の秘訣",
+      "date_published": "2026-06-03T13:21:33.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mnebm3gffs2j",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mnebm3gffs2j",
+      "content_text": "家にある食料をあさる",
+      "date_published": "2026-06-03T04:30:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/bBwsra2pkXYQtafoXFZcVH",
       "url": "https://usememos.yammer.jp/memos/bBwsra2pkXYQtafoXFZcVH",
       "content_text": "MoneytreeのChatGPT連携が出たそうなので試してみた。\n雑に聞くと出費が荒いことへのオーバービューや感想をAIが教えてくれて便利！\nChatGPT Appsでアプリの履歴の埋め込みがされるのだけど、あんまり細かくみないでAIに聞いちゃうなあ。単なる表以外の表現をしたいなら良いけど、と言う感じだろうか。支出のグラフは一応出してくれていて、それはもちろんいいけど、コーディングエージェントに慣れているとデータを集めて集計する作業場とコードというのが当たり前になってしまっているので、ChatGPTとの対話では物足りない気持ちになる。\nとはいえ、金融関係でhogefugaというのがありそうだが連携してくれてありがたい、AI時代の最適な体験というのはまだ全然道半ばだろうから、自分もうまく言語化してうまいものをつくっていかないといけないなという気持ちになる",
@@ -737,12 +767,6 @@
       "date_published": "2026-01-20T15:33:18.000Z"
     },
     {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcsy5eu7jk2h",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mcsy5eu7jk2h",
-      "content_text": "awkblogで使っているDockerイメージ、GDもビルドするようにした https://github.com/yammerjp/gawk-pgsql-docker",
-      "date_published": "2026-01-20T01:14:00.000Z"
-    },
-    {
       "id": "https://usememos.yammer.jp/memos/eCvbrwZiCrSnZAWRNCmkYK",
       "url": "https://usememos.yammer.jp/memos/eCvbrwZiCrSnZAWRNCmkYK",
       "content_text": "お手製日記アプリ、凝りようはあるけど、ネイティブなおかげでビルドなどなどがあってマシンを持ち歩かないとやりづらいなどがあり続けづらい",
@@ -759,30 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/ESn8dshWPQTjhYQJusdtbe",
       "content_text": "腹痛",
       "date_published": "2026-01-14T23:43:28.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/HxaSrBn4dgXqyo2keYhny6",
-      "url": "https://usememos.yammer.jp/memos/HxaSrBn4dgXqyo2keYhny6",
-      "content_text": "いい記事だった\n作業の外の考える範囲のひろさがひろがって、それを楽しいと受け取れているポジティブさが。\nところでZenn、書いた人の名前を出さずに会社名だけ出せるのか？どんな人が書いたかしれるとよかったかなあ\nhttps://zenn.dev/coconala/articles/e1ba22510836fc",
-      "date_published": "2026-01-13T23:44:09.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/aGi9nymc5uDTK4YC3ACXpR",
-      "url": "https://usememos.yammer.jp/memos/aGi9nymc5uDTK4YC3ACXpR",
-      "content_text": "テーブルを買い替えた結果、また処理せねばならない粗大ゴミが増えてしまった",
-      "date_published": "2026-01-12T08:49:34.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/RCSvBwZM6d3jyrW94vdYrc",
-      "url": "https://usememos.yammer.jp/memos/RCSvBwZM6d3jyrW94vdYrc",
-      "content_text": "年明けから毎日走った結果、最寄り駅まで走って時間短縮するための体力という非常に実用的な能力が身についてしまった",
-      "date_published": "2026-01-11T00:53:32.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/6FgRaUemTSLCFitTceSbbP",
-      "url": "https://usememos.yammer.jp/memos/6FgRaUemTSLCFitTceSbbP",
-      "content_text": "テンションをつかむ",
-      "date_published": "2026-01-10T08:17:02.000Z"
     }
   ]
 }
