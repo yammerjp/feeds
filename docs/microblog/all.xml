@@ -5,6 +5,24 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>またフリ (またまたフリスビー丼)</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mnhsyeucas2s</link>
+      <description>またフリ (またまたフリスビー丼)</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mnhsyeucas2s</guid>
+      <pubDate>Thu, 04 Jun 2026 14:19:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
+      <title>不意に流れてきてわらってしまった
+https://shonenjumpplus.com/episode/9253191254199645523</title>
+      <link>https://usememos.yammer.jp/memos/7txfw8EVbDdR4pbmi6b5Wv</link>
+      <description>不意に流れてきてわらってしまった
+https://shonenjumpplus.com/episode/9253191254199645523</description>
+      <guid>https://usememos.yammer.jp/memos/7txfw8EVbDdR4pbmi6b5Wv</guid>
+      <pubDate>Thu, 04 Jun 2026 00:58:43 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>AIが大量のコードを生成する昨今、この一行のレビューにどんな意味があるのかと悩まされてしまった。</title>
       <link>https://usememos.yammer.jp/memos/3LdDzjienip3t8DEsbx5y5</link>
       <description>AIが大量のコードを生成する昨今、この一行のレビューにどんな意味があるのかと悩まされてしまった。</description>
@@ -1049,14 +1067,6 @@ https://www.latent.space/p/reviews-dead</description>
       <source>memos</source>
     </item>
     <item>
-      <title>今日は3-4が正解だったっぽいが、3-4はずすよりも4-4で外す方が快適</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mcvfy6vppk2z</link>
-      <description>今日は3-4が正解だったっぽいが、3-4はずすよりも4-4で外す方が快適</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcvfy6vppk2z</guid>
-      <pubDate>Wed, 21 Jan 2026 00:27:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
       <title>ちょっと寒すぎるんじゃないですかね</title>
       <link>https://usememos.yammer.jp/memos/3XbBzJG798uisz3rSegt9r</link>
       <description>ちょっと寒すぎるんじゃないですかね</description>
@@ -1078,14 +1088,6 @@ https://www.latent.space/p/reviews-dead</description>
       <description>自然緩和</description>
       <guid>https://usememos.yammer.jp/memos/H8mwxMnVAZECFqnq72RETR</guid>
       <pubDate>Wed, 14 Jan 2026 23:48:21 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>腹痛</title>
-      <link>https://usememos.yammer.jp/memos/ESn8dshWPQTjhYQJusdtbe</link>
-      <description>腹痛</description>
-      <guid>https://usememos.yammer.jp/memos/ESn8dshWPQTjhYQJusdtbe</guid>
-      <pubDate>Wed, 14 Jan 2026 23:43:28 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>

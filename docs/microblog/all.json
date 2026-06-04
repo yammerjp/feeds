@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mnhsyeucas2s",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mnhsyeucas2s",
+      "content_text": "またフリ (またまたフリスビー丼)",
+      "date_published": "2026-06-04T14:19:00.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/7txfw8EVbDdR4pbmi6b5Wv",
+      "url": "https://usememos.yammer.jp/memos/7txfw8EVbDdR4pbmi6b5Wv",
+      "content_text": "不意に流れてきてわらってしまった\nhttps://shonenjumpplus.com/episode/9253191254199645523",
+      "date_published": "2026-06-04T00:58:43.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/3LdDzjienip3t8DEsbx5y5",
       "url": "https://usememos.yammer.jp/memos/3LdDzjienip3t8DEsbx5y5",
       "content_text": "AIが大量のコードを生成する昨今、この一行のレビューにどんな意味があるのかと悩まされてしまった。",
@@ -755,12 +767,6 @@
       "date_published": "2026-01-24T23:59:14.000Z"
     },
     {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mcvfy6vppk2z",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mcvfy6vppk2z",
-      "content_text": "今日は3-4が正解だったっぽいが、3-4はずすよりも4-4で外す方が快適",
-      "date_published": "2026-01-21T00:27:00.000Z"
-    },
-    {
       "id": "https://usememos.yammer.jp/memos/3XbBzJG798uisz3rSegt9r",
       "url": "https://usememos.yammer.jp/memos/3XbBzJG798uisz3rSegt9r",
       "content_text": "ちょっと寒すぎるんじゃないですかね",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/H8mwxMnVAZECFqnq72RETR",
       "content_text": "自然緩和",
       "date_published": "2026-01-14T23:48:21.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/ESn8dshWPQTjhYQJusdtbe",
-      "url": "https://usememos.yammer.jp/memos/ESn8dshWPQTjhYQJusdtbe",
-      "content_text": "腹痛",
-      "date_published": "2026-01-14T23:43:28.000Z"
     }
   ]
 }

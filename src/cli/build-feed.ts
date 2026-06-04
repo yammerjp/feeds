@@ -6,7 +6,7 @@ import { fetchToycamera, type Photo } from "../feeds/photos/toycamera.js";
 import { fetchBlogFeed, type BlogPost } from "../feeds/posts/blog-feed.js";
 import { fetchPodcast, type PodcastEpisode } from "../feeds/podcast/listen-style.js";
 import { staticEpisodes } from "../feeds/podcast/static-episodes.js";
-import { fetchScrapboxFeed, type ScrapboxPage } from "../feeds/activities/scrapbox.js";
+import { fetchScrapboxFeed, type ScrapboxPage } from "../feeds/notes/scrapbox.js";
 import { fetchStravaFeed, type StravaActivity } from "../feeds/activities/strava.js";
 import { fetchYamapActivities, type YamapActivityFeedItem } from "../feeds/activities/yamap.js";
 import { buildJsonFeed, type JsonFeedItem } from "../lib/json-feed/builder.js";
@@ -95,12 +95,14 @@ async function main() {
   const microblogDir = "docs/microblog";
   const photosDir = "docs/photos";
   const activitiesDir = "docs/activities";
+  const notesDir = "docs/notes";
   const postsDir = "docs/posts";
   const podcastDir = "docs/podcast";
 
   mkdirSync(microblogDir, { recursive: true });
   mkdirSync(photosDir, { recursive: true });
   mkdirSync(activitiesDir, { recursive: true });
+  mkdirSync(notesDir, { recursive: true });
   mkdirSync(postsDir, { recursive: true });
   mkdirSync(podcastDir, { recursive: true });
 
@@ -204,26 +206,27 @@ async function main() {
   );
   console.log(`Saved photos feed`);
 
-  // 5. Activities
-  console.log(`Fetching Scrapbox...`);
+  // 5. Notes
+  console.log(`Fetching Scrapbox notes...`);
   const scrapboxItems = await fetchScrapboxFeed(CONFIG.scrapboxProjectName);
   console.log(`  Fetched ${scrapboxItems.length} Scrapbox pages`);
 
   const scrapboxJsonFeed = buildJsonFeed(scrapboxItems, {
-    title: "yammer's scrapbox",
+    title: "yammer's notes",
     homePageUrl: `https://scrapbox.io/${CONFIG.scrapboxProjectName}`,
-    feedUrl: `${CONFIG.baseUrl}/activities/scrapbox.json`,
+    feedUrl: `${CONFIG.baseUrl}/notes/scrapbox.json`,
   });
-  writeFileSync(`${activitiesDir}/scrapbox.json`, scrapboxJsonFeed);
+  writeFileSync(`${notesDir}/scrapbox.json`, scrapboxJsonFeed);
 
   const scrapboxRss = buildRss(scrapboxItems, {
-    title: "yammer's scrapbox",
+    title: "yammer's notes",
     link: `https://scrapbox.io/${CONFIG.scrapboxProjectName}`,
     description: "Scrapbox pages from yammer",
   });
-  writeFileSync(`${activitiesDir}/scrapbox.xml`, scrapboxRss);
-  console.log(`Saved scrapbox feed`);
+  writeFileSync(`${notesDir}/scrapbox.xml`, scrapboxRss);
+  console.log(`Saved scrapbox notes feed`);
 
+  // 6. Activities
   console.log(`Fetching YAMAP activities...`);
   const yamapItems = await fetchYamapActivities(CONFIG.yamapUserId);
   console.log(`  Fetched ${yamapItems.length} YAMAP activities`);
@@ -262,7 +265,7 @@ async function main() {
   writeFileSync(`${activitiesDir}/strava.xml`, stravaRss);
   console.log(`Saved Strava feed`);
 
-  const allActivityItems: FeedItem[] = [...scrapboxItems, ...yamapItems, ...stravaItems]
+  const allActivityItems: FeedItem[] = [...yamapItems, ...stravaItems]
     .filter((item) => item.date_published)
     .sort((a, b) => new Date(b.date_published!).getTime() - new Date(a.date_published!).getTime());
 
@@ -276,12 +279,31 @@ async function main() {
   const activitiesRss = buildRss(allActivityItems, {
     title: "yammer's activities",
     link: "https://yammer.jp",
-    description: "Combined feed from Scrapbox, YAMAP, and Strava",
+    description: "Combined feed from YAMAP and Strava",
   });
   writeFileSync(`${activitiesDir}/all.xml`, activitiesRss);
   console.log(`Saved activities feed (${allActivityItems.length} items)`);
 
-  // 6. Blog posts
+  const allNotesItems: FeedItem[] = [...scrapboxItems]
+    .filter((item) => item.date_published)
+    .sort((a, b) => new Date(b.date_published!).getTime() - new Date(a.date_published!).getTime());
+
+  const notesJsonFeed = buildJsonFeed(allNotesItems, {
+    title: "yammer's notes",
+    homePageUrl: `https://scrapbox.io/${CONFIG.scrapboxProjectName}`,
+    feedUrl: `${CONFIG.baseUrl}/notes/all.json`,
+  });
+  writeFileSync(`${notesDir}/all.json`, notesJsonFeed);
+
+  const notesRss = buildRss(allNotesItems, {
+    title: "yammer's notes",
+    link: `https://scrapbox.io/${CONFIG.scrapboxProjectName}`,
+    description: "Combined Scrapbox notes from yammer",
+  });
+  writeFileSync(`${notesDir}/all.xml`, notesRss);
+  console.log(`Saved notes feed (${allNotesItems.length} items)`);
+
+  // 7. Blog posts
   console.log(`Fetching Blog feeds...`);
   const allBlogItems: FeedItem[] = [];
 
@@ -327,7 +349,7 @@ async function main() {
   );
   console.log(`Saved blog feeds (${sortedPosts.length} items)`);
 
-  // 7. Podcast
+  // 8. Podcast
   console.log(`Fetching Podcast...`);
   const episodes = await fetchPodcast(CONFIG.podcastRssUrl);
   console.log(`  Fetched ${episodes.length} episodes`);
