@@ -17,6 +17,7 @@ export interface YamapActivity {
   created_at?: number;
   updated_at?: number;
   public_at?: number | null;
+  time_zone?: number | null;
   activity_type?: YamapActivityType;
 }
 
@@ -45,12 +46,28 @@ export interface YamapActivityFeedItem {
 const YAMAP_API_BASE_URL = "https://api.yamap.com/v6";
 const YAMAP_WEB_BASE_URL = "https://yamap.com";
 
-function toIsoTimestamp(epochSeconds?: number | null): string {
+function formatIsoWithOffset(epochSeconds: number, offsetMinutes: number): string {
+  const shifted = new Date((epochSeconds + offsetMinutes * 60) * 1000);
+  const year = shifted.getUTCFullYear();
+  const month = String(shifted.getUTCMonth() + 1).padStart(2, "0");
+  const day = String(shifted.getUTCDate()).padStart(2, "0");
+  const hours = String(shifted.getUTCHours()).padStart(2, "0");
+  const minutes = String(shifted.getUTCMinutes()).padStart(2, "0");
+  const seconds = String(shifted.getUTCSeconds()).padStart(2, "0");
+  const sign = offsetMinutes >= 0 ? "+" : "-";
+  const absMinutes = Math.abs(offsetMinutes);
+  const offsetHours = String(Math.floor(absMinutes / 60)).padStart(2, "0");
+  const offsetRemainder = String(absMinutes % 60).padStart(2, "0");
+
+  return `${year}-${month}-${day}T${hours}:${minutes}:${seconds}${sign}${offsetHours}:${offsetRemainder}`;
+}
+
+function toIsoTimestamp(epochSeconds?: number | null, offsetMinutes = 0): string {
   if (!epochSeconds) {
     return "";
   }
 
-  return new Date(epochSeconds * 1000).toISOString();
+  return formatIsoWithOffset(epochSeconds, offsetMinutes);
 }
 
 function formatDistance(distance?: number | null): string | undefined {
@@ -114,7 +131,8 @@ function buildContentHtml(activity: YamapActivity): string | undefined {
 }
 
 function mapActivity(activity: YamapActivity): YamapActivityFeedItem | null {
-  const datePublished = toIsoTimestamp(activity.public_at ?? activity.updated_at ?? activity.created_at ?? activity.start_at);
+  const offsetMinutes = Math.round((activity.time_zone ?? 9) * 60);
+  const datePublished = toIsoTimestamp(activity.start_at ?? activity.finish_at ?? activity.public_at ?? activity.updated_at ?? activity.created_at, offsetMinutes);
   if (!datePublished) {
     return null;
   }

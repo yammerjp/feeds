@@ -16,6 +16,7 @@ const sampleResponse = {
       created_at: 1779588941,
       updated_at: 1779618661,
       public_at: 1779618661,
+      time_zone: 9,
       activity_type: {
         id: 20,
         name: "Trekking",
@@ -46,7 +47,7 @@ describe("parseYamapActivitiesResponse", () => {
     expect(items[0].content_text).toContain("9.7km");
     expect(items[0].content_html).toBe('<img src="https://example.com/yamap.jpg" alt="菅平牧場→四阿山→根子岳" />');
     expect(items[0].image_url).toBe("https://example.com/yamap.jpg");
-    expect(items[0].date_published).toBe("2026-05-24T10:31:01.000Z");
+    expect(items[0].date_published).toBe("2026-05-24T05:37:49+09:00");
     expect(items[0].source).toBe("yamap");
   });
 });

@@ -22,7 +22,7 @@ describe("parseStravaFeed", () => {
     expect(items[0].title).toBe("nido→多摩サイ→等々力渓谷→環七");
     expect(items[0].url).toBe("https://strava.com/activities/18728792651");
     expect(items[0].content_text).toContain("Ride: Distance: 57.9km");
-    expect(items[0].date_published).toBe("2026-05-31T03:03:52.000Z");
+    expect(items[0].date_published).toBe("2026-05-31T12:03:52+09:00");
     expect(items[0].source).toBe("strava");
   });
 });
