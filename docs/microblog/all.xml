@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>日記、iOSアプリを年始に自作してendgameだったはずが、また違うユースケースがあるというので、新しいものを求め始めた</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mnxt5nl34223</link>
+      <description>日記、iOSアプリを年始に自作してendgameだったはずが、また違うユースケースがあるというので、新しいものを求め始めた</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mnxt5nl34223</guid>
+      <pubDate>Wed, 10 Jun 2026 23:05:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>またフリ (またまたフリスビー丼)</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mnhsyeucas2s</link>
       <description>またフリ (またまたフリスビー丼)</description>
@@ -1048,14 +1056,6 @@ https://www.latent.space/p/reviews-dead</description>
       <description>数円しかかかってなかったはずのおうちのGoogle Cloud課金が、気づいたら4000円を超えていたので、全てのCloud Runを消した。一個だけ使い続けていたアプリはDeno Deployに移してみた。</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mdtolob7fs2s</guid>
       <pubDate>Mon, 02 Feb 2026 01:21:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>MySQL 8.4、 mysql_native_password が廃止か</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mdatvalqwc2x</link>
-      <description>MySQL 8.4、 mysql_native_password が廃止か</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mdatvalqwc2x</guid>
-      <pubDate>Sun, 25 Jan 2026 13:35:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
     <item>
