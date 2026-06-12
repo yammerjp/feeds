@@ -5,6 +5,24 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/EMETA6vRjXSdZYYTnLBojz",
+      "url": "https://usememos.yammer.jp/memos/EMETA6vRjXSdZYYTnLBojz",
+      "content_text": "そういえば昨日は午後に頭痛がしたが、バファリン飲んで解決してしまった。症状を抑えるだけの薬なんて飲んでもと思っていたがいやはや素晴らしい。早く帰るつもりが結局オフィスまで残れてしまったし、結果的にはなんともなかったし。いつもこれでうまくいくとは限らないけどね。",
+      "date_published": "2026-06-11T01:40:01.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mny2yt6iuk2o",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mny2yt6iuk2o",
+      "content_text": "久々に違う方面の電車に乗るやつをやってしまった、AirPodsをしている時にやるときまっている。",
+      "date_published": "2026-06-11T01:25:00.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/cDYDGGikUXUHHFLMeT8SxN",
+      "url": "https://usememos.yammer.jp/memos/cDYDGGikUXUHHFLMeT8SxN",
+      "content_text": "記憶で仕事しない\n同じサービスに5年ちかく携わっていると、あのサブシステムからあのサブシステムに通信するパターンはアレだな、とか、あの機能は⚪︎⚪︎がけっこう問題で、とか、そういうインフラやコードに関する細かい箇所への断片的な記憶があって、ふとしたタイミングにそれを引き出して雰囲気で結果だけみつけて仕事を片付けたり交通整理したりするという時が時々ある。\nそういうのを私の中では「記憶で仕事する」と読んでいて、こういうのに出会うたびに自戒の意味を込めて「記憶で仕事しない！」と心の中で呟いている。\n記憶で仕事するというのは、全く論理的ではなくたまたま変なインデックスに当たったから知っているというだけのもので、それで早く仕事が片付くという意味ではいいのだが、再現性の観点では全く価値のない行為だなと思う。また、コードを読んで直感的でないが直感的なように治せていないものの積み重ねなことも往々にしてあるので、申し訳ない気持ちと共にでてくるということもよくある。だからインデックスが記憶に張られているという側面もあるのだが。\n前提として、そういうのを減らして自然に想起できる構造になっているべきではあるが、なかなかそうも言ってられなくて今がある。諦めずにその理想には向かい続けるべきだが、全く別の観点としてAIエージェントにそういうのを教えるにはどうするといいのだろうか。わかりやすいやり方があるならもう他の人にもうまく共有できているはずなのだが。たとえばコードを読んで想像できないものはコメントに書けばいいけど、「ひとつだけこのシステムからこのシステムに通信している」みたいなやつは、ドキュメントに載せても逆にノイズだったりもするしなあ。",
+      "date_published": "2026-06-11T01:23:41.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mnxt5nl34223",
       "url": "https://bsky.app/profile/yammer.jp/post/3mnxt5nl34223",
       "content_text": "日記、iOSアプリを年始に自作してendgameだったはずが、また違うユースケースがあるというので、新しいものを求め始めた",
@@ -19,7 +37,7 @@
     {
       "id": "https://usememos.yammer.jp/memos/7txfw8EVbDdR4pbmi6b5Wv",
       "url": "https://usememos.yammer.jp/memos/7txfw8EVbDdR4pbmi6b5Wv",
-      "content_text": "不意に流れてきてわらってしまった\nhttps://shonenjumpplus.com/episode/9253191254199645523",
+      "content_text": "不意に流れてきてわらってしまった。「貸マチョ屋」\nhttps://shonenjumpplus.com/episode/9253191254199645523",
       "date_published": "2026-06-04T00:58:43.000Z"
     },
     {
@@ -755,12 +773,6 @@
       "date_published": "2026-02-07T23:45:00.000Z"
     },
     {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mdtolob7fs2s",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mdtolob7fs2s",
-      "content_text": "数円しかかかってなかったはずのおうちのGoogle Cloud課金が、気づいたら4000円を超えていたので、全てのCloud Runを消した。一個だけ使い続けていたアプリはDeno Deployに移してみた。",
-      "date_published": "2026-02-02T01:21:00.000Z"
-    },
-    {
       "id": "https://usememos.yammer.jp/memos/j3MA3qsFoK5vMs3MTp2jgQ",
       "url": "https://usememos.yammer.jp/memos/j3MA3qsFoK5vMs3MTp2jgQ",
       "content_text": "腹痛",
@@ -771,18 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/3XbBzJG798uisz3rSegt9r",
       "content_text": "ちょっと寒すぎるんじゃないですかね",
       "date_published": "2026-01-20T15:33:18.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/eCvbrwZiCrSnZAWRNCmkYK",
-      "url": "https://usememos.yammer.jp/memos/eCvbrwZiCrSnZAWRNCmkYK",
-      "content_text": "お手製日記アプリ、凝りようはあるけど、ネイティブなおかげでビルドなどなどがあってマシンを持ち歩かないとやりづらいなどがあり続けづらい",
-      "date_published": "2026-01-19T00:32:22.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/H8mwxMnVAZECFqnq72RETR",
-      "url": "https://usememos.yammer.jp/memos/H8mwxMnVAZECFqnq72RETR",
-      "content_text": "自然緩和",
-      "date_published": "2026-01-14T23:48:21.000Z"
     }
   ]
 }
