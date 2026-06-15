@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/cPmm39iBhHN9BZB2JXoTuW",
+      "url": "https://usememos.yammer.jp/memos/cPmm39iBhHN9BZB2JXoTuW",
+      "content_text": "自分も一連の個人データをセルフホストして集めてみているが、まだあんまりうまく使えていない。\n知らないツールとかもあって勉強になる。家の中に閉じる方が考えることが少ないのでセルフホストを結構推していたけど、永続化的な面で考えることが増えるので、いっそのことBigQueryかどこかにまとめて突っ込んでしまうのが楽かなあ。\nhttps://yutashx.hatenablog.com/entry/2026/06/13/154510",
+      "date_published": "2026-06-14T11:55:24.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/EMETA6vRjXSdZYYTnLBojz",
       "url": "https://usememos.yammer.jp/memos/EMETA6vRjXSdZYYTnLBojz",
       "content_text": "そういえば昨日は午後に頭痛がしたが、バファリン飲んで解決してしまった。症状を抑えるだけの薬なんて飲んでもと思っていたがいやはや素晴らしい。早く帰るつもりが結局オフィスまで残れてしまったし、結果的にはなんともなかったし。いつもこれでうまくいくとは限らないけどね。",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/j3MA3qsFoK5vMs3MTp2jgQ",
       "content_text": "腹痛",
       "date_published": "2026-01-24T23:59:14.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/3XbBzJG798uisz3rSegt9r",
-      "url": "https://usememos.yammer.jp/memos/3XbBzJG798uisz3rSegt9r",
-      "content_text": "ちょっと寒すぎるんじゃないですかね",
-      "date_published": "2026-01-20T15:33:18.000Z"
     }
   ]
 }

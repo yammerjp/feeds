@@ -5,6 +5,17 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>自分も一連の個人データをセルフホストして集めてみているが、まだあんまりうまく使えていない。
+知らないツールとかもあって勉強になる。家の中に閉じる方が考えることが少ないのでセルフホストを結構推していたけ</title>
+      <link>https://usememos.yammer.jp/memos/cPmm39iBhHN9BZB2JXoTuW</link>
+      <description>自分も一連の個人データをセルフホストして集めてみているが、まだあんまりうまく使えていない。
+知らないツールとかもあって勉強になる。家の中に閉じる方が考えることが少ないのでセルフホストを結構推していたけど、永続化的な面で考えることが増えるので、いっそのことBigQueryかどこかにまとめて突っ込んでしまうのが楽かなあ。
+https://yutashx.hatenablog.com/entry/2026/06/13/154510</description>
+      <guid>https://usememos.yammer.jp/memos/cPmm39iBhHN9BZB2JXoTuW</guid>
+      <pubDate>Sun, 14 Jun 2026 11:55:24 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>そういえば昨日は午後に頭痛がしたが、バファリン飲んで解決してしまった。症状を抑えるだけの薬なんて飲んでもと思っていたがいやはや素晴らしい。早く帰るつもりが結局オフィスまで残れてしまったし、結果的にはな</title>
       <link>https://usememos.yammer.jp/memos/EMETA6vRjXSdZYYTnLBojz</link>
       <description>そういえば昨日は午後に頭痛がしたが、バファリン飲んで解決してしまった。症状を抑えるだけの薬なんて飲んでもと思っていたがいやはや素晴らしい。早く帰るつもりが結局オフィスまで残れてしまったし、結果的にはなんともなかったし。いつもこれでうまくいくとは限らないけどね。</description>
@@ -1085,14 +1096,6 @@ https://www.latent.space/p/reviews-dead</description>
       <description>腹痛</description>
       <guid>https://usememos.yammer.jp/memos/j3MA3qsFoK5vMs3MTp2jgQ</guid>
       <pubDate>Sat, 24 Jan 2026 23:59:14 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>ちょっと寒すぎるんじゃないですかね</title>
-      <link>https://usememos.yammer.jp/memos/3XbBzJG798uisz3rSegt9r</link>
-      <description>ちょっと寒すぎるんじゃないですかね</description>
-      <guid>https://usememos.yammer.jp/memos/3XbBzJG798uisz3rSegt9r</guid>
-      <pubDate>Tue, 20 Jan 2026 15:33:18 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>
