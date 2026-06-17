@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>上から下までひっくり返したら案外見つかるもんだな</title>
+      <link>https://usememos.yammer.jp/memos/APoDQCALsNV2fZhz7W4sUi</link>
+      <description>上から下までひっくり返したら案外見つかるもんだな</description>
+      <guid>https://usememos.yammer.jp/memos/APoDQCALsNV2fZhz7W4sUi</guid>
+      <pubDate>Tue, 16 Jun 2026 14:30:20 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>自分も一連の個人データをセルフホストして集めてみているが、まだあんまりうまく使えていない。
 知らないツールとかもあって勉強になる。家の中に閉じる方が考えることが少ないのでセルフホストを結構推していたけ</title>
       <link>https://usememos.yammer.jp/memos/cPmm39iBhHN9BZB2JXoTuW</link>
@@ -1089,14 +1097,6 @@ https://www.latent.space/p/reviews-dead</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3meclzxxwoc2l</guid>
       <pubDate>Sat, 07 Feb 2026 23:45:00 GMT</pubDate>
       <source>bluesky</source>
-    </item>
-    <item>
-      <title>腹痛</title>
-      <link>https://usememos.yammer.jp/memos/j3MA3qsFoK5vMs3MTp2jgQ</link>
-      <description>腹痛</description>
-      <guid>https://usememos.yammer.jp/memos/j3MA3qsFoK5vMs3MTp2jgQ</guid>
-      <pubDate>Sat, 24 Jan 2026 23:59:14 GMT</pubDate>
-      <source>memos</source>
     </item>
   </channel>
 </rss>

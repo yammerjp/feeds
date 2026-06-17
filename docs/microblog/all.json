@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/APoDQCALsNV2fZhz7W4sUi",
+      "url": "https://usememos.yammer.jp/memos/APoDQCALsNV2fZhz7W4sUi",
+      "content_text": "上から下までひっくり返したら案外見つかるもんだな",
+      "date_published": "2026-06-16T14:30:20.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/cPmm39iBhHN9BZB2JXoTuW",
       "url": "https://usememos.yammer.jp/memos/cPmm39iBhHN9BZB2JXoTuW",
       "content_text": "自分も一連の個人データをセルフホストして集めてみているが、まだあんまりうまく使えていない。\n知らないツールとかもあって勉強になる。家の中に閉じる方が考えることが少ないのでセルフホストを結構推していたけど、永続化的な面で考えることが増えるので、いっそのことBigQueryかどこかにまとめて突っ込んでしまうのが楽かなあ。\nhttps://yutashx.hatenablog.com/entry/2026/06/13/154510",
@@ -777,12 +783,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3meclzxxwoc2l",
       "content_text": "完全食を信じているんじゃない、あすけんを信じているんだ",
       "date_published": "2026-02-07T23:45:00.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/j3MA3qsFoK5vMs3MTp2jgQ",
-      "url": "https://usememos.yammer.jp/memos/j3MA3qsFoK5vMs3MTp2jgQ",
-      "content_text": "腹痛",
-      "date_published": "2026-01-24T23:59:14.000Z"
     }
   ]
 }
