@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3moigo7zpzk2d",
+      "url": "https://bsky.app/profile/yammer.jp/post/3moigo7zpzk2d",
+      "content_text": "㊙️ Slackでアンダースコア一字だけをインラインコードで表示すると、🪫 (切れそうな充電マーク) にみえる",
+      "date_published": "2026-06-17T13:37:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/APoDQCALsNV2fZhz7W4sUi",
       "url": "https://usememos.yammer.jp/memos/APoDQCALsNV2fZhz7W4sUi",
       "content_text": "上から下までひっくり返したら案外見つかるもんだな",
@@ -777,12 +783,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3medrcuaync2d",
       "content_text": "ちいかわ、飯テロ危険",
       "date_published": "2026-02-08T10:52:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3meclzxxwoc2l",
-      "url": "https://bsky.app/profile/yammer.jp/post/3meclzxxwoc2l",
-      "content_text": "完全食を信じているんじゃない、あすけんを信じているんだ",
-      "date_published": "2026-02-07T23:45:00.000Z"
     }
   ]
 }

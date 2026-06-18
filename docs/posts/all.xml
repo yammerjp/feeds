@@ -9933,16 +9933,6 @@ gccコマンド(&lt;code&gt;$gcc *.s -static -o willani&lt;/code&gt;)で行っ�
       <source>memo</source>
     </item>
     <item>
-      <title>gimonfu で、はてなブログの記事を GitHub と同期する</title>
-      <link>https://qiita.com/yammerjp/items/1a38857f6bafb20f065d</link>
-      <description>ブログ記事を Markdown で書きたい、さらにgitでバージョン管理したいと思うことはないだろうか？
-私は上記のようなモチベーションで、はてなブログの記事を管理する CLI 「gimonfu」を作成した。
-gimonfuは、はてなブログの記事をMarkdownファイルと...</description>
-      <guid>tag:qiita.com,2005:PublicArticle/1244365</guid>
-      <pubDate>Sun, 14 Jun 2020 13:40:42 GMT</pubDate>
-      <source>qiita</source>
-    </item>
-    <item>
       <title>はてなブログに乗り換えた</title>
       <link>https://memo.yammer.jp/posts/firebase2hatenablog</link>
       <description>&lt;p&gt;昨年に作ったブログの公開場所をはてなブログに変え、名前も「やんまーのブログ」と改名した。&lt;/p&gt;
@@ -10637,16 +10627,6 @@ $ top
       <guid>https://memo.yammer.jp/posts/linux-cpu</guid>
       <pubDate>Sat, 30 May 2020 02:46:49 GMT</pubDate>
       <source>memo</source>
-    </item>
-    <item>
-      <title>非同期のまえに同期処理を通してPromiseとasync/awaitを理解する</title>
-      <link>https://qiita.com/yammerjp/items/b1c96de727a53c4b4698</link>
-      <description>JavaScript といえば非同期処理はつきものだが、非同期や Promise に苦手意識を持つ人も多いのではないだろうか。
-これらの最初の理解のハードルは結構高いと思う。私も理解できずに悶絶した。C言語のポインタよりむずくないか？。。。
-この記事の前半では一旦非同期のこ...</description>
-      <guid>tag:qiita.com,2005:PublicArticle/1233230</guid>
-      <pubDate>Fri, 29 May 2020 17:00:50 GMT</pubDate>
-      <source>qiita</source>
     </item>
     <item>
       <title>数日前からCコンパイラを書き始めた。</title>

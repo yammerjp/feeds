@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>㊙️ Slackでアンダースコア一字だけをインラインコードで表示すると、🪫 (切れそうな充電マーク) にみえる</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3moigo7zpzk2d</link>
+      <description>㊙️ Slackでアンダースコア一字だけをインラインコードで表示すると、🪫 (切れそうな充電マーク) にみえる</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3moigo7zpzk2d</guid>
+      <pubDate>Wed, 17 Jun 2026 13:37:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>上から下までひっくり返したら案外見つかるもんだな</title>
       <link>https://usememos.yammer.jp/memos/APoDQCALsNV2fZhz7W4sUi</link>
       <description>上から下までひっくり返したら案外見つかるもんだな</description>
@@ -1088,14 +1096,6 @@ https://www.latent.space/p/reviews-dead</description>
       <description>ちいかわ、飯テロ危険</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3medrcuaync2d</guid>
       <pubDate>Sun, 08 Feb 2026 10:52:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>完全食を信じているんじゃない、あすけんを信じているんだ</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3meclzxxwoc2l</link>
-      <description>完全食を信じているんじゃない、あすけんを信じているんだ</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3meclzxxwoc2l</guid>
-      <pubDate>Sat, 07 Feb 2026 23:45:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
   </channel>
