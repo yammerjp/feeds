@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mokrx7zapc2c",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mokrx7zapc2c",
+      "content_text": "この時間のすき家は混みすぎて松屋",
+      "date_published": "2026-06-18T12:04:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3moigo7zpzk2d",
       "url": "https://bsky.app/profile/yammer.jp/post/3moigo7zpzk2d",
       "content_text": "㊙️ Slackでアンダースコア一字だけをインラインコードで表示すると、🪫 (切れそうな充電マーク) にみえる",
@@ -777,12 +783,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3meodstnk5s24",
       "content_text": "電車で変なおっさんに絡まれて一回休み",
       "date_published": "2026-02-12T15:50:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3medrcuaync2d",
-      "url": "https://bsky.app/profile/yammer.jp/post/3medrcuaync2d",
-      "content_text": "ちいかわ、飯テロ危険",
-      "date_published": "2026-02-08T10:52:00.000Z"
     }
   ]
 }

@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>この時間のすき家は混みすぎて松屋</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mokrx7zapc2c</link>
+      <description>この時間のすき家は混みすぎて松屋</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mokrx7zapc2c</guid>
+      <pubDate>Thu, 18 Jun 2026 12:04:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>㊙️ Slackでアンダースコア一字だけをインラインコードで表示すると、🪫 (切れそうな充電マーク) にみえる</title>
       <link>https://bsky.app/profile/yammer.jp/post/3moigo7zpzk2d</link>
       <description>㊙️ Slackでアンダースコア一字だけをインラインコードで表示すると、🪫 (切れそうな充電マーク) にみえる</description>
@@ -1088,14 +1096,6 @@ https://www.latent.space/p/reviews-dead</description>
       <description>電車で変なおっさんに絡まれて一回休み</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3meodstnk5s24</guid>
       <pubDate>Thu, 12 Feb 2026 15:50:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>ちいかわ、飯テロ危険</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3medrcuaync2d</link>
-      <description>ちいかわ、飯テロ危険</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3medrcuaync2d</guid>
-      <pubDate>Sun, 08 Feb 2026 10:52:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
   </channel>
