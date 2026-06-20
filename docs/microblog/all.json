@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/JfhEaxVbvfyWX7mf5ZB6eD",
+      "url": "https://usememos.yammer.jp/memos/JfhEaxVbvfyWX7mf5ZB6eD",
+      "content_text": "照り焼きチキンと卵で思い出深くなるようになってしまったか",
+      "date_published": "2026-06-19T01:08:25.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mokrx7zapc2c",
       "url": "https://bsky.app/profile/yammer.jp/post/3mokrx7zapc2c",
       "content_text": "この時間のすき家は混みすぎて松屋",
@@ -759,12 +765,6 @@
       "url": "https://usememos.yammer.jp/memos/BNLaxk73DZztWSqF54gyEz",
       "content_text": "fastcgi_finish_request しらなかった、超便利じゃん！",
       "date_published": "2026-02-19T15:19:47.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/7zSu3cJNbm4BXdZYqZCevf",
-      "url": "https://usememos.yammer.jp/memos/7zSu3cJNbm4BXdZYqZCevf",
-      "content_text": "この電車に乗ったらもうラーメン確定。カロリー1000kmオーバー！",
-      "date_published": "2026-02-19T15:19:31.000Z"
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mequafibck2d",
