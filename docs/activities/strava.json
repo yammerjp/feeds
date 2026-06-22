@@ -5,6 +5,13 @@
   "feed_url": "https://yammerjp.github.io/feeds/activities/strava.json",
   "items": [
     {
+      "id": "https://strava.com/activities/19005284753",
+      "url": "https://strava.com/activities/19005284753",
+      "title": "午後のローイング",
+      "content_text": "Rowing: Distance: 0.0km, Elevation Gain: 0m, Moving Time: 01:43:50, Average Speed: 0.0km/h",
+      "date_published": "2026-06-21T13:11:16+09:00"
+    },
+    {
       "id": "https://strava.com/activities/18982935610",
       "url": "https://strava.com/activities/18982935610",
       "title": "夜のローイング",
