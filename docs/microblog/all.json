@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/eDNmtGN8ycvA2LTCCvQqSa",
+      "url": "https://usememos.yammer.jp/memos/eDNmtGN8ycvA2LTCCvQqSa",
+      "content_text": "ChatGPTそろそろイライラしてきた。Claude Maxけいやくする？...",
+      "date_published": "2026-06-22T23:52:32.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/mtkPN5xLAzqiqVoL4u57h7",
       "url": "https://usememos.yammer.jp/memos/mtkPN5xLAzqiqVoL4u57h7",
       "content_text": "おりてきたあとすぐに風呂に入り、畳で寝てキマった",
@@ -759,12 +765,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mfj74nmyvc24",
       "content_text": "Keyball44を久々に使ってみたがトラックボールの滑りが悪い。ここで活躍！ SUPERクレポリメイトSTRONG",
       "date_published": "2026-02-23T08:08:00.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/TDay6ef6JRFe9wzHxFEgKP",
-      "url": "https://usememos.yammer.jp/memos/TDay6ef6JRFe9wzHxFEgKP",
-      "content_text": "picoclawのセットアップをClaude Codeにやらせるという、なんというディストピア",
-      "date_published": "2026-02-21T17:13:53.000Z"
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mequafibck2d",
