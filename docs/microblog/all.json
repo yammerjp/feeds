@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/ZzrxCw7a4uV7hxggX3GSSL",
+      "url": "https://usememos.yammer.jp/memos/ZzrxCw7a4uV7hxggX3GSSL",
+      "content_text": "野暮用でXいれたけどいいことがひとつもない",
+      "date_published": "2026-07-01T00:49:50.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/nCYh8g2fcuLS4dM83jmLwR",
       "url": "https://usememos.yammer.jp/memos/nCYh8g2fcuLS4dM83jmLwR",
       "content_text": "久々にApple Watchを忘れたが家に取りに帰らず。でも今日の取りに帰らなかったのは余裕がなさすぎるからじゃないからね！",
@@ -741,12 +747,6 @@
       "url": "https://usememos.yammer.jp/memos/3VCS9oxe2g2mBdhPxbHHyf",
       "content_text": "OpenClaw生活のためにまたChatGPT Plusに加入",
       "date_published": "2026-02-26T01:22:08.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/aeY7GQ2fJ4Viip9iVfb8nn",
-      "url": "https://usememos.yammer.jp/memos/aeY7GQ2fJ4Viip9iVfb8nn",
-      "content_text": "セキュリティと技術者倫理もセットでバイブスを効かせていく必要がある。",
-      "date_published": "2026-02-24T15:26:19.000Z"
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfkw7czouk2u",
