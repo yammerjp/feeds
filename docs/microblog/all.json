@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mptoiy2axs2g",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mptoiy2axs2g",
+      "content_text": "久々に夜更かし",
+      "date_published": "2026-07-04T18:21:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/ZzrxCw7a4uV7hxggX3GSSL",
       "url": "https://usememos.yammer.jp/memos/ZzrxCw7a4uV7hxggX3GSSL",
       "content_text": "野暮用でXいれたけどいいことがひとつもない",
@@ -777,12 +783,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3meqqjiljic2d",
       "content_text": "ランニングが火曜で途切れてしまったので取り返さねば",
       "date_published": "2026-02-13T14:42:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3meodstnk5s24",
-      "url": "https://bsky.app/profile/yammer.jp/post/3meodstnk5s24",
-      "content_text": "電車で変なおっさんに絡まれて一回休み",
-      "date_published": "2026-02-12T15:50:00.000Z"
     }
   ]
 }

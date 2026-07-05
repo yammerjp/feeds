@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>久々に夜更かし</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mptoiy2axs2g</link>
+      <description>久々に夜更かし</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mptoiy2axs2g</guid>
+      <pubDate>Sat, 04 Jul 2026 18:21:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>野暮用でXいれたけどいいことがひとつもない</title>
       <link>https://usememos.yammer.jp/memos/ZzrxCw7a4uV7hxggX3GSSL</link>
       <description>野暮用でXいれたけどいいことがひとつもない</description>
@@ -1088,14 +1096,6 @@ https://www.latent.space/p/reviews-dead</description>
       <description>ランニングが火曜で途切れてしまったので取り返さねば</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3meqqjiljic2d</guid>
       <pubDate>Fri, 13 Feb 2026 14:42:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>電車で変なおっさんに絡まれて一回休み</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3meodstnk5s24</link>
-      <description>電車で変なおっさんに絡まれて一回休み</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3meodstnk5s24</guid>
-      <pubDate>Thu, 12 Feb 2026 15:50:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
   </channel>
