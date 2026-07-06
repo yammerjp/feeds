@@ -5,6 +5,24 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mpwx5nl6k22k",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mpwx5nl6k22k",
+      "content_text": "ぜんぜんClaude",
+      "date_published": "2026-07-06T01:34:00.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/fMkfgQSxV4ECQc2xN6rxFg",
+      "url": "https://usememos.yammer.jp/memos/fMkfgQSxV4ECQc2xN6rxFg",
+      "content_text": "Codexの枠を使い切ってClaude Proを契約。ccpocketからサブスクリプション枠を使えないのが悲しいけれど、Sonnet 5が良いのでBlinkから頑張って使う。アプリを切り替えるとコネクションが切れるのでssh xxx, tmux a と何度打ったことか",
+      "date_published": "2026-07-06T00:33:16.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/MuBWNZAGiyA4SeWeZarbqG",
+      "url": "https://usememos.yammer.jp/memos/MuBWNZAGiyA4SeWeZarbqG",
+      "content_text": "Railsならこう、これを再発明したくない、でもやるしかない、みたいなのが多過ぎる",
+      "date_published": "2026-07-06T00:31:34.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mptoiy2axs2g",
       "url": "https://bsky.app/profile/yammer.jp/post/3mptoiy2axs2g",
       "content_text": "久々に夜更かし",
@@ -743,18 +761,6 @@
       "date_published": "2026-02-27T13:42:54.000Z"
     },
     {
-      "id": "https://usememos.yammer.jp/memos/Y98KpFkVpqkoMDBZWqkp5z",
-      "url": "https://usememos.yammer.jp/memos/Y98KpFkVpqkoMDBZWqkp5z",
-      "content_text": "LLMによって、ソフトウェアエンジニアリングにおける特殊性を求められていた領域がだんだん狭まって、ビジネスパーソンぽさのある仕事がふえてくるのかなあ、どうだろうか",
-      "date_published": "2026-02-27T13:42:34.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/3VCS9oxe2g2mBdhPxbHHyf",
-      "url": "https://usememos.yammer.jp/memos/3VCS9oxe2g2mBdhPxbHHyf",
-      "content_text": "OpenClaw生活のためにまたChatGPT Plusに加入",
-      "date_published": "2026-02-26T01:22:08.000Z"
-    },
-    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfkw7czouk2u",
       "url": "https://bsky.app/profile/yammer.jp/post/3mfkw7czouk2u",
       "content_text": "Face ID、きっと花粉症でない人が作ったのだろうな",
@@ -777,12 +783,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mequafibck2d",
       "content_text": "IIJのクレカ支払いまた失敗している、そうなった時の支払いが大変すぎてこまる",
       "date_published": "2026-02-13T15:49:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3meqqjiljic2d",
-      "url": "https://bsky.app/profile/yammer.jp/post/3meqqjiljic2d",
-      "content_text": "ランニングが火曜で途切れてしまったので取り返さねば",
-      "date_published": "2026-02-13T14:42:00.000Z"
     }
   ]
 }

@@ -5,6 +5,30 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>ぜんぜんClaude</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mpwx5nl6k22k</link>
+      <description>ぜんぜんClaude</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mpwx5nl6k22k</guid>
+      <pubDate>Mon, 06 Jul 2026 01:34:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
+      <title>Codexの枠を使い切ってClaude Proを契約。ccpocketからサブスクリプション枠を使えないのが悲しいけれど、Sonnet 5が良いのでBlinkから頑張って使う。アプリを切り替えるとコネ</title>
+      <link>https://usememos.yammer.jp/memos/fMkfgQSxV4ECQc2xN6rxFg</link>
+      <description>Codexの枠を使い切ってClaude Proを契約。ccpocketからサブスクリプション枠を使えないのが悲しいけれど、Sonnet 5が良いのでBlinkから頑張って使う。アプリを切り替えるとコネクションが切れるのでssh xxx, tmux a と何度打ったことか</description>
+      <guid>https://usememos.yammer.jp/memos/fMkfgQSxV4ECQc2xN6rxFg</guid>
+      <pubDate>Mon, 06 Jul 2026 00:33:16 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>Railsならこう、これを再発明したくない、でもやるしかない、みたいなのが多過ぎる</title>
+      <link>https://usememos.yammer.jp/memos/MuBWNZAGiyA4SeWeZarbqG</link>
+      <description>Railsならこう、これを再発明したくない、でもやるしかない、みたいなのが多過ぎる</description>
+      <guid>https://usememos.yammer.jp/memos/MuBWNZAGiyA4SeWeZarbqG</guid>
+      <pubDate>Mon, 06 Jul 2026 00:31:34 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>久々に夜更かし</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mptoiy2axs2g</link>
       <description>久々に夜更かし</description>
@@ -1043,22 +1067,6 @@ https://www.latent.space/p/reviews-dead</description>
       <source>memos</source>
     </item>
     <item>
-      <title>LLMによって、ソフトウェアエンジニアリングにおける特殊性を求められていた領域がだんだん狭まって、ビジネスパーソンぽさのある仕事がふえてくるのかなあ、どうだろうか</title>
-      <link>https://usememos.yammer.jp/memos/Y98KpFkVpqkoMDBZWqkp5z</link>
-      <description>LLMによって、ソフトウェアエンジニアリングにおける特殊性を求められていた領域がだんだん狭まって、ビジネスパーソンぽさのある仕事がふえてくるのかなあ、どうだろうか</description>
-      <guid>https://usememos.yammer.jp/memos/Y98KpFkVpqkoMDBZWqkp5z</guid>
-      <pubDate>Fri, 27 Feb 2026 13:42:34 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>OpenClaw生活のためにまたChatGPT Plusに加入</title>
-      <link>https://usememos.yammer.jp/memos/3VCS9oxe2g2mBdhPxbHHyf</link>
-      <description>OpenClaw生活のためにまたChatGPT Plusに加入</description>
-      <guid>https://usememos.yammer.jp/memos/3VCS9oxe2g2mBdhPxbHHyf</guid>
-      <pubDate>Thu, 26 Feb 2026 01:22:08 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
       <title>Face ID、きっと花粉症でない人が作ったのだろうな</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mfkw7czouk2u</link>
       <description>Face ID、きっと花粉症でない人が作ったのだろうな</description>
@@ -1088,14 +1096,6 @@ https://www.latent.space/p/reviews-dead</description>
       <description>IIJのクレカ支払いまた失敗している、そうなった時の支払いが大変すぎてこまる</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mequafibck2d</guid>
       <pubDate>Fri, 13 Feb 2026 15:49:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>ランニングが火曜で途切れてしまったので取り返さねば</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3meqqjiljic2d</link>
-      <description>ランニングが火曜で途切れてしまったので取り返さねば</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3meqqjiljic2d</guid>
-      <pubDate>Fri, 13 Feb 2026 14:42:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
   </channel>
