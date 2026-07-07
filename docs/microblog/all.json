@@ -5,6 +5,30 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/4PUvMHkr4MZFPpKd9tDGcg",
+      "url": "https://usememos.yammer.jp/memos/4PUvMHkr4MZFPpKd9tDGcg",
+      "content_text": "Fableを1週間しかつかえない権利、X/Instagram/Youtubeぐらい中毒性ある",
+      "date_published": "2026-07-07T01:41:48.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/m4UKpnEvu2eUTh5ptNHez4",
+      "url": "https://usememos.yammer.jp/memos/m4UKpnEvu2eUTh5ptNHez4",
+      "content_text": "X、精神に悪い",
+      "date_published": "2026-07-07T01:40:57.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/cmfu63SxgytDbt6wdsy7Sk",
+      "url": "https://usememos.yammer.jp/memos/cmfu63SxgytDbt6wdsy7Sk",
+      "content_text": "ラーメン屋通り過ぎれたよ！えらすぎる！",
+      "date_published": "2026-07-06T15:52:00.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/Sn38mqNoESoadLBJfDVdUX",
+      "url": "https://usememos.yammer.jp/memos/Sn38mqNoESoadLBJfDVdUX",
+      "content_text": "西武線は久々なきがするな",
+      "date_published": "2026-07-06T15:18:15.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mpwx5nl6k22k",
       "url": "https://bsky.app/profile/yammer.jp/post/3mpwx5nl6k22k",
       "content_text": "ぜんぜんClaude",
@@ -731,34 +755,10 @@
       "date_published": "2026-03-02T13:59:04.000Z"
     },
     {
-      "id": "https://usememos.yammer.jp/memos/o3GeZzCFugDTnQtgqiTAqW",
-      "url": "https://usememos.yammer.jp/memos/o3GeZzCFugDTnQtgqiTAqW",
-      "content_text": "Claude Codeで捗ったのはあらゆるもののセルフホスト",
-      "date_published": "2026-03-01T16:09:42.000Z"
-    },
-    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfxvut6sos24",
       "url": "https://bsky.app/profile/yammer.jp/post/3mfxvut6sos24",
       "content_text": "え？今日から3月ですか？",
       "date_published": "2026-03-01T04:32:00.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/K5YxeVjRym57oU74S9zdVj",
-      "url": "https://usememos.yammer.jp/memos/K5YxeVjRym57oU74S9zdVj",
-      "content_text": "買ってきて一回も起動せずにWindowsが消されるminiPCさん",
-      "date_published": "2026-02-28T06:38:14.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/B99aaUYtdKpW4VCVHNtwi2",
-      "url": "https://usememos.yammer.jp/memos/B99aaUYtdKpW4VCVHNtwi2",
-      "content_text": "楽しみなもの: DNS-PERSIST-01",
-      "date_published": "2026-02-27T16:12:48.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/3bTPm9qCY4QwyvLRtRerWM",
-      "url": "https://usememos.yammer.jp/memos/3bTPm9qCY4QwyvLRtRerWM",
-      "content_text": "我が家のOpenClawさんの様子",
-      "date_published": "2026-02-27T13:42:54.000Z"
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfkw7czouk2u",
