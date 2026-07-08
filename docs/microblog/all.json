@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/Pmp84BLUtBDnDGHdxN9jJs",
+      "url": "https://usememos.yammer.jp/memos/Pmp84BLUtBDnDGHdxN9jJs",
+      "content_text": "fable、おまえってやつは",
+      "date_published": "2026-07-08T00:41:10.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/eg53oBnddK5NxA5LP25rRL",
+      "url": "https://usememos.yammer.jp/memos/eg53oBnddK5NxA5LP25rRL",
+      "content_text": "のみすぎ！",
+      "date_published": "2026-07-07T15:26:51.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/4PUvMHkr4MZFPpKd9tDGcg",
       "url": "https://usememos.yammer.jp/memos/4PUvMHkr4MZFPpKd9tDGcg",
       "content_text": "Fableを1週間しかつかえない権利、X/Instagram/Youtubeぐらい中毒性ある",
@@ -741,18 +753,6 @@
       "url": "https://usememos.yammer.jp/memos/EPay4sCXA3qonyj5Twsjjg",
       "content_text": "この時間のカタメコイメライス、罪！",
       "date_published": "2026-03-03T15:57:23.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/mR67v3RKHH9Yy5NpJB4iUa",
-      "url": "https://usememos.yammer.jp/memos/mR67v3RKHH9Yy5NpJB4iUa",
-      "content_text": "人間だけが書く側だとアンバランスってことだが、もうだんだんそうじゃなくなっているというのはそうかも。世の流れは思ったより早い。\n既存のコードベースが、みたいな話も、人間が変更するぐらいの理想的な大きさ (PRの差分でいうとfile changesが数個とか) であればよくて、もうそろそろそれも出来ちゃうという感じかもしれない。\n新しく作るのと既存の変更であれば、作るだけの方が簡単であるから、そういうふうに寄せていくというのはあるだろう。\nその意味で既存のコードベースがという話だと、素朴にやってたら完全にCI/デプロイがボトルネックになっちゃうね。DBを抜いてアプリケーションロジックを固めるようにする、それってクリーンアーキテクチャじゃん\nhttps://www.latent.space/p/reviews-dead",
-      "date_published": "2026-03-03T15:11:21.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/mHxGKWS5yPbTELL3vQcrcG",
-      "url": "https://usememos.yammer.jp/memos/mHxGKWS5yPbTELL3vQcrcG",
-      "content_text": "使ってないのに4000円を超えてたGoogle Cloudが281円まで戻ってよかった。はて残りはなんじゃ",
-      "date_published": "2026-03-02T13:59:04.000Z"
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfxvut6sos24",
