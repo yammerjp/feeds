@@ -5,6 +5,22 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>ヘッドランプ便利。山の道具でオートキャンプに来ると、持ち物が少なくて準備が楽で大変いい。らくであればあるだけいいですからね</title>
+      <link>https://usememos.yammer.jp/memos/6C2ji7zNQGxBqY6DND52GC</link>
+      <description>ヘッドランプ便利。山の道具でオートキャンプに来ると、持ち物が少なくて準備が楽で大変いい。らくであればあるだけいいですからね</description>
+      <guid>https://usememos.yammer.jp/memos/6C2ji7zNQGxBqY6DND52GC</guid>
+      <pubDate>Sat, 11 Jul 2026 13:38:50 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>今日までバヤリースのことバリヤースだとおもってた</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mqep65z33s2m</link>
+      <description>今日までバヤリースのことバリヤースだとおもってた</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mqep65z33s2m</guid>
+      <pubDate>Sat, 11 Jul 2026 12:49:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>fable、おまえってやつは</title>
       <link>https://usememos.yammer.jp/memos/Pmp84BLUtBDnDGHdxN9jJs</link>
       <description>fable、おまえってやつは</description>
@@ -1046,14 +1062,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <source>memos</source>
     </item>
     <item>
-      <title>この時間のカタメコイメライス、罪！</title>
-      <link>https://usememos.yammer.jp/memos/EPay4sCXA3qonyj5Twsjjg</link>
-      <description>この時間のカタメコイメライス、罪！</description>
-      <guid>https://usememos.yammer.jp/memos/EPay4sCXA3qonyj5Twsjjg</guid>
-      <pubDate>Tue, 03 Mar 2026 15:57:23 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
       <title>え？今日から3月ですか？</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mfxvut6sos24</link>
       <description>え？今日から3月ですか？</description>
@@ -1083,14 +1091,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <description>Keyball44を久々に使ってみたがトラックボールの滑りが悪い。ここで活躍！ SUPERクレポリメイトSTRONG</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfj74nmyvc24</guid>
       <pubDate>Mon, 23 Feb 2026 08:08:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>IIJのクレカ支払いまた失敗している、そうなった時の支払いが大変すぎてこまる</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mequafibck2d</link>
-      <description>IIJのクレカ支払いまた失敗している、そうなった時の支払いが大変すぎてこまる</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mequafibck2d</guid>
-      <pubDate>Fri, 13 Feb 2026 15:49:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
   </channel>
