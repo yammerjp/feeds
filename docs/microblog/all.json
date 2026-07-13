@@ -5,6 +5,30 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/hMtrAwyVHidsbfxNrTNGqw",
+      "url": "https://usememos.yammer.jp/memos/hMtrAwyVHidsbfxNrTNGqw",
+      "content_text": "この時間の各停はすわれる！？",
+      "date_published": "2026-07-13T00:46:22.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/noQ8oF8ypSLUqT8UcZ4Jx2",
+      "url": "https://usememos.yammer.jp/memos/noQ8oF8ypSLUqT8UcZ4Jx2",
+      "content_text": "ひさびさにランニングした",
+      "date_published": "2026-07-12T23:36:02.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/M5D3R46i7PKLkRUHfKwJ9c",
+      "url": "https://usememos.yammer.jp/memos/M5D3R46i7PKLkRUHfKwJ9c",
+      "content_text": "冷蔵庫の食べれなくなったものをリセット",
+      "date_published": "2026-07-12T23:35:57.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/YZXTVCDWC47vnTUVSHGii5",
+      "url": "https://usememos.yammer.jp/memos/YZXTVCDWC47vnTUVSHGii5",
+      "content_text": "へやかたづけたのでえらい",
+      "date_published": "2026-07-12T13:56:29.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/6C2ji7zNQGxBqY6DND52GC",
       "url": "https://usememos.yammer.jp/memos/6C2ji7zNQGxBqY6DND52GC",
       "content_text": "ヘッドランプ便利。山の道具でオートキャンプに来ると、持ち物が少なくて準備が楽で大変いい。らくであればあるだけいいですからね",
@@ -735,30 +759,6 @@
       "url": "https://usememos.yammer.jp/memos/J3vgsBZjnsRU7fkiwoFcwQ",
       "content_text": "やり始めたことではなく、できたことで数える",
       "date_published": "2026-03-05T01:46:32.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/YXCRXuEXoZdjEK39Jkvuvh",
-      "url": "https://usememos.yammer.jp/memos/YXCRXuEXoZdjEK39Jkvuvh",
-      "content_text": "責任という言葉、あんまり意味がないなあと思って好きじゃなかったが、責任を取ることとは、発生した問題にアクションして収束させることという解釈とすると自分にとって納得感あるかもなあ。責任といっても、自分が負えないような責任は振ってくることが幸か不幸か起こり得ない",
-      "date_published": "2026-03-04T08:21:42.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/288QRKBw6nBmAe9dJ2U6Fz",
-      "url": "https://usememos.yammer.jp/memos/288QRKBw6nBmAe9dJ2U6Fz",
-      "content_text": "AIによってソフトウェア開発の残念な労働集約の貞操が剥がれることを期待したいね",
-      "date_published": "2026-03-04T08:19:13.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/7XL5pEbC79mU8XJnDruAKt",
-      "url": "https://usememos.yammer.jp/memos/7XL5pEbC79mU8XJnDruAKt",
-      "content_text": "https://www.latent.space/p/reviews-dead\n昨日読んだこの記事をもとに、我々のソフトウェア開発のボトルネックについて思い直した。記事の内容は、ざっくりとレビューを人間がしていたらボトルネックになる(し別に人間も全てに対してうまくレビューできているわけではない)というような感じのもの。\n私が思う課題感は以下の三つで、それぞれの問題を解消していかないとAIを使った開発のスピードをうまく活かすことは難しいのではと思う\n\nレビューのプロセスを構造化できているか\nそもそもレビューで即座に確認可能な変更になっているか (たとえば数百行あるようなコードなんて、大抵の場合即座なレビューは不可能)\nレビューで即座に確認可能な変更になるぐらい変更を小さくできるようなリリースパイプラインが作れているか\n\nあんまり別にAI関係なくなってきたな。とはいえ、記事の言っている通り、漸進的な変更を積み重ねて変えていくところよりも前に、その全体像を意思決定していく必要はあって、人間の意思決定ポイントが前に動いていくのはそれはそうだなとは思う",
-      "date_published": "2026-03-04T07:58:17.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/gDxDAKoFN6UYDHuvR7A35M",
-      "url": "https://usememos.yammer.jp/memos/gDxDAKoFN6UYDHuvR7A35M",
-      "content_text": "薪ストーブ、ロマンある",
-      "date_published": "2026-03-03T16:30:29.000Z"
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfxvut6sos24",

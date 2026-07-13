@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from YAMAP and Strava</description>
     <item>
+      <title>夜のローイング</title>
+      <link>https://strava.com/activities/19277272437</link>
+      <description>Rowing: Distance: 0.0km, Elevation Gain: 0m, Moving Time: 04:06:55, Average Speed: 0.0km/h</description>
+      <guid>https://strava.com/activities/19277272437</guid>
+      <pubDate>Wed, 08 Jul 2026 12:36:22 GMT</pubDate>
+      <source>strava</source>
+    </item>
+    <item>
       <title>午後のローイング</title>
       <link>https://strava.com/activities/19005284753</link>
       <description>Rowing: Distance: 0.0km, Elevation Gain: 0m, Moving Time: 01:43:50, Average Speed: 0.0km/h</description>

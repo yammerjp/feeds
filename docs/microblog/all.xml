@@ -5,6 +5,38 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>この時間の各停はすわれる！？</title>
+      <link>https://usememos.yammer.jp/memos/hMtrAwyVHidsbfxNrTNGqw</link>
+      <description>この時間の各停はすわれる！？</description>
+      <guid>https://usememos.yammer.jp/memos/hMtrAwyVHidsbfxNrTNGqw</guid>
+      <pubDate>Mon, 13 Jul 2026 00:46:22 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>ひさびさにランニングした</title>
+      <link>https://usememos.yammer.jp/memos/noQ8oF8ypSLUqT8UcZ4Jx2</link>
+      <description>ひさびさにランニングした</description>
+      <guid>https://usememos.yammer.jp/memos/noQ8oF8ypSLUqT8UcZ4Jx2</guid>
+      <pubDate>Sun, 12 Jul 2026 23:36:02 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>冷蔵庫の食べれなくなったものをリセット</title>
+      <link>https://usememos.yammer.jp/memos/M5D3R46i7PKLkRUHfKwJ9c</link>
+      <description>冷蔵庫の食べれなくなったものをリセット</description>
+      <guid>https://usememos.yammer.jp/memos/M5D3R46i7PKLkRUHfKwJ9c</guid>
+      <pubDate>Sun, 12 Jul 2026 23:35:57 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>へやかたづけたのでえらい</title>
+      <link>https://usememos.yammer.jp/memos/YZXTVCDWC47vnTUVSHGii5</link>
+      <description>へやかたづけたのでえらい</description>
+      <guid>https://usememos.yammer.jp/memos/YZXTVCDWC47vnTUVSHGii5</guid>
+      <pubDate>Sun, 12 Jul 2026 13:56:29 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>ヘッドランプ便利。山の道具でオートキャンプに来ると、持ち物が少なくて準備が楽で大変いい。らくであればあるだけいいですからね</title>
       <link>https://usememos.yammer.jp/memos/6C2ji7zNQGxBqY6DND52GC</link>
       <description>ヘッドランプ便利。山の道具でオートキャンプに来ると、持ち物が少なくて準備が楽で大変いい。らくであればあるだけいいですからね</description>
@@ -1018,47 +1050,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <description>やり始めたことではなく、できたことで数える</description>
       <guid>https://usememos.yammer.jp/memos/J3vgsBZjnsRU7fkiwoFcwQ</guid>
       <pubDate>Thu, 05 Mar 2026 01:46:32 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>責任という言葉、あんまり意味がないなあと思って好きじゃなかったが、責任を取ることとは、発生した問題にアクションして収束させることという解釈とすると自分にとって納得感あるかもなあ。責任といっても、自分が</title>
-      <link>https://usememos.yammer.jp/memos/YXCRXuEXoZdjEK39Jkvuvh</link>
-      <description>責任という言葉、あんまり意味がないなあと思って好きじゃなかったが、責任を取ることとは、発生した問題にアクションして収束させることという解釈とすると自分にとって納得感あるかもなあ。責任といっても、自分が負えないような責任は振ってくることが幸か不幸か起こり得ない</description>
-      <guid>https://usememos.yammer.jp/memos/YXCRXuEXoZdjEK39Jkvuvh</guid>
-      <pubDate>Wed, 04 Mar 2026 08:21:42 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>AIによってソフトウェア開発の残念な労働集約の貞操が剥がれることを期待したいね</title>
-      <link>https://usememos.yammer.jp/memos/288QRKBw6nBmAe9dJ2U6Fz</link>
-      <description>AIによってソフトウェア開発の残念な労働集約の貞操が剥がれることを期待したいね</description>
-      <guid>https://usememos.yammer.jp/memos/288QRKBw6nBmAe9dJ2U6Fz</guid>
-      <pubDate>Wed, 04 Mar 2026 08:19:13 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>https://www.latent.space/p/reviews-dead
-昨日読んだこの記事をもとに、我々のソフトウェア開発のボトルネックについて思い直した。記事の内容は、ざっくりとレビューを人</title>
-      <link>https://usememos.yammer.jp/memos/7XL5pEbC79mU8XJnDruAKt</link>
-      <description>https://www.latent.space/p/reviews-dead
-昨日読んだこの記事をもとに、我々のソフトウェア開発のボトルネックについて思い直した。記事の内容は、ざっくりとレビューを人間がしていたらボトルネックになる(し別に人間も全てに対してうまくレビューできているわけではない)というような感じのもの。
-私が思う課題感は以下の三つで、それぞれの問題を解消していかないとAIを使った開発のスピードをうまく活かすことは難しいのではと思う
-
-レビューのプロセスを構造化できているか
-そもそもレビューで即座に確認可能な変更になっているか (たとえば数百行あるようなコードなんて、大抵の場合即座なレビューは不可能)
-レビューで即座に確認可能な変更になるぐらい変更を小さくできるようなリリースパイプラインが作れているか
-
-あんまり別にAI関係なくなってきたな。とはいえ、記事の言っている通り、漸進的な変更を積み重ねて変えていくところよりも前に、その全体像を意思決定していく必要はあって、人間の意思決定ポイントが前に動いていくのはそれはそうだなとは思う</description>
-      <guid>https://usememos.yammer.jp/memos/7XL5pEbC79mU8XJnDruAKt</guid>
-      <pubDate>Wed, 04 Mar 2026 07:58:17 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>薪ストーブ、ロマンある</title>
-      <link>https://usememos.yammer.jp/memos/gDxDAKoFN6UYDHuvR7A35M</link>
-      <description>薪ストーブ、ロマンある</description>
-      <guid>https://usememos.yammer.jp/memos/gDxDAKoFN6UYDHuvR7A35M</guid>
-      <pubDate>Tue, 03 Mar 2026 16:30:29 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
