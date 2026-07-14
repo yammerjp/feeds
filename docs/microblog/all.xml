@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>そうだね！</title>
+      <link>https://usememos.yammer.jp/memos/BnLoCSVWwCmzt5iDKfuAcd</link>
+      <description>そうだね！</description>
+      <guid>https://usememos.yammer.jp/memos/BnLoCSVWwCmzt5iDKfuAcd</guid>
+      <pubDate>Mon, 13 Jul 2026 11:18:04 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>この時間の各停はすわれる！？</title>
       <link>https://usememos.yammer.jp/memos/hMtrAwyVHidsbfxNrTNGqw</link>
       <description>この時間の各停はすわれる！？</description>
@@ -1042,14 +1050,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <description>釣り記事や釣りタイトルを見て不快に思うとき、苛立っていてもしょうがないのでそのような徘徊をしている自分がわるいということにする</description>
       <guid>https://usememos.yammer.jp/memos/6znnBPnj6GXx6YpRhGAFGc</guid>
       <pubDate>Fri, 06 Mar 2026 04:54:04 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>やり始めたことではなく、できたことで数える</title>
-      <link>https://usememos.yammer.jp/memos/J3vgsBZjnsRU7fkiwoFcwQ</link>
-      <description>やり始めたことではなく、できたことで数える</description>
-      <guid>https://usememos.yammer.jp/memos/J3vgsBZjnsRU7fkiwoFcwQ</guid>
-      <pubDate>Thu, 05 Mar 2026 01:46:32 GMT</pubDate>
       <source>memos</source>
     </item>
     <item>
