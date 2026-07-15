@@ -5,6 +5,14 @@
     <link>https://scrapbox.io/yammer</link>
     <description>Combined Scrapbox notes from yammer</description>
     <item>
+      <title>0秒で出る最高のレベルを上げる</title>
+      <link>https://scrapbox.io/yammer/0%E7%A7%92%E3%81%A7%E5%87%BA%E3%82%8B%E6%9C%80%E9%AB%98%E3%81%AE%E3%83%AC%E3%83%99%E3%83%AB%E3%82%92%E4%B8%8A%E3%81%92%E3%82%8B</link>
+      <description></description>
+      <guid>https://scrapbox.io/yammer/0%E7%A7%92%E3%81%A7%E5%87%BA%E3%82%8B%E6%9C%80%E9%AB%98%E3%81%AE%E3%83%AC%E3%83%99%E3%83%AB%E3%82%92%E4%B8%8A%E3%81%92%E3%82%8B</guid>
+      <pubDate>Tue, 14 Jul 2026 09:09:21 GMT</pubDate>
+      <source>scrapbox</source>
+    </item>
+    <item>
       <title>マルチテナントSaaSアーキテクチャの構築</title>
       <link>https://scrapbox.io/yammer/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%86%E3%83%8A%E3%83%B3%E3%83%88SaaS%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%81%AE%E6%A7%8B%E7%AF%89</link>
       <description>https://www.oreilly.co.jp/books/9784814401017/
@@ -440,16 +448,6 @@ https://tech.pepabo.com/2016/03/18/intership-for-engineers/
 小手先ではあるけど、(特に普段密にコミュニケーションしていないチーム外の人などとやり取りするときはとくに) そういうのも大事。それで損して仕事が進まないのはもったいない。</description>
       <guid>https://scrapbox.io/yammer/%E8%82%AF%E5%AE%9A%E3%81%8B%E3%82%89%E5%85%A5%E3%82%8B</guid>
       <pubDate>Tue, 03 Dec 2024 10:13:57 GMT</pubDate>
-      <source>scrapbox</source>
-    </item>
-    <item>
-      <title>出社</title>
-      <link>https://scrapbox.io/yammer/%E5%87%BA%E7%A4%BE</link>
-      <description>出社していると勝手に発揮される影響を与える力や影響をうける力というのがあって、リモートではそれは発揮されない (また別の力が発揮されることはある) 
-
-出社してもリモートでも働ける環境であるときは、そういった「力」に違いがある中で、でも成果をだしていかなきゃいけない。</description>
-      <guid>https://scrapbox.io/yammer/%E5%87%BA%E7%A4%BE</guid>
-      <pubDate>Mon, 02 Dec 2024 04:59:09 GMT</pubDate>
       <source>scrapbox</source>
     </item>
   </channel>
