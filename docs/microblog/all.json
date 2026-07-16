@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/GbYGt94SC8CkVV2uVFRbA8",
+      "url": "https://usememos.yammer.jp/memos/GbYGt94SC8CkVV2uVFRbA8",
+      "content_text": "TwitterはmicroblogであってSNSではない！などというはなしも、Xにおいては特に主張したり加担したりするつもりもわかなくなってしまう",
+      "date_published": "2026-07-15T12:28:08.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/GNfgKzyChE9eEpbnSG3V6n",
+      "url": "https://usememos.yammer.jp/memos/GNfgKzyChE9eEpbnSG3V6n",
+      "content_text": "Xで発言が話題になっているらしいとまわりからきくが、SNSと距離をおいているので物理的な声だけしか届かない。",
+      "date_published": "2026-07-15T12:27:23.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/BnLoCSVWwCmzt5iDKfuAcd",
       "url": "https://usememos.yammer.jp/memos/BnLoCSVWwCmzt5iDKfuAcd",
       "content_text": "そうだね！",
@@ -737,12 +749,6 @@
       "date_published": "2026-03-08T02:44:58.000Z"
     },
     {
-      "id": "https://usememos.yammer.jp/memos/UrknEckFuoSNB6pd2e9w2P",
-      "url": "https://usememos.yammer.jp/memos/UrknEckFuoSNB6pd2e9w2P",
-      "content_text": "情報の非対称性によって成立していたバランスが崩れていくなかで、新しいいいバランスを見つけていかないといけない最中なのである",
-      "date_published": "2026-03-06T14:22:48.000Z"
-    },
-    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mgfiqv563k2o",
       "url": "https://bsky.app/profile/yammer.jp/post/3mgfiqv563k2o",
       "content_text": "格安ミニPC、セールの時にもっと捕獲しておけばよかった",
@@ -753,12 +759,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mgfiq5qc7s2o",
       "content_text": "immichのセルフホストはじめてしまったせいで、家のストレージの完全性とのバックアップ戦略について考え始めなければならなくなってしまった。いやしかしimmichすごくよくできてる",
       "date_published": "2026-03-06T14:14:00.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/6znnBPnj6GXx6YpRhGAFGc",
-      "url": "https://usememos.yammer.jp/memos/6znnBPnj6GXx6YpRhGAFGc",
-      "content_text": "釣り記事や釣りタイトルを見て不快に思うとき、苛立っていてもしょうがないのでそのような徘徊をしている自分がわるいということにする",
-      "date_published": "2026-03-06T04:54:04.000Z"
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfxvut6sos24",
