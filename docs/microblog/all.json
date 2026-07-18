@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mquqtsszu22b",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mquqtsszu22b",
+      "content_text": "睡眠時間を確保しつつ、土曜の6時台に目が覚めるの、いつぶり",
+      "date_published": "2026-07-17T22:01:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/GbYGt94SC8CkVV2uVFRbA8",
       "url": "https://usememos.yammer.jp/memos/GbYGt94SC8CkVV2uVFRbA8",
       "content_text": "TwitterはmicroblogであってSNSではない！などというはなしも、Xにおいては特に主張したり加担したりするつもりもわかなくなってしまう",
@@ -777,12 +783,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mfjfdaeqqs2u",
       "content_text": "食事さえAIに決めてもらう時代。あすけんのスクショを送ったら残りでバランスを整えてくれる",
       "date_published": "2026-02-23T09:59:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfj74nmyvc24",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mfj74nmyvc24",
-      "content_text": "Keyball44を久々に使ってみたがトラックボールの滑りが悪い。ここで活躍！ SUPERクレポリメイトSTRONG",
-      "date_published": "2026-02-23T08:08:00.000Z"
     }
   ]
 }

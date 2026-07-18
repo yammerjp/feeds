@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>睡眠時間を確保しつつ、土曜の6時台に目が覚めるの、いつぶり</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mquqtsszu22b</link>
+      <description>睡眠時間を確保しつつ、土曜の6時台に目が覚めるの、いつぶり</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mquqtsszu22b</guid>
+      <pubDate>Fri, 17 Jul 2026 22:01:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>TwitterはmicroblogであってSNSではない！などというはなしも、Xにおいては特に主張したり加担したりするつもりもわかなくなってしまう</title>
       <link>https://usememos.yammer.jp/memos/GbYGt94SC8CkVV2uVFRbA8</link>
       <description>TwitterはmicroblogであってSNSではない！などというはなしも、Xにおいては特に主張したり加担したりするつもりもわかなくなってしまう</description>
@@ -1074,14 +1082,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <description>食事さえAIに決めてもらう時代。あすけんのスクショを送ったら残りでバランスを整えてくれる</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfjfdaeqqs2u</guid>
       <pubDate>Mon, 23 Feb 2026 09:59:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>Keyball44を久々に使ってみたがトラックボールの滑りが悪い。ここで活躍！ SUPERクレポリメイトSTRONG</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mfj74nmyvc24</link>
-      <description>Keyball44を久々に使ってみたがトラックボールの滑りが悪い。ここで活躍！ SUPERクレポリメイトSTRONG</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfj74nmyvc24</guid>
-      <pubDate>Mon, 23 Feb 2026 08:08:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
   </channel>
