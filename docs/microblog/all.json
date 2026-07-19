@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mqvwvrwcqc2u",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mqvwvrwcqc2u",
+      "content_text": "Merowdoku、きけん",
+      "date_published": "2026-07-18T09:22:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mquqtsszu22b",
       "url": "https://bsky.app/profile/yammer.jp/post/3mquqtsszu22b",
       "content_text": "睡眠時間を確保しつつ、土曜の6時台に目が覚めるの、いつぶり",
@@ -777,12 +783,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mfkw7czouk2u",
       "content_text": "Face ID、きっと花粉症でない人が作ったのだろうな",
       "date_published": "2026-02-24T00:33:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfjfdaeqqs2u",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mfjfdaeqqs2u",
-      "content_text": "食事さえAIに決めてもらう時代。あすけんのスクショを送ったら残りでバランスを整えてくれる",
-      "date_published": "2026-02-23T09:59:00.000Z"
     }
   ]
 }

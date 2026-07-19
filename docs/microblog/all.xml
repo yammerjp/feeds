@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>Merowdoku、きけん</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mqvwvrwcqc2u</link>
+      <description>Merowdoku、きけん</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mqvwvrwcqc2u</guid>
+      <pubDate>Sat, 18 Jul 2026 09:22:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>睡眠時間を確保しつつ、土曜の6時台に目が覚めるの、いつぶり</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mquqtsszu22b</link>
       <description>睡眠時間を確保しつつ、土曜の6時台に目が覚めるの、いつぶり</description>
@@ -1074,14 +1082,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <description>Face ID、きっと花粉症でない人が作ったのだろうな</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfkw7czouk2u</guid>
       <pubDate>Tue, 24 Feb 2026 00:33:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>食事さえAIに決めてもらう時代。あすけんのスクショを送ったら残りでバランスを整えてくれる</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mfjfdaeqqs2u</link>
-      <description>食事さえAIに決めてもらう時代。あすけんのスクショを送ったら残りでバランスを整えてくれる</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfjfdaeqqs2u</guid>
-      <pubDate>Mon, 23 Feb 2026 09:59:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
   </channel>
