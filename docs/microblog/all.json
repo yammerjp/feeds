@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mrjctvycus2k",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mrjctvycus2k",
+      "content_text": "GMOあおぞらネット銀行のパスキー認証、振り込みのステップが減ってめちゃくちゃ便利！便利！！",
+      "date_published": "2026-07-26T02:17:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/Nq6bVzow7bvxBExhEod6GD",
       "url": "https://usememos.yammer.jp/memos/Nq6bVzow7bvxBExhEod6GD",
       "content_text": "AIにPRをつくらせまくったら今度はGitHub Actionsの実行時間上限になってそっちに課金、おかね、おかね、おかね！",
@@ -777,12 +783,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mfxvut6sos24",
       "content_text": "え？今日から3月ですか？",
       "date_published": "2026-03-01T04:32:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfkw7czouk2u",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mfkw7czouk2u",
-      "content_text": "Face ID、きっと花粉症でない人が作ったのだろうな",
-      "date_published": "2026-02-24T00:33:00.000Z"
     }
   ]
 }

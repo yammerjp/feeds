@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>GMOあおぞらネット銀行のパスキー認証、振り込みのステップが減ってめちゃくちゃ便利！便利！！</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mrjctvycus2k</link>
+      <description>GMOあおぞらネット銀行のパスキー認証、振り込みのステップが減ってめちゃくちゃ便利！便利！！</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mrjctvycus2k</guid>
+      <pubDate>Sun, 26 Jul 2026 02:17:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>AIにPRをつくらせまくったら今度はGitHub Actionsの実行時間上限になってそっちに課金、おかね、おかね、おかね！</title>
       <link>https://usememos.yammer.jp/memos/Nq6bVzow7bvxBExhEod6GD</link>
       <description>AIにPRをつくらせまくったら今度はGitHub Actionsの実行時間上限になってそっちに課金、おかね、おかね、おかね！</description>
@@ -1074,14 +1082,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <description>え？今日から3月ですか？</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfxvut6sos24</guid>
       <pubDate>Sun, 01 Mar 2026 04:32:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>Face ID、きっと花粉症でない人が作ったのだろうな</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mfkw7czouk2u</link>
-      <description>Face ID、きっと花粉症でない人が作ったのだろうな</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfkw7czouk2u</guid>
-      <pubDate>Tue, 24 Feb 2026 00:33:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
   </channel>
