@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/c5rnbcBCXAjq7apTYXYj7Y",
+      "url": "https://usememos.yammer.jp/memos/c5rnbcBCXAjq7apTYXYj7Y",
+      "content_text": "同僚との仕事の夢をみて、かつ覚えているということが2回ぐらい。",
+      "date_published": "2026-07-28T00:40:39.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mrjctvycus2k",
       "url": "https://bsky.app/profile/yammer.jp/post/3mrjctvycus2k",
       "content_text": "GMOあおぞらネット銀行のパスキー認証、振り込みのステップが減ってめちゃくちゃ便利！便利！！",
@@ -759,12 +765,6 @@
       "url": "https://usememos.yammer.jp/memos/FHXRDpj9UvPJJ67FB8pH6n",
       "content_text": "今日はたくさん寝るぞ！",
       "date_published": "2026-03-09T13:53:09.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/W62fY7DG5hBdcEvDByFzRg",
-      "url": "https://usememos.yammer.jp/memos/W62fY7DG5hBdcEvDByFzRg",
-      "content_text": "https://nyosegawa.github.io/posts/harness-engineering-best-practices-2026/#%E9%80%B2%E6%8D%97%E8%A8%98%E9%8C%B2%E3%81%ABjson%E3%82%92%E4%BD%BF%E3%81%86 を読んでいたが、進捗をJSONにするのは某ツールのようだなと。あと https://hurl.dev/ が結構良さそうだった",
-      "date_published": "2026-03-09T13:53:04.000Z"
     },
     {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mgfiqv563k2o",
