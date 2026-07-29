@@ -5,6 +5,22 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>この時間に来るの久々か</title>
+      <link>https://usememos.yammer.jp/memos/WKZq4DgdDaQEceSwqwzybV</link>
+      <description>この時間に来るの久々か</description>
+      <guid>https://usememos.yammer.jp/memos/WKZq4DgdDaQEceSwqwzybV</guid>
+      <pubDate>Tue, 28 Jul 2026 23:07:11 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>さわやか信州号予約失敗。わすれてた</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mrqfiebnrk2h</link>
+      <description>さわやか信州号予約失敗。わすれてた</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mrqfiebnrk2h</guid>
+      <pubDate>Tue, 28 Jul 2026 21:52:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>同僚との仕事の夢をみて、かつ覚えているということが2回ぐらい。</title>
       <link>https://usememos.yammer.jp/memos/c5rnbcBCXAjq7apTYXYj7Y</link>
       <description>同僚との仕事の夢をみて、かつ覚えているということが2回ぐらい。</description>
@@ -1053,14 +1069,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <source>memos</source>
     </item>
     <item>
-      <title>今日はたくさん寝るぞ！</title>
-      <link>https://usememos.yammer.jp/memos/FHXRDpj9UvPJJ67FB8pH6n</link>
-      <description>今日はたくさん寝るぞ！</description>
-      <guid>https://usememos.yammer.jp/memos/FHXRDpj9UvPJJ67FB8pH6n</guid>
-      <pubDate>Mon, 09 Mar 2026 13:53:09 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
       <title>格安ミニPC、セールの時にもっと捕獲しておけばよかった</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mgfiqv563k2o</link>
       <description>格安ミニPC、セールの時にもっと捕獲しておけばよかった</description>
@@ -1074,14 +1082,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <description>immichのセルフホストはじめてしまったせいで、家のストレージの完全性とのバックアップ戦略について考え始めなければならなくなってしまった。いやしかしimmichすごくよくできてる</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mgfiq5qc7s2o</guid>
       <pubDate>Fri, 06 Mar 2026 14:14:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>え？今日から3月ですか？</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mfxvut6sos24</link>
-      <description>え？今日から3月ですか？</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfxvut6sos24</guid>
-      <pubDate>Sun, 01 Mar 2026 04:32:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
   </channel>

@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/WKZq4DgdDaQEceSwqwzybV",
+      "url": "https://usememos.yammer.jp/memos/WKZq4DgdDaQEceSwqwzybV",
+      "content_text": "この時間に来るの久々か",
+      "date_published": "2026-07-28T23:07:11.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mrqfiebnrk2h",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mrqfiebnrk2h",
+      "content_text": "さわやか信州号予約失敗。わすれてた",
+      "date_published": "2026-07-28T21:52:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/c5rnbcBCXAjq7apTYXYj7Y",
       "url": "https://usememos.yammer.jp/memos/c5rnbcBCXAjq7apTYXYj7Y",
       "content_text": "同僚との仕事の夢をみて、かつ覚えているということが2回ぐらい。",
@@ -761,12 +773,6 @@
       "date_published": "2026-03-10T01:23:20.000Z"
     },
     {
-      "id": "https://usememos.yammer.jp/memos/FHXRDpj9UvPJJ67FB8pH6n",
-      "url": "https://usememos.yammer.jp/memos/FHXRDpj9UvPJJ67FB8pH6n",
-      "content_text": "今日はたくさん寝るぞ！",
-      "date_published": "2026-03-09T13:53:09.000Z"
-    },
-    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mgfiqv563k2o",
       "url": "https://bsky.app/profile/yammer.jp/post/3mgfiqv563k2o",
       "content_text": "格安ミニPC、セールの時にもっと捕獲しておけばよかった",
@@ -777,12 +783,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mgfiq5qc7s2o",
       "content_text": "immichのセルフホストはじめてしまったせいで、家のストレージの完全性とのバックアップ戦略について考え始めなければならなくなってしまった。いやしかしimmichすごくよくできてる",
       "date_published": "2026-03-06T14:14:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mfxvut6sos24",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mfxvut6sos24",
-      "content_text": "え？今日から3月ですか？",
-      "date_published": "2026-03-01T04:32:00.000Z"
     }
   ]
 }
