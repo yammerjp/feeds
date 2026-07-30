@@ -5,6 +5,38 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>ラーメン回避どころか準急で果てに飛ばされてタクシーでワープした昨日</title>
+      <link>https://usememos.yammer.jp/memos/JiUKWTRkmtA6YZZZcASWtM</link>
+      <description>ラーメン回避どころか準急で果てに飛ばされてタクシーでワープした昨日</description>
+      <guid>https://usememos.yammer.jp/memos/JiUKWTRkmtA6YZZZcASWtM</guid>
+      <pubDate>Thu, 30 Jul 2026 00:09:36 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>ラーメン回避！えらすぎる！</title>
+      <link>https://usememos.yammer.jp/memos/nyQ5zVeYmCeSj9jn6BrmLg</link>
+      <description>ラーメン回避！えらすぎる！</description>
+      <guid>https://usememos.yammer.jp/memos/nyQ5zVeYmCeSj9jn6BrmLg</guid>
+      <pubDate>Wed, 29 Jul 2026 15:36:48 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>これは家系コースですかね、、</title>
+      <link>https://usememos.yammer.jp/memos/eGahyy2wWveoGQP9gm2bSE</link>
+      <description>これは家系コースですかね、、</description>
+      <guid>https://usememos.yammer.jp/memos/eGahyy2wWveoGQP9gm2bSE</guid>
+      <pubDate>Wed, 29 Jul 2026 15:07:10 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>のがしてしまったな</title>
+      <link>https://usememos.yammer.jp/memos/KTt2M7cRLKYAVESuZ54szq</link>
+      <description>のがしてしまったな</description>
+      <guid>https://usememos.yammer.jp/memos/KTt2M7cRLKYAVESuZ54szq</guid>
+      <pubDate>Wed, 29 Jul 2026 14:55:07 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>この時間に来るの久々か</title>
       <link>https://usememos.yammer.jp/memos/WKZq4DgdDaQEceSwqwzybV</link>
       <description>この時間に来るの久々か</description>
@@ -1029,44 +1061,12 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <source>memos</source>
     </item>
     <item>
-      <title>なんかまたダメな気がする、バファリンきいたかも</title>
-      <link>https://usememos.yammer.jp/memos/nmaCfcWUAJAsmmby68UDfZ</link>
-      <description>なんかまたダメな気がする、バファリンきいたかも</description>
-      <guid>https://usememos.yammer.jp/memos/nmaCfcWUAJAsmmby68UDfZ</guid>
-      <pubDate>Wed, 18 Mar 2026 11:07:47 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>昨日、超体調悪かった気がするが、なぜか治ったな</title>
-      <link>https://usememos.yammer.jp/memos/jbHjycdvNcy2Vr5woxrLLX</link>
-      <description>昨日、超体調悪かった気がするが、なぜか治ったな</description>
-      <guid>https://usememos.yammer.jp/memos/jbHjycdvNcy2Vr5woxrLLX</guid>
-      <pubDate>Tue, 17 Mar 2026 13:23:31 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
       <title>あ、クレカ切り替えでもしかしてVPSぜんぶとんだか</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mhb2xnjpbk2h</link>
       <description>あ、クレカ切り替えでもしかしてVPSぜんぶとんだか</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mhb2xnjpbk2h</guid>
       <pubDate>Tue, 17 Mar 2026 13:22:00 GMT</pubDate>
       <source>bluesky</source>
-    </item>
-    <item>
-      <title>ランニングしようと思ったがその分もプラス2時間ぐらい寝た</title>
-      <link>https://usememos.yammer.jp/memos/YCx8LNtpP4pETfw3Wpg9GY</link>
-      <description>ランニングしようと思ったがその分もプラス2時間ぐらい寝た</description>
-      <guid>https://usememos.yammer.jp/memos/YCx8LNtpP4pETfw3Wpg9GY</guid>
-      <pubDate>Tue, 10 Mar 2026 01:23:56 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>寝て回復</title>
-      <link>https://usememos.yammer.jp/memos/UtBEgLFhk5uf4VZQv5WaGq</link>
-      <description>寝て回復</description>
-      <guid>https://usememos.yammer.jp/memos/UtBEgLFhk5uf4VZQv5WaGq</guid>
-      <pubDate>Tue, 10 Mar 2026 01:23:20 GMT</pubDate>
-      <source>memos</source>
     </item>
     <item>
       <title>格安ミニPC、セールの時にもっと捕獲しておけばよかった</title>
