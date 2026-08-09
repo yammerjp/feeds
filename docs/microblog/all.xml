@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>お盆！</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3msk2qc4nsk2e</link>
+      <description>お盆！</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3msk2qc4nsk2e</guid>
+      <pubDate>Sat, 08 Aug 2026 02:49:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>ラーメン回避どころか準急で果てに飛ばされてタクシーでワープした昨日</title>
       <link>https://usememos.yammer.jp/memos/JiUKWTRkmtA6YZZZcASWtM</link>
       <description>ラーメン回避どころか準急で果てに飛ばされてタクシーでワープした昨日</description>
@@ -1074,14 +1082,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <description>格安ミニPC、セールの時にもっと捕獲しておけばよかった</description>
       <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mgfiqv563k2o</guid>
       <pubDate>Fri, 06 Mar 2026 14:15:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>immichのセルフホストはじめてしまったせいで、家のストレージの完全性とのバックアップ戦略について考え始めなければならなくなってしまった。いやしかしimmichすごくよくできてる</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mgfiq5qc7s2o</link>
-      <description>immichのセルフホストはじめてしまったせいで、家のストレージの完全性とのバックアップ戦略について考え始めなければならなくなってしまった。いやしかしimmichすごくよくできてる</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mgfiq5qc7s2o</guid>
-      <pubDate>Fri, 06 Mar 2026 14:14:00 GMT</pubDate>
       <source>bluesky</source>
     </item>
   </channel>

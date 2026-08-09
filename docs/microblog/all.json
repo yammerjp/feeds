@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3msk2qc4nsk2e",
+      "url": "https://bsky.app/profile/yammer.jp/post/3msk2qc4nsk2e",
+      "content_text": "お盆！",
+      "date_published": "2026-08-08T02:49:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/JiUKWTRkmtA6YZZZcASWtM",
       "url": "https://usememos.yammer.jp/memos/JiUKWTRkmtA6YZZZcASWtM",
       "content_text": "ラーメン回避どころか準急で果てに飛ばされてタクシーでワープした昨日",
@@ -777,12 +783,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mgfiqv563k2o",
       "content_text": "格安ミニPC、セールの時にもっと捕獲しておけばよかった",
       "date_published": "2026-03-06T14:15:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mgfiq5qc7s2o",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mgfiq5qc7s2o",
-      "content_text": "immichのセルフホストはじめてしまったせいで、家のストレージの完全性とのバックアップ戦略について考え始めなければならなくなってしまった。いやしかしimmichすごくよくできてる",
-      "date_published": "2026-03-06T14:14:00.000Z"
     }
   ]
 }
