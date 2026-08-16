@@ -5,6 +5,30 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mt4bgq3tck2m",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mt4bgq3tck2m",
+      "content_text": "本厚木に降りたのは何年ぶりだろ",
+      "date_published": "2026-08-15T08:37:00.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/jPevgJM8YmEDcQ6n8rWFP9",
+      "url": "https://usememos.yammer.jp/memos/jPevgJM8YmEDcQ6n8rWFP9",
+      "content_text": "長期休暇とその前にやっていたことの性質でいろんな仕事の記憶が頭からリセットされつつあるので、これを機にTransformerとGPT-2のつくりについて書いた本を読み始めた。大学数学はそんなにしっかりやれていないし機械学習もにわかのままきてしまったが、このままではあと何十年やっていくにはギャップがあるだろうなあとも思う。いまのところはLLMの仕組みを学ぶこととLLMの活用はわりと独立してもできて、そして研究が進むにつれてそのレイヤーの差が明確になっていくとも思うが、一般化して下のレイヤーを知っておくと何かあった時にお得、というのは今も昔も変わらないのではないか。たまにくるお得のために、普段どれだけ準備できているか、うーむ難しいよね",
+      "date_published": "2026-08-15T08:29:11.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mt43bj4mtc2n",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mt43bj4mtc2n",
+      "content_text": "世界観と後味の両立、謎",
+      "date_published": "2026-08-15T06:47:00.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mt43as5ncc2n",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mt43as5ncc2n",
+      "content_text": "ちいかわ映画をみた",
+      "date_published": "2026-08-15T06:46:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3msk2qc4nsk2e",
       "url": "https://bsky.app/profile/yammer.jp/post/3msk2qc4nsk2e",
       "content_text": "お盆！",
@@ -641,12 +665,6 @@
       "date_published": "2026-04-21T04:21:05.000Z"
     },
     {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mjy4ryoqyc2a",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mjy4ryoqyc2a",
-      "content_text": "きのうazookeyに切り替えました",
-      "date_published": "2026-04-21T04:17:00.000Z"
-    },
-    {
       "id": "https://usememos.yammer.jp/memos/TMDBYoaHRWdCtMeJwK47dh",
       "url": "https://usememos.yammer.jp/memos/TMDBYoaHRWdCtMeJwK47dh",
       "content_text": "年末年始休みにVibe Codingしたアプリを公開した。世の中に広めるためというよりも、自分のデバイスで使うためにpublish。今はいいけど、Apple Developer登録をどれくらい長く続けるかはわからぬしなとも思う。でもクライアントアプリとしてもReact NativeのVibe Codingされたコードベースとしてもそんなに長い持続可能性をイメージしてもしゃあないか。そのためにデータをGitHubにMarkdownを置いているのだから",
@@ -765,24 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/cnbgXZjPecPjhMFqe8dZRZ",
       "content_text": "PD、とても強力な目覚まし。ダラダラ寝るよりいいのかも！？",
       "date_published": "2026-03-25T15:15:03.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/JvMEHkLL6AymTVT5S8JoiL",
-      "url": "https://usememos.yammer.jp/memos/JvMEHkLL6AymTVT5S8JoiL",
-      "content_text": "遅めに起きてばかりだと日記に書かれている",
-      "date_published": "2026-03-25T15:14:31.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mhb2xnjpbk2h",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mhb2xnjpbk2h",
-      "content_text": "あ、クレカ切り替えでもしかしてVPSぜんぶとんだか",
-      "date_published": "2026-03-17T13:22:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mgfiqv563k2o",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mgfiqv563k2o",
-      "content_text": "格安ミニPC、セールの時にもっと捕獲しておけばよかった",
-      "date_published": "2026-03-06T14:15:00.000Z"
     }
   ]
 }

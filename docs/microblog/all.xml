@@ -5,6 +5,38 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>本厚木に降りたのは何年ぶりだろ</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mt4bgq3tck2m</link>
+      <description>本厚木に降りたのは何年ぶりだろ</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mt4bgq3tck2m</guid>
+      <pubDate>Sat, 15 Aug 2026 08:37:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
+      <title>長期休暇とその前にやっていたことの性質でいろんな仕事の記憶が頭からリセットされつつあるので、これを機にTransformerとGPT-2のつくりについて書いた本を読み始めた。大学数学はそんなにしっかり</title>
+      <link>https://usememos.yammer.jp/memos/jPevgJM8YmEDcQ6n8rWFP9</link>
+      <description>長期休暇とその前にやっていたことの性質でいろんな仕事の記憶が頭からリセットされつつあるので、これを機にTransformerとGPT-2のつくりについて書いた本を読み始めた。大学数学はそんなにしっかりやれていないし機械学習もにわかのままきてしまったが、このままではあと何十年やっていくにはギャップがあるだろうなあとも思う。いまのところはLLMの仕組みを学ぶこととLLMの活用はわりと独立してもできて、そして研究が進むにつれてそのレイヤーの差が明確になっていくとも思うが、一般化して下のレイヤーを知っておくと何かあった時にお得、というのは今も昔も変わらないのではないか。たまにくるお得のために、普段どれだけ準備できているか、うーむ難しいよね</description>
+      <guid>https://usememos.yammer.jp/memos/jPevgJM8YmEDcQ6n8rWFP9</guid>
+      <pubDate>Sat, 15 Aug 2026 08:29:11 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>世界観と後味の両立、謎</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mt43bj4mtc2n</link>
+      <description>世界観と後味の両立、謎</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mt43bj4mtc2n</guid>
+      <pubDate>Sat, 15 Aug 2026 06:47:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
+      <title>ちいかわ映画をみた</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mt43as5ncc2n</link>
+      <description>ちいかわ映画をみた</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mt43as5ncc2n</guid>
+      <pubDate>Sat, 15 Aug 2026 06:46:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>お盆！</title>
       <link>https://bsky.app/profile/yammer.jp/post/3msk2qc4nsk2e</link>
       <description>お盆！</description>
@@ -888,14 +920,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <source>memos</source>
     </item>
     <item>
-      <title>きのうazookeyに切り替えました</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mjy4ryoqyc2a</link>
-      <description>きのうazookeyに切り替えました</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mjy4ryoqyc2a</guid>
-      <pubDate>Tue, 21 Apr 2026 04:17:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
       <title>年末年始休みにVibe Codingしたアプリを公開した。世の中に広めるためというよりも、自分のデバイスで使うためにpublish。今はいいけど、Apple Developer登録をどれくらい長く続け</title>
       <link>https://usememos.yammer.jp/memos/TMDBYoaHRWdCtMeJwK47dh</link>
       <description>年末年始休みにVibe Codingしたアプリを公開した。世の中に広めるためというよりも、自分のデバイスで使うためにpublish。今はいいけど、Apple Developer登録をどれくらい長く続けるかはわからぬしなとも思う。でもクライアントアプリとしてもReact NativeのVibe Codingされたコードベースとしてもそんなに長い持続可能性をイメージしてもしゃあないか。そのためにデータをGitHubにMarkdownを置いているのだから</description>
@@ -1059,30 +1083,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <guid>https://usememos.yammer.jp/memos/cnbgXZjPecPjhMFqe8dZRZ</guid>
       <pubDate>Wed, 25 Mar 2026 15:15:03 GMT</pubDate>
       <source>memos</source>
-    </item>
-    <item>
-      <title>遅めに起きてばかりだと日記に書かれている</title>
-      <link>https://usememos.yammer.jp/memos/JvMEHkLL6AymTVT5S8JoiL</link>
-      <description>遅めに起きてばかりだと日記に書かれている</description>
-      <guid>https://usememos.yammer.jp/memos/JvMEHkLL6AymTVT5S8JoiL</guid>
-      <pubDate>Wed, 25 Mar 2026 15:14:31 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>あ、クレカ切り替えでもしかしてVPSぜんぶとんだか</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mhb2xnjpbk2h</link>
-      <description>あ、クレカ切り替えでもしかしてVPSぜんぶとんだか</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mhb2xnjpbk2h</guid>
-      <pubDate>Tue, 17 Mar 2026 13:22:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>格安ミニPC、セールの時にもっと捕獲しておけばよかった</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mgfiqv563k2o</link>
-      <description>格安ミニPC、セールの時にもっと捕獲しておけばよかった</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mgfiqv563k2o</guid>
-      <pubDate>Fri, 06 Mar 2026 14:15:00 GMT</pubDate>
-      <source>bluesky</source>
     </item>
   </channel>
 </rss>
