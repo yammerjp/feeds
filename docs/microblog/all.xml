@@ -5,6 +5,30 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>今日は食べてしまった、つけ麺を</title>
+      <link>https://usememos.yammer.jp/memos/j7aXnwjCnc8NXDyf9fayJS</link>
+      <description>今日は食べてしまった、つけ麺を</description>
+      <guid>https://usememos.yammer.jp/memos/j7aXnwjCnc8NXDyf9fayJS</guid>
+      <pubDate>Mon, 17 Aug 2026 14:43:20 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>AI、ハレーションをおこしてそれに目が行きがちだが、確実に時代を進めているというのも実感する。</title>
+      <link>https://usememos.yammer.jp/memos/U7C9pnH7tuy8hPVhQcHrVL</link>
+      <description>AI、ハレーションをおこしてそれに目が行きがちだが、確実に時代を進めているというのも実感する。</description>
+      <guid>https://usememos.yammer.jp/memos/U7C9pnH7tuy8hPVhQcHrVL</guid>
+      <pubDate>Mon, 17 Aug 2026 14:42:20 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>運がいいというのでやっていってる</title>
+      <link>https://usememos.yammer.jp/memos/QrCqbFZPc89xT5joVK54EP</link>
+      <description>運がいいというのでやっていってる</description>
+      <guid>https://usememos.yammer.jp/memos/QrCqbFZPc89xT5joVK54EP</guid>
+      <pubDate>Mon, 17 Aug 2026 14:24:11 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>本厚木に降りたのは何年ぶりだろ</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mt4bgq3tck2m</link>
       <description>本厚木に降りたのは何年ぶりだろ</description>
@@ -1058,30 +1082,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <description>結構腹痛</description>
       <guid>https://usememos.yammer.jp/memos/3mPD29xdu6zCnSo45QSkG6</guid>
       <pubDate>Fri, 27 Mar 2026 02:46:28 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>疲れてしまわないようにほどほどにチャージしながら運転するってのが社会人というものだ、エネルギーはカタメコイメライス</title>
-      <link>https://usememos.yammer.jp/memos/PcEEY5aEQgq6GEugWReYrn</link>
-      <description>疲れてしまわないようにほどほどにチャージしながら運転するってのが社会人というものだ、エネルギーはカタメコイメライス</description>
-      <guid>https://usememos.yammer.jp/memos/PcEEY5aEQgq6GEugWReYrn</guid>
-      <pubDate>Wed, 25 Mar 2026 15:37:27 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>BUMPを最近追えていなかったが、 https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV?si=lI6EhCuCQumlw_ueY7JhIw をき</title>
-      <link>https://usememos.yammer.jp/memos/YEQhcgrqfibqpAAWAVC2bg</link>
-      <description>BUMPを最近追えていなかったが、 https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV?si=lI6EhCuCQumlw_ueY7JhIw をきいてエモくなってしまった</description>
-      <guid>https://usememos.yammer.jp/memos/YEQhcgrqfibqpAAWAVC2bg</guid>
-      <pubDate>Wed, 25 Mar 2026 15:15:39 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>PD、とても強力な目覚まし。ダラダラ寝るよりいいのかも！？</title>
-      <link>https://usememos.yammer.jp/memos/cnbgXZjPecPjhMFqe8dZRZ</link>
-      <description>PD、とても強力な目覚まし。ダラダラ寝るよりいいのかも！？</description>
-      <guid>https://usememos.yammer.jp/memos/cnbgXZjPecPjhMFqe8dZRZ</guid>
-      <pubDate>Wed, 25 Mar 2026 15:15:03 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>

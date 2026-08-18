@@ -5,6 +5,24 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/j7aXnwjCnc8NXDyf9fayJS",
+      "url": "https://usememos.yammer.jp/memos/j7aXnwjCnc8NXDyf9fayJS",
+      "content_text": "今日は食べてしまった、つけ麺を",
+      "date_published": "2026-08-17T14:43:20.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/U7C9pnH7tuy8hPVhQcHrVL",
+      "url": "https://usememos.yammer.jp/memos/U7C9pnH7tuy8hPVhQcHrVL",
+      "content_text": "AI、ハレーションをおこしてそれに目が行きがちだが、確実に時代を進めているというのも実感する。",
+      "date_published": "2026-08-17T14:42:20.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/QrCqbFZPc89xT5joVK54EP",
+      "url": "https://usememos.yammer.jp/memos/QrCqbFZPc89xT5joVK54EP",
+      "content_text": "運がいいというのでやっていってる",
+      "date_published": "2026-08-17T14:24:11.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mt4bgq3tck2m",
       "url": "https://bsky.app/profile/yammer.jp/post/3mt4bgq3tck2m",
       "content_text": "本厚木に降りたのは何年ぶりだろ",
@@ -765,24 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/3mPD29xdu6zCnSo45QSkG6",
       "content_text": "結構腹痛",
       "date_published": "2026-03-27T02:46:28.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/PcEEY5aEQgq6GEugWReYrn",
-      "url": "https://usememos.yammer.jp/memos/PcEEY5aEQgq6GEugWReYrn",
-      "content_text": "疲れてしまわないようにほどほどにチャージしながら運転するってのが社会人というものだ、エネルギーはカタメコイメライス",
-      "date_published": "2026-03-25T15:37:27.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/YEQhcgrqfibqpAAWAVC2bg",
-      "url": "https://usememos.yammer.jp/memos/YEQhcgrqfibqpAAWAVC2bg",
-      "content_text": "BUMPを最近追えていなかったが、 https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV?si=lI6EhCuCQumlw_ueY7JhIw をきいてエモくなってしまった",
-      "date_published": "2026-03-25T15:15:39.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/cnbgXZjPecPjhMFqe8dZRZ",
-      "url": "https://usememos.yammer.jp/memos/cnbgXZjPecPjhMFqe8dZRZ",
-      "content_text": "PD、とても強力な目覚まし。ダラダラ寝るよりいいのかも！？",
-      "date_published": "2026-03-25T15:15:03.000Z"
     }
   ]
 }
