@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/bAZr4gNfEztQ3KvVuToQEz",
+      "url": "https://usememos.yammer.jp/memos/bAZr4gNfEztQ3KvVuToQEz",
+      "content_text": "ひさ西武",
+      "date_published": "2026-08-18T15:28:49.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/59NxhFBzCh3wMroe5d7HgM",
+      "url": "https://usememos.yammer.jp/memos/59NxhFBzCh3wMroe5d7HgM",
+      "content_text": "はやく帰る予定だったというのを何回やるつもりなんだ！",
+      "date_published": "2026-08-18T14:55:09.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/j7aXnwjCnc8NXDyf9fayJS",
       "url": "https://usememos.yammer.jp/memos/j7aXnwjCnc8NXDyf9fayJS",
       "content_text": "今日は食べてしまった、つけ麺を",
@@ -771,18 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/TwRek7EZpUgWyJ3QEkctRy",
       "content_text": "乗り間違えに乗り間違えを重ねてしまった",
       "date_published": "2026-04-01T01:26:59.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/jnJT63ayzA4Gqib3AhexpT",
-      "url": "https://usememos.yammer.jp/memos/jnJT63ayzA4Gqib3AhexpT",
-      "content_text": "電車乗り間違え",
-      "date_published": "2026-04-01T01:23:21.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/3mPD29xdu6zCnSo45QSkG6",
-      "url": "https://usememos.yammer.jp/memos/3mPD29xdu6zCnSo45QSkG6",
-      "content_text": "結構腹痛",
-      "date_published": "2026-03-27T02:46:28.000Z"
     }
   ]
 }

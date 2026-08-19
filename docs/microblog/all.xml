@@ -5,6 +5,22 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>ひさ西武</title>
+      <link>https://usememos.yammer.jp/memos/bAZr4gNfEztQ3KvVuToQEz</link>
+      <description>ひさ西武</description>
+      <guid>https://usememos.yammer.jp/memos/bAZr4gNfEztQ3KvVuToQEz</guid>
+      <pubDate>Tue, 18 Aug 2026 15:28:49 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>はやく帰る予定だったというのを何回やるつもりなんだ！</title>
+      <link>https://usememos.yammer.jp/memos/59NxhFBzCh3wMroe5d7HgM</link>
+      <description>はやく帰る予定だったというのを何回やるつもりなんだ！</description>
+      <guid>https://usememos.yammer.jp/memos/59NxhFBzCh3wMroe5d7HgM</guid>
+      <pubDate>Tue, 18 Aug 2026 14:55:09 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>今日は食べてしまった、つけ麺を</title>
       <link>https://usememos.yammer.jp/memos/j7aXnwjCnc8NXDyf9fayJS</link>
       <description>今日は食べてしまった、つけ麺を</description>
@@ -1066,22 +1082,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <description>乗り間違えに乗り間違えを重ねてしまった</description>
       <guid>https://usememos.yammer.jp/memos/TwRek7EZpUgWyJ3QEkctRy</guid>
       <pubDate>Wed, 01 Apr 2026 01:26:59 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>電車乗り間違え</title>
-      <link>https://usememos.yammer.jp/memos/jnJT63ayzA4Gqib3AhexpT</link>
-      <description>電車乗り間違え</description>
-      <guid>https://usememos.yammer.jp/memos/jnJT63ayzA4Gqib3AhexpT</guid>
-      <pubDate>Wed, 01 Apr 2026 01:23:21 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>結構腹痛</title>
-      <link>https://usememos.yammer.jp/memos/3mPD29xdu6zCnSo45QSkG6</link>
-      <description>結構腹痛</description>
-      <guid>https://usememos.yammer.jp/memos/3mPD29xdu6zCnSo45QSkG6</guid>
-      <pubDate>Fri, 27 Mar 2026 02:46:28 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>
