@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>今日はおよいだのでえらい、えらすぎる！</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mtjbyucffk22</link>
+      <description>今日はおよいだのでえらい、えらすぎる！</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mtjbyucffk22</guid>
+      <pubDate>Thu, 20 Aug 2026 12:52:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>ひさ西武</title>
       <link>https://usememos.yammer.jp/memos/bAZr4gNfEztQ3KvVuToQEz</link>
       <description>ひさ西武</description>
@@ -942,14 +950,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <guid>https://usememos.yammer.jp/memos/Z8LTZiP3oa4ZXgfSYoX2yz</guid>
       <pubDate>Thu, 23 Apr 2026 14:02:56 GMT</pubDate>
       <source>memos</source>
-    </item>
-    <item>
-      <title>今週から随分早く眠くなるようになった、なんじゃろ</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mjywoybf4s2n</link>
-      <description>今週から随分早く眠くなるようになった、なんじゃろ</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mjywoybf4s2n</guid>
-      <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
-      <source>bluesky</source>
     </item>
     <item>
       <title>みんなRaycastかAlfredつかってる、Spotlightのままなの私だけ</title>

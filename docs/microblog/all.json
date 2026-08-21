@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mtjbyucffk22",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mtjbyucffk22",
+      "content_text": "今日はおよいだのでえらい、えらすぎる！",
+      "date_published": "2026-08-20T12:52:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/bAZr4gNfEztQ3KvVuToQEz",
       "url": "https://usememos.yammer.jp/memos/bAZr4gNfEztQ3KvVuToQEz",
       "content_text": "ひさ西武",
@@ -681,12 +687,6 @@
       "url": "https://usememos.yammer.jp/memos/Z8LTZiP3oa4ZXgfSYoX2yz",
       "content_text": "tokaiさんにおすすめしていただいて刈穂を飲んだが、スキッとしてして意外と飲みやすい",
       "date_published": "2026-04-23T14:02:56.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mjywoybf4s2n",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mjywoybf4s2n",
-      "content_text": "今週から随分早く眠くなるようになった、なんじゃろ",
-      "date_published": "2026-04-21T12:00:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/memos/KkKX9LkcsHqqyGdYtaQcaz",
