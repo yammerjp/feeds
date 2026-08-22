@@ -5,6 +5,42 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mtmazgvf622h",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mtmazgvf622h",
+      "content_text": "awkblogが半年に一回ぐらいおちてて(コンテナとnginxは生きたままawkのワーカープロセスが死ぬ)、やっと死活監視をはじめた",
+      "date_published": "2026-08-21T17:12:00.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mtmax2ddsc2h",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mtmax2ddsc2h",
+      "content_text": "UptimeRobot、50件まで無料なのか",
+      "date_published": "2026-08-21T17:11:00.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/2wq8PWnTcR2jdN2dtACsvf",
+      "url": "https://usememos.yammer.jp/memos/2wq8PWnTcR2jdN2dtACsvf",
+      "content_text": "DNS-PERSIST-01 なかなかこないな",
+      "date_published": "2026-08-21T16:11:48.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/XwYjwXo2n5aCKZfJ3m9xnX",
+      "url": "https://usememos.yammer.jp/memos/XwYjwXo2n5aCKZfJ3m9xnX",
+      "content_text": "この頭痛はなんだろな",
+      "date_published": "2026-08-21T02:41:01.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/Amasi3DAnGpLhpsckWkWUc",
+      "url": "https://usememos.yammer.jp/memos/Amasi3DAnGpLhpsckWkWUc",
+      "content_text": "今日も昼前まで寝てしまった、昨日も寝たのに寝れてしまった",
+      "date_published": "2026-08-21T02:40:54.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/8pHB7TPStyriiXkuS75yCQ",
+      "url": "https://usememos.yammer.jp/memos/8pHB7TPStyriiXkuS75yCQ",
+      "content_text": "昨日はいちにち寝て訳のわからないパズルゲーをやるひ",
+      "date_published": "2026-08-21T02:40:30.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mtjbyucffk22",
       "url": "https://bsky.app/profile/yammer.jp/post/3mtjbyucffk22",
       "content_text": "今日はおよいだのでえらい、えらすぎる！",
@@ -647,18 +683,6 @@
       "date_published": "2026-05-01T09:19:29.000Z"
     },
     {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mkpmj4gzu227",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mkpmj4gzu227",
-      "content_text": "ダイソー閉まってしまったのでいついこうかな",
-      "date_published": "2026-04-30T12:29:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mkkntofkd22x",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mkkntofkd22x",
-      "content_text": "退勤後に本買いに行こうと思ってたがわすれていた",
-      "date_published": "2026-04-28T13:10:00.000Z"
-    },
-    {
       "id": "https://usememos.yammer.jp/memos/GuX9BMptyuAWxFJkHScMhx",
       "url": "https://usememos.yammer.jp/memos/GuX9BMptyuAWxFJkHScMhx",
       "content_text": "起床",
@@ -759,30 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/6EFH5jMTQSMWDejQ73T8t6",
       "content_text": "腹痛、結構頻度が上がっているような気もする。腸活ソリューションを！",
       "date_published": "2026-04-14T00:04:24.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/8Cvi4xbb4ASJ76MDoToevU",
-      "url": "https://usememos.yammer.jp/memos/8Cvi4xbb4ASJ76MDoToevU",
-      "content_text": "置き配じゃない荷物、共働きで受け取るのが不可能",
-      "date_published": "2026-04-10T01:31:29.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/QQUXZdHNHK7Fz4LpvMsG34",
-      "url": "https://usememos.yammer.jp/memos/QQUXZdHNHK7Fz4LpvMsG34",
-      "content_text": "AIの出力をちゃんと読まないのは時間効率のためだと思っていたが、自分の考えたいことにとどまって、引っ張られないためなのだということに気づいた。これさえも今だけのためのものかも知れないが",
-      "date_published": "2026-04-03T14:27:01.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/evDZhkhHCrKB5f29CPpNzR",
-      "url": "https://usememos.yammer.jp/memos/evDZhkhHCrKB5f29CPpNzR",
-      "content_text": "Bunでバンバンbundleしたかった",
-      "date_published": "2026-04-01T14:36:53.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/TwRek7EZpUgWyJ3QEkctRy",
-      "url": "https://usememos.yammer.jp/memos/TwRek7EZpUgWyJ3QEkctRy",
-      "content_text": "乗り間違えに乗り間違えを重ねてしまった",
-      "date_published": "2026-04-01T01:26:59.000Z"
     }
   ]
 }

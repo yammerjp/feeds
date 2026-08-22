@@ -5,6 +5,54 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>awkblogが半年に一回ぐらいおちてて(コンテナとnginxは生きたままawkのワーカープロセスが死ぬ)、やっと死活監視をはじめた</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mtmazgvf622h</link>
+      <description>awkblogが半年に一回ぐらいおちてて(コンテナとnginxは生きたままawkのワーカープロセスが死ぬ)、やっと死活監視をはじめた</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mtmazgvf622h</guid>
+      <pubDate>Fri, 21 Aug 2026 17:12:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
+      <title>UptimeRobot、50件まで無料なのか</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mtmax2ddsc2h</link>
+      <description>UptimeRobot、50件まで無料なのか</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mtmax2ddsc2h</guid>
+      <pubDate>Fri, 21 Aug 2026 17:11:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
+      <title>DNS-PERSIST-01 なかなかこないな</title>
+      <link>https://usememos.yammer.jp/memos/2wq8PWnTcR2jdN2dtACsvf</link>
+      <description>DNS-PERSIST-01 なかなかこないな</description>
+      <guid>https://usememos.yammer.jp/memos/2wq8PWnTcR2jdN2dtACsvf</guid>
+      <pubDate>Fri, 21 Aug 2026 16:11:48 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>この頭痛はなんだろな</title>
+      <link>https://usememos.yammer.jp/memos/XwYjwXo2n5aCKZfJ3m9xnX</link>
+      <description>この頭痛はなんだろな</description>
+      <guid>https://usememos.yammer.jp/memos/XwYjwXo2n5aCKZfJ3m9xnX</guid>
+      <pubDate>Fri, 21 Aug 2026 02:41:01 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>今日も昼前まで寝てしまった、昨日も寝たのに寝れてしまった</title>
+      <link>https://usememos.yammer.jp/memos/Amasi3DAnGpLhpsckWkWUc</link>
+      <description>今日も昼前まで寝てしまった、昨日も寝たのに寝れてしまった</description>
+      <guid>https://usememos.yammer.jp/memos/Amasi3DAnGpLhpsckWkWUc</guid>
+      <pubDate>Fri, 21 Aug 2026 02:40:54 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>昨日はいちにち寝て訳のわからないパズルゲーをやるひ</title>
+      <link>https://usememos.yammer.jp/memos/8pHB7TPStyriiXkuS75yCQ</link>
+      <description>昨日はいちにち寝て訳のわからないパズルゲーをやるひ</description>
+      <guid>https://usememos.yammer.jp/memos/8pHB7TPStyriiXkuS75yCQ</guid>
+      <pubDate>Fri, 21 Aug 2026 02:40:30 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>今日はおよいだのでえらい、えらすぎる！</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mtjbyucffk22</link>
       <description>今日はおよいだのでえらい、えらすぎる！</description>
@@ -896,22 +944,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <source>memos</source>
     </item>
     <item>
-      <title>ダイソー閉まってしまったのでいついこうかな</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mkpmj4gzu227</link>
-      <description>ダイソー閉まってしまったのでいついこうかな</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mkpmj4gzu227</guid>
-      <pubDate>Thu, 30 Apr 2026 12:29:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>退勤後に本買いに行こうと思ってたがわすれていた</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mkkntofkd22x</link>
-      <description>退勤後に本買いに行こうと思ってたがわすれていた</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mkkntofkd22x</guid>
-      <pubDate>Tue, 28 Apr 2026 13:10:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
       <title>起床</title>
       <link>https://usememos.yammer.jp/memos/GuX9BMptyuAWxFJkHScMhx</link>
       <description>起床</description>
@@ -1050,38 +1082,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <description>腹痛、結構頻度が上がっているような気もする。腸活ソリューションを！</description>
       <guid>https://usememos.yammer.jp/memos/6EFH5jMTQSMWDejQ73T8t6</guid>
       <pubDate>Tue, 14 Apr 2026 00:04:24 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>置き配じゃない荷物、共働きで受け取るのが不可能</title>
-      <link>https://usememos.yammer.jp/memos/8Cvi4xbb4ASJ76MDoToevU</link>
-      <description>置き配じゃない荷物、共働きで受け取るのが不可能</description>
-      <guid>https://usememos.yammer.jp/memos/8Cvi4xbb4ASJ76MDoToevU</guid>
-      <pubDate>Fri, 10 Apr 2026 01:31:29 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>AIの出力をちゃんと読まないのは時間効率のためだと思っていたが、自分の考えたいことにとどまって、引っ張られないためなのだということに気づいた。これさえも今だけのためのものかも知れないが</title>
-      <link>https://usememos.yammer.jp/memos/QQUXZdHNHK7Fz4LpvMsG34</link>
-      <description>AIの出力をちゃんと読まないのは時間効率のためだと思っていたが、自分の考えたいことにとどまって、引っ張られないためなのだということに気づいた。これさえも今だけのためのものかも知れないが</description>
-      <guid>https://usememos.yammer.jp/memos/QQUXZdHNHK7Fz4LpvMsG34</guid>
-      <pubDate>Fri, 03 Apr 2026 14:27:01 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>Bunでバンバンbundleしたかった</title>
-      <link>https://usememos.yammer.jp/memos/evDZhkhHCrKB5f29CPpNzR</link>
-      <description>Bunでバンバンbundleしたかった</description>
-      <guid>https://usememos.yammer.jp/memos/evDZhkhHCrKB5f29CPpNzR</guid>
-      <pubDate>Wed, 01 Apr 2026 14:36:53 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>乗り間違えに乗り間違えを重ねてしまった</title>
-      <link>https://usememos.yammer.jp/memos/TwRek7EZpUgWyJ3QEkctRy</link>
-      <description>乗り間違えに乗り間違えを重ねてしまった</description>
-      <guid>https://usememos.yammer.jp/memos/TwRek7EZpUgWyJ3QEkctRy</guid>
-      <pubDate>Wed, 01 Apr 2026 01:26:59 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>
