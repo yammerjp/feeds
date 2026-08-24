@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>月曜朝は慣性が働く</title>
+      <link>https://usememos.yammer.jp/memos/HyoP9Qf3KMKZiipmf7LF3M</link>
+      <description>月曜朝は慣性が働く</description>
+      <guid>https://usememos.yammer.jp/memos/HyoP9Qf3KMKZiipmf7LF3M</guid>
+      <pubDate>Sun, 23 Aug 2026 23:05:41 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>awkblogが半年に一回ぐらいおちてて(コンテナとnginxは生きたままawkのワーカープロセスが死ぬ)、やっと死活監視をはじめた</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mtmazgvf622h</link>
       <description>awkblogが半年に一回ぐらいおちてて(コンテナとnginxは生きたままawkのワーカープロセスが死ぬ)、やっと死活監視をはじめた</description>
@@ -1074,14 +1082,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <description>OpenClawだClaudeCodeだVPSで全部詰め込めみたいな感じあったけど、VPSは契約更新できずに全部吹っ飛んだし家のサーバもコンテキストがAIによって散らかってどこにあるか探すみたいになるから、結局状態を持ちたくないという気持ちになった。ステートレスさいこう！安価に高集積できるという意味でレンサバが最強なのではないか</description>
       <guid>https://usememos.yammer.jp/memos/SgcG8BhPtSiMezK9z3pTnB</guid>
       <pubDate>Tue, 14 Apr 2026 13:27:55 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>腹痛、結構頻度が上がっているような気もする。腸活ソリューションを！</title>
-      <link>https://usememos.yammer.jp/memos/6EFH5jMTQSMWDejQ73T8t6</link>
-      <description>腹痛、結構頻度が上がっているような気もする。腸活ソリューションを！</description>
-      <guid>https://usememos.yammer.jp/memos/6EFH5jMTQSMWDejQ73T8t6</guid>
-      <pubDate>Tue, 14 Apr 2026 00:04:24 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>

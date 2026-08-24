@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/HyoP9Qf3KMKZiipmf7LF3M",
+      "url": "https://usememos.yammer.jp/memos/HyoP9Qf3KMKZiipmf7LF3M",
+      "content_text": "月曜朝は慣性が働く",
+      "date_published": "2026-08-23T23:05:41.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mtmazgvf622h",
       "url": "https://bsky.app/profile/yammer.jp/post/3mtmazgvf622h",
       "content_text": "awkblogが半年に一回ぐらいおちてて(コンテナとnginxは生きたままawkのワーカープロセスが死ぬ)、やっと死活監視をはじめた",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/SgcG8BhPtSiMezK9z3pTnB",
       "content_text": "OpenClawだClaudeCodeだVPSで全部詰め込めみたいな感じあったけど、VPSは契約更新できずに全部吹っ飛んだし家のサーバもコンテキストがAIによって散らかってどこにあるか探すみたいになるから、結局状態を持ちたくないという気持ちになった。ステートレスさいこう！安価に高集積できるという意味でレンサバが最強なのではないか",
       "date_published": "2026-04-14T13:27:55.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/6EFH5jMTQSMWDejQ73T8t6",
-      "url": "https://usememos.yammer.jp/memos/6EFH5jMTQSMWDejQ73T8t6",
-      "content_text": "腹痛、結構頻度が上がっているような気もする。腸活ソリューションを！",
-      "date_published": "2026-04-14T00:04:24.000Z"
     }
   ]
 }
