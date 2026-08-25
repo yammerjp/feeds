@@ -5,6 +5,30 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>おうちのClaude Codeクン、秘匿情報は気軽にheadするし、PV全部吹っ飛ばしてデータを無かったものにしてしまうしやんちゃすぎる</title>
+      <link>https://usememos.yammer.jp/memos/axSu494ZSWJfHTxEmePn4y</link>
+      <description>おうちのClaude Codeクン、秘匿情報は気軽にheadするし、PV全部吹っ飛ばしてデータを無かったものにしてしまうしやんちゃすぎる</description>
+      <guid>https://usememos.yammer.jp/memos/axSu494ZSWJfHTxEmePn4y</guid>
+      <pubDate>Mon, 24 Aug 2026 17:33:54 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>平日夜に定期的な予定をいれるのはむり！</title>
+      <link>https://usememos.yammer.jp/memos/jeWUach6NWNN9CvrZWVPaq</link>
+      <description>平日夜に定期的な予定をいれるのはむり！</description>
+      <guid>https://usememos.yammer.jp/memos/jeWUach6NWNN9CvrZWVPaq</guid>
+      <pubDate>Mon, 24 Aug 2026 11:41:35 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>やっとherdrにきた</title>
+      <link>https://usememos.yammer.jp/memos/5shn25EoRQYkYAJGhtuvw7</link>
+      <description>やっとherdrにきた</description>
+      <guid>https://usememos.yammer.jp/memos/5shn25EoRQYkYAJGhtuvw7</guid>
+      <pubDate>Mon, 24 Aug 2026 00:36:07 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>月曜朝は慣性が働く</title>
       <link>https://usememos.yammer.jp/memos/HyoP9Qf3KMKZiipmf7LF3M</link>
       <description>月曜朝は慣性が働く</description>
@@ -1053,35 +1077,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <description>そういえばローカルLLMけっこういいかもと金曜夜に触っていたが、他の人のマシンで実行してもらうためにはどう作るといいかなとちょい悩み。と思ったが、別にそこそこのスペックのあるマシンじゃないと動かないからあんまり考えなくてもいいか。</description>
       <guid>https://usememos.yammer.jp/memos/3v2anTkWUibXpFQWU5GX4o</guid>
       <pubDate>Sun, 19 Apr 2026 13:36:09 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>iOSの日記アプリ、ストア審査通過したのに公開せずにプレビューを使い続けていたら期限が切れてしまった。そこに書けないのでここにとりあえず書いておく。
-昨日は相模湖ちかくでキャンプし、今日は宮ヶ瀬湖を自</title>
-      <link>https://usememos.yammer.jp/memos/Ep6JFU5D5X2cVzsjWBAofW</link>
-      <description>iOSの日記アプリ、ストア審査通過したのに公開せずにプレビューを使い続けていたら期限が切れてしまった。そこに書けないのでここにとりあえず書いておく。
-昨日は相模湖ちかくでキャンプし、今日は宮ヶ瀬湖を自転車で一周。夕方は家に帰ってからもう一走りということで、皇居と東京タワー、霞ヶ関の辺りを自転車で回ってきた。
-昨日の夜はけっこうはやめに寝たが、電話がかかってきておきてからは2時間ぐらい寝付けずだった。
-家にあるバーベキュー台は焚き火台にもなるもので、今回薪を買ってやったのでそれは結構良かったが、毎度のことだがバーベキューの油を洗うのが大変。網ではなくスキレットやフライパン的なものなど、油の落ちないやつがいいのかも。
-夜になって急に鼻が詰まってしまった。寝るのに支障が出るくらい。これはなんじゃー。</description>
-      <guid>https://usememos.yammer.jp/memos/Ep6JFU5D5X2cVzsjWBAofW</guid>
-      <pubDate>Sun, 19 Apr 2026 13:32:44 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>昨日夜2700mおよいで、最後飛び込んだ瞬間につった足が今もちょっと違和感。水分が全然足りてなかったなあ</title>
-      <link>https://usememos.yammer.jp/memos/kByyaLiMtihK76CfPU6aJp</link>
-      <description>昨日夜2700mおよいで、最後飛び込んだ瞬間につった足が今もちょっと違和感。水分が全然足りてなかったなあ</description>
-      <guid>https://usememos.yammer.jp/memos/kByyaLiMtihK76CfPU6aJp</guid>
-      <pubDate>Fri, 17 Apr 2026 01:03:58 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>OpenClawだClaudeCodeだVPSで全部詰め込めみたいな感じあったけど、VPSは契約更新できずに全部吹っ飛んだし家のサーバもコンテキストがAIによって散らかってどこにあるか探すみたいになる</title>
-      <link>https://usememos.yammer.jp/memos/SgcG8BhPtSiMezK9z3pTnB</link>
-      <description>OpenClawだClaudeCodeだVPSで全部詰め込めみたいな感じあったけど、VPSは契約更新できずに全部吹っ飛んだし家のサーバもコンテキストがAIによって散らかってどこにあるか探すみたいになるから、結局状態を持ちたくないという気持ちになった。ステートレスさいこう！安価に高集積できるという意味でレンサバが最強なのではないか</description>
-      <guid>https://usememos.yammer.jp/memos/SgcG8BhPtSiMezK9z3pTnB</guid>
-      <pubDate>Tue, 14 Apr 2026 13:27:55 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>
