@@ -5,6 +5,24 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mtx6cxnc4s2k",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mtx6cxnc4s2k",
+      "content_text": "さわやか信州号わすれていた",
+      "date_published": "2026-08-26T01:23:00.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mtx6abaoe22k",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mtx6abaoe22k",
+      "content_text": "M1がよく出来すぎていて、家のMac miniもMacBookもこまっていないといえば困っていないのよな\n\nどっちもsshクライアントとしてしか使ってないし",
+      "date_published": "2026-08-26T01:22:00.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mtx65o3g722k",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mtx65o3g722k",
+      "content_text": "定期買うとき「半年はたらくぞ」の念を込めて購入ボタン押してる",
+      "date_published": "2026-08-26T01:20:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/axSu494ZSWJfHTxEmePn4y",
       "url": "https://usememos.yammer.jp/memos/axSu494ZSWJfHTxEmePn4y",
       "content_text": "おうちのClaude Codeクン、秘匿情報は気軽にheadするし、PV全部吹っ飛ばしてデータを無かったものにしてしまうしやんちゃすぎる",
@@ -629,12 +647,6 @@
       "date_published": "2026-05-13T05:09:00.000Z"
     },
     {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mlmxz5gizs2j",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mlmxz5gizs2j",
-      "content_text": "X, Instagram, Youtubeをアンインストール",
-      "date_published": "2026-05-12T04:42:00.000Z"
-    },
-    {
       "id": "https://usememos.yammer.jp/memos/fc5Cn8fd6wqVgSnGQa2qkp",
       "url": "https://usememos.yammer.jp/memos/fc5Cn8fd6wqVgSnGQa2qkp",
       "content_text": "サプライチェーンアタック、頻度があがっているきがす？",
@@ -645,18 +657,6 @@
       "url": "https://usememos.yammer.jp/memos/cwqt4h9bqynquJZ4fcKwCQ",
       "content_text": "そろそろCorne Cherryを買うか、食洗機を買うか",
       "date_published": "2026-05-11T12:56:15.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mllcwayu6k2p",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mllcwayu6k2p",
-      "content_text": "ジップロック大好き人間、S,M,L同時に買う。この上なき幸せ",
-      "date_published": "2026-05-11T12:52:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mlikxl2cfc2a",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mlikxl2cfc2a",
-      "content_text": "Slack デスクトップアプリの新しいActivity欄、小さい表示が結構好みでつかいやすい気がしている",
-      "date_published": "2026-05-10T10:38:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/memos/3vtiEcbuSA7FCisHr7Bio7",
