@@ -5,6 +5,38 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>日記はやっぱりDayoneがいいんじゃないかという気持ちになって、プレミアムを契約しようか迷っている</title>
+      <link>https://usememos.yammer.jp/memos/MX6Hr7nGLELPjevhb2igJn</link>
+      <description>日記はやっぱりDayoneがいいんじゃないかという気持ちになって、プレミアムを契約しようか迷っている</description>
+      <guid>https://usememos.yammer.jp/memos/MX6Hr7nGLELPjevhb2igJn</guid>
+      <pubDate>Mon, 31 Aug 2026 01:09:19 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>サブスクを解約、解約！</title>
+      <link>https://usememos.yammer.jp/memos/MkD4yLiG3PtDeonCtfzJiC</link>
+      <description>サブスクを解約、解約！</description>
+      <guid>https://usememos.yammer.jp/memos/MkD4yLiG3PtDeonCtfzJiC</guid>
+      <pubDate>Mon, 31 Aug 2026 01:08:49 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>ランニング復帰二日目</title>
+      <link>https://usememos.yammer.jp/memos/RSjrPirfLbtKTjXDZ7yaS3</link>
+      <description>ランニング復帰二日目</description>
+      <guid>https://usememos.yammer.jp/memos/RSjrPirfLbtKTjXDZ7yaS3</guid>
+      <pubDate>Mon, 31 Aug 2026 01:08:39 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>久々に走ったが、NIKEランニングアプリが起動できなくてクラッシュし続けてしまっていた</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3muciyyw3yk2w</link>
+      <description>久々に走ったが、NIKEランニングアプリが起動できなくてクラッシュし続けてしまっていた</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3muciyyw3yk2w</guid>
+      <pubDate>Sun, 30 Aug 2026 13:34:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>さわやか信州号わすれていた</title>
       <link>https://bsky.app/profile/yammer.jp/post/3mtx6cxnc4s2k</link>
       <description>さわやか信州号わすれていた</description>
@@ -887,14 +919,6 @@ https://note.com/mryy/n/n78d9ac66059e</description>
       <source>memos</source>
     </item>
     <item>
-      <title>この時間はお客さんが私だけ</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mlpjyn5dps2v</link>
-      <description>この時間はお客さんが私だけ</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mlpjyn5dps2v</guid>
-      <pubDate>Wed, 13 May 2026 05:09:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
       <title>サプライチェーンアタック、頻度があがっているきがす？</title>
       <link>https://usememos.yammer.jp/memos/fc5Cn8fd6wqVgSnGQa2qkp</link>
       <description>サプライチェーンアタック、頻度があがっているきがす？</description>
@@ -1057,30 +1081,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <description>今日からPCのIMEをAzookey on macOSにしてみて、それに合わせてiPhoneもAzookeyに戻してみた。macOSデフォルトのかな漢字変換はだいぶ残念だったので大変快適。iPhoneのライブ変換を有効にしてみているが、これはまだ慣れない。Zenzaiを低で有効にしてみているが、iPhone16 Plusで素早く打つと少し変換が間に合ってない感じがあるかな。</description>
       <guid>https://usememos.yammer.jp/memos/gvsoeZP9DcgNwQchm3o6f3</guid>
       <pubDate>Mon, 20 Apr 2026 12:31:48 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>オンライン診療、素晴らしく快適。花粉症の薬を取り戻したので、これで酸欠から帰ってこれる</title>
-      <link>https://usememos.yammer.jp/memos/gQnwqJ5VxjNMgqGyzAg924</link>
-      <description>オンライン診療、素晴らしく快適。花粉症の薬を取り戻したので、これで酸欠から帰ってこれる</description>
-      <guid>https://usememos.yammer.jp/memos/gQnwqJ5VxjNMgqGyzAg924</guid>
-      <pubDate>Mon, 20 Apr 2026 12:28:46 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>登山用のヘッドランプ買いたい、何がいいかなあ。</title>
-      <link>https://usememos.yammer.jp/memos/NfjkBWSacKsX7yEkGtWpQu</link>
-      <description>登山用のヘッドランプ買いたい、何がいいかなあ。</description>
-      <guid>https://usememos.yammer.jp/memos/NfjkBWSacKsX7yEkGtWpQu</guid>
-      <pubDate>Sun, 19 Apr 2026 13:36:45 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>そういえばローカルLLMけっこういいかもと金曜夜に触っていたが、他の人のマシンで実行してもらうためにはどう作るといいかなとちょい悩み。と思ったが、別にそこそこのスペックのあるマシンじゃないと動かないか</title>
-      <link>https://usememos.yammer.jp/memos/3v2anTkWUibXpFQWU5GX4o</link>
-      <description>そういえばローカルLLMけっこういいかもと金曜夜に触っていたが、他の人のマシンで実行してもらうためにはどう作るといいかなとちょい悩み。と思ったが、別にそこそこのスペックのあるマシンじゃないと動かないからあんまり考えなくてもいいか。</description>
-      <guid>https://usememos.yammer.jp/memos/3v2anTkWUibXpFQWU5GX4o</guid>
-      <pubDate>Sun, 19 Apr 2026 13:36:09 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>

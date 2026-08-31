@@ -5,6 +5,30 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/MX6Hr7nGLELPjevhb2igJn",
+      "url": "https://usememos.yammer.jp/memos/MX6Hr7nGLELPjevhb2igJn",
+      "content_text": "日記はやっぱりDayoneがいいんじゃないかという気持ちになって、プレミアムを契約しようか迷っている",
+      "date_published": "2026-08-31T01:09:19.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/MkD4yLiG3PtDeonCtfzJiC",
+      "url": "https://usememos.yammer.jp/memos/MkD4yLiG3PtDeonCtfzJiC",
+      "content_text": "サブスクを解約、解約！",
+      "date_published": "2026-08-31T01:08:49.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/RSjrPirfLbtKTjXDZ7yaS3",
+      "url": "https://usememos.yammer.jp/memos/RSjrPirfLbtKTjXDZ7yaS3",
+      "content_text": "ランニング復帰二日目",
+      "date_published": "2026-08-31T01:08:39.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3muciyyw3yk2w",
+      "url": "https://bsky.app/profile/yammer.jp/post/3muciyyw3yk2w",
+      "content_text": "久々に走ったが、NIKEランニングアプリが起動できなくてクラッシュし続けてしまっていた",
+      "date_published": "2026-08-30T13:34:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mtx6cxnc4s2k",
       "url": "https://bsky.app/profile/yammer.jp/post/3mtx6cxnc4s2k",
       "content_text": "さわやか信州号わすれていた",
@@ -641,12 +665,6 @@
       "date_published": "2026-05-14T05:52:56.000Z"
     },
     {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mlpjyn5dps2v",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mlpjyn5dps2v",
-      "content_text": "この時間はお客さんが私だけ",
-      "date_published": "2026-05-13T05:09:00.000Z"
-    },
-    {
       "id": "https://usememos.yammer.jp/memos/fc5Cn8fd6wqVgSnGQa2qkp",
       "url": "https://usememos.yammer.jp/memos/fc5Cn8fd6wqVgSnGQa2qkp",
       "content_text": "サプライチェーンアタック、頻度があがっているきがす？",
@@ -765,24 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/gvsoeZP9DcgNwQchm3o6f3",
       "content_text": "今日からPCのIMEをAzookey on macOSにしてみて、それに合わせてiPhoneもAzookeyに戻してみた。macOSデフォルトのかな漢字変換はだいぶ残念だったので大変快適。iPhoneのライブ変換を有効にしてみているが、これはまだ慣れない。Zenzaiを低で有効にしてみているが、iPhone16 Plusで素早く打つと少し変換が間に合ってない感じがあるかな。",
       "date_published": "2026-04-20T12:31:48.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/gQnwqJ5VxjNMgqGyzAg924",
-      "url": "https://usememos.yammer.jp/memos/gQnwqJ5VxjNMgqGyzAg924",
-      "content_text": "オンライン診療、素晴らしく快適。花粉症の薬を取り戻したので、これで酸欠から帰ってこれる",
-      "date_published": "2026-04-20T12:28:46.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/NfjkBWSacKsX7yEkGtWpQu",
-      "url": "https://usememos.yammer.jp/memos/NfjkBWSacKsX7yEkGtWpQu",
-      "content_text": "登山用のヘッドランプ買いたい、何がいいかなあ。",
-      "date_published": "2026-04-19T13:36:45.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/3v2anTkWUibXpFQWU5GX4o",
-      "url": "https://usememos.yammer.jp/memos/3v2anTkWUibXpFQWU5GX4o",
-      "content_text": "そういえばローカルLLMけっこういいかもと金曜夜に触っていたが、他の人のマシンで実行してもらうためにはどう作るといいかなとちょい悩み。と思ったが、別にそこそこのスペックのあるマシンじゃないと動かないからあんまり考えなくてもいいか。",
-      "date_published": "2026-04-19T13:36:09.000Z"
     }
   ]
 }
