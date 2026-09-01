@@ -5,6 +5,30 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mug56qvhvs2m",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mug56qvhvs2m",
+      "content_text": "反り腰、どうしたらいいの",
+      "date_published": "2026-09-01T00:13:00.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/NciEyfxUxFN7PnTYmBRysi",
+      "url": "https://usememos.yammer.jp/memos/NciEyfxUxFN7PnTYmBRysi",
+      "content_text": "20分ランニング3日目。冬と違って気温が高いので体が動く気がする",
+      "date_published": "2026-08-31T22:47:32.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/YCjqBDhj66bZUZqYwcWqwQ",
+      "url": "https://usememos.yammer.jp/memos/YCjqBDhj66bZUZqYwcWqwQ",
+      "content_text": "平日の夜に予定を入れるとなにもできなくなるので固定の予定は入れない！",
+      "date_published": "2026-08-31T13:39:14.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/Yv9HJiVjjJTyKaAdhUkes9",
+      "url": "https://usememos.yammer.jp/memos/Yv9HJiVjjJTyKaAdhUkes9",
+      "content_text": "仕事で疲れてしまったので油そばを食べても許されますか！並盛りにしてえらすぎる",
+      "date_published": "2026-08-31T13:33:06.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/MX6Hr7nGLELPjevhb2igJn",
       "url": "https://usememos.yammer.jp/memos/MX6Hr7nGLELPjevhb2igJn",
       "content_text": "日記はやっぱりDayoneがいいんじゃないかという気持ちになって、プレミアムを契約しようか迷っている",
@@ -593,12 +617,6 @@
       "date_published": "2026-05-21T01:12:37.000Z"
     },
     {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mmd7nps2cc2i",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mmd7nps2cc2i",
-      "content_text": "長袖か迷ったが、半袖で来て正解だったような",
-      "date_published": "2026-05-21T00:58:00.000Z"
-    },
-    {
       "id": "https://usememos.yammer.jp/memos/hTbmYtse7b59x4mCEM3zyN",
       "url": "https://usememos.yammer.jp/memos/hTbmYtse7b59x4mCEM3zyN",
       "content_text": "この時間の社のエレベータ、たくさんの人が整然と吸い込まれていく感じ、独特の世界観がある",
@@ -765,24 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/TMDBYoaHRWdCtMeJwK47dh",
       "content_text": "年末年始休みにVibe Codingしたアプリを公開した。世の中に広めるためというよりも、自分のデバイスで使うためにpublish。今はいいけど、Apple Developer登録をどれくらい長く続けるかはわからぬしなとも思う。でもクライアントアプリとしてもReact NativeのVibe Codingされたコードベースとしてもそんなに長い持続可能性をイメージしてもしゃあないか。そのためにデータをGitHubにMarkdownを置いているのだから",
       "date_published": "2026-04-21T00:43:56.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/6uvr7PswfQdKAZsvTpAu28",
-      "url": "https://usememos.yammer.jp/memos/6uvr7PswfQdKAZsvTpAu28",
-      "content_text": "今日はだいぶ眠いので寝る",
-      "date_published": "2026-04-20T13:10:32.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/mzunRFMwqUzRYa9ZPUQ2eD",
-      "url": "https://usememos.yammer.jp/memos/mzunRFMwqUzRYa9ZPUQ2eD",
-      "content_text": "YoutubeとInstagramの謎の映像で時間を消化しないことが幸福への道",
-      "date_published": "2026-04-20T12:32:27.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/gvsoeZP9DcgNwQchm3o6f3",
-      "url": "https://usememos.yammer.jp/memos/gvsoeZP9DcgNwQchm3o6f3",
-      "content_text": "今日からPCのIMEをAzookey on macOSにしてみて、それに合わせてiPhoneもAzookeyに戻してみた。macOSデフォルトのかな漢字変換はだいぶ残念だったので大変快適。iPhoneのライブ変換を有効にしてみているが、これはまだ慣れない。Zenzaiを低で有効にしてみているが、iPhone16 Plusで素早く打つと少し変換が間に合ってない感じがあるかな。",
-      "date_published": "2026-04-20T12:31:48.000Z"
     }
   ]
 }

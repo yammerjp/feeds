@@ -5,6 +5,38 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>反り腰、どうしたらいいの</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mug56qvhvs2m</link>
+      <description>反り腰、どうしたらいいの</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mug56qvhvs2m</guid>
+      <pubDate>Tue, 01 Sep 2026 00:13:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
+      <title>20分ランニング3日目。冬と違って気温が高いので体が動く気がする</title>
+      <link>https://usememos.yammer.jp/memos/NciEyfxUxFN7PnTYmBRysi</link>
+      <description>20分ランニング3日目。冬と違って気温が高いので体が動く気がする</description>
+      <guid>https://usememos.yammer.jp/memos/NciEyfxUxFN7PnTYmBRysi</guid>
+      <pubDate>Mon, 31 Aug 2026 22:47:32 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>平日の夜に予定を入れるとなにもできなくなるので固定の予定は入れない！</title>
+      <link>https://usememos.yammer.jp/memos/YCjqBDhj66bZUZqYwcWqwQ</link>
+      <description>平日の夜に予定を入れるとなにもできなくなるので固定の予定は入れない！</description>
+      <guid>https://usememos.yammer.jp/memos/YCjqBDhj66bZUZqYwcWqwQ</guid>
+      <pubDate>Mon, 31 Aug 2026 13:39:14 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
+      <title>仕事で疲れてしまったので油そばを食べても許されますか！並盛りにしてえらすぎる</title>
+      <link>https://usememos.yammer.jp/memos/Yv9HJiVjjJTyKaAdhUkes9</link>
+      <description>仕事で疲れてしまったので油そばを食べても許されますか！並盛りにしてえらすぎる</description>
+      <guid>https://usememos.yammer.jp/memos/Yv9HJiVjjJTyKaAdhUkes9</guid>
+      <pubDate>Mon, 31 Aug 2026 13:33:06 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>日記はやっぱりDayoneがいいんじゃないかという気持ちになって、プレミアムを契約しようか迷っている</title>
       <link>https://usememos.yammer.jp/memos/MX6Hr7nGLELPjevhb2igJn</link>
       <description>日記はやっぱりDayoneがいいんじゃないかという気持ちになって、プレミアムを契約しようか迷っている</description>
@@ -818,14 +850,6 @@ https://note.com/mryy/n/n78d9ac66059e</description>
       <source>memos</source>
     </item>
     <item>
-      <title>長袖か迷ったが、半袖で来て正解だったような</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mmd7nps2cc2i</link>
-      <description>長袖か迷ったが、半袖で来て正解だったような</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mmd7nps2cc2i</guid>
-      <pubDate>Thu, 21 May 2026 00:58:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
       <title>この時間の社のエレベータ、たくさんの人が整然と吸い込まれていく感じ、独特の世界観がある</title>
       <link>https://usememos.yammer.jp/memos/hTbmYtse7b59x4mCEM3zyN</link>
       <description>この時間の社のエレベータ、たくさんの人が整然と吸い込まれていく感じ、独特の世界観がある</description>
@@ -1057,30 +1081,6 @@ Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose�
       <description>年末年始休みにVibe Codingしたアプリを公開した。世の中に広めるためというよりも、自分のデバイスで使うためにpublish。今はいいけど、Apple Developer登録をどれくらい長く続けるかはわからぬしなとも思う。でもクライアントアプリとしてもReact NativeのVibe Codingされたコードベースとしてもそんなに長い持続可能性をイメージしてもしゃあないか。そのためにデータをGitHubにMarkdownを置いているのだから</description>
       <guid>https://usememos.yammer.jp/memos/TMDBYoaHRWdCtMeJwK47dh</guid>
       <pubDate>Tue, 21 Apr 2026 00:43:56 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>今日はだいぶ眠いので寝る</title>
-      <link>https://usememos.yammer.jp/memos/6uvr7PswfQdKAZsvTpAu28</link>
-      <description>今日はだいぶ眠いので寝る</description>
-      <guid>https://usememos.yammer.jp/memos/6uvr7PswfQdKAZsvTpAu28</guid>
-      <pubDate>Mon, 20 Apr 2026 13:10:32 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>YoutubeとInstagramの謎の映像で時間を消化しないことが幸福への道</title>
-      <link>https://usememos.yammer.jp/memos/mzunRFMwqUzRYa9ZPUQ2eD</link>
-      <description>YoutubeとInstagramの謎の映像で時間を消化しないことが幸福への道</description>
-      <guid>https://usememos.yammer.jp/memos/mzunRFMwqUzRYa9ZPUQ2eD</guid>
-      <pubDate>Mon, 20 Apr 2026 12:32:27 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>今日からPCのIMEをAzookey on macOSにしてみて、それに合わせてiPhoneもAzookeyに戻してみた。macOSデフォルトのかな漢字変換はだいぶ残念だったので大変快適。iPhone</title>
-      <link>https://usememos.yammer.jp/memos/gvsoeZP9DcgNwQchm3o6f3</link>
-      <description>今日からPCのIMEをAzookey on macOSにしてみて、それに合わせてiPhoneもAzookeyに戻してみた。macOSデフォルトのかな漢字変換はだいぶ残念だったので大変快適。iPhoneのライブ変換を有効にしてみているが、これはまだ慣れない。Zenzaiを低で有効にしてみているが、iPhone16 Plusで素早く打つと少し変換が間に合ってない感じがあるかな。</description>
-      <guid>https://usememos.yammer.jp/memos/gvsoeZP9DcgNwQchm3o6f3</guid>
-      <pubDate>Mon, 20 Apr 2026 12:31:48 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>
