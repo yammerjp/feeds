@@ -5,6 +5,60 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/GspHTNctZWxos4cYgYnQ4v",
+      "url": "https://usememos.yammer.jp/memos/GspHTNctZWxos4cYgYnQ4v",
+      "content_text": "門司港といえばfail2ban",
+      "date_published": "2026-09-02T01:21:43.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/bSDNHrbirDZEaDuGmadsvS",
+      "url": "https://usememos.yammer.jp/memos/bSDNHrbirDZEaDuGmadsvS",
+      "content_text": "Google Ads APIといえば所沢駅前の家系ラーメン",
+      "date_published": "2026-09-02T01:21:22.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/5C34HL73arAaMyxaHCXyC3",
+      "url": "https://usememos.yammer.jp/memos/5C34HL73arAaMyxaHCXyC3",
+      "content_text": "X、たまに開いて精神が削られたうえに時間も削られるのでよくない",
+      "date_published": "2026-09-01T23:46:14.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/dGkPpvTckn9SAz59koeqg4",
+      "url": "https://usememos.yammer.jp/memos/dGkPpvTckn9SAz59koeqg4",
+      "content_text": "たっぷりとした睡眠、大事！",
+      "date_published": "2026-09-01T23:45:44.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/3KGR9tyHTLEzc3cgay6NJw",
+      "url": "https://usememos.yammer.jp/memos/3KGR9tyHTLEzc3cgay6NJw",
+      "content_text": "夜更かしレベルが多少マシになったと思ってもいいのかな、寝ましょう",
+      "date_published": "2026-09-01T17:35:14.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/AtcUkUGHr5SFNbNhXHEyRf",
+      "url": "https://usememos.yammer.jp/memos/AtcUkUGHr5SFNbNhXHEyRf",
+      "content_text": "AI Slop、ちゃんと言っていかないとダメなのだと思う。いきおいってやつもまああるけど、もう2周ぐらい回ってるしそろそろいいんじゃないかと",
+      "date_published": "2026-09-01T14:01:15.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/oQWMPzpokMmJW3HiqkJTRr",
+      "url": "https://usememos.yammer.jp/memos/oQWMPzpokMmJW3HiqkJTRr",
+      "content_text": "大学時代に学んだ「高速で飛ばしている人はトイレ行きたい理論」、これは人生において学ぶべきものがいろいろ含まれているなと思う",
+      "date_published": "2026-09-01T14:00:01.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/JerWWefuonE9TYv9VwkhSq",
+      "url": "https://usememos.yammer.jp/memos/JerWWefuonE9TYv9VwkhSq",
+      "content_text": "順調とおもえば順調でないことがめにつくので、あんまり考えずに物事それぞれをフラットに見るほうがいい。まとめてもとくに意味のある洞察が得られるわけじゃないからね",
+      "date_published": "2026-09-01T13:59:00.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/XGGmCTt6zoup6CNrRQRHHb",
+      "url": "https://usememos.yammer.jp/memos/XGGmCTt6zoup6CNrRQRHHb",
+      "content_text": "ひいー！つかれた！",
+      "date_published": "2026-09-01T13:58:07.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mug56qvhvs2m",
       "url": "https://bsky.app/profile/yammer.jp/post/3mug56qvhvs2m",
       "content_text": "反り腰、どうしたらいいの",
@@ -729,60 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/7ZcqhmjPexaZB33zv8UDnQ",
       "content_text": "最初はRailsアプリでHerokuに置いていたこの場所は実は2021年末ぐらいから存在したのな\nHeroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose→家のk3sクラスタときて、今日VPSのk3sクラスタに移行した。公開用と非公開用でクラスタを二個に分けることにして、公開用は大したスペックがなくてもいいので経路もシンプルに直接VPSに載せてしまうことに。\n個人でさわるぐらいのレベルであれば、インスタンスのセットアップから構成管理からクラスタ上のmanifestを書くところまで、Claude Codeにちょいと指示を出せばささっとやり切ってくれてしまう、いい時代になったとも思うし恐ろしい時代になったとも思う",
       "date_published": "2026-05-04T09:26:53.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/C4qMMUvg3PzTpimk2muFLd",
-      "url": "https://usememos.yammer.jp/memos/C4qMMUvg3PzTpimk2muFLd",
-      "content_text": "これがゴールデンウィーク！\nサイクルキャリアをつけたことで外すのが面倒でずっと洗車していなかったが、流石に汚すぎるので洗いにきた。気持ちいね！そしてキャリアを外すのが大変すぎるし家に置く場所がない",
-      "date_published": "2026-05-03T07:10:24.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/U7trwAdzHp77Y9TzPhbiPo",
-      "url": "https://usememos.yammer.jp/memos/U7trwAdzHp77Y9TzPhbiPo",
-      "content_text": "東京、想像していたよりもずっと自転車で暮らしやすい",
-      "date_published": "2026-05-01T09:19:29.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/GuX9BMptyuAWxFJkHScMhx",
-      "url": "https://usememos.yammer.jp/memos/GuX9BMptyuAWxFJkHScMhx",
-      "content_text": "起床",
-      "date_published": "2026-04-27T19:03:32.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/M7BDW4WfdCG8wcnYy5oZsg",
-      "url": "https://usememos.yammer.jp/memos/M7BDW4WfdCG8wcnYy5oZsg",
-      "content_text": "朝は土砂降りなのにこの天気の変わりよう、めちゃ晴れてる",
-      "date_published": "2026-04-27T04:11:46.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/ThEv7JjpYpahcFt26yoHqb",
-      "url": "https://usememos.yammer.jp/memos/ThEv7JjpYpahcFt26yoHqb",
-      "content_text": "夜でもまだ頭が若干違和感ある",
-      "date_published": "2026-04-24T13:22:02.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/iGZvR72VPD4tDyzpPbjPBg",
-      "url": "https://usememos.yammer.jp/memos/iGZvR72VPD4tDyzpPbjPBg",
-      "content_text": "終電を逃してしまったよ、5回目ぐらいだろうか",
-      "date_published": "2026-04-23T15:14:56.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/Z8LTZiP3oa4ZXgfSYoX2yz",
-      "url": "https://usememos.yammer.jp/memos/Z8LTZiP3oa4ZXgfSYoX2yz",
-      "content_text": "tokaiさんにおすすめしていただいて刈穂を飲んだが、スキッとしてして意外と飲みやすい",
-      "date_published": "2026-04-23T14:02:56.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/KkKX9LkcsHqqyGdYtaQcaz",
-      "url": "https://usememos.yammer.jp/memos/KkKX9LkcsHqqyGdYtaQcaz",
-      "content_text": "みんなRaycastかAlfredつかってる、Spotlightのままなの私だけ",
-      "date_published": "2026-04-21T04:21:05.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/TMDBYoaHRWdCtMeJwK47dh",
-      "url": "https://usememos.yammer.jp/memos/TMDBYoaHRWdCtMeJwK47dh",
-      "content_text": "年末年始休みにVibe Codingしたアプリを公開した。世の中に広めるためというよりも、自分のデバイスで使うためにpublish。今はいいけど、Apple Developer登録をどれくらい長く続けるかはわからぬしなとも思う。でもクライアントアプリとしてもReact NativeのVibe Codingされたコードベースとしてもそんなに長い持続可能性をイメージしてもしゃあないか。そのためにデータをGitHubにMarkdownを置いているのだから",
-      "date_published": "2026-04-21T00:43:56.000Z"
     }
   ]
 }
