@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/9hCNwvvM4hdDbAa2yrDpgq",
+      "url": "https://usememos.yammer.jp/memos/9hCNwvvM4hdDbAa2yrDpgq",
+      "content_text": "今日も油そばを食べてしまった、罪深い",
+      "date_published": "2026-09-02T14:00:34.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/GspHTNctZWxos4cYgYnQ4v",
       "url": "https://usememos.yammer.jp/memos/GspHTNctZWxos4cYgYnQ4v",
       "content_text": "門司港といえばfail2ban",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/YpmJJajAEC4C9ckhjWD8Fg",
       "content_text": "時間を買ったという意識を持っているか、自己決定感、どうせそうならやったるでという納得感",
       "date_published": "2026-05-05T10:48:32.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/7ZcqhmjPexaZB33zv8UDnQ",
-      "url": "https://usememos.yammer.jp/memos/7ZcqhmjPexaZB33zv8UDnQ",
-      "content_text": "最初はRailsアプリでHerokuに置いていたこの場所は実は2021年末ぐらいから存在したのな\nHeroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose→家のk3sクラスタときて、今日VPSのk3sクラスタに移行した。公開用と非公開用でクラスタを二個に分けることにして、公開用は大したスペックがなくてもいいので経路もシンプルに直接VPSに載せてしまうことに。\n個人でさわるぐらいのレベルであれば、インスタンスのセットアップから構成管理からクラスタ上のmanifestを書くところまで、Claude Codeにちょいと指示を出せばささっとやり切ってくれてしまう、いい時代になったとも思うし恐ろしい時代になったとも思う",
-      "date_published": "2026-05-04T09:26:53.000Z"
     }
   ]
 }

@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>今日も油そばを食べてしまった、罪深い</title>
+      <link>https://usememos.yammer.jp/memos/9hCNwvvM4hdDbAa2yrDpgq</link>
+      <description>今日も油そばを食べてしまった、罪深い</description>
+      <guid>https://usememos.yammer.jp/memos/9hCNwvvM4hdDbAa2yrDpgq</guid>
+      <pubDate>Wed, 02 Sep 2026 14:00:34 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>門司港といえばfail2ban</title>
       <link>https://usememos.yammer.jp/memos/GspHTNctZWxos4cYgYnQ4v</link>
       <description>門司港といえばfail2ban</description>
@@ -1068,17 +1076,6 @@ https://note.com/mryy/n/n78d9ac66059e</description>
       <description>時間を買ったという意識を持っているか、自己決定感、どうせそうならやったるでという納得感</description>
       <guid>https://usememos.yammer.jp/memos/YpmJJajAEC4C9ckhjWD8Fg</guid>
       <pubDate>Tue, 05 May 2026 10:48:32 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>最初はRailsアプリでHerokuに置いていたこの場所は実は2021年末ぐらいから存在したのな
-Heroku → Cloud Run + LiteStream → usememosにしてVPS上のD</title>
-      <link>https://usememos.yammer.jp/memos/7ZcqhmjPexaZB33zv8UDnQ</link>
-      <description>最初はRailsアプリでHerokuに置いていたこの場所は実は2021年末ぐらいから存在したのな
-Heroku → Cloud Run + LiteStream → usememosにしてVPS上のDocker Compose→家のk3sクラスタときて、今日VPSのk3sクラスタに移行した。公開用と非公開用でクラスタを二個に分けることにして、公開用は大したスペックがなくてもいいので経路もシンプルに直接VPSに載せてしまうことに。
-個人でさわるぐらいのレベルであれば、インスタンスのセットアップから構成管理からクラスタ上のmanifestを書くところまで、Claude Codeにちょいと指示を出せばささっとやり切ってくれてしまう、いい時代になったとも思うし恐ろしい時代になったとも思う</description>
-      <guid>https://usememos.yammer.jp/memos/7ZcqhmjPexaZB33zv8UDnQ</guid>
-      <pubDate>Mon, 04 May 2026 09:26:53 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>
