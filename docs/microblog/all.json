@@ -5,6 +5,24 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/PtgMVh878tBozEahV9VThr",
+      "url": "https://usememos.yammer.jp/memos/PtgMVh878tBozEahV9VThr",
+      "content_text": "スマホに入れるアプリはMeowdokuに限る。もっと単純なパズルゲーだと無心にやり続けるが、それなりに脳みそを使うので適度にやめられるので。他のアプリは消した",
+      "date_published": "2026-09-10T14:01:56.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/EEHkD75BQdbhem95oPnqvN",
+      "url": "https://usememos.yammer.jp/memos/EEHkD75BQdbhem95oPnqvN",
+      "content_text": "回復傾向にあるのでつい残業してしまった",
+      "date_published": "2026-09-10T14:00:55.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/bmFSuk9SsyhE4wGjcPPBZi",
+      "url": "https://usememos.yammer.jp/memos/bmFSuk9SsyhE4wGjcPPBZi",
+      "content_text": "油そばばっか食べてるから風邪をひく",
+      "date_published": "2026-09-10T14:00:31.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/9hCNwvvM4hdDbAa2yrDpgq",
       "url": "https://usememos.yammer.jp/memos/9hCNwvvM4hdDbAa2yrDpgq",
       "content_text": "今日も油そばを食べてしまった、罪深い",
@@ -765,24 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/VSh9Q77zwRwtm2tRkUWsY6",
       "content_text": "個別株の話になって家に戻って買うかとみたものの、結局NISAのインデックスファンドをみなおしておわり",
       "date_published": "2026-05-06T13:37:54.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/VYLwxzsp2uk7ojMZvxxKX7",
-      "url": "https://usememos.yammer.jp/memos/VYLwxzsp2uk7ojMZvxxKX7",
-      "content_text": "8:40から登り始めて12:15には降りてきて、14:00すぎぐらいには帰ってきていた。混む前に帰れて完璧な時間計画",
-      "date_published": "2026-05-06T08:21:19.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/eSTrFhygNJDC5ig5XTQJGh",
-      "url": "https://usememos.yammer.jp/memos/eSTrFhygNJDC5ig5XTQJGh",
-      "content_text": "今日は登山で6:30集合なのに目覚まし無しで寝おちてしまった。奇跡的に起きれてセーフ",
-      "date_published": "2026-05-05T20:19:44.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/YpmJJajAEC4C9ckhjWD8Fg",
-      "url": "https://usememos.yammer.jp/memos/YpmJJajAEC4C9ckhjWD8Fg",
-      "content_text": "時間を買ったという意識を持っているか、自己決定感、どうせそうならやったるでという納得感",
-      "date_published": "2026-05-05T10:48:32.000Z"
     }
   ]
 }
