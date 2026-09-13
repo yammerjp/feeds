@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mvc3unpg4s2f",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mvc3unpg4s2f",
+      "content_text": "家のマシンに端からOmarchyをいれるおしごと",
+      "date_published": "2026-09-12T03:04:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/PtgMVh878tBozEahV9VThr",
       "url": "https://usememos.yammer.jp/memos/PtgMVh878tBozEahV9VThr",
       "content_text": "スマホに入れるアプリはMeowdokuに限る。もっと単純なパズルゲーだと無心にやり続けるが、それなりに脳みそを使うので適度にやめられるので。他のアプリは消した",
@@ -675,12 +681,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mmonrkz7ek2d",
       "content_text": "熱すぎるだけといいつつチーズを入れるのはなぜ？",
       "date_published": "2026-05-25T14:09:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mmoneeiibs2d",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mmoneeiibs2d",
-      "content_text": "ローソンの冷凍チゲ鍋うどん、美味しいけどちょっと辛すぎるなと思っていたが、熱すぎるだけということがわかってきた。沸騰した後にチーズと氷を入れてちょうどいい",
-      "date_published": "2026-05-25T14:02:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/memos/f8zjS5UHmXXc2CNV9Dt7Ne",
