@@ -5,6 +5,24 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/TDVQbTUG3Q2hgjBBRr8sLg",
+      "url": "https://usememos.yammer.jp/memos/TDVQbTUG3Q2hgjBBRr8sLg",
+      "content_text": "https://listen.style/p/juneboku-life/ep217 をきいていて、自分ははてなダイアリーやtdiaryの時代をあまり通っていないのだけど、日付単位でまとまるという体験がよさそうで、ここをもう少しそういうふうに整えてみようかな",
+      "date_published": "2026-09-14T00:28:05.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/ecrFUszscLxUbgwxdPPzgE",
+      "url": "https://usememos.yammer.jp/memos/ecrFUszscLxUbgwxdPPzgE",
+      "content_text": "Apple Watchのアルパインループもどきのバンドを使っているのだが、布タイプでランニングをした後はあんまり快適じゃない。シリコンタイプを買いたいのだけど、もどきのサードパーティ製を買うか本家を買うか迷う。値段差はだいぶあるけど、シリコンタイプが痒くならないか心配。",
+      "date_published": "2026-09-13T23:29:08.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/Bb7TpHHi3uJHFD8pu5cfob",
+      "url": "https://usememos.yammer.jp/memos/Bb7TpHHi3uJHFD8pu5cfob",
+      "content_text": "久々にランニングをしたが、体調がまだ戻ってきてないのかムカムカする感じで、歩きながら軽めに終わらせた。\n昨日は泳いだからか19時台にはすごく眠くて結局10時間ぐらい寝たが目覚めはぼちぼちで、目覚め改善したいのだけど何をするといいのだろうな",
+      "date_published": "2026-09-13T23:27:37.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mvc3unpg4s2f",
       "url": "https://bsky.app/profile/yammer.jp/post/3mvc3unpg4s2f",
       "content_text": "家のマシンに端からOmarchyをいれるおしごと",
@@ -765,24 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/fc5Cn8fd6wqVgSnGQa2qkp",
       "content_text": "サプライチェーンアタック、頻度があがっているきがす？",
       "date_published": "2026-05-12T03:53:56.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/cwqt4h9bqynquJZ4fcKwCQ",
-      "url": "https://usememos.yammer.jp/memos/cwqt4h9bqynquJZ4fcKwCQ",
-      "content_text": "そろそろCorne Cherryを買うか、食洗機を買うか",
-      "date_published": "2026-05-11T12:56:15.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/3vtiEcbuSA7FCisHr7Bio7",
-      "url": "https://usememos.yammer.jp/memos/3vtiEcbuSA7FCisHr7Bio7",
-      "content_text": "のみすぎ！",
-      "date_published": "2026-05-08T15:55:01.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/VSh9Q77zwRwtm2tRkUWsY6",
-      "url": "https://usememos.yammer.jp/memos/VSh9Q77zwRwtm2tRkUWsY6",
-      "content_text": "個別株の話になって家に戻って買うかとみたものの、結局NISAのインデックスファンドをみなおしておわり",
-      "date_published": "2026-05-06T13:37:54.000Z"
     }
   ]
 }
