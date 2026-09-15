@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/PrzU8JThsWsbp5xu5YNcGc",
+      "url": "https://usememos.yammer.jp/memos/PrzU8JThsWsbp5xu5YNcGc",
+      "content_text": "会社でインターン生に事業部CTOについて話す機会があったのだけど、半分ぐらいは上手く話せた感じが、半分ぐらいはもうちょっと上手く話せたのではという気がする。ともあれ、みなさん積極的で明るく真剣で、未来がとても楽しみでよかった。\n気づけばもう7年ぐらい経ってしまうが、自分がそうであった時のことを思い出す。何か持ち帰るもののある、最高の夏になってほしい。",
+      "date_published": "2026-09-15T00:25:24.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/TDVQbTUG3Q2hgjBBRr8sLg",
       "url": "https://usememos.yammer.jp/memos/TDVQbTUG3Q2hgjBBRr8sLg",
       "content_text": "https://listen.style/p/juneboku-life/ep217 をきいていて、自分ははてなダイアリーやtdiaryの時代をあまり通っていないのだけど、日付単位でまとまるという体験がよさそうで、ここをもう少しそういうふうに整えてみようかな",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/hZVa6t3zJReqkW9GGxtapb",
       "content_text": "OpenCode Go、をpi-coding-agentからとopencodeからどちらも使えたんだけど、リミットが結構早く来てしまうので他のことをやりながらゆるりとやる、並列数を下げるなどしないとダメそうな感じある。使い切って暇になってしまった。ClaudeかCodexのMax/Pro契約する？...",
       "date_published": "2026-05-14T05:52:56.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/fc5Cn8fd6wqVgSnGQa2qkp",
-      "url": "https://usememos.yammer.jp/memos/fc5Cn8fd6wqVgSnGQa2qkp",
-      "content_text": "サプライチェーンアタック、頻度があがっているきがす？",
-      "date_published": "2026-05-12T03:53:56.000Z"
     }
   ]
 }
