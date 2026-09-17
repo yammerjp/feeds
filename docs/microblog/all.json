@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/FEvUvtAB3bU7bZ3YizvYZG",
+      "url": "https://usememos.yammer.jp/memos/FEvUvtAB3bU7bZ3YizvYZG",
+      "content_text": "ADRってやつも粗製濫造したら無限の言葉の置き場になって意味がなくなるとも思う。結局のところ動くコードが正解というのは一周回って変わらない。",
+      "date_published": "2026-09-17T01:07:12.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/Re6ZawRyXD6BkTUpXMuJ2k",
+      "url": "https://usememos.yammer.jp/memos/Re6ZawRyXD6BkTUpXMuJ2k",
+      "content_text": "7列かつトラックボールのある側に最下段が3つあるというのが興味をひく。細かいけど2じゃ足りないんだよな、左側。Layerキーと、Ctrl/Enrerと、Backspaceがほしくて、Keyball44だとそのどれも削れなくてなかなかなじめなかった\nhttps://www.gdm.or.jp/pressrelease/2026/0916/652616",
+      "date_published": "2026-09-16T23:19:03.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/PrzU8JThsWsbp5xu5YNcGc",
       "url": "https://usememos.yammer.jp/memos/PrzU8JThsWsbp5xu5YNcGc",
       "content_text": "会社でインターン生に事業部CTOについて話す機会があったのだけど、半分ぐらいは上手く話せた感じが、半分ぐらいはもうちょっと上手く話せたのではという気がする。ともあれ、みなさん積極的で明るく真剣で、未来がとても楽しみでよかった。\n気づけばもう7年ぐらい経ってしまうが、自分がそうであった時のことを思い出す。何か持ち帰るもののある、最高の夏になってほしい。",
@@ -771,18 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/8YavZpbbCp7XAgds7YcJAw",
       "content_text": "若干風邪気味？",
       "date_published": "2026-05-14T08:24:50.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/mUeUTnafBEsc5t99gt79zq",
-      "url": "https://usememos.yammer.jp/memos/mUeUTnafBEsc5t99gt79zq",
-      "content_text": "暇になってコンピュータから離れるぐらいがちょうどいいかもしれない。",
-      "date_published": "2026-05-14T08:24:31.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/hZVa6t3zJReqkW9GGxtapb",
-      "url": "https://usememos.yammer.jp/memos/hZVa6t3zJReqkW9GGxtapb",
-      "content_text": "OpenCode Go、をpi-coding-agentからとopencodeからどちらも使えたんだけど、リミットが結構早く来てしまうので他のことをやりながらゆるりとやる、並列数を下げるなどしないとダメそうな感じある。使い切って暇になってしまった。ClaudeかCodexのMax/Pro契約する？...",
-      "date_published": "2026-05-14T05:52:56.000Z"
     }
   ]
 }
