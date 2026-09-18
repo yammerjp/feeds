@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>AIってやつのおかげで、TerraformとKubernetesマニフェストを書く機会が増えた気がする</title>
+      <link>https://usememos.yammer.jp/memos/7FCixc7EffG7nSfjH2bVsr</link>
+      <description>AIってやつのおかげで、TerraformとKubernetesマニフェストを書く機会が増えた気がする</description>
+      <guid>https://usememos.yammer.jp/memos/7FCixc7EffG7nSfjH2bVsr</guid>
+      <pubDate>Fri, 18 Sep 2026 01:05:25 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>ADRってやつも粗製濫造したら無限の言葉の置き場になって意味がなくなるとも思う。結局のところ動くコードが正解というのは一周回って変わらない。</title>
       <link>https://usememos.yammer.jp/memos/FEvUvtAB3bU7bZ3YizvYZG</link>
       <description>ADRってやつも粗製濫造したら無限の言葉の置き場になって意味がなくなるとも思う。結局のところ動くコードが正解というのは一周回って変わらない。</description>
@@ -1072,14 +1080,6 @@ https://note.com/mryy/n/n78d9ac66059e</description>
       <description>バナナを公園に持ってきたはいいが、皮を持ち帰る方法に困る。</description>
       <guid>https://usememos.yammer.jp/memos/ev6zuqFeYFt77JKNdBeF6W</guid>
       <pubDate>Thu, 14 May 2026 08:29:23 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>若干風邪気味？</title>
-      <link>https://usememos.yammer.jp/memos/8YavZpbbCp7XAgds7YcJAw</link>
-      <description>若干風邪気味？</description>
-      <guid>https://usememos.yammer.jp/memos/8YavZpbbCp7XAgds7YcJAw</guid>
-      <pubDate>Thu, 14 May 2026 08:24:50 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>

@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/7FCixc7EffG7nSfjH2bVsr",
+      "url": "https://usememos.yammer.jp/memos/7FCixc7EffG7nSfjH2bVsr",
+      "content_text": "AIってやつのおかげで、TerraformとKubernetesマニフェストを書く機会が増えた気がする",
+      "date_published": "2026-09-18T01:05:25.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/FEvUvtAB3bU7bZ3YizvYZG",
       "url": "https://usememos.yammer.jp/memos/FEvUvtAB3bU7bZ3YizvYZG",
       "content_text": "ADRってやつも粗製濫造したら無限の言葉の置き場になって意味がなくなるとも思う。結局のところ動くコードが正解というのは一周回って変わらない。",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/ev6zuqFeYFt77JKNdBeF6W",
       "content_text": "バナナを公園に持ってきたはいいが、皮を持ち帰る方法に困る。",
       "date_published": "2026-05-14T08:29:23.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/8YavZpbbCp7XAgds7YcJAw",
-      "url": "https://usememos.yammer.jp/memos/8YavZpbbCp7XAgds7YcJAw",
-      "content_text": "若干風邪気味？",
-      "date_published": "2026-05-14T08:24:50.000Z"
     }
   ]
 }
