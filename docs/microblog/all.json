@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/TQXsABdmNerS4XnyPJHvMR",
+      "url": "https://usememos.yammer.jp/memos/TQXsABdmNerS4XnyPJHvMR",
+      "content_text": "jevでて二日、これでもおそいというのは、世の中ほんとうにはやい",
+      "date_published": "2026-09-18T14:46:27.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/7FCixc7EffG7nSfjH2bVsr",
       "url": "https://usememos.yammer.jp/memos/7FCixc7EffG7nSfjH2bVsr",
       "content_text": "AIってやつのおかげで、TerraformとKubernetesマニフェストを書く機会が増えた気がする",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/H5SarYqtmhgH99H9vk6WTT",
       "content_text": "純朴さんの https://listen.style/p/juneboku-life/jf8aatgb をきいて、ほんとうのことを書く練習 https://www.diamond.co.jp/book/9784478123867.html が気になった",
       "date_published": "2026-05-14T10:59:21.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/ev6zuqFeYFt77JKNdBeF6W",
-      "url": "https://usememos.yammer.jp/memos/ev6zuqFeYFt77JKNdBeF6W",
-      "content_text": "バナナを公園に持ってきたはいいが、皮を持ち帰る方法に困る。",
-      "date_published": "2026-05-14T08:29:23.000Z"
     }
   ]
 }
