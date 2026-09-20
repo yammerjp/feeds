@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/UzQ8DgvASDFaS8vVe64paQ",
+      "url": "https://usememos.yammer.jp/memos/UzQ8DgvASDFaS8vVe64paQ",
+      "content_text": "駐車場が埋まりすぎて無理！！",
+      "date_published": "2026-09-19T05:38:45.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/TQXsABdmNerS4XnyPJHvMR",
       "url": "https://usememos.yammer.jp/memos/TQXsABdmNerS4XnyPJHvMR",
       "content_text": "jevでて二日、これでもおそいというのは、世の中ほんとうにはやい",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/m8Rj7xUHitwErsxUAVa6Qk",
       "content_text": "pi-coding-agent+kimi 2.6、自律性が割とあるので流しておいたら2時間半ぐらいでOpenCode Goの5時間リミットを使い切ってしまう",
       "date_published": "2026-05-14T11:26:28.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/H5SarYqtmhgH99H9vk6WTT",
-      "url": "https://usememos.yammer.jp/memos/H5SarYqtmhgH99H9vk6WTT",
-      "content_text": "純朴さんの https://listen.style/p/juneboku-life/jf8aatgb をきいて、ほんとうのことを書く練習 https://www.diamond.co.jp/book/9784478123867.html が気になった",
-      "date_published": "2026-05-14T10:59:21.000Z"
     }
   ]
 }
