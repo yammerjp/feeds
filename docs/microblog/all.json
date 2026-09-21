@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/JypwUUWFp25v2Bq7JfNy7R",
+      "url": "https://usememos.yammer.jp/memos/JypwUUWFp25v2Bq7JfNy7R",
+      "content_text": "半導体値上がりしすぎて、買うのを日和ってしまう。ふいに手に入れた16GBのデスクトップマシンに増設するメモリ、いまさら8GB DDR4を2枚。",
+      "date_published": "2026-09-20T12:31:26.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/UzQ8DgvASDFaS8vVe64paQ",
       "url": "https://usememos.yammer.jp/memos/UzQ8DgvASDFaS8vVe64paQ",
       "content_text": "駐車場が埋まりすぎて無理！！",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/MsUbrgksv3mWPXegpKuhPM",
       "content_text": "OpenCode Go、契約から24時間経たずに週間利用制限になってしまった",
       "date_published": "2026-05-14T23:24:17.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/m8Rj7xUHitwErsxUAVa6Qk",
-      "url": "https://usememos.yammer.jp/memos/m8Rj7xUHitwErsxUAVa6Qk",
-      "content_text": "pi-coding-agent+kimi 2.6、自律性が割とあるので流しておいたら2時間半ぐらいでOpenCode Goの5時間リミットを使い切ってしまう",
-      "date_published": "2026-05-14T11:26:28.000Z"
     }
   ]
 }
