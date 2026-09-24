@@ -5,6 +5,20 @@
   "feed_url": "https://yammerjp.github.io/feeds/podcast/feed.json",
   "items": [
     {
+      "id": "7badb16e-bfdb-4746-ad52-ea40f6811674",
+      "url": "https://listen.style/p/yammer/home-center-walk-2026-09-22",
+      "title": "2026-09-22 ホームセンター散歩",
+      "content_text": "iPhone純正マイクで運転中に録るのはノイズが多く、マイクが欲しくなってきました LISTENで開く",
+      "date_published": "2026-09-23T10:43:00.000Z"
+    },
+    {
+      "id": "c3d4f303-daa0-46f7-b2d0-68b2a3515f25",
+      "url": "https://listen.style/p/yammer/tomei-expressway-only-at-midnight-2026-09-21",
+      "title": "2026-09-21 東名高速は深夜に限る",
+      "content_text": "2026-09-21 東名高速は深夜に限る LISTENで開く",
+      "date_published": "2026-09-23T10:42:24.000Z"
+    },
+    {
       "id": "acde2c73-d114-4f47-bd16-c0de1cf5fe9d",
       "url": "https://listen.style/p/yammer/sy7fwzq2",
       "title": "徒歩で山手線一周",
