@@ -5,6 +5,17 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>1年くらい前に仕事でrails newしてたときはけっこうコードを読み書きしていたが、今日趣味のrails newしてみるとけっこうびっくり。今はもう新しい小さい細かい縛りのないアプリを書くのは廃業だ</title>
+      <link>https://usememos.yammer.jp/memos/BPjMQ5dNKwM2u2jPSz4D5y</link>
+      <description>1年くらい前に仕事でrails newしてたときはけっこうコードを読み書きしていたが、今日趣味のrails newしてみるとけっこうびっくり。今はもう新しい小さい細かい縛りのないアプリを書くのは廃業だな、Fat Controllerになることもなく普通に(いい意味で)無難なコードをそれなりにちゃんと出して作ってくれる。
+(下手に廃業などと言ってしまうのはよくないが、単にプロトタイピングするということについてのドライバーの席は、バックエンドの機能を含む場合でもほんとうにあけわたされた)
+下手に人間が手出しするよりもいいんじゃないかってぐらい。もちろん細かい要件があってそれに合わせて詰めてくみたいなのはあると思うんだけど、そういうタイプのものじゃなければ本当に驚くぐらいちゃんと書いてくれる。
+なんかショックを受けた。最近でもAIに書かせたコードはファットコントローラのよくある感じになってしばいてなんとかなるというイメージだったけど、それは人間が中途半端に介在しているからそうなるだけだったっぽい。</description>
+      <guid>https://usememos.yammer.jp/memos/BPjMQ5dNKwM2u2jPSz4D5y</guid>
+      <pubDate>Thu, 24 Sep 2026 23:22:15 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>家のVPNをロリポップ！ゼロトラストリンクにきりかえた</title>
       <link>https://usememos.yammer.jp/memos/SHWoxaP76edZUj37jAHmxP</link>
       <description>家のVPNをロリポップ！ゼロトラストリンクにきりかえた</description>
@@ -1067,14 +1078,6 @@ https://note.com/mryy/n/n78d9ac66059e</description>
       <description>この時間の社のエレベータ、たくさんの人が整然と吸い込まれていく感じ、独特の世界観がある</description>
       <guid>https://usememos.yammer.jp/memos/hTbmYtse7b59x4mCEM3zyN</guid>
       <pubDate>Wed, 20 May 2026 00:57:07 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>体調悪めだったので長く寝たが、睡眠時間が足りていても目覚めがいいわけじゃないので、目覚め改善はなんか別のアクションがいるな</title>
-      <link>https://usememos.yammer.jp/memos/BFrhpXEtbBnGwhkTpfcopk</link>
-      <description>体調悪めだったので長く寝たが、睡眠時間が足りていても目覚めがいいわけじゃないので、目覚め改善はなんか別のアクションがいるな</description>
-      <guid>https://usememos.yammer.jp/memos/BFrhpXEtbBnGwhkTpfcopk</guid>
-      <pubDate>Mon, 18 May 2026 23:56:50 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>

@@ -5,6 +5,13 @@
   "feed_url": "https://yammerjp.github.io/feeds/notes/all.json",
   "items": [
     {
+      "id": "https://scrapbox.io/yammer/%E7%A8%9F%E8%AD%B0",
+      "url": "https://scrapbox.io/yammer/%E7%A8%9F%E8%AD%B0",
+      "title": "稟議",
+      "content_text": "稟議って何のためにあって、何を書けばいいのか、社会人になりたての頃はわかっていなかったなと思うので、それを書いておきたい",
+      "date_published": "2026-09-24T16:14:02.000Z"
+    },
+    {
       "id": "https://scrapbox.io/yammer/%E6%9C%80%E5%BE%8C%E3%81%AE%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89",
       "url": "https://scrapbox.io/yammer/%E6%9C%80%E5%BE%8C%E3%81%AE%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89",
       "title": "最後のスライド",
@@ -206,13 +213,6 @@
       "title": "即答のレベルを上げる",
       "content_text": "仕事は無限にあるので、そのそれぞれで即答するレベルをあげていかないといけない。いちいち悩んでいると、次の話がきてひたすら積み重なるのでスタックしちゃうね。",
       "date_published": "2024-12-04T07:33:59.000Z"
-    },
-    {
-      "id": "https://scrapbox.io/yammer/%E7%8A%B6%E6%B3%81%E3%82%84%E3%81%95%E3%82%93",
-      "url": "https://scrapbox.io/yammer/%E7%8A%B6%E6%B3%81%E3%82%84%E3%81%95%E3%82%93",
-      "title": "状況やさん",
-      "content_text": "「状況はどうですか？」",
-      "date_published": "2024-12-03T10:57:11.000Z"
     }
   ]
 }
