@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/5ei2jvEgoJn5jTKXSz889U",
+      "url": "https://usememos.yammer.jp/memos/5ei2jvEgoJn5jTKXSz889U",
+      "content_text": "ひさびさにメインストリームの仕事が本体のアプリのコードを書くという日を過ごした。\nfableにレビューさせたら、ユニットテストが通っていれば動作確認が問題ないぐらいのコードを出してくれてありがたい。ただ、コードを書くのがメインの仕事になると、待ち時間がだるいということがわかった。並列にやるけど、フロー効率が上がらなくてモヤモヤする。",
+      "date_published": "2026-09-25T13:36:05.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/BPjMQ5dNKwM2u2jPSz4D5y",
       "url": "https://usememos.yammer.jp/memos/BPjMQ5dNKwM2u2jPSz4D5y",
       "content_text": "1年くらい前に仕事でrails newしてたときはけっこうコードを読み書きしていたが、今日趣味のrails newしてみるとけっこうびっくり。今はもう新しい小さい細かい縛りのないアプリを書くのは廃業だな、Fat Controllerになることもなく普通に(いい意味で)無難なコードをそれなりにちゃんと出して作ってくれる。\n(下手に廃業などと言ってしまうのはよくないが、単にプロトタイピングするということについてのドライバーの席は、バックエンドの機能を含む場合でもほんとうにあけわたされた)\n下手に人間が手出しするよりもいいんじゃないかってぐらい。もちろん細かい要件があってそれに合わせて詰めてくみたいなのはあると思うんだけど、そういうタイプのものじゃなければ本当に驚くぐらいちゃんと書いてくれる。\nなんかショックを受けた。最近でもAIに書かせたコードはファットコントローラのよくある感じになってしばいてなんとかなるというイメージだったけど、それは人間が中途半端に介在しているからそうなるだけだったっぽい。",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/kUeXSvSkcVQbMrfao67nsZ",
       "content_text": "食堂にゆで卵がある時間、ずっとつかめない",
       "date_published": "2026-05-21T01:12:37.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/hTbmYtse7b59x4mCEM3zyN",
-      "url": "https://usememos.yammer.jp/memos/hTbmYtse7b59x4mCEM3zyN",
-      "content_text": "この時間の社のエレベータ、たくさんの人が整然と吸い込まれていく感じ、独特の世界観がある",
-      "date_published": "2026-05-20T00:57:07.000Z"
     }
   ]
 }

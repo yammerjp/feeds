@@ -5,17 +5,24 @@
   "feed_url": "https://yammerjp.github.io/feeds/podcast/feed.json",
   "items": [
     {
+      "id": "e5e80432-afc4-43db-a525-881394df91d4",
+      "url": "https://listen.style/p/yammer/to-a-world-without-noise",
+      "title": "2026/09/25 雑音のない世界へ",
+      "content_text": "フロー効率は心地よさを産んでいたのか！ LISTENで開く",
+      "date_published": "2026-09-25T14:29:41.000Z"
+    },
+    {
       "id": "7badb16e-bfdb-4746-ad52-ea40f6811674",
       "url": "https://listen.style/p/yammer/home-center-walk-2026-09-22",
-      "title": "2026-09-22 ホームセンター散歩",
+      "title": "2026/09/22 ホームセンター散歩",
       "content_text": "iPhone純正マイクで運転中に録るのはノイズが多く、マイクが欲しくなってきました LISTENで開く",
       "date_published": "2026-09-23T10:43:00.000Z"
     },
     {
       "id": "c3d4f303-daa0-46f7-b2d0-68b2a3515f25",
       "url": "https://listen.style/p/yammer/tomei-expressway-only-at-midnight-2026-09-21",
-      "title": "2026-09-21 東名高速は深夜に限る",
-      "content_text": "2026-09-21 東名高速は深夜に限る LISTENで開く",
+      "title": "2026/09/21 東名高速は深夜に限る",
+      "content_text": "2026/09/21 東名高速は深夜に限る LISTENで開く",
       "date_published": "2026-09-23T10:42:24.000Z"
     },
     {
@@ -28,7 +35,7 @@
     {
       "id": "d22922e4-df58-4e8e-ab7f-52823ddaaa40",
       "url": "https://listen.style/p/yammer/adctnjjj",
-      "title": "2026-02-28 ひさびさホビープロジェクト",
+      "title": "2026/02/28 ひさびさホビープロジェクト",
       "content_text": "半年眠っていた下書き、なかでAIの話をしているので、もうタイムカプセル感出てきてしまっているのですが、それも込みで記録ということで、ひとつよろしくおねがいします LISTENで開く",
       "date_published": "2026-02-28T10:43:10.000Z"
     },
@@ -56,7 +63,7 @@
     {
       "id": "01k8zfw3cs3nrdxc3kx0dypg7a",
       "url": "https://listen.style/p/yammer/xju5bz7w",
-      "title": "2025-11-01 冬山準備万端",
+      "title": "2025/11/01 冬山準備万端",
       "content_text": "今年こそはスタッドレス LISTENで開く",
       "date_published": "2025-11-01T10:37:08.000Z"
     },
@@ -70,14 +77,14 @@
     {
       "id": "01k8k433rm4mw3b2qze925k7fr",
       "url": "https://listen.style/p/yammer/1alyegwx",
-      "title": "2025-10-27 飛行機前のドタバタはなぜ",
+      "title": "2025/10/27 飛行機前のドタバタはなぜ",
       "content_text": "旅行中はとるタイミングがなく平常運転に戻ったということで LISTENで開く",
       "date_published": "2025-10-27T15:20:21.000Z"
     },
     {
       "id": "01k86a0avd5zbc4ab8setnnws7",
       "url": "https://listen.style/p/yammer/hdwpluwf",
-      "title": "2025-10-22 ハードルを下げに下げる",
+      "title": "2025/10/22 ハードルを下げに下げる",
       "content_text": "三日目なので、三日坊主を脱したと言っていいのではないでしょうか！ LISTENで開く",
       "date_published": "2025-10-22T15:53:00.000Z"
     },
@@ -91,42 +98,42 @@
     {
       "id": "01k80pjs79z2z2hynpqv8c1k8b",
       "url": "https://listen.style/p/yammer/z1mdrf65",
-      "title": "2025-10-20 野菜炒め",
+      "title": "2025/10/20 野菜炒め",
       "content_text": "1分ぐらいで終わりにするという新しい試み LISTENで開く",
       "date_published": "2025-10-20T11:37:55.000Z"
     },
     {
       "id": "01jfjjf9mmmxz2mvydsweq5rn7",
       "url": "https://listen.style/p/yammer/caddkcy0",
-      "title": "2024-10-01 終わらせられることはすぐに終わらせる",
+      "title": "2024/10/01 終わらせられることはすぐに終わらせる",
       "content_text": "事業部CTOになったときに考えていたことがこれだったのね (あとから視点 LISTENで開く",
       "date_published": "2024-12-21T10:55:23.000Z"
     },
     {
       "id": "01jfjfwq0stm19rbn5faqzksvt",
       "url": "https://listen.style/p/yammer/cf2uujno",
-      "title": "2024-09-14 ポイントを貯めよう",
+      "title": "2024/09/14 ポイントを貯めよう",
       "content_text": "それからガソリンスタンドのポイントは貯められるようになったけど、コンビニは貯められていません。&nbsp;淡水は結局ノーウェイトで潜れました。おもろかったけど、寒かったかな。 LISTENで開く",
       "date_published": "2024-12-20T17:10:31.000Z"
     },
     {
       "id": "01jfjf802mydfq9fqvrvdnva3a",
       "url": "https://listen.style/p/yammer/gnqtfwph",
-      "title": "2024-09-11 the first 今年初のダイビング",
+      "title": "2024/09/11 the first 今年初のダイビング",
       "content_text": "今年はあんまり潜ってないかも。また来年！ LISTENで開く",
       "date_published": "2024-12-20T16:54:05.000Z"
     },
     {
       "id": "01jfjed1w5zmh3p6h9s81wypk2",
       "url": "https://listen.style/p/yammer/ukovrxbb",
-      "title": "2024-09-08 V8 Isolateのワーカーをつくる",
+      "title": "2024/09/08 V8 Isolateのワーカーをつくる",
       "content_text": "動くものを作るのは大事。最近も今年新卒入社したパートナーに急かされて別のスパイクをやっているので、またどこかで話したい。 LISTENで開く",
       "date_published": "2024-12-20T16:42:50.000Z"
     },
     {
       "id": "01jfje3vzdcsz63fq49b9sbrhf",
       "url": "https://listen.style/p/yammer/bzepnt6z",
-      "title": "2024-08-24 健康のために泳いでいる話",
+      "title": "2024/08/24 健康のために泳いでいる話",
       "content_text": "4ヶ月前の話で、最近泳げていないや！ LISTENで開く",
       "date_published": "2024-12-20T16:26:53.000Z"
     },

@@ -5,6 +5,16 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>ひさびさにメインストリームの仕事が本体のアプリのコードを書くという日を過ごした。
+fableにレビューさせたら、ユニットテストが通っていれば動作確認が問題ないぐらいのコードを出してくれてありがたい。た</title>
+      <link>https://usememos.yammer.jp/memos/5ei2jvEgoJn5jTKXSz889U</link>
+      <description>ひさびさにメインストリームの仕事が本体のアプリのコードを書くという日を過ごした。
+fableにレビューさせたら、ユニットテストが通っていれば動作確認が問題ないぐらいのコードを出してくれてありがたい。ただ、コードを書くのがメインの仕事になると、待ち時間がだるいということがわかった。並列にやるけど、フロー効率が上がらなくてモヤモヤする。</description>
+      <guid>https://usememos.yammer.jp/memos/5ei2jvEgoJn5jTKXSz889U</guid>
+      <pubDate>Fri, 25 Sep 2026 13:36:05 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>1年くらい前に仕事でrails newしてたときはけっこうコードを読み書きしていたが、今日趣味のrails newしてみるとけっこうびっくり。今はもう新しい小さい細かい縛りのないアプリを書くのは廃業だ</title>
       <link>https://usememos.yammer.jp/memos/BPjMQ5dNKwM2u2jPSz4D5y</link>
       <description>1年くらい前に仕事でrails newしてたときはけっこうコードを読み書きしていたが、今日趣味のrails newしてみるとけっこうびっくり。今はもう新しい小さい細かい縛りのないアプリを書くのは廃業だな、Fat Controllerになることもなく普通に(いい意味で)無難なコードをそれなりにちゃんと出して作ってくれる。
@@ -1070,14 +1080,6 @@ https://note.com/mryy/n/n78d9ac66059e</description>
       <description>食堂にゆで卵がある時間、ずっとつかめない</description>
       <guid>https://usememos.yammer.jp/memos/kUeXSvSkcVQbMrfao67nsZ</guid>
       <pubDate>Thu, 21 May 2026 01:12:37 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>この時間の社のエレベータ、たくさんの人が整然と吸い込まれていく感じ、独特の世界観がある</title>
-      <link>https://usememos.yammer.jp/memos/hTbmYtse7b59x4mCEM3zyN</link>
-      <description>この時間の社のエレベータ、たくさんの人が整然と吸い込まれていく感じ、独特の世界観がある</description>
-      <guid>https://usememos.yammer.jp/memos/hTbmYtse7b59x4mCEM3zyN</guid>
-      <pubDate>Wed, 20 May 2026 00:57:07 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>
