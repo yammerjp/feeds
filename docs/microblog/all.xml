@@ -5,6 +5,30 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>ひさかたぶりにスマートホーム熱が再燃してきたのだが、スマートメーター用のWi-SUNモジュールってけっこう高いのな。昔安いイメージがあったのは謎デバイスが流通していただけぽい</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mwk6t2gm3c2d</link>
+      <description>ひさかたぶりにスマートホーム熱が再燃してきたのだが、スマートメーター用のWi-SUNモジュールってけっこう高いのな。昔安いイメージがあったのは謎デバイスが流通していただけぽい</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mwk6t2gm3c2d</guid>
+      <pubDate>Mon, 28 Sep 2026 01:43:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
+      <title>iOSショートカットを便利に使いこなしたいと思ってはやn年</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mwk57ndgzk2t</link>
+      <description>iOSショートカットを便利に使いこなしたいと思ってはやn年</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mwk57ndgzk2t</guid>
+      <pubDate>Mon, 28 Sep 2026 01:14:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
+      <title>車用のGPS/OBD2センサーの繋ぎ込みもおわってないのに、スマートロックと、スマートホームようにM5Stack Nano C6、そしてStackChanまで買ってしまった</title>
+      <link>https://usememos.yammer.jp/memos/F4QnuYMrSKLBXyyBiYWcKP</link>
+      <description>車用のGPS/OBD2センサーの繋ぎ込みもおわってないのに、スマートロックと、スマートホームようにM5Stack Nano C6、そしてStackChanまで買ってしまった</description>
+      <guid>https://usememos.yammer.jp/memos/F4QnuYMrSKLBXyyBiYWcKP</guid>
+      <pubDate>Sun, 27 Sep 2026 14:11:45 GMT</pubDate>
+      <source>memos</source>
+    </item>
+    <item>
       <title>ひさびさにメインストリームの仕事が本体のアプリのコードを書くという日を過ごした。
 fableにレビューさせたら、ユニットテストが通っていれば動作確認が問題ないぐらいのコードを出してくれてありがたい。た</title>
       <link>https://usememos.yammer.jp/memos/5ei2jvEgoJn5jTKXSz889U</link>
@@ -1050,36 +1074,12 @@ https://note.com/mryy/n/n78d9ac66059e</description>
       <source>memos</source>
     </item>
     <item>
-      <title>スライスチーズをセットで買うと800円を超えちゃうから、1,2枚ぐらいで売って欲しい。</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mmons7ewtk2d</link>
-      <description>スライスチーズをセットで買うと800円を超えちゃうから、1,2枚ぐらいで売って欲しい。</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mmons7ewtk2d</guid>
-      <pubDate>Mon, 25 May 2026 14:10:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
-      <title>熱すぎるだけといいつつチーズを入れるのはなぜ？</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mmonrkz7ek2d</link>
-      <description>熱すぎるだけといいつつチーズを入れるのはなぜ？</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mmonrkz7ek2d</guid>
-      <pubDate>Mon, 25 May 2026 14:09:00 GMT</pubDate>
-      <source>bluesky</source>
-    </item>
-    <item>
       <title>金曜日に掃除ロボットの話題を振られたので「掃除を強制されることで床に物を置かなくなるのがいい」と力説したのに当の私の家は物だらけで長らく走らせていなかったので、日曜夜に重い腰をあげて片付けた、というか</title>
       <link>https://usememos.yammer.jp/memos/f8zjS5UHmXXc2CNV9Dt7Ne</link>
       <description>金曜日に掃除ロボットの話題を振られたので「掃除を強制されることで床に物を置かなくなるのがいい」と力説したのに当の私の家は物だらけで長らく走らせていなかったので、日曜夜に重い腰をあげて片付けた、というか物を移動した。
 サイクルキャリアデカすぎ問題はベランダに置くことで解決した。ベランダ、偉大。水道がついてたらもっと最高なんだけどな</description>
       <guid>https://usememos.yammer.jp/memos/f8zjS5UHmXXc2CNV9Dt7Ne</guid>
       <pubDate>Sun, 24 May 2026 23:18:56 GMT</pubDate>
-      <source>memos</source>
-    </item>
-    <item>
-      <title>食堂にゆで卵がある時間、ずっとつかめない</title>
-      <link>https://usememos.yammer.jp/memos/kUeXSvSkcVQbMrfao67nsZ</link>
-      <description>食堂にゆで卵がある時間、ずっとつかめない</description>
-      <guid>https://usememos.yammer.jp/memos/kUeXSvSkcVQbMrfao67nsZ</guid>
-      <pubDate>Thu, 21 May 2026 01:12:37 GMT</pubDate>
       <source>memos</source>
     </item>
   </channel>

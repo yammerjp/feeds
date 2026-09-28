@@ -5,6 +5,24 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mwk6t2gm3c2d",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mwk6t2gm3c2d",
+      "content_text": "ひさかたぶりにスマートホーム熱が再燃してきたのだが、スマートメーター用のWi-SUNモジュールってけっこう高いのな。昔安いイメージがあったのは謎デバイスが流通していただけぽい",
+      "date_published": "2026-09-28T01:43:00.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mwk57ndgzk2t",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mwk57ndgzk2t",
+      "content_text": "iOSショートカットを便利に使いこなしたいと思ってはやn年",
+      "date_published": "2026-09-28T01:14:00.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/F4QnuYMrSKLBXyyBiYWcKP",
+      "url": "https://usememos.yammer.jp/memos/F4QnuYMrSKLBXyyBiYWcKP",
+      "content_text": "車用のGPS/OBD2センサーの繋ぎ込みもおわってないのに、スマートロックと、スマートホームようにM5Stack Nano C6、そしてStackChanまで買ってしまった",
+      "date_published": "2026-09-27T14:11:45.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/5ei2jvEgoJn5jTKXSz889U",
       "url": "https://usememos.yammer.jp/memos/5ei2jvEgoJn5jTKXSz889U",
       "content_text": "ひさびさにメインストリームの仕事が本体のアプリのコードを書くという日を過ごした。\nfableにレビューさせたら、ユニットテストが通っていれば動作確認が問題ないぐらいのコードを出してくれてありがたい。ただ、コードを書くのがメインの仕事になると、待ち時間がだるいということがわかった。並列にやるけど、フロー効率が上がらなくてモヤモヤする。",
@@ -761,28 +779,10 @@
       "date_published": "2026-05-26T01:05:54.000Z"
     },
     {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mmons7ewtk2d",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mmons7ewtk2d",
-      "content_text": "スライスチーズをセットで買うと800円を超えちゃうから、1,2枚ぐらいで売って欲しい。",
-      "date_published": "2026-05-25T14:10:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mmonrkz7ek2d",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mmonrkz7ek2d",
-      "content_text": "熱すぎるだけといいつつチーズを入れるのはなぜ？",
-      "date_published": "2026-05-25T14:09:00.000Z"
-    },
-    {
       "id": "https://usememos.yammer.jp/memos/f8zjS5UHmXXc2CNV9Dt7Ne",
       "url": "https://usememos.yammer.jp/memos/f8zjS5UHmXXc2CNV9Dt7Ne",
       "content_text": "金曜日に掃除ロボットの話題を振られたので「掃除を強制されることで床に物を置かなくなるのがいい」と力説したのに当の私の家は物だらけで長らく走らせていなかったので、日曜夜に重い腰をあげて片付けた、というか物を移動した。\nサイクルキャリアデカすぎ問題はベランダに置くことで解決した。ベランダ、偉大。水道がついてたらもっと最高なんだけどな",
       "date_published": "2026-05-24T23:18:56.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/kUeXSvSkcVQbMrfao67nsZ",
-      "url": "https://usememos.yammer.jp/memos/kUeXSvSkcVQbMrfao67nsZ",
-      "content_text": "食堂にゆで卵がある時間、ずっとつかめない",
-      "date_published": "2026-05-21T01:12:37.000Z"
     }
   ]
 }
