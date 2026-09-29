@@ -5,6 +5,24 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mwll5xnoek2k",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mwll5xnoek2k",
+      "content_text": "お腹痛くなるってわかってるのに買ってしまうローソンのチゲ鍋うどん。整腸剤も買った",
+      "date_published": "2026-09-28T14:57:00.000Z"
+    },
+    {
+      "id": "https://usememos.yammer.jp/memos/8wpRePyfh3AGGKWxoFiA7H",
+      "url": "https://usememos.yammer.jp/memos/8wpRePyfh3AGGKWxoFiA7H",
+      "content_text": "たいへんだな、たいへんそう、免許証情報ついに国内でも無効な感じに\nhttps://www.park24.co.jp/news/2026/09/20260928-1.html",
+      "date_published": "2026-09-28T14:17:24.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mwlirlq76c2m",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mwlirlq76c2m",
+      "content_text": "紙で本を読みたい期、電子で買いたい期、何も読まない期をぐるぐるしているが、今は全部裁断して電子化したい期。裁断集荷電子化サービスをながめている。",
+      "date_published": "2026-09-28T14:14:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mwk6t2gm3c2d",
       "url": "https://bsky.app/profile/yammer.jp/post/3mwk6t2gm3c2d",
       "content_text": "ひさかたぶりにスマートホーム熱が再燃してきたのだが、スマートメーター用のWi-SUNモジュールってけっこう高いのな。昔安いイメージがあったのは謎デバイスが流通していただけぽい",
@@ -701,12 +719,6 @@
       "date_published": "2026-06-02T00:16:52.000Z"
     },
     {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mnac6yxvx22x",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mnac6yxvx22x",
-      "content_text": "ひさフリ (ひさびさにフリスビー丼)",
-      "date_published": "2026-06-01T14:30:00.000Z"
-    },
-    {
       "id": "https://usememos.yammer.jp/memos/YJ5UEoX9TbYWehFm959ce9",
       "url": "https://usememos.yammer.jp/memos/YJ5UEoX9TbYWehFm959ce9",
       "content_text": "とても天気がいい。そんなに日当たりのいい家ではないが、それでも寝室に陽の光が結構差し込んで、目覚ましの前に起きた。といってもベッドから出るほど血圧が何かが上がるのにはぼちぼち時間がかかる。昨日は夜更かしもほどほどだったが、もっと早く寝てもよかったな。\n朝は妻と同じ時間に家を出て、会社の別ビルにある食堂に来た。眺めが良いのと気分転換にもなるので、適当なカフェでなくこちらに来るといいね。\n家のコードを触ろうと思ったが、自宅のmac miniがTailscaleに参加していないようなので諦めた。間違えてコンセントを抜いてしまったか。",
@@ -761,12 +773,6 @@
       "date_published": "2026-05-28T11:36:07.000Z"
     },
     {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mmtpc2hk5c23",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mmtpc2hk5c23",
-      "content_text": "たまにはラーメン屋に",
-      "date_published": "2026-05-27T14:20:00.000Z"
-    },
-    {
       "id": "https://usememos.yammer.jp/memos/5R7z6U7Qk8KZauJWUPbb6p",
       "url": "https://usememos.yammer.jp/memos/5R7z6U7Qk8KZauJWUPbb6p",
       "content_text": "今日は靴を間違えない",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/5kgvCWpXrmjrmUVkYDqjSf",
       "content_text": "cc-pocketが素晴らしすぎる便利さかも",
       "date_published": "2026-05-26T01:05:54.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/f8zjS5UHmXXc2CNV9Dt7Ne",
-      "url": "https://usememos.yammer.jp/memos/f8zjS5UHmXXc2CNV9Dt7Ne",
-      "content_text": "金曜日に掃除ロボットの話題を振られたので「掃除を強制されることで床に物を置かなくなるのがいい」と力説したのに当の私の家は物だらけで長らく走らせていなかったので、日曜夜に重い腰をあげて片付けた、というか物を移動した。\nサイクルキャリアデカすぎ問題はベランダに置くことで解決した。ベランダ、偉大。水道がついてたらもっと最高なんだけどな",
-      "date_published": "2026-05-24T23:18:56.000Z"
     }
   ]
 }
