@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "https://usememos.yammer.jp/memos/53MYfN4xxivjkuEbCw6PeT",
+      "url": "https://usememos.yammer.jp/memos/53MYfN4xxivjkuEbCw6PeT",
+      "content_text": "ラーメン屋のある駅を通ってしまったので、キメてしまった",
+      "date_published": "2026-09-30T16:07:05.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mwll5xnoek2k",
       "url": "https://bsky.app/profile/yammer.jp/post/3mwll5xnoek2k",
       "content_text": "お腹痛くなるってわかってるのに買ってしまうローソンのチゲ鍋うどん。整腸剤も買った",
@@ -777,12 +783,6 @@
       "url": "https://usememos.yammer.jp/memos/5R7z6U7Qk8KZauJWUPbb6p",
       "content_text": "今日は靴を間違えない",
       "date_published": "2026-05-26T01:06:05.000Z"
-    },
-    {
-      "id": "https://usememos.yammer.jp/memos/5kgvCWpXrmjrmUVkYDqjSf",
-      "url": "https://usememos.yammer.jp/memos/5kgvCWpXrmjrmUVkYDqjSf",
-      "content_text": "cc-pocketが素晴らしすぎる便利さかも",
-      "date_published": "2026-05-26T01:05:54.000Z"
     }
   ]
 }
