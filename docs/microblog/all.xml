@@ -5,6 +5,14 @@
     <link>https://yammer.jp</link>
     <description>Combined feed from Twitter, Bluesky, and Memos</description>
     <item>
+      <title>よふかし、、、！？</title>
+      <link>https://bsky.app/profile/yammer.jp/post/3mwwa5vqu3s2m</link>
+      <description>よふかし、、、！？</description>
+      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mwwa5vqu3s2m</guid>
+      <pubDate>Fri, 02 Oct 2026 20:39:00 GMT</pubDate>
+      <source>bluesky</source>
+    </item>
+    <item>
       <title>ラーメン屋のある駅を通ってしまったので、キメてしまった</title>
       <link>https://usememos.yammer.jp/memos/53MYfN4xxivjkuEbCw6PeT</link>
       <description>ラーメン屋のある駅を通ってしまったので、キメてしまった</description>
@@ -972,14 +980,6 @@ https://shonenjumpplus.com/episode/9253191254199645523</description>
       <guid>https://usememos.yammer.jp/memos/euvnFPTEkNSZi9THtdFwp5</guid>
       <pubDate>Wed, 03 Jun 2026 13:21:33 GMT</pubDate>
       <source>memos</source>
-    </item>
-    <item>
-      <title>家にある食料をあさる</title>
-      <link>https://bsky.app/profile/yammer.jp/post/3mnebm3gffs2j</link>
-      <description>家にある食料をあさる</description>
-      <guid>at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mnebm3gffs2j</guid>
-      <pubDate>Wed, 03 Jun 2026 04:30:00 GMT</pubDate>
-      <source>bluesky</source>
     </item>
     <item>
       <title>MoneytreeのChatGPT連携が出たそうなので試してみた。
