@@ -5,6 +5,18 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mx54oxrnpc2t",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mx54oxrnpc2t",
+      "content_text": "メルカリでWi-SUNドングルを買ったぞ！つぎはBルートの認証IDの取得",
+      "date_published": "2026-10-05T14:26:00.000Z"
+    },
+    {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mx545awjkk2t",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mx545awjkk2t",
+      "content_text": "たまには富士そばを積極的に選ぶときがあったっていい",
+      "date_published": "2026-10-05T14:16:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/DHtQGAyxGiTDGxDV5UVeDL",
       "url": "https://usememos.yammer.jp/memos/DHtQGAyxGiTDGxDV5UVeDL",
       "content_text": "諸事情でXのアプリを入れたら、時間が吸われに吸われてしまったのでやめ。",
@@ -681,18 +693,6 @@
       "url": "https://usememos.yammer.jp/memos/cDYDGGikUXUHHFLMeT8SxN",
       "content_text": "記憶で仕事しない\n同じサービスに5年ちかく携わっていると、あのサブシステムからあのサブシステムに通信するパターンはアレだな、とか、あの機能は⚪︎⚪︎がけっこう問題で、とか、そういうインフラやコードに関する細かい箇所への断片的な記憶があって、ふとしたタイミングにそれを引き出して雰囲気で結果だけみつけて仕事を片付けたり交通整理したりするという時が時々ある。\nそういうのを私の中では「記憶で仕事する」と読んでいて、こういうのに出会うたびに自戒の意味を込めて「記憶で仕事しない！」と心の中で呟いている。\n記憶で仕事するというのは、全く論理的ではなくたまたま変なインデックスに当たったから知っているというだけのもので、それで早く仕事が片付くという意味ではいいのだが、再現性の観点では全く価値のない行為だなと思う。また、コードを読んで直感的でないが直感的なように治せていないものの積み重ねなことも往々にしてあるので、申し訳ない気持ちと共にでてくるということもよくある。だからインデックスが記憶に張られているという側面もあるのだが。\n前提として、そういうのを減らして自然に想起できる構造になっているべきではあるが、なかなかそうも言ってられなくて今がある。諦めずにその理想には向かい続けるべきだが、全く別の観点としてAIエージェントにそういうのを教えるにはどうするといいのだろうか。わかりやすいやり方があるならもう他の人にもうまく共有できているはずなのだが。たとえばコードを読んで想像できないものはコメントに書けばいいけど、「ひとつだけこのシステムからこのシステムに通信している」みたいなやつは、ドキュメントに載せても逆にノイズだったりもするしなあ。",
       "date_published": "2026-06-11T01:23:41.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mnxt5nl34223",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mnxt5nl34223",
-      "content_text": "日記、iOSアプリを年始に自作してendgameだったはずが、また違うユースケースがあるというので、新しいものを求め始めた",
-      "date_published": "2026-06-10T23:05:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mnhsyeucas2s",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mnhsyeucas2s",
-      "content_text": "またフリ (またまたフリスビー丼)",
-      "date_published": "2026-06-04T14:19:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/memos/7txfw8EVbDdR4pbmi6b5Wv",
