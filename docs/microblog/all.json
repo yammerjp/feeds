@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mxb3fku6ik2f",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mxb3fku6ik2f",
+      "content_text": "Bルートサービスのパスワード、もうきた。2週間かかるときいてたけど早い。あとは書類とドングルがそれぞれ届けば",
+      "date_published": "2026-10-07T04:13:00.000Z"
+    },
+    {
       "id": "https://usememos.yammer.jp/memos/4QHotXAVZPjFYg6f7c6SmF",
       "url": "https://usememos.yammer.jp/memos/4QHotXAVZPjFYg6f7c6SmF",
       "content_text": "AIによるインパクトは、もう実は半分ぐらいきちゃったのかもしれない。パラダイムの変化はもう大体決まってしまっていて、ブレイクスルーによる量と質の変化はあれど、方向性はもうこう、以上、ということになるかどうか",
@@ -687,12 +693,6 @@
       "url": "https://usememos.yammer.jp/memos/EMETA6vRjXSdZYYTnLBojz",
       "content_text": "そういえば昨日は午後に頭痛がしたが、バファリン飲んで解決してしまった。症状を抑えるだけの薬なんて飲んでもと思っていたがいやはや素晴らしい。早く帰るつもりが結局オフィスまで残れてしまったし、結果的にはなんともなかったし。いつもこれでうまくいくとは限らないけどね。",
       "date_published": "2026-06-11T01:40:01.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mny2yt6iuk2o",
-      "url": "https://bsky.app/profile/yammer.jp/post/3mny2yt6iuk2o",
-      "content_text": "久々に違う方面の電車に乗るやつをやってしまった、AirPodsをしている時にやるときまっている。",
-      "date_published": "2026-06-11T01:25:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/memos/cDYDGGikUXUHHFLMeT8SxN",
