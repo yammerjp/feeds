@@ -5,6 +5,12 @@
   "feed_url": "https://yammerjp.github.io/feeds/microblog/all.json",
   "items": [
     {
+      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mxiafao3ak2h",
+      "url": "https://bsky.app/profile/yammer.jp/post/3mxiafao3ak2h",
+      "content_text": "中野駅の北口、あんまり綺麗じゃなくて輪行袋を広げるのに躊躇しちゃうことがわかった",
+      "date_published": "2026-10-10T00:31:00.000Z"
+    },
+    {
       "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3mxb3fku6ik2f",
       "url": "https://bsky.app/profile/yammer.jp/post/3mxb3fku6ik2f",
       "content_text": "Bルートサービスのパスワード、もうきた。2週間かかるときいてたけど早い。あとは書類とドングルがそれぞれ届けば",
@@ -669,12 +675,6 @@
       "url": "https://bsky.app/profile/yammer.jp/post/3mokrx7zapc2c",
       "content_text": "この時間のすき家は混みすぎて松屋",
       "date_published": "2026-06-18T12:04:00.000Z"
-    },
-    {
-      "id": "at://did:plc:uvki25soaekkxsm6iedmedym/app.bsky.feed.post/3moigo7zpzk2d",
-      "url": "https://bsky.app/profile/yammer.jp/post/3moigo7zpzk2d",
-      "content_text": "㊙️ Slackでアンダースコア一字だけをインラインコードで表示すると、🪫 (切れそうな充電マーク) にみえる",
-      "date_published": "2026-06-17T13:37:00.000Z"
     },
     {
       "id": "https://usememos.yammer.jp/memos/APoDQCALsNV2fZhz7W4sUi",

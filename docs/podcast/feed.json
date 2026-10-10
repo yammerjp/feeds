@@ -5,6 +5,20 @@
   "feed_url": "https://yammerjp.github.io/feeds/podcast/feed.json",
   "items": [
     {
+      "id": "5d0d1a96-9fdb-4742-947a-f6313ec98eb1",
+      "url": "https://listen.style/p/yammer/smart-home-2026",
+      "title": "2026/10/09 スマートホーム2026",
+      "content_text": "2026/10/09 スマートホーム2026 LISTENで開く",
+      "date_published": "2026-10-09T15:16:32.000Z"
+    },
+    {
+      "id": "146e09eb-1320-48d1-909f-ba18e1e400ac",
+      "url": "https://listen.style/p/yammer/why-passkeys-are-secure-2026",
+      "title": "2026/09/26 Passkeyはなぜ安全かときかれたら",
+      "content_text": "2026/09/26 Passkeyはなぜ安全かときかれたら LISTENで開く",
+      "date_published": "2026-10-09T15:15:33.000Z"
+    },
+    {
       "id": "e5e80432-afc4-43db-a525-881394df91d4",
       "url": "https://listen.style/p/yammer/to-a-world-without-noise",
       "title": "2026/09/25 雑音のない世界へ",
