@@ -5,6 +5,90 @@
   "feed_url": "https://yammerjp.github.io/feeds/activities/all.json",
   "items": [
     {
+      "id": "https://strava.com/activities/20526322090",
+      "url": "https://strava.com/activities/20526322090",
+      "title": "自転車部相模湖ライド",
+      "content_text": "Ride: Distance: 90.1km, Elevation Gain: 786m, Moving Time: 05:38:16, Average Speed: 16.0km/h",
+      "date_published": "2026-10-10T10:39:04+09:00"
+    },
+    {
+      "id": "https://strava.com/activities/20526319906",
+      "url": "https://strava.com/activities/20526319906",
+      "title": "夕方のランニング",
+      "content_text": "Run: Distance: 1.4km, Elevation Gain: 7m, Moving Time: 00:07:16, Pace: 5:07/km, Estimated Avg Power: 212.8 (from power meter), Weighted Avg Power: 206",
+      "date_published": "2026-09-26T18:45:43+09:00"
+    },
+    {
+      "id": "https://strava.com/activities/20526319949",
+      "url": "https://strava.com/activities/20526319949",
+      "title": "午後のランニング",
+      "content_text": "Run: Distance: 1.3km, Elevation Gain: 4m, Moving Time: 00:06:56, Pace: 5:18/km, Estimated Avg Power: 221.2 (from power meter), Weighted Avg Power: 216",
+      "date_published": "2026-09-26T17:55:57+09:00"
+    },
+    {
+      "id": "https://strava.com/activities/20526319823",
+      "url": "https://strava.com/activities/20526319823",
+      "title": "午後のランニング",
+      "content_text": "Run: Distance: 1.1km, Elevation Gain: 7m, Moving Time: 00:06:06, Pace: 5:35/km, Estimated Avg Power: 216.3 (from power meter), Weighted Avg Power: 211",
+      "date_published": "2026-09-26T16:26:59+09:00"
+    },
+    {
+      "id": "https://strava.com/activities/20526319877",
+      "url": "https://strava.com/activities/20526319877",
+      "title": "夜のローイング",
+      "content_text": "Rowing: Distance: 0.0km, Elevation Gain: 0m, Moving Time: 02:39:23, Average Speed: 0.0km/h",
+      "date_published": "2026-09-22T23:18:16+09:00"
+    },
+    {
+      "id": "https://strava.com/activities/20526319828",
+      "url": "https://strava.com/activities/20526319828",
+      "title": "夕方のローイング",
+      "content_text": "Rowing: Distance: 0.0km, Elevation Gain: 0m, Moving Time: 00:48:52, Average Speed: 0.0km/h",
+      "date_published": "2026-09-09T20:12:03+09:00"
+    },
+    {
+      "id": "https://strava.com/activities/20526319830",
+      "url": "https://strava.com/activities/20526319830",
+      "title": "午後のローイング",
+      "content_text": "Rowing: Distance: 0.0km, Elevation Gain: 0m, Moving Time: 01:08:58, Average Speed: 0.0km/h",
+      "date_published": "2026-09-08T15:47:32+09:00"
+    },
+    {
+      "id": "https://strava.com/activities/20526319611",
+      "url": "https://strava.com/activities/20526319611",
+      "title": "夕方のローイング",
+      "content_text": "Rowing: Distance: 0.0km, Elevation Gain: 0m, Moving Time: 00:06:01, Average Speed: 0.0km/h",
+      "date_published": "2026-09-01T18:43:22+09:00"
+    },
+    {
+      "id": "https://strava.com/activities/20526319921",
+      "url": "https://strava.com/activities/20526319921",
+      "title": "夕方のウォーキング",
+      "content_text": "Walk: Distance: 3.7km, Elevation Gain: 64m, Moving Time: 00:54:45, Average Speed: 4.0km/h",
+      "date_published": "2026-08-30T20:27:52+09:00"
+    },
+    {
+      "id": "https://strava.com/activities/20526319680",
+      "url": "https://strava.com/activities/20526319680",
+      "title": "ランチタイム ワークアウト",
+      "content_text": "Workout: Distance: 0.0km, Elevation Gain: 0m, Moving Time: 00:33:56, Average Speed: 0.0km/h",
+      "date_published": "2026-08-10T11:16:40+09:00"
+    },
+    {
+      "id": "https://strava.com/activities/20526319601",
+      "url": "https://strava.com/activities/20526319601",
+      "title": "朝のワークアウト",
+      "content_text": "Workout: Distance: 0.0km, Elevation Gain: 0m, Moving Time: 00:25:52, Average Speed: 0.0km/h",
+      "date_published": "2026-08-10T09:54:02+09:00"
+    },
+    {
+      "id": "https://strava.com/activities/20526319563",
+      "url": "https://strava.com/activities/20526319563",
+      "title": "夜のローイング",
+      "content_text": "Rowing: Distance: 0.0km, Elevation Gain: 0m, Moving Time: 00:16:14, Average Speed: 0.0km/h",
+      "date_published": "2026-07-19T22:54:33+09:00"
+    },
+    {
       "id": "https://strava.com/activities/19350575764",
       "url": "https://strava.com/activities/19350575764",
       "title": "夜のローイング",
